@@ -38,8 +38,9 @@
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/6.svg" class="image"/>
 
-<b>Формульно</b>: Тiло пройшло шлях 5 метрiв за 5 секунд $$\Rightarrow$$ </br> 
-\[ v = \dfrac{l}{t} = \dfrac{5}{5}=1 \]
+<b>Формульно</b>: Тiло пройшло шлях 5 метрiв за 5 секунд $$\Rightarrow$$ </br>
+
+\[ v=\dfrac{l}{t}=\dfrac{5}{5}=1 \]
 
 <b>Геометрично</b>: Прямокутний трикутник з катетами, величина кожного з яких = 5. З означення тангенса кута в прямокутному трикутнику: тангенс гострого кута - це вiдношення протилеглого катета $$(l)$$ до прилеглого $$t \thinspace \Rightarrow$$ </br> 
 \[ tg(\alpha)=\dfrac{l}{t} =1, \ \alpha = 45^\circ \]
