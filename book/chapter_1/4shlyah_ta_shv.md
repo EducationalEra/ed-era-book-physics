@@ -97,6 +97,6 @@ $$</br>
 А звiдси вже легко отримати швидкiсть:</br>
 <center>$$ v_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15\thinspace (\text{км/год}) $$</center>
 
-<center> v_2 = 2v_1 = 30 \thinspace (\text{км/год})$$</center>
+<center> $$v_2 = 2v_1 = 30 \thinspace (\text{км/год})$$</center>
 </div>
 </div>
