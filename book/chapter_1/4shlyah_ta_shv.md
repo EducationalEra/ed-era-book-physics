@@ -23,10 +23,5 @@ $$\vec{v}=\dfrac{\vec{S}}{t}$$ </br>
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/5.svg" class="image"/>
 
-<div class="caption">
-Рис.  дослiджується залежнiсть пройденого шляху вiд часу $$l(t)$$. При рiвномiрному прямолiнiйному русi
-{\color{EdErablue}
-\[
- \boxed{l = vt}
- \]}
-</div>
+На рисунку дослiджується залежнiсть пройденого шляху вiд часу $$$l(t)$$$. При рiвномiрному прямолiнiйному русi
+
