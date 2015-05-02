@@ -1,3 +1,0 @@
-# Summary
-
-* [Зміст](README.md)
