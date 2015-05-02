@@ -69,33 +69,34 @@
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/8.svg" class="image"/>
 
 <b><i>Розв'язок.</b></i> Нехай $$S_2$$ - вiдстань, яку пройшов Петро за пiв години. </br>
-$$\begin{equation}
+\[\begin{equation}
 	S_2 = v_1 t_1
 \end{equation}
-$$</br>
+\]
 Час руху скейтера на дiлянцi $$S - S_2: \ t=\dfrac{S-S_2}{v_1}$$.</br> Враховуючи (1):
-$$
+
+\[
 \begin{equation}
 t = \dfrac{S - v_1 t_1}{v_1}
 \end{equation}
-$$</br>
+\]
 
-Час руху велосипедиста:</br>
+Час руху велосипедиста:
 
-$$\begin{equation}
+\[\begin{equation}
 	t = \dfrac{S}{v_2}
 \end{equation}
-$$</br>
+\]
 
-З умови $v_2 = 2v_1$:</br>
-$$\begin{equation}
+З умови $v_2 = 2v_1$:
+\[\begin{equation}
 	t = \dfrac{S}{2v_1}
 \end{equation}
-$$</br>
+\]
 За умовою Микола наздогнав Петра бiля дому $\rightarrow$ можна прирiвняти час (2) i (4):</br>
-<center>$$ \dfrac{S-v_1 t_1}{v_1} = \dfrac{S}{2v_1} \Rightarrow S - v_1t_1 = \dfrac{S}{2}$$</center>
+\[ \dfrac{S-v_1 t_1}{v_1} = \dfrac{S}{2v_1} \Rightarrow S - v_1t_1 = \dfrac{S}{2}\]
 А звiдси вже легко отримати швидкiсть:</br>
-<center>$$ v_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15\thinspace (\text{км/год}) $$</center>
+\[v_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15\thinspace (\text{км/год}) \]
 
 \[v_2 = 2v_1 = 30 \thinspace (\text{км/год})\]
 </div>
