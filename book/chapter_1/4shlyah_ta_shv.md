@@ -54,5 +54,8 @@
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/7.svg" class="image"/>
 <div class="caption">
-    Графiк залежностi модуля швидкостi вiд часу $$v(t)$$ для трьох випадкiв:
+    Графiк залежностi модуля швидкостi вiд часу $$v(t)$$ для трьох випадкiв.
 </div>
+
+Швидкiсть при рiвномiрному прямолiнiйному русi не змiнюється з часом. Отже, це просто пряма лiнiя паралельна вiсi часу.
+
