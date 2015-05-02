@@ -355,3 +355,9 @@ p1 {
  font-weight: bold;
  color: #0F5180;
 }
+
+cap{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
