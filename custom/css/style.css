@@ -351,14 +351,17 @@ default – "White"
     font-size: 12pt;
 }
 
+.caption{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: justify;
+    font-style: italic;
+}
+
 p1 {
  font-weight: bold;
  color: #0F5180;
 }
 
-cap{
-    font-style: italic;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
+
