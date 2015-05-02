@@ -321,6 +321,7 @@ default – "White"
 /*---------------png,svg image----------------------*/
 .image {
     background: #FAFAFA;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
