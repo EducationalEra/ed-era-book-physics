@@ -347,3 +347,8 @@ default – "White"
     vertical-align:middle;
     font-size: 12pt;
 }
+
+p1 {
+ font-weight: bold;
+ color: #0F5180;
+}
