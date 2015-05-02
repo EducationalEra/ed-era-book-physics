@@ -26,7 +26,6 @@
 <div class="task-text">
 Усi ми бачили як дивно рухаються комахи, а вже вiдомий нам Петро присвятив цьому цiлi 10 секунд свого життя. Ще й замалював траєкторiю руху дослiджуваного мурахи $$(A \rightarrow B \rightarrow C \rightarrow D \rightarrow E \rightarrow F)$$. Допоможiть йому визначити довжину траєкторiї (шлях), перемiщення за час спостереження, якщо розмiр клiтинки у сiтцi, яку вiн використовував становить 1см x 1см.</br>
 
-<p> </p>
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/4.svg" class="image"/>
 
 
