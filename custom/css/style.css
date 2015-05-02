@@ -321,6 +321,8 @@ default – "White"
 /*---------------png,svg image----------------------*/
 .image {
     background: #FAFAFA;
+    vertical-align:middle;
+    text-align: center;
 }
 
 .book.color-theme-1 .image {
