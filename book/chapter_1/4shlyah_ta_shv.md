@@ -72,30 +72,31 @@
 $$\begin{equation}
 	S_2 = v_1 t_1
 \end{equation}
-$$
+$$</br>
 Час руху скейтера на дiлянцi $$S - S_2: \ t=\dfrac{S-S_2}{v_1}$$.</br> Враховуючи (1):
 $$
 \begin{equation}
 t = \dfrac{S - v_1 t_1}{v_1}
 \end{equation}
-$$
+$$</br>
 
 Час руху велосипедиста:</br>
 
 $$\begin{equation}
 	t = \dfrac{S}{v_2}
 \end{equation}
-$$
+$$</br>
 
 З умови $v_2 = 2v_1$:</br>
 $$\begin{equation}
 	t = \dfrac{S}{2v_1}
 \end{equation}
-$$
+$$</br>
 За умовою Микола наздогнав Петра бiля дому $\rightarrow$ можна прирiвняти час (2) i (4):</br>
 <center>$$ \dfrac{S-v_1 t_1}{v_1} = \dfrac{S}{2v_1} \Rightarrow S - v_1t_1 = \dfrac{S}{2}$$</center>
 А звiдси вже легко отримати швидкiсть:</br>
-<center>$$ v_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15 \thinspace (\text{км/год}) $$</center>
+<center>$$ v_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15\thinspace (\text{км/год}) $$</center>
+
 <center> v_2 = 2v_1 = 30 \thinspace (\text{км/год})$$</center>
 </div>
 </div>
