@@ -357,7 +357,7 @@ p1 {
 }
 
 cap{
-    display: block;
+    font-style: italic;
     margin-left: auto;
     margin-right: auto;
 }
