@@ -357,7 +357,8 @@ default – "White"
     margin-right: auto;
     vertical-align:middle;
     width: 70%;
-    font-size: 12pt;
+    padding-bottom: 25px;
+    font-size: 10pt;
     text-align: justify;
     font-style: italic;
 }
