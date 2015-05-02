@@ -20,3 +20,13 @@ $$\vec{v}=\dfrac{\vec{S}}{t}$$ </br>
 
 * Швидкість постіна - $$\vec{v} = const$$ (лат. <i>constanta</i> - постійна). Відповідно, прискорення - $$\vec{a} = 0$$.
 * Траєкторiя руху - пряма лiнiя $$\rightarrow$$ модуль перемiщення спiвпадає зi шляхом $$|\vec{S}| = l$$
+
+<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/5.svg" class="image"/>
+
+<div class="caption">
+Рис.  дослiджується залежнiсть пройденого шляху вiд часу $$l(t)$$. При рiвномiрному прямолiнiйному русi
+{\color{EdErablue}
+\[
+ \boxed{l = vt}
+ \]}
+</div>
