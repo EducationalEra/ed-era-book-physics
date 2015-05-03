@@ -10,3 +10,4 @@
         *  [Вiдноснiсть швидкостей та перемiщень](book/chapter_1/5vidnosnist.md)
         *  [Проекція вектора](book/chapter_1/6proektsiya_vektora.md)
         *  [Рівняння руху](book/chapter_1/7rivnyannya_ruhu.md)
+        *  [Проекцiя швидкостi та перемiщення](book/chapter_1/8proektsiya.md)
