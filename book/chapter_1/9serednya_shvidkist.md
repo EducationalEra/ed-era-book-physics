@@ -22,3 +22,11 @@
 </div>
 
 
+Тодi для даної задачi:
+
+
+* <b>Промiжки часу:</b> $$t_1 = 2 \thinspace c, \ t_2 = 3 \thinspace c, \ t_3 = 2 \thinspace c$$
+* <b>Промiжки шляху:</b> $$ l_1 = v_1 t_1, \ l_2 = v_2t_2, \ l_3 = v_3t_3$$
+\end{itemize}
+
+<p1>Середня швидкiсть:</p1> $$v_\text{сер} = \dfrac{l_1 +l_2+l_3}{t_1+t_2+t_3}= \dfrac{0\cdot2+ 2\cdot 3 + 3\cdot 2}{2+3+2}=\dfrac{12}{7}=1\dfrac{5}{7}$$
