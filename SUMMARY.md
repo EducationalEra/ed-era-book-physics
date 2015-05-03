@@ -9,3 +9,4 @@
         * [Шлях та швидкість](book/chapter_1/4shlyah_ta_shv.md)
         *  [Вiдноснiсть швидкостей та перемiщень](book/chapter_1/5vidnosnist.md)
         *  [Проекція вектора](book/chapter_1/6proektsiya_vektora.md)
+        *  [Рівняння руху](book/chapter_1/7rivnyannya_ruhu.md)
