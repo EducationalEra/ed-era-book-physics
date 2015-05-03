@@ -21,7 +21,7 @@
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/11.svg" class="image"/>
 
-В залежностi вiд кута $$\alpha$$ проекцiя може бути вiд’ємною, додатньою або дорiвнювати нулю (якщо вектор перпендикулярний вiсi).
+В залежностi вiд кута $$\alpha$$, проекцiя може бути вiд’ємною, додатньою або дорiвнювати нулю (якщо вектор перпендикулярний осі).
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/12.svg" class="image"/>
 
