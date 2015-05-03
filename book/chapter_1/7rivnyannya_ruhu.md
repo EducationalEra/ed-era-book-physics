@@ -22,3 +22,4 @@ $$v_x$$ - проекцiя швидкостi на вiсь $$x$$.
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/13.svg" class="image"/>
 
+
