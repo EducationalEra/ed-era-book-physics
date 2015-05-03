@@ -8,3 +8,17 @@
 
 \[v_{сер} \not= \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} \]
 
+<div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<b>Ceредня швидкiсть</b> 
+
+\[\vec{v}_\text{сер} = \dfrac{\vec{S}_\Sigma}{t_\Sigma} = \dfrac{\vec{S}_1 + \vec{S}_2 + ... + \vec{S}_n}{t_1+ t_2 + ... +t_n}\]
+
+<b>Ceредня шляхова швидкiсть</b> 
+
+\[v_\text{сер} = \dfrac{l_\Sigma}{t_\Sigma} = \dfrac{l_1 + l_2 + ... + l_n}{t_1+ t_2 + ... +t_n}\]
+</div>
+</div>
+
+
