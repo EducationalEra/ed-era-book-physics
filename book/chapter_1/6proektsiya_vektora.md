@@ -20,3 +20,4 @@
 \[ v_x= |\vec{v}|\cos(\alpha) \]
 </div>
 </div>
+
