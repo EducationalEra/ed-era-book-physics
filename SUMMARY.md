@@ -11,3 +11,4 @@
         *  [Проекція вектора](book/chapter_1/6proektsiya_vektora.md)
         *  [Рівняння руху](book/chapter_1/7rivnyannya_ruhu.md)
         *  [Проекцiя швидкостi та перемiщення](book/chapter_1/8proektsiya.md)
+        *  [Середня швидкість](book/chapter_1/9serednya_shvidkist.md)
