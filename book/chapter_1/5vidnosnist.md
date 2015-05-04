@@ -39,6 +39,6 @@
 			\[L = v_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thinspace \text{м}\]
 
 2. Через вiдомi модулi перемiщень (формула аналогiчна):
-	 		$$L = \sqrt{l^2 + d^2} = \sqrt{50^2 +37.5^2} = \sqrt{3906.25} = 62.5 \thinspace \text{м}$$
+	 		\[L = \sqrt{l^2 + d^2} = \sqrt{50^2 +37.5^2} = \sqrt{3906.25} = 62.5 \thinspace \text{м}\]
 </div>
 </div>
