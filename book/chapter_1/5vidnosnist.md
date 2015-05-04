@@ -37,7 +37,7 @@
  $$ \vec{v}_{п/з} = \vec{v}_{п/р} + \vec{v}_{р/з} \Rightarrow $$
  $$v_{п/з} = \sqrt{(\vec{v}_{п/р})^2 + (\vec{v}_{р/з})^2} = \sqrt{3^2 +4^2} = 5 \thinspace (м/с) $$ </br>
 
-$$ L = v_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thinspace \text{м}$$
+$$ L = v_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thinspace \text{м}$$</br>
 
 2. Через вiдомi модулi перемiщень (формула аналогiчна):
 
