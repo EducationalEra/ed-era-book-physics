@@ -21,6 +21,7 @@
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/10.svg" class="image"/>
 
 
-<b><i>Розв'язок</i></b>
+<b><i>Розв'язок.</i></b> Для початку знайдемо, скiльки часу витратив Петро.
+\[t=\dfrac{|\vec{S}_{\text{{\tiny П}/р}}|}{|\vec{v}_{\text{{\tiny П}/р}}|} = \dfrac{l}{v_{\text{{\tiny П}/з}}} = 0.05/4 = 0.0125 \thinspace (\text{год}) \]
 </div>
 </div>
