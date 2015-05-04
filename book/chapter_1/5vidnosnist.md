@@ -15,7 +15,7 @@
 <div class="task-text">
 Одного разу Петро вирiшив переплисти р. Десна. Вiн поплив перпендикулярно
 течiї рiчки та береговiй лiнiї. Петро хотiв потрапити в ту точку на березi, на яку взяв курс. Але, звичайно, його знесло течiєю. На яку вiдстань вiд очiкуваної точки знесло Петра та який шлях вiн подолав? Ширина рiчки в тiй областi, де вiн перепливав її, – 50 м. Швидкiсть течiї рiчки – 3 км/год. Зазвичай Петро плаває у басейнi зi швидкiстю 4 км/год.</br>
-<b>Дано:</b> $$v_{{\tiny П}/р} = 4 \thinspace \text{км/год}, \ v_{{\tiny П}/з} = 3 \thinspace \text{км/год}, \ l = 50 \thinspace \text{м} = 0.05 \thinspace \text{км}$$</br>
+<b>Дано:</b> $$v_{п/р} = 4 \thinspace \text{км/год}, \ v_{п/з} = 3 \thinspace \text{км/год}, \ l = 50 \thinspace \text{м} = 0.05 \thinspace \text{км}$$</br>
 <b>Знайти:</b> $$ d, \ L$$
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/10.svg" class="image"/>
