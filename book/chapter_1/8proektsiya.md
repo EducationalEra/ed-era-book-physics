@@ -4,7 +4,7 @@
 
 
 Наприклад, нам потрiбно вiднайти перемiщення тiла, яке воно здiйснило з другої по четверту секунду, рухаючись з $$v_x$$ = 2м/с. З формули отримуємо: 
-\[S_x = v_x (t_2 - t_1) = 2 \cdot(4-2) = 4 \thinspace \text{м}.\]
+$$S_x = v_x (t_2 - t_1) = 2 \cdot(4-2) = 4 \thinspace \text{м}.$$
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/15.svg" class="image"/>
 
