@@ -4,6 +4,7 @@
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/9.png" class="image"/>
 
+
 Для подiбних задач рекомендуємо вам використовувати такий вид позначень, як зображено вище. Тодi доволi складно заплутатися при вирiшеннi задач.
 
 <div class="task-wrap">
