@@ -34,14 +34,14 @@
 1. Знайти результуючу швидкiсть Петра i помножити на час $$t$$:</br>
 
 
- $$ \vec{v}_{п/з} = \vec{v}_{п/р} + \vec{v}_{р/з} \Rightarrow $$
+<center> $$ \vec{v}_{п/з} = \vec{v}_{п/р} + \vec{v}_{р/з} \Rightarrow $$
  $$v_{п/з} = \sqrt{(\vec{v}_{п/р})^2 + (\vec{v}_{р/з})^2} = \sqrt{3^2 +4^2} = 5 \thinspace (м/с) $$ </br>
 
-$$ L = v_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thinspace \text{м}$$</br>
+$$ L = v_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thinspace \text{м}$$</center></br>
 
 2. Через вiдомi модулi перемiщень (формула аналогiчна):
 
-$$L = \sqrt{l^2 + d^2} = \sqrt{50^2 +37.5^2} = \sqrt{3906.25} = 62.5 \thinspace \text{м}$$
+<center>$$L = \sqrt{l^2 + d^2} = \sqrt{50^2 +37.5^2} = \sqrt{3906.25} = 62.5 \thinspace \text{м}$$</center>
 
 
 </div>
