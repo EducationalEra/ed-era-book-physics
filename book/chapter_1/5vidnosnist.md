@@ -30,6 +30,11 @@
 \[ d = v_{\text{р/з}}t = 3 \cdot 0.0125 =0.0375 \thinspace \text{км} = 37.5 \thinspace \text{м}\]
 
 Шлях, який проплив Петро можна знайти двома способами:
-
+<ul>
+<li>Знайти результуючу швидкiсть Петра i помножити на час $$t$$.
+    \[\vec{v}_{\text{{\tiny П}/з}} = \vec{v}_{\text{{\tiny П}/р}} + \vec{v}_{\text{р/з}} \Rightarrow v_{\text{{\tiny П}/з}} = \sqrt{{{v}_{\text{{\tiny П}/р}}}^2 + {{v}_{\text{р/з}}}^2} = \sqrt{3^2 + 4^2} = 5 \thinspace (\text{м/с})\]
+			\[L = v_{\text{{\tiny П}/з}}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thinspace \text{м}\]
+</li>
+</ul>
 </div>
 </div>
