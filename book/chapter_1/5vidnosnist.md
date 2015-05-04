@@ -21,5 +21,6 @@
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/10.svg" class="image"/>
 
 
+<b><i>Розв'язок</i></b>
 </div>
 </div>
