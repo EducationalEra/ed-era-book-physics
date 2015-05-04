@@ -22,6 +22,6 @@
 
 
 <b><i>Розв'язок.</i></b> Для початку знайдемо, скiльки часу витратив Петро.
-\[t=\dfrac{|\vec{S}_{\text{{\tiny П}/р}}|}{|\vec{v}_{\text{{\tiny П}/р}}|} = \dfrac{l}{v_{\text{{\tiny П}/з}}} = 0.05/4 = 0.0125 \thinspace (\text{год}) \]
+\[t=\dfrac{|\vec{S}_{п/р}|}{|\vec{v}_{п/р}|} = \dfrac{l}{v_{п/з}} = 0.05/4 = 0.0125 \thinspace (\text{год}) \]
 </div>
 </div>
