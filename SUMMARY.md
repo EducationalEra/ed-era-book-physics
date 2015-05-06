@@ -13,4 +13,5 @@
        * [Проекцiя швидкостi та перемiщення](book/chapter_1/8proektsiya.md)
        * [Середня швидкiсть](book/chapter_1/9serednya_shvidkist.md)
    * Рiвноприскорений прямолiнiйний рух
+       * Миттєва швидкiсть
 
