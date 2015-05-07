@@ -5,5 +5,15 @@
         "addcssjs",
         "quiz"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+         "addcssjs": {
+            "css": [
+                "custom/css/style.css"
+            ],
+            "js": [
+                "vendor/js/jquery/jquery-2.1.3.min.js",
+                "custom/js/custom.js"
+            ]
+        }
+    }
 }
