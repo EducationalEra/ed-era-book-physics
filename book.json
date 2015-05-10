@@ -2,8 +2,7 @@
     "plugins": [
         "mathjax4us",
         "youtube",
-        "addcssjs",
-        "quiz"
+        "addcssjs"
     ],
     "pluginsConfig": {
          "addcssjs": {
