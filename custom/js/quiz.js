@@ -66,11 +66,9 @@ function go() {
     var currentPos = 0;
 
     while (currentPos < questions.length) {
-        if (questions[currentPos].getAttribute("type") == "Multiple"){
-            createMultiple(currentPos);
-            questions[currentPos].innerHTML += "<button onclick='findCorrect(" + currentPos + ")'> Перевірити </button>";}
-        if (questions[currentPos].getAttribute("type") == "CheckBox"){createCheckBox(currentPos);questions[currentPos].innerHTML += "<button onclick='findCorrect(" + currentPos + ")'> Перевірити </button>";}
-        
+        if (questions[currentPos].getAttribute("type") == "Multiple"){createMultiple(currentPos);}
+        if (questions[currentPos].getAttribute("type") == "CheckBox"){createCheckBox(currentPos);}
+        questions[currentPos].innerHTML += "<button onclick='findCorrect(" + currentPos + ")'> Перевірити </button>";
         currentPos++;
     }
 }
