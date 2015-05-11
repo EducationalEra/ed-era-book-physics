@@ -77,6 +77,8 @@ default – "White"
     border-left: .15em solid #faaf00;
     padding-left:10px;
     padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
 }
 
 .book.color-theme-1 .task-wrap{
