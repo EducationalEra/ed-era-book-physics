@@ -377,19 +377,5 @@ p1 {
  color: #0F5180;
 }
 
-EdEra_question{
-    background: #0F5181;
-    border-left:0.3em solid #FAFAFA;
-}
 
-choice{
-    margin-left: 5%;
-}
-
-
-explain{
-    background: #D8D8D8;
-    display: none;
-    border: 0.3em solid #979797;
-}
 
