@@ -3,7 +3,8 @@
         "mathjax4us",
         "youtube",
         "addcssjs",
-        "modal-youtube-video"
+        "modal-youtube-video",
+        "quiz"
     ],
     "pluginsConfig": {
         "addcssjs": {
