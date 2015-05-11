@@ -11,26 +11,26 @@
 
 
 <EdEra_question type = "Multiple">
-<p>Question text</p>
-<choice correct="false">The iPad</choice>
-<choice correct="false">Napster</choice>
-<choice correct="true">The iPod</choice>
-<choice correct="false">The vegetable peeler</choice>
+<p>1. Кто напишет css под вопросы?</p>
+<choice correct="false">Илья</choice>
+<choice correct="false">Петя</choice>
+<choice correct="true">Артем</choice>
+<choice correct="false">Витя</choice>
+<choice correct="false">Глеб</choice>
+<choice correct="false">Рома после написания 5й недели</choice>
 <p><message></message></p>
 </EdEra_question>
 
 
-<h1>Random text</h1>
 
 <EdEra_question type = "CheckBox">
-<p>Question text</p>
-<choice correct="true">The iPad</choice>
-<choice correct="false">Napster</choice>
-<choice correct="true">The iPod</choice>
-<choice correct="false">The vegetable peeler</choice>
+<p>Над которой из недель по истории Рома потел</p>
 <choice correct="true">1</choice>
-<choice correct="false">2</choice>
+<choice correct="true">2</choice>
 <choice correct="true">3</choice>
+<choice correct="true">4</choice>
+<choice correct="false">5</choice>
+<choice correct="false">6</choice>
 <p><message></message></p>
 </EdEra_question>
 
