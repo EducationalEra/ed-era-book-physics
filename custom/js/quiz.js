@@ -51,7 +51,6 @@ function showAns(currentPos) {
            answers[i].style.color = "green";
         }
     }
-    
 }
 
 function findCorrect(currentPos) {
@@ -109,7 +108,7 @@ function go() {
         if (questions[currentPos].getAttribute("type") == "Multiple"){createMultiple(currentPos);}
         if (questions[currentPos].getAttribute("type") == "CheckBox"){createCheckBox(currentPos);}
         questions[currentPos].innerHTML += "<button onclick='findCorrect(" + currentPos + ")'> Перевірити </button>";
-        questions[currentPos].innerHTML += "<button onclick='showAns(" + currentPos + ")' style='display:none' name='showAnswer'> Показати відповідь </button>";
+        questions[currentPos].innerHTML += "   <button onclick='showAns(" + currentPos + ")' style='display:none'> Показати відповідь </button>";
         currentPos++;
     }
 }
