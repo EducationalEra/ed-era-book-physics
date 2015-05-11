@@ -9,19 +9,19 @@
 * <p1>Динамiка</p1> – наука, що розглядає причини виникнення механiчного руху.
 
 
-<question type = "Multiple">
+<EdEra_question type = "Multiple">
         <p>Question text</p>
             <choice correct="false">The iPad</choice>
             <choice correct="false">Napster</choice>
             <choice correct="true">The iPod</choice>
             <choice correct="false">The vegetable peeler</choice>
             <p><message></message></p>
-    </question>
+    </EdEra_question>
 
    
      <h1>Random text</h1>
     
-      <question type = "CheckBox">
+      <EdEra_question type = "CheckBox">
         <p>Question text</p>
             <choice correct="true">The iPad</choice>
             <choice correct="false">Napster</choice>
@@ -31,6 +31,6 @@
             <choice correct="false">2</choice>
             <choice correct="true">3</choice>
           <p><message></message></p>
-    </question>
+    </EdEra_question>
 
     
