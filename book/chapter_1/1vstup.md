@@ -32,7 +32,7 @@
 <choice correct="false">5</choice>
 <choice correct="false">6</choice>
 <p><message></message></p>
-
+</EdEra_question>
 
 
 <p> </p>
@@ -42,7 +42,7 @@
 <choice correct="true">НА все воля божья коровка</choice>
 <choice correct="true">Не знаю</choice>
 <p><message></message></p>
-
+</EdEra_question>
 
 
 
