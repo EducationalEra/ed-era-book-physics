@@ -21,7 +21,7 @@
 <p><message></message></p>
 </EdEra_question>
 
-<p></p>
+<p> </p>
 
 <EdEra_question type = "CheckBox">
 <p>Над которой из недель по истории Рома потел</p>
