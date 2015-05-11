@@ -24,7 +24,7 @@
 <p> </p>
 
 <EdEra_question type = "CheckBox">
-<p>Над которой из недель по истории Рома потел</p>
+<p>2. Над которой из недель по истории Рома потел</p>
 <choice correct="true">1</choice>
 <choice correct="true">2</choice>
 <choice correct="true">3</choice>
@@ -37,7 +37,7 @@
 <p> </p>
 
 <EdEra_question type = "Multiple">
-<p>Какого хрена по две кнопки "Проверить", если в чистой хтмл все нормально?</p>
+<p>3. Какого хрена по две кнопки "Проверить", если в чистой хтмл все нормально?</p>
 <choice correct="false">Я не знаю</choice>
 <choice correct="true">На все воля божтя</choice>
 
