@@ -19,7 +19,7 @@
 </EdEra_question>
 
    
-     <h1>Random text</h1>
+<h1>Random text</h1>
 
 
 <EdEra_question type = "CheckBox">
