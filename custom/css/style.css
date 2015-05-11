@@ -146,6 +146,8 @@ default – "White"
     padding-left:10px;
     padding-right:10px;
     border-bottom: .15em solid #faaf00;
+    padding-top:5px;
+    padding-bottom:5px;
 }
 
 .book.color-theme-1 .alg-wrap{
@@ -214,6 +216,8 @@ default – "White"
     padding-left:10px;
     padding-right:10px;
     border-bottom: .15em solid #0F5181;
+    padding-top:5px;
+    padding-bottom:5px;
 }
 
 .book.color-theme-1 .add-wrap{
@@ -278,6 +282,8 @@ default – "White"
     border-top: .15em solid #0F5181;
     padding-left:10px;
     padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
 }
 
 .book.color-theme-1 .ebio-wrap{
