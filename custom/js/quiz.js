@@ -56,6 +56,7 @@ function showAns(currentPos) {
 
 function findCorrect(currentPos) {
     var answers = questions[currentPos].getElementsByTagName("choice"),
+        inputs = questions[currentPos].getElementsByTagName("input"),
         corAns = 0, incorAns = 0;
     resetStyle(currentPos);
     for (i = 0; i < answers.length; i++) {
@@ -83,7 +84,7 @@ function findCorrect(currentPos) {
                 questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Невірно";
             }
          }
-    questions[currentPos].getElementsByTagName("button")[1].setAttribute("style", "display");
+    inputs[inputs.length-1].setAttribute("style", "display");
 }
 
 
@@ -108,8 +109,8 @@ function go() {
     while (currentPos < questions.length) {
         if (questions[currentPos].getAttribute("type") == "Multiple"){createMultiple(currentPos);}
         if (questions[currentPos].getAttribute("type") == "CheckBox"){createCheckBox(currentPos);}
-        questions[currentPos].innerHTML += "<form><button onclick='findCorrect(" + currentPos + ")'> Перевірити </button></form>";
-        questions[currentPos].innerHTML += "<form><button onclick='showAns(" + currentPos + ")' style='display:none'> Показати відповідь </button></form>";
+        questions[currentPos].innerHTML += "<input type='button' onclick='findCorrect(" + currentPos + ")' value='Перевірити'/>";
+        questions[currentPos].innerHTML += "<input type='button' onclick='showAns(" + currentPos + ")' style='display:none' value='Показати відповідь'/>";
         currentPos++;
     }
 }
