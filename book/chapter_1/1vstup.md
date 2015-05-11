@@ -16,7 +16,7 @@
             <choice correct="true">The iPod</choice>
             <choice correct="false">The vegetable peeler</choice>
             <p><message></message></p>
-    </EdEra_question>
+</EdEra_question>
 
    
      <h1>Random text</h1>
