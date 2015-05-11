@@ -9,6 +9,8 @@
 * <p1>Динамiка</p1> – наука, що розглядає причини виникнення механiчного руху.
 
 
+
+
 <EdEra_question type = "Multiple">
         <p>Question text</p>
             <choice correct="false">The iPad</choice>
