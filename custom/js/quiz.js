@@ -1,7 +1,6 @@
 var questions = document.getElementsByTagName("EdEra_question");
 
 
-
 function resetStyle(currentPos) {
     var answers = questions[currentPos].getElementsByTagName("choice");
     for (i = 0; i < answers.length; i++) {
@@ -35,15 +34,19 @@ function findCorrect(currentPos) {
             answers[i].style.color="red";
             }
         }
-    if (corAns == totalCorrect(currentPos) && incorAns == 0) {
-        questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Correct";
-    }
-    if (incorAns > 0 || corAns != totalCorrect(currentPos)) {
-         questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Incorrect";
-    }
+    if (incorAns == 0 && corAns == 0) {
+         questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Не вибрано жодного варіанту.";
+    }    
+    else {
+            if (corAns == totalCorrect(currentPos) && incorAns == 0) {
+                questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Вірно";
+            }
+            if (incorAns > 0 || corAns != totalCorrect(currentPos)) {
+                questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Невірно";
+            }
+         }
+    
 }
-
-
 
 
 
@@ -52,19 +55,18 @@ function createMultiple(currentPos) {
     for (i = 0; i < questions[currentPos].getElementsByTagName("choice").length; i++) {
         questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='radio' name='choices' value='" + i + "'>" + questions[currentPos].getElementsByTagName("choice")[i].textContent + "</br>";  
     }
-    
 }
 
 /*creates CheckBox question type*/
 function createCheckBox(currentPos) {
     for (i = 0; i < questions[currentPos].getElementsByTagName("choice").length; i++) {
         questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='checkbox' name='choices' value='" + i + "'>" + questions[currentPos].getElementsByTagName("choice")[i].textContent + "</br>";  
-    } }
+    }
+}
 
 
 function go() {
     var currentPos = 0;
-
     while (currentPos < questions.length) {
         if (questions[currentPos].getAttribute("type") == "Multiple"){createMultiple(currentPos);}
         if (questions[currentPos].getAttribute("type") == "CheckBox"){createCheckBox(currentPos);}
