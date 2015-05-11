@@ -2,6 +2,7 @@ var questions = document.getElementsByTagName("EdEra_question");
 
 
 function resetStyle(currentPos) {
+    questions[currentPos].getElementsByTagName("explain")[0].setAttribute("style", "display: none");
     var answers = questions[currentPos].getElementsByTagName("choice");
     for (i = 0; i < answers.length; i++) {
            answers[i].style.color = "black";
@@ -20,6 +21,20 @@ function totalCorrect(currentPos) {
     return totalCorrect;
 }
 
+function showAns(currentPos) {
+    resetStyle(currentPos);
+    questions[currentPos].getElementsByTagName("explain")[0].setAttribute("style", "display");
+    var answers = questions[currentPos].getElementsByTagName("choice");
+    for (i = 0; i < answers.length; i++) {
+         questions[currentPos].getElementsByTagName("input")[i].checked = false;
+        if (answers[i].getAttribute("correct") == "true"){
+            answers[i].getElementsByTagName("m")[0].setAttribute("style", "display");
+           answers[i].getElementsByTagName("m")[0].innerHTML = " &#10004";
+           answers[i].style.color = "green";
+        }
+    }
+    
+}
 
 function findCorrect(currentPos) {
     var answers = questions[currentPos].getElementsByTagName("choice"),
@@ -50,7 +65,7 @@ function findCorrect(currentPos) {
                 questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Невірно";
             }
          }
-    
+    questions[currentPos].getElementsByTagName("button")[1].setAttribute("style", "display");
 }
 
 
@@ -76,6 +91,7 @@ function go() {
         if (questions[currentPos].getAttribute("type") == "Multiple"){createMultiple(currentPos);}
         if (questions[currentPos].getAttribute("type") == "CheckBox"){createCheckBox(currentPos);}
         questions[currentPos].innerHTML += "<button onclick='findCorrect(" + currentPos + ")'> Перевірити </button>";
+        questions[currentPos].innerHTML += "<button onclick='showAns(" + currentPos + ")' style='display:none' name='showAnswer'> Показати відповідь </button>";
         currentPos++;
     }
 }
