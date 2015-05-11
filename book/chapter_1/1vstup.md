@@ -35,8 +35,6 @@
 </EdEra_question>
 
 
-<input type="button"></input>
-
 <p> </p>
 
 <EdEra_question type = "CheckBox">
