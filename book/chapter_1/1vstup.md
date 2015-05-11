@@ -40,7 +40,6 @@
 ><EdEra_question type = "CheckBox">
 <p>3. Почему создается по 2 кнопки проверки?</p>
 <choice correct="true">НА все воля божья</choice>
-
 <p><message></message></p>
 </EdEra_question>
 
