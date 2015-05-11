@@ -380,5 +380,6 @@ p1 {
 EdEra_question{
     background: #FAFAFA;
     display: block;
+    border-left:0.3em solid #FAFAFA;
 }
 
