@@ -5,6 +5,7 @@ function resetStyle(currentPos) {
     var answers = questions[currentPos].getElementsByTagName("choice");
     for (i = 0; i < answers.length; i++) {
            answers[i].style.color = "black";
+           answers[i].getElementsByTagName("m")[0].setAttribute("style", "display: none");     
 }
 }
 
@@ -27,10 +28,14 @@ function findCorrect(currentPos) {
     for (i = 0; i < answers.length; i++) {
         if (answers[i].getElementsByTagName("input")[0].checked == true && answers[i].getAttribute("correct") == "true") {
            corAns++;
+           answers[i].getElementsByTagName("m")[0].setAttribute("style", "display");
+           answers[i].getElementsByTagName("m")[0].innerHTML = " &#10004";
            answers[i].style.color = "green";
         }
         else if (answers[i].getElementsByTagName("input")[0].checked == true && answers[i].getAttribute("correct") == "false") {
             incorAns++;
+            answers[i].getElementsByTagName("m")[0].setAttribute("style", "display");
+            answers[i].getElementsByTagName("m")[0].innerHTML = " &#10008";
             answers[i].style.color="red";
             }
         }
@@ -53,14 +58,14 @@ function findCorrect(currentPos) {
 /*creates Multiple choice question type*/
 function createMultiple(currentPos) {
     for (i = 0; i < questions[currentPos].getElementsByTagName("choice").length; i++) {
-        questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='radio' name='choices' value='" + i + "'>" + questions[currentPos].getElementsByTagName("choice")[i].textContent + "</br>";  
+        questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='radio' name='choices'>" + questions[currentPos].getElementsByTagName("choice")[i].textContent + "<m style='display: none'></m> </br>";  
     }
 }
 
 /*creates CheckBox question type*/
 function createCheckBox(currentPos) {
     for (i = 0; i < questions[currentPos].getElementsByTagName("choice").length; i++) {
-        questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='checkbox' name='choices' value='" + i + "'>" + questions[currentPos].getElementsByTagName("choice")[i].textContent + "</br>";  
+        questions[currentPos].getElementsByTagName("choice")[i].innerHTML = "<input type='checkbox' name='choices'>" + questions[currentPos].getElementsByTagName("choice")[i].textContent + "<m style='display: none'></m>  </br>";  
     }
 }
 
