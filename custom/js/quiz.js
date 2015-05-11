@@ -1,7 +1,7 @@
 var questions = document.getElementsByTagName("EdEra_question");
 
 
-/*resets choices style to its original*/
+
 function resetStyle(currentPos) {
     var answers = questions[currentPos].getElementsByTagName("choice");
     for (i = 0; i < answers.length; i++) {
@@ -9,8 +9,6 @@ function resetStyle(currentPos) {
 }
 }
 
-
-/*defines total number of correct choices (used for CheckBox question type)*/
 function totalCorrect(currentPos) {
     var answers = questions[currentPos].getElementsByTagName("choice"),
         totalCorrect = 0;
@@ -23,7 +21,6 @@ function totalCorrect(currentPos) {
 }
 
 
-/*checks users answers on button click -> changes style of his choices*/
 function findCorrect(currentPos) {
     var answers = questions[currentPos].getElementsByTagName("choice"),
         corAns = 0, incorAns = 0;
