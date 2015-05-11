@@ -1,3 +1,21 @@
+/* <EdEra_question type = "CheckBox"> ---- Multiple/CheckBox
+        <p>Question text</p>
+            <choice correct="true">The iPad</choice>
+            <choice correct="false">Napster</choice>
+            <choice correct="true">The iPod</choice>
+            <choice correct="false">The vegetable peeler</choice>
+            <choice correct="true">1</choice>
+            <choice correct="false">2</choice>
+            <choice correct="true">3</choice>
+          <p><message></message></p>    ---- "correct/incorrec" text message for user
+          
+          <p><explain style="display: none">Because it is so 2</explain></p>
+</EdEra_question> */
+
+
+
+
+
 var questions = document.getElementsByTagName("EdEra_question");
 
 
