@@ -1,4 +1,4 @@
-var questions = document.getElementsByTagName("question");
+var questions = document.getElementsByTagName("EdEra_question");
 
 
 /*resets choices style to its original*/
