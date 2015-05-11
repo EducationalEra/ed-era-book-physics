@@ -10,7 +10,7 @@
 * <p1>Динамiка</p1> – наука, що розглядає причини виникнення механiчного руху.
 
 
-><EdEra_question type = "Multiple">
+<EdEra_question type = "Multiple">
 <p>1. Кто напишет css под вопросы?</p>
 <choice correct="false">Илья</choice>
 <choice correct="false">Петя</choice>
@@ -23,7 +23,7 @@
 
 <p> </p>
 
-><EdEra_question type = "CheckBox">
+<EdEra_question type = "CheckBox">
 <p>2. Над которой из недель по истории Рома потел</p>
 <choice correct="true">1</choice>
 <choice correct="true">2</choice>
