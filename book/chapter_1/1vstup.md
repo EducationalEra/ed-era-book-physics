@@ -34,9 +34,15 @@
 <p><message></message></p>
 </EdEra_question>
 
+<p> </p>
 
+<EdEra_question type = "Multiple">
+<p>Какого хрена по две кнопки "Проверить", если в чистой хтмл все нормально?</p>
+<choice correct="false">Я не знаю</choice>
+<choice correct="true">На все воля божтя</choice>
 
-
+<p><message></message></p>
+</EdEra_question>
 
 
 
