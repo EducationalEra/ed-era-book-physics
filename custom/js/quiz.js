@@ -110,8 +110,8 @@ function go() {
     while (currentPos < questions.length) {
         if (questions[currentPos].getAttribute("type") == "Multiple"){createMultiple(currentPos);}
         if (questions[currentPos].getAttribute("type") == "CheckBox"){createCheckBox(currentPos);}
-        questions[currentPos].innerHTML += "<input type='button' onclick='findCorrect(" + currentPos + ")' value='Перевірити'/>";
-        questions[currentPos].innerHTML += "<input type='button' onclick='showAns(" + currentPos + ")' style='display:none' value='Показати відповідь'/>";
+        questions[currentPos].innerHTML += "<input type='button' onclick='findCorrect(" + currentPos + ")' value='Перевірити' id='f" + currentPos + "'/>";
+        questions[currentPos].innerHTML += "<input type='button' onclick='showAns(" + currentPos + ")' style='display:none' value='Показати відповідь' id='s" + currentPos + "'/>";
         currentPos++;
     }
 }
