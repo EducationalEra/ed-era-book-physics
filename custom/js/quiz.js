@@ -83,8 +83,9 @@ function findCorrect(currentPos) {
             if (incorAns > 0 || corAns != totalCorrect(currentPos)) {
                 questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Невірно";
             }
+            inputs[inputs.length-1].setAttribute("style", "display");
          }
-    inputs[inputs.length-1].setAttribute("style", "display");
+    
 }
 
 
