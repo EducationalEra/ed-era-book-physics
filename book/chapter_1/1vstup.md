@@ -10,39 +10,7 @@
 * <p1>Динамiка</p1> – наука, що розглядає причини виникнення механiчного руху.
 
 
-<EdEra_question type = "Multiple">
-<p>1. Кто напишет css под вопросы?</p>
-<choice correct="false">Илья</choice>
-<choice correct="false">Петя</choice>
-<choice correct="true">Артем</choice>
-<choice correct="false">Витя</choice>
-<choice correct="false">Глеб</choice>
-<choice correct="false">Рома после написания 5й недели</choice>
-<p><message></message></p>
-</EdEra_question>
 
-<p> </p>
-
-<EdEra_question type = "CheckBox">
-<p>2. Над которой из недель по истории Рома потел</p>
-<choice correct="true">1</choice>
-<choice correct="true">2</choice>
-<choice correct="true">3</choice>
-<choice correct="true">4</choice>
-<choice correct="false">5</choice>
-<choice correct="false">6</choice>
-<p><message></message></p>
-</EdEra_question>
-
-
-<p> </p>
-
-<EdEra_question type = "CheckBox">
-<p>3. Почему создается по 2 кнопки проверки?</p>
-<choice correct="true">НА все воля божья коровка</choice>
-<choice correct="true">Не знаю</choice>
-<p><message></message></p>
-</EdEra_question>
 
 
 
