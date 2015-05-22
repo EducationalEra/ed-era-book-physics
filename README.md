@@ -1,5 +1,5 @@
 #Зміст
-1. [Одновимірна кінематика 1/2](book/chapter_1/1vstup.md)
+1. [Одновимірна кінематика](book/chapter_1/1vstup.md)
    1. [Вступ до кінематики](book/chapter_1/1vstup.md)
        1. [Механічний рух](book/chapter_1/2mehanichnii_ruh.md)
        * [Основні поняття](book/chapter_1/3osnovni_ponyattya.md)
