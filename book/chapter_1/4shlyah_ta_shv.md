@@ -29,7 +29,7 @@
 <table class="centered-table">
 <tr>
 <td>
-$$l = vt$$
+<p1>$$l = vt$$</p1>
 </td>
 </tr>
 </table>
