@@ -378,6 +378,7 @@ p1 {
 }
 
 .boxed {
+    width: initial !important;
     background: #FAFAFA;
     border: .15em solid #0F5181;
     padding-left:10px;
