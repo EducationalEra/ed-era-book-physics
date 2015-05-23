@@ -377,7 +377,12 @@ p1 {
  color: #0F5180;
 }
 
-p2 {
- color: #0F5180;
+.boxed {
+    background: #FAFAFA;
+    border: .15em solid #0F5181;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
 }
 
