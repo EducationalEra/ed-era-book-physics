@@ -378,17 +378,12 @@ p1 {
 }
 
 .boxed {
-    width: initial !important;
+    width: auto;
     background: #FAFAFA;
     border: .15em solid #0F5181;
-    padding-left:10px;
-    padding-right:10px;
-    padding-top:5px;
-    padding-bottom:5px;
 }
 
 p2 {
- margin: 2%;
  font-weight: bold;
  color: #0F5180;
 }
