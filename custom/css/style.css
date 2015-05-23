@@ -386,6 +386,7 @@ p1 {
 }
 
 .centered-table {
+    border-color:#0F5180;
     display: table !important;
     width: initial !important;
     margin:auto;
