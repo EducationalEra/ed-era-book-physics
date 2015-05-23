@@ -24,7 +24,7 @@
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/5.svg" class="image"/>
 
 На рисунку дослiджується залежнiсть пройденого шляху вiд часу $$l(t)$$. При рiвномiрному прямолiнiйному русi
-<p1>$$\boxed{l = vt}$$</p1>
+<p2>$$\boxed{l = vt}$$</p2>
 
 Подивимось на графік:
 * <b>Перша пряма</b>: кожну секунду пройдений шлях збiльшується на два метри.
