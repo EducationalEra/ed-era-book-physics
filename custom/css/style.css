@@ -377,3 +377,16 @@ p1 {
  color: #0F5180;
 }
 
+.centered {
+    text-align: center;
+}
+
+.centered-table-wrapper {
+    width: 100%;
+}
+
+.centered-table {
+    display: table !important;
+    width: initial !important;
+    margin:auto;
+ }
