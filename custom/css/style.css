@@ -391,3 +391,7 @@ p1 {
     width: initial !important;
     margin:auto;
  }
+ 
+ table, td, td {
+    border: 2px solid #0F5180;
+}
