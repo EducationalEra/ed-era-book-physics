@@ -377,13 +377,3 @@ p1 {
  color: #0F5180;
 }
 
-.boxed {
-    width: auto;
-    background: #FAFAFA;
-    border: .15em solid #0F5181;
-}
-
-p2 {
- font-weight: bold;
- color: #0F5180;
-}
