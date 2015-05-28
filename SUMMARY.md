@@ -87,5 +87,5 @@
     5. Закон Архiмеда
     6. Закон Бернулi
 * Додаток
-    1. [Тригонометричні функції](book/trigonometry/trigonometry.md)
+    1. [Тригонометричні функції](book/Add/trigonometry/trigonometry.md)
     2. Вектори
