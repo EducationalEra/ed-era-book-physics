@@ -40,7 +40,9 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
     <center>$$csc(\alpha) = \dfrac{1}{cos(\alpha)}$$</center>
 
 <p>Усі ці функції є періодичними, тобто повторюють свої значення при змінні кута на $$2\pi$$ (або, що те саме, на $$360^\circ$$)</p>
-$$sin(\alpha) = sin(\alpha \pm 2\pi k), \, k = \overline{1, 2, 3,...} $$
+<p><center>$$sin(\alpha) = sin(\alpha \pm 2\pi k), \, k = \overline{1, 2, 3,...} $$</center></p>
+
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
 
 
 
