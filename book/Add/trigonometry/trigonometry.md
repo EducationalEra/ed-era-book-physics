@@ -45,14 +45,19 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
 
-Корисним також буде знання деяких тригонометричних співвідношень:
+Корисним також буде знання деяких тригонометричних співвідношень.
 
-$$sin^2(\alpha) + cos^2(\alpha) = 1$$
 
-$$sin(\alpha + \beta) = sin(\alpha)cos(\beta) + sin(\beta)cos(\alpha)$$
-$$sin(\alpha - \beta) = sin(\alpha)cos(\beta) - sin(\beta)cos(\alpha)$$
-$$cos(\alpha + \beta) = cos(\alpha)cos(\beta) - sin(\alpha)sin(\beta)$$
-$$cos(\alpha - \beta) = cos(\alpha)cos(\beta) + sin(\alpha)sin(\beta)$$
+* <p>Наступне співвідношення випливає із теореми Піфагора:</p>
+     <center>$$sin^2(\alpha) + cos^2(\alpha) = 1$$</center>
+
+* <p>Формули для суми та різниці кутів:</p>
+<p><center>$$sin(\alpha + \beta) = sin(\alpha)cos(\beta) + sin(\beta)cos(\alpha)$$ </center></p>
+<p><center>$$sin(\alpha - \beta) = sin(\alpha)cos(\beta) - sin(\beta)cos(\alpha)$$</center></p>
+<p><center>$$cos(\alpha + \beta) = cos(\alpha)cos(\beta) - sin(\alpha)sin(\beta)$$</center></p>
+<p><center>$$cos(\alpha - \beta) = cos(\alpha)cos(\beta) + sin(\alpha)sin(\beta)$$</center></p>
+
+Якщо кути $$\alpha$$ та $$\beta$$ рівні між собою, то формули 
 
 
 
