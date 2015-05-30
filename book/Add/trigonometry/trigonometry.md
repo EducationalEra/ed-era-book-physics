@@ -46,7 +46,9 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 Аналогічно й для <i>cos, tg, ctg, sec, csc</i>.
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
+<div class="caption">Графік залежності функцій sin та cos від кута на проміжку $$[0; 2\pi]$$ </div>
 <img class="image"  src="http://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif" />
+<div class="caption">Рис.1: На рисунку проiлюстровано необхiднi компоненти для визначення механiчного руху. В даному випадку <b>тiло вiдлiку</b> – лiвий чоловiчок, а правий (рухомий) – об’єкт розгляду. У визначеннi системи вiдлiку є також слова про пов’язану з тiлом систему координат. На рисунку це проiлюстровано пiдписом “<b>25 м</b>”. Засiб вимiрювання часу в даному випадку проiлюстрований годинником.</div>
 
 Як видно з графіку, функції $$sin$$ та $$cos$$ мають однакову форму, проте  відрізняються по фазі на $$\dfrac{\pi}{2}$$:
 <p><center>$$sin(\alpha) = cos(\dfrac{\pi}{2} - \alpha)$$</center></p>
