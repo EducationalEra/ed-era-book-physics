@@ -1,55 +1,75 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="821px" height="300px" viewBox="0 0 821 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
-    <title>Group</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" x="0" y="0" width="847" height="343"></rect>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Group" sketch:type="MSLayerGroup" transform="translate(-13.000000, -36.000000)">
-            <mask id="mask-2" sketch:name="Mask" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="Mask" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
-            <g mask="url(#mask-2)">
-                <g transform="translate(13.000000, 31.000000)">
-                    <path d="M122.656976,244.402447 C122.656976,238.75739 119.301896,237 116.639116,237 C111.739692,237 107,242.13912 107,247.198322 C107,250.553379 109.130197,253.269383 112.80479,253.269383 C115.068157,253.269383 117.650976,252.44393 120.393646,250.260482 C120.846276,252.151027 122.044496,253.269383 123.642186,253.269383 C125.559356,253.269383 126.677696,251.298948 126.677696,250.739773 C126.677696,250.473502 126.464676,250.366992 126.225006,250.366992 C125.985396,250.366992 125.878856,250.473502 125.772376,250.739773 C125.133316,252.497189 123.828546,252.497189 123.748656,252.497189 C122.656976,252.497189 122.656976,249.674674 122.656976,248.822596 C122.656976,248.077027 122.656976,247.997143 123.003126,247.571103 C126.384786,243.33735 127.130386,239.15685 127.130386,239.13019 C127.130386,239.0503 127.103736,238.75739 126.704346,238.75739 C126.358196,238.75739 126.358196,238.86394 126.171766,239.52958 C125.532706,241.79297 124.334476,244.508923 122.656976,246.63912 L122.656976,244.402447 L122.656976,244.402447 Z M120.233866,249.328519 C117.091806,252.097775 114.322554,252.497189 112.884654,252.497189 C110.727845,252.497189 109.636121,250.872908 109.636121,248.58295 C109.636121,246.825534 110.568084,242.93789 111.739692,241.10061 C113.417237,238.49113 115.360996,237.79884 116.612536,237.79884 C120.180626,237.79884 120.180626,242.51186 120.180626,245.307764 C120.180626,246.63912 120.180626,248.716086 120.233866,249.328519 L120.233866,249.328519 Z" id="Imported-Layers" stroke="none" fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup"></path>
-                    <path d="M558,241.5 L558,260.5" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
-                    <path d="M558,241.5 L582,241.5" id="Line-2" stroke="#000000" stroke-width="2" stroke-linecap="square" fill="none" sketch:type="MSShapeGroup"></path>
-                    <path d="M82,261.5 C82,261.5 83.4793482,252.632737 82,249.5 C80.6460149,246.632737 73.5,243.5 73.5,243.5" id="Path-3" stroke="#000000" stroke-width="2" fill="none" sketch:type="MSShapeGroup"></path>
-                    <text id="(гіпотенуза)" stroke="none" fill="none" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="260">
-                        <tspan x="201" y="116" fill="#4990E2">(гіпотенуза)</tspan>
-                    </text>
-                    <text id="(прилеглий-катет)" stroke="none" fill="none" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="260">
-                        <tspan x="231" y="300" fill="#417505">(прилеглий катет)</tspan>
-                    </text>
-                    <text id="(протилеглий-катет)" stroke="none" fill="none" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="260">
-                        <tspan x="602" y="157" fill="#D0011B">(протилеглий катет)</tspan>
-                    </text>
-                    <text id="A" stroke="none" fill="none" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="260">
-                        <tspan x="0" y="276" fill="#000000">A</tspan>
-                    </text>
-                    <text id="B" stroke="none" fill="none" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="260">
-                        <tspan x="585" y="23" fill="#000000">B</tspan>
-                    </text>
-                    <text id="C" stroke="none" fill="none" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="260">
-                        <tspan x="589" y="278" fill="#000000">C</tspan>
-                    </text>
-                    <text id="h" stroke="none" fill="none" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="260">
-                        <tspan x="350" y="169" fill="#4990E2">h</tspan>
-                    </text>
-                    <text id="a" stroke="none" fill="none" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="260">
-                        <tspan x="358" y="250" fill="#417505">a</tspan>
-                    </text>
-                    <text id="b" stroke="none" fill="none" sketch:type="MSTextLayer" font-family="Helvetica" font-size="24" font-weight="260">
-                        <tspan x="560" y="159" fill="#D0011B">b</tspan>
-                    </text>
-                    <path d="M25.5,261.5 L580.5,261.5" id="Line" stroke="#417505" stroke-width="3" stroke-linecap="round" fill="none" sketch:type="MSShapeGroup"></path>
-                    <path d="M24.5,261.5 L581.5,41.5" id="Line" stroke="#4990E2" stroke-width="3" stroke-linecap="round" fill="none" sketch:type="MSShapeGroup"></path>
-                    <path d="M581.5,40.5 L581.5,261.5" id="Line" stroke="#D0011B" stroke-width="3" stroke-linecap="round" fill="none" sketch:type="MSShapeGroup"></path>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 821 300"
+	 enable-background="new 0 0 821 300" xml:space="preserve">
+<title>Group</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="Group" transform="translate(-13.000000, -36.000000)" sketch:type="MSLayerGroup">
+		<g id="Mask" sketch:type="MSShapeGroup">
+			<rect id="path-1_1_" x="-1" fill="none" width="872" height="343"/>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="12" y="33.4" width="817.1" height="309.2">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="12" y="33.4" width="817.1" height="309.2" id="mask-2">
+			<g filter="url(#Adobe_OpacityMaskFilter)">
+				<rect id="path-1" x="-1" fill="#FFFFFF" width="847" height="343"/>
+			</g>
+		</mask>
+		<g mask="url(#mask-2)">
+			<g transform="translate(13.000000, 31.000000)">
+				<path id="Imported-Layers" sketch:type="MSShapeGroup" d="M121.7,244.4c0-5.6-3.4-7.4-6-7.4c-4.9,0-9.6,5.1-9.6,10.2
+					c0,3.4,2.1,6.1,5.8,6.1c2.3,0,4.8-0.8,7.6-3c0.5,1.9,1.7,3,3.2,3c1.9,0,3-2,3-2.5c0-0.3-0.2-0.4-0.5-0.4c-0.2,0-0.3,0.1-0.5,0.4
+					c-0.6,1.8-1.9,1.8-2,1.8c-1.1,0-1.1-2.8-1.1-3.7c0-0.7,0-0.8,0.3-1.3c3.4-4.2,4.1-8.4,4.1-8.4c0-0.1,0-0.4-0.4-0.4
+					c-0.3,0-0.3,0.1-0.5,0.8c-0.6,2.3-1.8,5-3.5,7.1V244.4L121.7,244.4z M119.2,249.3c-3.1,2.8-5.9,3.2-7.3,3.2
+					c-2.2,0-3.2-1.6-3.2-3.9c0-1.8,0.9-5.6,2.1-7.5c1.7-2.6,3.6-3.3,4.9-3.3c3.6,0,3.6,4.7,3.6,7.5
+					C119.2,246.6,119.2,248.7,119.2,249.3L119.2,249.3z"/>
+				<path id="Line" sketch:type="MSShapeGroup" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" d="
+					M557,241.5v19"/>
+				<path id="Line-2" sketch:type="MSShapeGroup" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" d="
+					M557,241.5h24"/>
+				<path id="Path-3" sketch:type="MSShapeGroup" fill="none" stroke="#000000" stroke-width="2" d="M81,261.5c0,0,1.5-8.9,0-12
+					c-1.4-2.9-8.5-6-8.5-6"/>
+				<g enable-background="new    ">
+					<text transform="matrix(1 0 0 1 200 116)" fill="#4990E2" font-family="'Helvetica'" font-size="24">(гіпотенуза)</text>
+				</g>
+				<g enable-background="new    ">
+					<text transform="matrix(1 0 0 1 230 300)" fill="#417505" font-family="'Helvetica'" font-size="24">(прилеглий катет)</text>
+				</g>
+				<g enable-background="new    ">
+					<text transform="matrix(1 0 0 1 585 157)" fill="#D0011B" font-family="'Helvetica'" font-size="24">(протилеглий катет)</text>
+				</g>
+				<g enable-background="new    ">
+					<text transform="matrix(1 0 0 1 -1 276)" font-family="'Helvetica'" font-size="24">A</text>
+				</g>
+				<g enable-background="new    ">
+					<text transform="matrix(1 0 0 1 584 23)" font-family="'Helvetica'" font-size="24">B</text>
+				</g>
+				<g enable-background="new    ">
+					<text transform="matrix(1 0 0 1 588 278)" font-family="'Helvetica'" font-size="24">C</text>
+				</g>
+				<g enable-background="new    ">
+					<text transform="matrix(1 0 0 1 349 169)" fill="#4990E2" font-family="'Helvetica'" font-size="24">h</text>
+				</g>
+				<g enable-background="new    ">
+					<text transform="matrix(1 0 0 1 357 250)" fill="#417505" font-family="'Helvetica'" font-size="24">a</text>
+				</g>
+				<g enable-background="new    ">
+					<text transform="matrix(1 0 0 1 559 159)" fill="#D0011B" font-family="'Helvetica'" font-size="24">b</text>
+				</g>
+				<path id="Line_1_" sketch:type="MSShapeGroup" fill="none" stroke="#417505" stroke-width="3" stroke-linecap="round" d="
+					M24.5,261.5h555"/>
+				<path id="Line_2_" sketch:type="MSShapeGroup" fill="none" stroke="#4990E2" stroke-width="3" stroke-linecap="round" d="
+					M23.5,261.5l557-220"/>
+				<path id="Line_3_" sketch:type="MSShapeGroup" fill="none" stroke="#D0011B" stroke-width="3" stroke-linecap="round" d="
+					M580.5,40.5v221"/>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>
