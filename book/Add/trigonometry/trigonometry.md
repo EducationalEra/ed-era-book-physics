@@ -41,7 +41,7 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 
 <p>Усі ці функції є періодичними, тобто повторюють свої значення при змінні кута на $$2\pi$$ (або, що те саме, на $$360^\circ$$)</p>
 <p><center>$$sin(\alpha) = sin(\alpha \pm 2\pi k), \, k = \overline{1, 2, 3,...} $$</center></p>
-Аналогічно й для *cos, tg, ctg, sec, csc*.
+Аналогічно й для <i>cos, tg, ctg, sec, csc</i>.
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
 
