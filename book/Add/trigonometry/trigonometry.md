@@ -45,7 +45,7 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
 
-Корисним також буде знання деяких тригонометричних співвідношень.
+<p>Корисним також буде знання деяких тригонометричних співвідношень.</p>
 
 * <p>Наступне співвідношення випливає із теореми Піфагора:</p>
      <center>$$sin^2(\alpha) + cos^2(\alpha) = 1$$</center>
