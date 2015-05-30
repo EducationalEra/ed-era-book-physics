@@ -29,6 +29,11 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
     Розділивши чисельних і знаменник на довжину гіпотинузи, отмаємо:
     <center>$$tg(\alpha)=\dfrac{\color{#D0021B}b/ \color{#4A90E2}h}{\color{#417505}a/ \color{#4A90E2}h} = \dfrac{sin(\alpha)}{cos(\alpha)}$$</center>
 
+Ще три основні тригонометричні функції є оберненими до попередніх:
+
+* <p1>Катангенс кута</p1>:
+    <center>$$ctg(\alpha) = \dfrac{1}{tg(\alpha)} = \dfrac{cos(\alpha)}{sin(\alpha)}$$</center>
+
 
 
 
