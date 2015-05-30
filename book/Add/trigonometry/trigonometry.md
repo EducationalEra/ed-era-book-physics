@@ -32,12 +32,12 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 Ще три основні тригонометричні функції є оберненими до попередніх:
 
 * <p1>Катангенс кута</p1>:
-    <center>$$ctg(\alpha) = \dfrac{1}{tg(\alpha)} = \dfrac{cos(\alpha)}{sin(\alpha)}$$</center>
+    <p><center>$$ctg(\alpha) = \dfrac{1}{tg(\alpha)} = \dfrac{cos(\alpha)}{sin(\alpha)}$$</center></p>
 
 * <p1>Секанс кута</p1>:
-    <center>$$sec(\alpha) = \dfrac{1}{sin(\alpha)}$$</center>
+   <p> <center>$$sec(\alpha) = \dfrac{1}{sin(\alpha)}$$</center></p>
 * <p1>Косеканс кута</p1>:
-    <center>$$csc(\alpha) = \dfrac{1}{cos(\alpha)}$$</center>
+   <p> <center>$$csc(\alpha) = \dfrac{1}{cos(\alpha)}$$</center></p>
 
 <p>Усі ці функції є періодичними, тобто повторюють свої значення при змінні кута на $$2\pi$$ (або, що те саме, на $$360^\circ$$)</p>
 <p><center>$$sin(\alpha) = sin(\alpha \pm 2\pi k), \, k = \overline{1, 2, 3,...} $$</center></p>
@@ -59,6 +59,7 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 
 Якщо кути $$\alpha$$ та $$\beta$$ рівні між собою, то формули суми/різниці спрощуються до формул подвійних кутів:
  <p><center>$$sin(2\alpha) = 2sin(\alpha)cos(\alpha)$$ </center></p>
+ <p><center>$$cos(2\alpha) = cos^2(\alpha) - sin^2(\alpha)= 2cos^2(\alpha) - 1 = 1 - 2sin^2(\alpha)$$ </center></p>
  <p><center>$$cos(2\alpha) = cos^2(\alpha) - sin^2(\alpha)= 2cos^2(\alpha) - 1 = 1 - 2sin^2(\alpha)$$ </center></p>
 
 
