@@ -14,7 +14,7 @@
 * <p1>Прилеглий катет</p1> – сторона, що лежить між прямим кутом і нашим кутом $$\alpha$$
 * <p1>Протилеглий катет</p1> – сторона, що лежить навпроти нашого кута $$\alpha$$
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/1.png" class="image"/>
+<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/1.svg" class="image"/>
 
 Тепер у нас є все необхідне для означення тригонометричних функій. 
 
