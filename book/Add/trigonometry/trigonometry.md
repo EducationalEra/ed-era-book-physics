@@ -21,7 +21,7 @@
 * <p><p1>Синус кута</p1> – це відношення довжини протилеглого катета до довжини гіпотенузи. В нашому випадку: </p>
 <center>
 $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\color{#D0021B}т\color{#D0021B}и\color{#D0021B}л\color{#D0021B}е\color{#D0021B}г\color{#D0021B}л\color{#D0021B}и\color{#D0021B}й} \thinspace {\color{#D0021B} к\color{#D0021B}а\color{#D0021B}т\color{#D0021B}е\color{#D0021B}т}}{\color{#4A90E2}г\color{#4A90E2}і\color{#4A90E2}п\color{#4A90E2}о\color{#4A90E2}т\color{#4A90E2}е\color{#4A90E2}н\color{#4A90E2}у\color{#4A90E2}з\color{#4A90E2}а} = \dfrac{\color{#D0021B}b}{\color{#4A90E2}h}$$ </center>
-* <p><p1>Косинус кута</p1> – це відношення довжини прилеглого катета до довжини гіпотенузи</p>
+* <p><p1>Косинус кута</p1> – це відношення довжини прилеглого катета до довжини гіпотенузи:</p>
     <center>$$cos(\alpha) = \dfrac{\color{#417505}п\color{#417505}р\color{#417505}и\color{#417505}л\color{#417505}е\color{#417505}г\color{#417505}л\color{#417505}и\color{#417505}й \thinspace \color{#417505}к\color{#417505}а\color{#417505}т\color{#417505}е\color{#417505}т}{\color{#4A90E2}г\color{#4A90E2}і\color{#4A90E2}п\color{#4A90E2}о\color{#4A90E2}т\color{#4A90E2}е\color{#4A90E2}н\color{#4A90E2}у\color{#4A90E2}з\color{#4A90E2}а}=\dfrac{\color{#417505}a}{\color{#4A90E2}h}$$</center>
     
 
