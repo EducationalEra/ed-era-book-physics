@@ -41,7 +41,7 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 * <p1>Косеканс кута</p1>:
    <p> <center>$$csc(\alpha) = \dfrac{1}{cos(\alpha)}$$</center></p>
 
-<p>Усі ці функції є періодичними, тобто повторюють свої значення при певній змінні кута. Для функцій <i>sin, cos, sec</i> і <i>csc</i> величина цієї зміни становить $$2\pi$$, для tg, ctg – $$\pi$$</p>
+<p>Усі ці функції є періодичними, тобто повторюють свої значення при певній змінні кута. Для функцій <i>sin, cos, sec</i> і <i>csc</i> величина цієї зміни становить $$2\pi$$, для tg, ctg – $$\pi$$.</p>
 <p><center>$$sin(\alpha) = sin(\alpha \pm 2\pi k), \, k = \overline{1, 2, 3,...} $$</center></p>
 <p><center>$$tg(\alpha) = sin(\alpha \pm \pi k), \, k = \overline{1, 2, 3,...} $$</center></p>
 Аналогічно й для <i>cos, ctg, sec, csc</i>.
