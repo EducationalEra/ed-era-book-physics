@@ -27,7 +27,7 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 * <p><p1>Тангенс кута</p1> – це відношення довжини протилеглого катета до довжини прилеглого катета:</p>
     <center>$$tg(\alpha)=\dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\color{#D0021B}т\color{#D0021B}и\color{#D0021B}л\color{#D0021B}е\color{#D0021B}г\color{#D0021B}л\color{#D0021B}и\color{#D0021B}й} \thinspace {\color{#D0021B} к\color{#D0021B}а\color{#D0021B}т\color{#D0021B}е\color{#D0021B}т}}{\color{#417505}п\color{#417505}р\color{#417505}и\color{#417505}л\color{#417505}е\color{#417505}г\color{#417505}л\color{#417505}и\color{#417505}й \thinspace \color{#417505}к\color{#417505}а\color{#417505}т\color{#417505}е\color{#417505}т}=\dfrac{\color{#D0021B}b}{\color{#417505}a}$$</center>
     Розділивши чисельних і знаменник на довжину гіпотинузи, отмаємо:
-    <center>$$tg(\alpha)=\dfrac{b/h}{a/h} = \dfrac{sin(\alpha)}{cos(\alpha)}$$</center>
+    <center>$$tg(\alpha)=\dfrac{\color{#D0021B}b/ \color{#4A90E2}h}{\color{#417505}a/ \color{#4A90E2}h} = \dfrac{sin(\alpha)}{cos(\alpha)}$$</center>
 
 
 
