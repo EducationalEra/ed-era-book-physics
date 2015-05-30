@@ -67,7 +67,8 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 
 * Формули для суми/різниці функцій кута:
     <p><center>$$sin(\alpha) \pm sin(\beta) = 2sin(\dfrac{\alpha \pm \beta}{2})cos(\dfrac{\alpha \mp \beta}{2})$$ </center></p>
-<p><center>cos(\alpha) + sin(\beta) = 2cos(\dfrac{\alpha + \beta}{2})cos(\dfrac{\alpha - \beta}{2})$$ </center></p>
+<p><center>cos(\alpha) + cos(\beta) = 2cos(\dfrac{\alpha + \beta}{2})cos(\dfrac{\alpha - \beta}{2})$$ </center></p>
+<p><center>cos(\alpha) - cos(\beta) = -2sin(\dfrac{\alpha + \beta}{2})sin(\dfrac{\alpha - \beta}{2})$$ </center></p>
 
 
 
