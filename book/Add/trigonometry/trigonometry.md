@@ -14,9 +14,12 @@
 * <p1>Прилеглий катет</p1> – сторона, що лежить між прямим кутом і нашим кутом $$\alpha$$
 * <p1>Протилеглий катет</p1> – сторона, що лежить навпроти нашого кута $$\alpha$$
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/1.svg" class="image"/>
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/1.svg" />
 
 Тепер у нас є все необхідне для означення тригонометричних функій. 
+
+* <p1>Синус кута</p1>– це відношення довжини протилеглого катета до довжини гіпотенузи. В нашому випадку: 
+$$sin(\alpha) = \dfrac{протилеглий \thinspace катет}{\color{#4A90E2}гіпотенуза} = \dfrac{b}{h}$$
 
 
 
