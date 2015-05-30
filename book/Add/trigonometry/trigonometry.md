@@ -41,9 +41,10 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 * <p1>Косеканс кута</p1>:
    <p> <center>$$csc(\alpha) = \dfrac{1}{cos(\alpha)}$$</center></p>
 
-<p>Усі ці функції є періодичними, тобто повторюють свої значення при змінні кута на $$2\pi$$ (або, що те саме, на $$360^\circ$$)</p>
+<p>Усі ці функції є періодичними, тобто повторюють свої значення при певній змінні кута. Для функцій *sin, cos, sec* і *csc* величина цієї зміни становить $$2\pi$$, для tg, ctg – $$\pi$$</p>
 <p><center>$$sin(\alpha) = sin(\alpha \pm 2\pi k), \, k = \overline{1, 2, 3,...} $$</center></p>
-Аналогічно й для <i>cos, tg, ctg, sec, csc</i>.
+<p><center>$$tg(\alpha) = sin(\alpha \pm \pi k), \, k = \overline{1, 2, 3,...} $$</center></p>
+Аналогічно й для <i>cos, ctg, sec, csc</i>.
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
 <div class="caption">Графік залежності функцій sin та cos від кута на проміжку $$[0; 2\pi]$$ </div>
