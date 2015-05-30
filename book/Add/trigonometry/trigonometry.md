@@ -47,7 +47,9 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
 
-<caption>Графік функцій sin та cos</caption>
+Як видно з графіку, функції $$sin$$ та $$cos$$ мають однакову форму, проте синус відстає на $$\dfrac{\pi}{2}$$ від косинуса:
+<center>$$sin(\alpha) = cos(\dfrac{\pi}{2} - \alpha)$$</center>
+<center>$$cos(\alpha) = sin(\dfrac{\pi}{2} - \alpha)$$</center>
 
 <p>Корисним також буде знання деяких тригонометричних співвідношень.</p>
 
