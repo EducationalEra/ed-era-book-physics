@@ -84,7 +84,7 @@
     4. Сполученi посудини
     5. Закон Архiмеда
     6. Закон Бернулi
-* Додаток
+* [Додаток](book/Add/trigonometry/trigonometry.md)
     1. [Тригонометричні функції](book/Add/trigonometry/trigonometry.md)
     2. Вектори
         
