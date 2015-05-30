@@ -34,6 +34,11 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 * <p1>Катангенс кута</p1>:
     <center>$$ctg(\alpha) = \dfrac{1}{tg(\alpha)} = \dfrac{cos(\alpha)}{sin(\alpha)}$$</center>
 
+* <p1>Секанс кута</p1>:
+    <center>$$sec(\alpha) = \dfrac{1}{sin(\alpha)}$$</center>
+* <p1>Косеканс кута</p1>:
+    <center>$$csc(\alpha) = \dfrac{1}{cos(\alpha)}$$</center>
+
 
 
 
