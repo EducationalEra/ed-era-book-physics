@@ -47,7 +47,7 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
 
-Як видно з графіку, функції $$sin$$ та $$cos$$ мають однакову форму, проте синус відстає по фазі(фазою називається аргумент тиргонометричної функції) на $$\dfrac{\pi}{2}$$ від косинуса:
+Як видно з графіку, функції $$sin$$ та $$cos$$ мають однакову форму, проте синус відстає по фазі (фазою називається аргумент тиргонометричної функції) на $$\dfrac{\pi}{2}$$ від косинуса:
 <p><center>$$sin(\alpha) = cos(\dfrac{\pi}{2} - \alpha)$$</center></p>
 <p><center>$$cos(\alpha) = sin(\dfrac{\pi}{2} - \alpha)$$</center></p>
 
