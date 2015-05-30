@@ -20,7 +20,8 @@
 
 * <p><p1>Синус кута</p1>– це відношення довжини протилеглого катета до довжини гіпотенузи. В нашому випадку: </p>
 <center>
-$$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}рcolor{#D0021B}оcolor{#D0021B}тcolor{#D0021B}иcolor{#D0021B}лcolor{#D0021B}еcolor{#D0021B}гcolor{#D0021B}лcolor{#D0021B}иcolor{#D0021B}й} \thinspace {\color{#D0021B} кcolor{#D0021B}аcolor{#D0021B}тcolor{#D0021B}еcolor{#D0021B}т}}{\color{#4A90E2}г\color{#4A90E2}і\color{#4A90E2}п\color{#4A90E2}о\color{#4A90E2}т\color{#4A90E2}е\color{#4A90E2}н\color{#4A90E2}у\color{#4A90E2}з\color{#4A90E2}а} = \dfrac{color{#D0021B}b}{\color{#4A90E2}h}$$ </center>
+$$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}рcolor{#D0021B}оcolor{#D0021B}тcolor{#D0021B}иcolor{#D0021B}лcolor{#D0021B}еcolor{#D0021B}гcolor{#D0021B}лcolor{#D0021B}иcolor{#D0021B}й} \thinspace {\color{#D0021B} кcolor{#D0021B}аcolor{#D0021B}тcolor{#D0021B}еcolor{#D0021B}т}}{\color{#4A90E2}г\color{#4A90E2}і\color{#4A90E2}п\color{#4A90E2}о\color{#4A90E2}т\color{#4A90E2}е\color{#4A90E2}н\color{#4A90E2}у\color{#4A90E2}з\color{#4A90E2}а} = \dfrac{\color{#D0021B}b}{\color{#4A90E2}h}$$ </center>
+
 
 
 
