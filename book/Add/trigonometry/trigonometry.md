@@ -45,6 +45,13 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
 
+Корисним у для нашого курсу фізики та й загалом буде знання деяких тригонометричних співвідношень:
+
+$$sin^2(\alpha) + cos^2(\alpha) = 1 $$
+
+$$sin(\alpha + \beta) = sin(\alpha)cos(\beta) + sin(\beta)cos(\alpha)$$
+$$sin(\alpha - \beta) = sin(\alpha)cos(\beta) - sin(\beta)cos(\alpha)$$
+
 
 
 
