@@ -57,7 +57,8 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 <p><center>$$cos(\alpha + \beta) = cos(\alpha)cos(\beta) - sin(\alpha)sin(\beta)$$</center></p>
 <p><center>$$cos(\alpha - \beta) = cos(\alpha)cos(\beta) + sin(\alpha)sin(\beta)$$</center></p>
 
-Якщо кути $$\alpha$$ та $$\beta$$ рівні між собою, то формули 
+Якщо кути $$\alpha$$ та $$\beta$$ рівні між собою, то формули суми/різниці спрощуються до формул подвійних кутів:
+    
 
 
 
