@@ -61,7 +61,7 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
  <p><center>$$cos(2\alpha) = cos^2(\alpha) - sin^2(\alpha)= 2cos^2(\alpha) - 1 = 1 - 2sin^2(\alpha)$$ </center></p>
  <p><center>$$cos(2\alpha) = cos^2(\alpha) - sin^2(\alpha)= 2cos^2(\alpha) - 1 = 1 - 2sin^2(\alpha)$$ </center></p>
 
-* Формули функцій <p1>половинного кута</p1>:
+* Формули <p1>функцій половинного кута</p1>:
     <p><center>$$sin\big(\dfrac{\alpha}{2}\big) = \sqrt{\dfrac{1-cos(\alpha)}{2}}$$ </center></p>
     <p><center>$$cos\big(\dfrac{\alpha}{2}\big) = \sqrt{\dfrac{1+cos(\alpha)}{2}}$$ </center></p>
 
