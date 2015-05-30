@@ -50,22 +50,22 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 * <p>Наступне співвідношення випливає із теореми Піфагора:</p>
      <center>$$sin^2(\alpha) + cos^2(\alpha) = 1$$</center>
 
-* <p>Формули для суми та різниці кутів:</p>
+* <p>Формули для <p1>суми/різниці кутів</p1>:</p>
 <p><center>$$sin(\alpha + \beta) = sin(\alpha)cos(\beta) + sin(\beta)cos(\alpha)$$ </center></p>
 <p><center>$$sin(\alpha - \beta) = sin(\alpha)cos(\beta) - sin(\beta)cos(\alpha)$$</center></p>
 <p><center>$$cos(\alpha + \beta) = cos(\alpha)cos(\beta) - sin(\alpha)sin(\beta)$$</center></p>
 <p><center>$$cos(\alpha - \beta) = cos(\alpha)cos(\beta) + sin(\alpha)sin(\beta)$$</center></p>
 
-* Якщо кути $$\alpha$$ та $$\beta$$ рівні між собою, то формули суми/різниці спрощуються до формул подвійних кутів:
+* Якщо кути $$\alpha$$ та $$\beta$$ рівні між собою, то формули суми/різниці спрощуються до формул <p1>подвійних кутів</p1>:
  <p><center>$$sin(2\alpha) = 2sin(\alpha)cos(\alpha)$$ </center></p>
  <p><center>$$cos(2\alpha) = cos^2(\alpha) - sin^2(\alpha)= 2cos^2(\alpha) - 1 = 1 - 2sin^2(\alpha)$$ </center></p>
  <p><center>$$cos(2\alpha) = cos^2(\alpha) - sin^2(\alpha)= 2cos^2(\alpha) - 1 = 1 - 2sin^2(\alpha)$$ </center></p>
 
-* Формули функцій половинного кута:
+* Формули функцій <p1>половинного кута</p1>:
     <p><center>$$sin(\dfrac{\alpha}{2}) = \sqrt{\dfrac{1-cos(\alpha)}{2}}$$ </center></p>
     <p><center>$$cos(\dfrac{\alpha}{2}) = \sqrt{\dfrac{1+cos(\alpha)}{2}}$$ </center></p>
 
-* Формули для суми/різниці функцій кута:
+* Формули для <p1>суми/різниці функцій кута</p1>:
     <p><center>$$sin(\alpha) \pm sin(\beta) = 2sin(\dfrac{\alpha \pm \beta}{2})cos(\dfrac{\alpha \mp \beta}{2})$$ </center></p>
 <p><center>cos(\alpha) + cos(\beta) = 2cos(\dfrac{\alpha + \beta}{2})cos(\dfrac{\alpha - \beta}{2})$$ </center></p>
 <p><center>cos(\alpha) - cos(\beta) = -2sin(\dfrac{\alpha + \beta}{2})sin(\dfrac{\alpha - \beta}{2})$$ </center></p>
