@@ -68,11 +68,11 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 * Формули для <p1>суми/різниці функцій кута</p1>:
     
 
-<p><center>$$sin(\alpha) \pm sin(\beta) = 2sin(\dfrac{\alpha \pm \beta}{2})cos(\dfrac{\alpha \mp \beta}{2})$$ </center></p>
+<p><center>$$sin(\alpha) \pm sin(\beta) = 2sin\big(\dfrac{\alpha \pm \beta}{2}\big)cos\big(\dfrac{\alpha \mp \beta}{2}\big)$$ </center></p>
 
-<p><center>$$cos(\alpha) + cos(\beta) = 2cos(\dfrac{\alpha + \beta}{2})cos(\dfrac{\alpha - \beta}{2})$$ </center></p>
+<p><center>$$cos(\alpha) + cos(\beta) = 2cos\big(\dfrac{\alpha + \beta}{2}\big)cos\big(\dfrac{\alpha - \beta}{2}\big)$$ </center></p>
 
-<p><center>$$cos(\alpha) - cos(\beta) = -2sin(\dfrac{\alpha + \beta}{2})sin(\dfrac{\alpha - \beta}{2})$$ </center></p>
+<p><center>$$cos(\alpha) - cos(\beta) = -2sin\big(\dfrac{\alpha + \beta}{2}\big)sin\big(\dfrac{\alpha - \beta}{2}\big)$$ </center></p>
 
 
 
