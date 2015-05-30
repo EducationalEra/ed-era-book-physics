@@ -46,6 +46,7 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 Аналогічно й для <i>cos, tg, ctg, sec, csc</i>.
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
+<img class="image"  src="http://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif" />
 
 Як видно з графіку, функції $$sin$$ та $$cos$$ мають однакову форму, проте  відрізняються по фазі на $$\dfrac{\pi}{2}$$:
 <p><center>$$sin(\alpha) = cos(\dfrac{\pi}{2} - \alpha)$$</center></p>
