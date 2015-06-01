@@ -86,3 +86,5 @@ $$|\lambda\vec{a}|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2} = \sqrt{\lambda^2 (a
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/8.svg" />
 
 <h2><p1>Скалярний добуток векторів</p1></h2>
+
+
