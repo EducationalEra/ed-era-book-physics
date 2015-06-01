@@ -105,7 +105,6 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 <choice correct="false">2</choice>
 <choice correct="true">3</choice>
 <p><message></message></p>
-          
 <p><explain style="display: none">Because it is so 2</explain></p>
 </EdEra_question>
 
