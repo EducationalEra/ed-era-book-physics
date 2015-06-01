@@ -88,3 +88,10 @@ $$|\lambda\vec{a}|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2} = \sqrt{\lambda^2 (a
 <h2><p1>Скалярний добуток векторів</p1></h2>
 
 
+<div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<b>Скалярним добутком</b> двох векторів $$\vec{a} (a_1;a_2)$$ та $$\vec{b} (b_1;b_2)$$ називається <b>число</b> $$a_1 b_1+a_2 b_2$$. Скалярний добуток позначається $$\vec{a}\cdot\vec{b}$$ або $$(\vec{a},\vec{b})$$.
+</div>
+</div>
+
