@@ -63,3 +63,13 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
 
 $$\lambda\vec{a} = (\lambda a_1;\lambda a_2).$$
 
+<div class="ebio-wrap">
+<span class="ebio">Властивості операції множення вектора на скаляр</span>
+<div class="ebio-text">
+    <ul>
+        <li>Комутативність: $$\lambda\vec{a} = \vec{a}\lambda$$.</li>
+        <li>Асоціативність: $$\lambda(\mu\vec{a}) = (\lambda\mu)\vec{a}$$.</li>
+        <li>Додавання нульового вектора: $$\vec{a} + \vec{0} = \vec{a}$$.</li>
+    </ul>
+</div>
+</div>
