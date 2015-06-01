@@ -88,7 +88,7 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 <EdEra_question type = "Multiple">
 <p>Question text</p>
 <choice correct="false">The iPad</choice>
-<choice correct="false">Napster</choice>
+<choice correct="false">$$a= b^2$$</choice>
 <choice correct="true">The iPod</choice>
 <choice correct="false">The vegetable peeler</choice>
 <p><message></message></p>
