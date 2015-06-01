@@ -35,7 +35,7 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
     <ul>
         <li>Комутативність: $$\vec{a} + \vec{b} = \vec{b} + \vec{a}$$.</li>
         <li>Асоціативність: $$(\vec{a} + \vec{b}) + \vec{c} = \vec{a} + (\vec{b} + \vec{c})$$.</li>
-        <li></li>
+        <li>Додавання нульового вектора: $$\vec{a} + \vec{0} = \vec{a}$$.</li>
     </ul>
 </div>
 </div>
