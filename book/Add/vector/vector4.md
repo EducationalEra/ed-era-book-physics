@@ -70,6 +70,7 @@ $$\lambda\vec{a} = (\lambda a_1;\lambda a_2).$$
         <li>Комутативність: $$\lambda\vec{a} = \vec{a}\lambda$$.</li>
         <li>Асоціативність: $$\lambda(\mu\vec{a}) = (\lambda\mu)\vec{a}$$.</li>
         <li>Дистрибутивність відносно додавання чисел: $$(\lambda + \mu)\vec{a} = \lambda\vec{a} + \mu\vec{a}$$</li>
+        <li>Дистрибутивність відносно додавання векторів: $\lambda(\vec{a} + \vec{b}) = \lambda\vec{a} + \lambda\vec{b}$.</li>
     </ul>
 </div>
 </div>
