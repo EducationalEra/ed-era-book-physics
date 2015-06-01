@@ -87,4 +87,5 @@
 * [Додаток](book/Add/trigonometry/trigonometry.md)
     1. [Тригонометричні функції](book/Add/trigonometry/trigonometry.md)
     2. [Вектори](book/Add/vector/vector1.md)
+        * [Вектори](book/Add/vector/vector1.md)
         
