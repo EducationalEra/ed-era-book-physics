@@ -88,4 +88,13 @@
     6. Закон Бернулi
 * [Додаток](book/Add/trigonometry/trigonometry.md)
     1. [Тригонометричні функції](book/Add/trigonometry/trigonometry.md)
-    2. Вектори
+    2. [Вектори](book/Add/vector/vector1.md)
+        * [Поняття вектора](book/Add/vector/vector1.md)
+        * [Рівність векторів](book/Add/vector/vector2.md)
+        * [Координати векторів](book/Add/vector/vector3.md)
+        * [Операції над векторами](book/Add/vector/vector4.md)
+            1. [Модуль ветора](book/Add/vector/vector4.md)
+            2. [Додавання веторів](book/Add/vector/vector4.md)
+            3. [Множення вектора на скаляр](book/Add/vector/vector4.md)
+            4. [Скалярний добуток векторів](book/Add/vector/vector4.md)
+            5. [Проекція та розкладання вектора на компоненти](book/Add/vector/vector4.md)
