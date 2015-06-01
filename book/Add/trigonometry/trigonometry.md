@@ -95,8 +95,6 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 <p><explain style="display: none">Because it is so 1</explain></p>
 </EdEra_question>
     
-    
-    
 <EdEra_question type = "CheckBox">
 <p>Question text</p>
 <choice correct="true">The iPad</choice>
