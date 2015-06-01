@@ -56,3 +56,10 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/7.svg" />
 
 Віднімання векторів $$\vec{a} - \vec{b}$$ еквівалентне додаванню протилежного вектора: $$\vec{a} + (-\vec{b})$$.
+
+<h2><p1>Множення вектора на скаляр</p1></h2>
+
+При множенні вектора $$\vec{a} (a_1;a_2)$$ на скалярну величину $$\lambda$$, кожна координата вектора множиться на цей скаляр:
+
+$$\lambda\vec{a} = (\lambda a_1;\lambda a_2).$$
+
