@@ -45,5 +45,9 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
 
 <p1>«Правило трикутника»</p1>: потрібно зробити паралельне перенесення одного з векторів так, щоб його початок співпадав з кінцем іншого. Вектор суми утворюватиме трикутник з двома векторами, він буде починатись в точці початку першого вектора і закінчуватись в точці кінця другого:
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/4.svg" />
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/5.svg" />
+
+За цим же правилом можна додавати багато векторів, для цього їх всі потрібно послідовно з’єднати. Результатом буде вектор, що починається у початку першого вектора, та закінчується у кінці останнього вектора:
+
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/6.svg" />
 
