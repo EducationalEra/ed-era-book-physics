@@ -74,3 +74,13 @@ $$\lambda\vec{a} = (\lambda a_1;\lambda a_2).$$
     </ul>
 </div>
 </div>
+
+З точки зору геометрїї при множенні довжина вектора збільшується в $$|\lambda|$$ разів:
+
+$$|\lambda\vec{a}|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2} = \sqrt{\lambda^2 (a_1^2+a_2^2)}=|\lambda|\sqrt{a_1^2+a_2^2} = |\lambda|\cdot|\vec{a}|.$$
+
+При цьому:
+\begin{itemize}
+	\item{якщо $\lambda>0$, то напрямок вектора зберігається;}
+	\item{якщо $\lambda<0$, то напрямок вектора змінюється на протилежний:}
+\end{itemize}
