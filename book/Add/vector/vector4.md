@@ -149,7 +149,7 @@ $$\vec{a_2} (0;a_2)=a_2 \vec{e_2} (0;1).$$
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/11.svg" />
 
-Підставивши ці вирази до виразу для вектора $$\overrightarrow{a}$$, отримуємо:
+Підставивши ці вирази до виразу для вектора $$\vec{a}$$, отримуємо:
 
 $$\vec{a} = a_1\vec{e_1} + a_2\vec{e_2}.$$
 
