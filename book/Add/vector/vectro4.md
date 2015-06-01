@@ -32,6 +32,10 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
 <div class="ebio-wrap">
 <span class="ebio">Властивості операції додавання векторів</span>
 <div class="ebio-text">
-<b>Вектор</b> — це величина, що характеризується числовим значенням і напрямком.
+    <ul>
+        <li>Комутативність: $$\vec{a} + \vec{b} = \vec{b} + \vec{a}$$.</li>
+        <li>Асоціативність: $$(\vec{a} + \vec{b}) + \vec{c} = \vec{a} + (\vec{b} + \vec{c})$$.</li>
+        <li></li>
+    </ul>
 </div>
 </div>
