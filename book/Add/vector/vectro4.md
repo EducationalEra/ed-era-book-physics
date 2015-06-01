@@ -29,9 +29,9 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
 
 Іншими словами при додаванні векторів, їхні відповідні <p1>координати додаються</p1>.
 
-<div class="eoz-wrap">
-<span class="eoz">Означення</span>
-<div class="eoz-text">
+<div class="ebio-wrap">
+<span class="ebio">Означення</span>
+<div class="ebio-text">
 <b>Вектор</b> — це величина, що характеризується числовим значенням і напрямком.
 </div>
 </div>
