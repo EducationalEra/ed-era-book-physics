@@ -78,7 +78,7 @@ $$\lambda\vec{a} = (\lambda a_1;\lambda a_2)$$
 З точки зору геометрїї при множенні довжина вектора збільшується в $$|\lambda|$$ разів:
 
 $$\begin{eqnarray}
-|\lambda\vec{a}|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2} = \sqrt{\lambda^2 (a_1^2+a_2^2)}= \\ |\lambda|\sqrt{a_1^2+a_2^2} = |\lambda|\cdot|\vec{a}|
+|\lambda\vec{a}|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2} = \sqrt{\lambda^2 (a_1^2+a_2^2)}= \\ =|\lambda|\sqrt{a_1^2+a_2^2} = |\lambda|\cdot|\vec{a}|
 \end{eqnarray}
 $$
 
