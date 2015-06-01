@@ -82,3 +82,5 @@ $$|\lambda\vec{a}|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2} = \sqrt{\lambda^2 (a
 При цьому:
 1. якщо $$\lambda>0$$, то напрямок вектора зберігається;
 2. якщо $$\lambda<0$$, то напрямок вектора змінюється на протилежний:
+
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/8.svg" />
