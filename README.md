@@ -89,5 +89,5 @@
     2. [Вектори](book/Add/vector/vector1.md)
         * [Поняття вектора](book/Add/vector/vector1.md)
         * [Рівність векторів](book/Add/vector/vector2.md)
-        * [Рівність векторів](book/Add/vector/vector2.md)
+        * [Координати векторів](book/Add/vector/vector3.md)
         
