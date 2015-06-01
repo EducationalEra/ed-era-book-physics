@@ -104,6 +104,6 @@ $$(\vec{a},\vec{a}) = \vec{a}^2 = |\vec{a}|^2.$$
 <div class="eoz-text">
 <b>Скалярний добуток</b> також означається як добуток довжин векторів та косинусу кута між цими векторами:
 
-	$$(\vec{a},\vec{b}) = |\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
+$$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
 </div>
 </div>
