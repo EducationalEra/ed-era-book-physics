@@ -119,8 +119,7 @@ $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
     <ul>
         <li>Комутативність: $$(\vec{a},\vec{b})=(\vec{b},\vec{a})$$.</li>
         <li>Асоціативність: $$\lambda(\vec{a}, \vec{b}) = (\lambda\vec{a},\vec{b}) = (\vec{a},\lambda\vec{b})$$.</li>
-        <li>Дистрибутивність відносно додавання чисел: $$(\lambda + \mu)\vec{a} = \lambda\vec{a} + \mu\vec{a}$$</li>
-        <li>Дистрибутивність відносно додавання векторів: $\lambda(\vec{a} + \vec{b}) = \lambda\vec{a} + \lambda\vec{b}$.</li>
+        <li>Дистрибутивність: $$(\vec{a} + \vec{b},\vec{c}) = (\vec{a},\vec{c}) + (\vec{b},\vec{c})$.</li>
     </ul>
 </div>
 </div>
