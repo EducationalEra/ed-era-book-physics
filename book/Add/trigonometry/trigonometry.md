@@ -85,28 +85,6 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 <p><center>$$cos(\alpha) - cos(\beta) = -2sin\big(\dfrac{\alpha + \beta}{2}\big)sin\big(\dfrac{\alpha - \beta}{2}\big)$$ </center></p>
 
 
-<EdEra_question type = "Multiple">
-<p>Question text</p>
-<choice correct="false">The iPad</choice>
-<choice correct="false"> $$a= b^2$$ </choice>
-<choice correct="true">The iPod</choice>
-<choice correct="false">The vegetable peeler</choice>
-<p><message></message></p>
-<p><explain style="display: none">Because it is so 1</explain></p>
-</EdEra_question>
 
-
-<EdEra_question type = "CheckBox">
-<p>Question text</p>
-<p><choice correct="true">The iPad</choice></p>
-<p><choice correct="false">Napster</choice></p>
-<p><choice correct="true">The iPod</choice></p>
-<p><choice correct="false">The vegetable peeler</choice></p>
-<p><choice correct="true">1</choice></p>
-<p><choice correct="false">2</choice></p>
-<p><choice correct="true">3</choice></p>
-<p><message></message></p>
-<p><explain style="display: none">Because it is so 2</explain></p>
-</EdEra_question>
 
 
