@@ -112,3 +112,15 @@ $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
 <p1>Зауваження</p1>: якщо вектори $$\vec{a}$$ та $$\vec{b}$$ не є нульовими і перпендикулярні, кут між ними $$\varphi = \dfrac{\pi}{2}$$ і $$\cos{\varphi} = \cos{\dfrac{\pi}{2}} = 0$$, то з вищенаведеного означення випливає, що <b>скалярний добуток перпендикулярних векторів рівний нулю</b>, і навпаки.
 </div>
 </div>
+
+<div class="ebio-wrap">
+<span class="ebio">Властивості скалярного добутку векторів</span>
+<div class="ebio-text">
+    <ul>
+        <li>Комутативність: $$(\vec{a},\vec{b})=(\vec{b},\vec{a})$$.</li>
+        <li>Асоціативність: $$\lambda(\vec{a}, \vec{b}) = (\lambda\vec{a},\vec{b}) = (\vec{a},\lambda\vec{b})$$.</li>
+        <li>Дистрибутивність відносно додавання чисел: $$(\lambda + \mu)\vec{a} = \lambda\vec{a} + \mu\vec{a}$$</li>
+        <li>Дистрибутивність відносно додавання векторів: $\lambda(\vec{a} + \vec{b}) = \lambda\vec{a} + \lambda\vec{b}$.</li>
+    </ul>
+</div>
+</div>
