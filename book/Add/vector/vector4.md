@@ -118,10 +118,11 @@ $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
     <ul>
         <li>Комутативність: $$(\vec{a},\vec{b})=(\vec{b},\vec{a})$$.</li>
         <li>Асоціативність: $$\lambda(\vec{a}, \vec{b}) = (\lambda\vec{a},\vec{b}) = (\vec{a},\lambda\vec{b})$$.</li>
-        <li>Дистрибутивність: $$(\vec{a} + \vec{b},\vec{c}) = (\vec{a},\vec{c}) + (\vec{b},\vec{c})$.</li>
+        <li>Дистрибутивність: $$(\vec{a} + \vec{b},\vec{c}) = (\vec{a},\vec{c}) + (\vec{b},\vec{c})$$.</li>
     </ul>
 </div>
 </div>
+
 
 <h2><p1>Проекція та розкладання вектора на компоненти</p1></h2>
 
