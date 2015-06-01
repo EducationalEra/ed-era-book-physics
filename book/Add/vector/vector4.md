@@ -106,5 +106,9 @@ $$(\vec{a},\vec{a}) = \vec{a}^2 = |\vec{a}|^2.$$
 
 $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
 
+
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/9.svg" />
+
+<p1>Зауваження</p1>: якщо вектори $$\vec{a}$$ та $$\vec{b}$$ не є нульовими і перпендикулярні, кут між ними $$\varphi = \dfrac{\pi}{2}$$ і $$\cos{\varphi} = \cos{\dfrac{\pi}{2}} = 0$$, то з вищенаведеного означення випливає, що <b>скалярний добуток перпендикулярних векторів рівний нулю</b>, і навпаки.
 </div>
 </div>
