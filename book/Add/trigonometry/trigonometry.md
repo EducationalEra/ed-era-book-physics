@@ -87,30 +87,30 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 
 
 
- <EdEra_question type = "Multiple">
-        <p>Question text</p>
-            <choice correct="false">The iPad</choice>
-            <choice correct="false">Napster</choice>
-            <choice correct="true">The iPod</choice>
-            <choice correct="false">The vegetable peeler</choice>
-            <p><message></message></p>
-        <p><explain style="display: none">Because it is so 1</explain></p>
-    </EdEra_question>
+<EdEra_question type = "Multiple">
+<p>Question text</p>
+<choice correct="false">The iPad</choice>
+<choice correct="false">Napster</choice>
+<choice correct="true">The iPod</choice>
+<choice correct="false">The vegetable peeler</choice>
+<p><message></message></p>
+<p><explain style="display: none">Because it is so 1</explain></p>
+</EdEra_question>
     
     
     
-    <EdEra_question type = "CheckBox">
-        <p>Question text</p>
-            <choice correct="true">The iPad</choice>
-            <choice correct="false">Napster</choice>
-            <choice correct="true">The iPod</choice>
-            <choice correct="false">The vegetable peeler</choice>
-            <choice correct="true">1</choice>
-            <choice correct="false">2</choice>
-            <choice correct="true">3</choice>
-          <p><message></message></p>
+<EdEra_question type = "CheckBox">
+<p>Question text</p>
+<choice correct="true">The iPad</choice>
+<choice correct="false">Napster</choice>
+<choice correct="true">The iPod</choice>
+<choice correct="false">The vegetable peeler</choice>
+<choice correct="true">1</choice>
+<choice correct="false">2</choice>
+<choice correct="true">3</choice>
+<p><message></message></p>
           
-          <p><explain style="display: none">Because it is so 2</explain></p>
-    </EdEra_question>
+<p><explain style="display: none">Because it is so 2</explain></p>
+</EdEra_question>
 
 
