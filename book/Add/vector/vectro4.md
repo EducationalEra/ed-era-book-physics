@@ -52,3 +52,5 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/6.svg" />
 
 <p1>«Правило паралелограма»</p1>: потрібно зробити паралельне перенесення одного з векторів так, щоб початки векторів співпали. На основі цих векторів будується паралелограм, а сумарний вектор буде співпадати з діагоналлю побудованого паралелограма і матиме початок в точці суміщення векторів:
+
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/7.svg" />
