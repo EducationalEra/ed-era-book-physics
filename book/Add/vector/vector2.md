@@ -4,3 +4,4 @@
 
 Іншими словами рівні вектори можна сумістити використавши паралельне перенесення:
 
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/3.svg" />
