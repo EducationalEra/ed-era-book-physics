@@ -85,8 +85,6 @@ $$sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\col
 <p><center>$$cos(\alpha) - cos(\beta) = -2sin\big(\dfrac{\alpha + \beta}{2}\big)sin\big(\dfrac{\alpha - \beta}{2}\big)$$ </center></p>
 
 
-
-
 <EdEra_question type = "Multiple">
 <p>Question text</p>
 <choice correct="false">The iPad</choice>
