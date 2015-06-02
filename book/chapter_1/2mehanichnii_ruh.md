@@ -40,7 +40,7 @@
 
 <div class="remodal-bg">
   <p align="center">
-  <a href="#modal"><img src='images/typilci1.jpg' width="65%" onmouseover="this.src='images/typilci2.jpg';" onmouseout="this.src='images/typilci1.jpg';" /></a>
+  <a href="#modal"><img src='images/images/chapter_1/2.svg' width="65%" onmouseover="this.src='images/chapter_1/2.svg';" onmouseout="this.src='images/chapter_1/2.svg';" /></a>
   </p>
 </div>
 
