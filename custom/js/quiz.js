@@ -64,11 +64,11 @@ function findCorrect(currentPos) {
             answers[i].getElementsByTagName("m")[0].innerHTML = " &#10008";
             answers[i].getElementsByTagName("m")[0].style.color="red";
             }
-        }
-    if (incorAns == 0 && corAns == 0) {
+       /* else {
          questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Не вибрано жодного варіанту.";
-    }    
-    else {
+        }*/
+        }
+    
             if (corAns == totalCorrect(currentPos) && incorAns == 0) {
                 questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Вірно";
             }
@@ -76,7 +76,7 @@ function findCorrect(currentPos) {
                 questions[currentPos].getElementsByTagName("message")[0].innerHTML = "Невірно";
             }
             inputs[inputs.length-1].setAttribute("style", "display");
-         }
+    
    questions[currentPos].getElementsByTagName("explain")[0].setAttribute("style", "display");
     
 }
