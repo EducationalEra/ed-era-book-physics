@@ -1,4 +1,5 @@
 #Зміст
+[Вступне слово](book/vstupne_slovo.md)
 1. [Одновимірна кінематика](book/chapter_1/1vstup.md)
    1. [Вступ до кінематики](book/chapter_1/1vstup.md)
        1. [Механічний рух](book/chapter_1/2mehanichnii_ruh.md)
