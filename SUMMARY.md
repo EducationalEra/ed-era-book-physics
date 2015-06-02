@@ -1,7 +1,6 @@
 # Summary
 
 * [Зміст](README.md)
-   * [Вступне слово](vstupne_slovo.md)
 * [Вступне слово](book/vstupne_slovo.md)
 * [Одновимірна кінематика](book/chapter_1/1vstup.md)
    * [Вступ до кінематики](book/chapter_1/1vstup.md)
