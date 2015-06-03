@@ -45,4 +45,6 @@ $$a_x=lim_{\Delta t\to0}\dfrac{\Delta v_x}{\Delta t}=v'_x(t)=x''(t)$$
 </div>
 
 
+
+
 	
