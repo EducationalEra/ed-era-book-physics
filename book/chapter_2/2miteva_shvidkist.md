@@ -22,7 +22,7 @@ $$v_x = \dfrac{S_x}{t}$$
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<b>Миттєва швидкiсть</b> — швидкiсть тiла в даний момент часу в данiй точці траєкторії 
+<b>Миттєва швидкiсть</b> — швидкiсть тіла в даний момент часу в данiй точці траєкторії 
 
 $$v_x=\lim_{\Delta t\to\infty}\dfrac{\Delta x}{\Delta t}=x'(t)$$
 
