@@ -7,7 +7,11 @@
         "quiz",
         "gtm"
     ],
-    "pluginsConfig": {},
+    "pluginsConfig": {
+        "gtm": {
+            "token": "GTM-N86M5F"
+        }
+    },
     "links": {
         "sharing": {
             "vk": true
