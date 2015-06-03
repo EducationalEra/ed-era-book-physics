@@ -8,3 +8,4 @@ $$v_x = \dfrac{S_x}{t}$$
 
 З iншого боку, в реальних задачах часто зустрiчається рух зi змiнною швидкiстю. Наприклад, маємо графiк $$x(t)$$
 
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/1.svg" />
