@@ -51,7 +51,7 @@ $$a_x$$ - проекція прискорення на вісь $$x$$.
 
 
 
-<b><i>Розв’язок.</i></b> Направимо вісь $$x$$ в сторону руху, тоді $$v_{0x}>0,\ a_x <  0$$.
+<b><i>Розв’язок.</i></b> Направимо вісь $$x$$ в сторону руху, тоді $$v_{0x}>0, \ a_x <  0$$.
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/7.svg" />
 
