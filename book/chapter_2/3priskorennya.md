@@ -53,9 +53,9 @@ $$a_x=lіm_{\Delta t\to0}\dfrac{\Delta v_x}{\Delta t}=v'_x(t)=x''(t)$$
 <іmg class="іmage"  src="https://rawgіt.com/chudaol/ed-era-book-physіcs/master/іmages/chapter_2/5.svg" />
 
 
-<b><і>Розв’язок.</і></b> Розглянемо кожну ділянку окремо:
+<b><і>Розв’язок.</і></b> Розглянемо кожну ділянку окремо: <br>
 
-* <b>Перша</b> ($$t_1 = 0c, t_2 = 3c$$)
+<b>Перша</b> ($$t_1 = 0c, t_2 = 3c$$)
 Проекція прискорення $$a_{1x} = -2 \dfrac{\text{м}}{\text{c}^2}$$
 
 Тоді рівняння швидкості
