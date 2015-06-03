@@ -12,7 +12,7 @@
        * [Проекцiя швидкостi та перемiщення](book/chapter_1/8proektsiya.md)
        * [Середня швидкiсть](book/chapter_1/9serednya_shvidkist.md)
    1. [Рiвноприскорений прямолiнiйний рух](book/chapter_2/1rivnopriskorenii_ruh.md)
-       1. [Миттєва швидкiсть](book/chapter_2/2miteva_shvidkist.md)
+       * [Миттєва швидкiсть](book/chapter_2/2miteva_shvidkist.md)
        * [Прискорення та гальмування](book/chapter_2/3priskorennya.md)
        * [Рiвняння рiвноприскореного прямолiнiйного руху](book/chapter_2/4rivnyannya.md.md)
    * Вертикальний рух пiд дiєю сили тяжiння
