@@ -86,7 +86,7 @@
    * Закон Паскаля
    * Сполученi посудини
    * Закон Архiмеда
-   * Закон Бернулi
+   * Закон Бернуллi
 * [Додаток](book/Add/trigonometry/trigonometry.md)
    * [Тригонометричні функції](book/Add/trigonometry/trigonometry.md)
    * [Вектори](book/Add/vector/vector1.md)
