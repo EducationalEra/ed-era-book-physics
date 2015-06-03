@@ -10,7 +10,7 @@
 $$\vec{a} = \dfrac{\vec{v}-\vec{v}_0}{\Delta t}$$
 
 
-У системі Сі - $$\dfrac{\text{м}}{\text{с}^2}$$
+<p>У системі СІ - $$\dfrac{\text{м}}{\text{с}^2}$$</p>
 
 </dіv>
 </dіv>
