@@ -20,5 +20,6 @@ $$\vec{a} = \dfrac{\vec{v}-\vec{v}_0}{\Delta t}$$
 2. Проекцiя швидкостi – пряма лiнiя, кут нахилу якої визначає прискорення:
 $$v_x(t)=v_{0x}+a_xt$$
 
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/3.svg" />
 
 	
