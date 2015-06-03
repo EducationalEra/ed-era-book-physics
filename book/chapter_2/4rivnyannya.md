@@ -4,7 +4,7 @@
 
 Давайте поглянемо на площу потрібної фігури на графіку $$v_x(t)$$ для рівноприскореного прямолінійного руху.
 
-<іmg class="іmage"  src="https://rawgіt.com/chudaol/ed-era-book-physіcs/master/іmages/chapter_2/6.svg" />
+<іmg class="іmage"  src="https://rawgіt.com/chudaol/ed-era-book-physіcs/master/іmages/chapter_2/6.svg"/>
 
 <p1>Проекція переміщення:</p1> $$S_x = S_{\text{трикутника}} + S_{\text{прямокутника}}$$
 
