@@ -50,7 +50,7 @@ $$a_x=lim_{\Delta t\to0}\dfrac{\Delta v_x}{\Delta t}=v'_x(t)=x''(t)$$
 <div class="task-text">
 Початкова швидкiсть тiла $$v_{0x} = 2 м/с$$. Прямолiнiйний рух тiла подiлений на три промiжки, протягом яких тiло рухається з рiзними прискореннями. Графiк залежностi проекцiї прискорення вiд часу $$a_x(t)$$. Побудуйте вiдповiдний графiк $$v_x(t)$$ для цього руху.
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/4.svg" />
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/5.svg" />
 
 
 <b><i>Розв’язок.</i></b> Розглянемо кожну дiлянку окремо:
