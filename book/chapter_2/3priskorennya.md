@@ -22,4 +22,12 @@ $$v_x(t)=v_{0x}+a_xt$$
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/3.svg" />
 
+На малюнку зображено змiну швидкостi на $$1$$ м/с кожну наступну секунду. Побудуємо вiдповiдний графiк залежностi проекцiї швидкостi вiд часу $$v_x(t)$$
+
+<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/4.svg" />
+
+Початкова швидкiсть, з якої ми почали розгляд руху $$v_{0x}= 1$$ м/с $$\rightarrow$$ графiк починається з точки $$(0,1)$$. Кут нахилу прямої $$v_x(t)$$ визначає прискорення (аналогiчно до визначення швидкостi iз графiку $$x(t)$$).
+
+
+
 	
