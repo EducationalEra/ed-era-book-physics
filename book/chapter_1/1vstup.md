@@ -31,7 +31,7 @@
   <a class="remodal-confirm" href="#">OK</a>
 <a href="#" class="remodal-close"></a></div></div>
 
-Перед початком розгляду кінематики радимо вам звернути увагу на розділ [Додаток](book/Add/trigonometry/trigonometry.md)
+Перед початком розгляду кінематики радимо вам звернути увагу на розділ [Додаток](book/Add/trigonometry/trigonometry.html)
 
 
 
