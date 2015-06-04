@@ -32,7 +32,7 @@
 <a href="#" class="remodal-close"></a></div></div>
 
 Перед початком розгляду кінематики радимо вам звернути увагу на розділ [Додаток](http://physics.ed-era.com/book/Add/trigonometry/trigonometry.html)
-[Тригонометрія](../../book/Add/trigonometry/trigonometry.md)
+[Тригонометрія](/../Add/trigonometry/trigonometry.md)
 
 
 
