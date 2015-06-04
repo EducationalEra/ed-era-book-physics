@@ -32,7 +32,7 @@
 <a href="#" class="remodal-close"></a></div></div>
 
 Перед початком розгляду кінематики радимо вам звернути увагу на розділ [Додаток](book/Add/trigonometry/trigonometry.md)
-
+[Тригонометрія](book/Add/vector/vector1.md)
 
 
 
