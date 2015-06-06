@@ -32,7 +32,8 @@ $$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
 <table style="clear-table">
 <tr style="clear-table">
 <td style="clear-table"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/8.svg" /></td>
-<td style="clear-table"><b>А.</b> Петро пiдкидає м’яч вертикально вгору з початковою швидкiстю $$v_0$$.
+<td style="clear-table">
+<b>А.</b> Петро пiдкидає м’яч вертикально вгору з початковою швидкiстю $$v_0$$.
 Рiвняння руху 
 	
 \[x=x_0+v_{0x}t-\dfrac{at^2}{2}\]
