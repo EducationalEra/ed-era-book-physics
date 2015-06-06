@@ -724,3 +724,9 @@ body.remodal-is-active .remodal {
     width: initial !important;
     margin:auto;
  }
+ 
+.clear-table{
+    border:none;
+    background:none;
+}
+}
