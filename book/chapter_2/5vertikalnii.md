@@ -48,8 +48,9 @@ $$v(t')=v_0-gt'=0 \Rightarrow \boxed{t'=\dfrac{v_{0x}}{g}}$$
 Пiдставимо у вираз для $$H_{max}: H_{max} = \dfrac{v^2_{0x}}{2g}$$</td>
 </tr>
 </table>
-<table border="none" style="width:100%">
-<tr> <td width="30%"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/9.svg" /></td>
+<table>
+<tr>
+<td width="30%"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/9.svg" /></td>
 <td><b>Б.</b> Розглядаємо спуск м’яча.
 
 Тодi $$v_{0x}=0,x_0=H_{max}$$.
