@@ -392,9 +392,6 @@ p1 {
     margin:auto;
  }
  
- table, td, td {
-    border: 2px solid #0F5180;
-}
 
 /*modal ssssss  */  
 @import url(//fonts.googleapis.com/css?family=Exo+2:700,400&subset=latin,cyrillic);
