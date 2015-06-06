@@ -34,17 +34,11 @@ $$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
 <td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/8.svg" /></td>
 <td><b>А.</b> Петро пiдкидає м’яч вертикально вгору з початковою швидкiстю $v_0$.
 Рiвняння руху 
-	
-	\[x=x_0+v_{0x}t-\dfrac{at^2}{2}\]
-			
+$$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
 Початкову точку приймемо за нуль, кiнцеву – $H_{max}$.
-			
-    \[H_{max} = v_{0x}t-\dfrac{at^2}{2}\]
-			
+$$H_{max} = v_{0x}t-\dfrac{at^2}{2}$$
 Позначимо час пiдйому $t'$ i знайдемо його з умови рiвностi нулю швидкостi у найвищiй точцi:
-			
-    \[v(t')=v_0-gt'=0 \Rightarrow \boxed{t'=\dfrac{v_{0x}}{g}}\]
-			
+$$v(t')=v_0-gt'=0 \Rightarrow \boxed{t'=\dfrac{v_{0x}}{g}}$$
 Пiдставимо у вираз для $H_{max}: H_{max} = \dfrac{v^2_{0x}}{2g}$</td>
 </tr>
 </table>
