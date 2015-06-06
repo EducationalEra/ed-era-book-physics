@@ -31,7 +31,7 @@ $$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
 
 <table border="none" style="width:100%">
 <tr>
-<td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/8.svg" /></td>
+<td border="none"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/8.svg" /></td>
 <td><b>А.</b> Петро пiдкидає м’яч вертикально вгору з початковою швидкiстю $$v_0$$.
 Рiвняння руху 
 	
