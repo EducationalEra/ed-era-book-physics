@@ -51,9 +51,9 @@ $$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
 <tr>
 <td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/9.svg" /></td>
 <td><b>Б.</b> Розглядаємо спуск м’яча.
-	
+<p></p>
 Тодi $v_{0x}=0,x_0=H_{max}$.
-	
+<p></p>
 Позначимо час спуску $t''$ i виразимо $H_{max}$ iз рiвняння руху:
 	
 	\[x(t'')=H_{max} - \dfrac{gt''^2}{2}=0\Rightarrow H_{max} =\dfrac{gt''^2}{2}\]
