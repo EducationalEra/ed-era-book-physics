@@ -58,10 +58,10 @@ $$v(t')=v_0-gt'=0 \Rightarrow \boxed{t'=\dfrac{v_{0x}}{g}}$$
 $$x(t'')=H_{max} - \dfrac{gt''^2}{2}=0\Rightarrow H_{max} =\dfrac{gt''^2}{2} $$
 
 Прирiвняємо $$H_{max}$$ з пунктiв <b>А</b> та <b>Б</b>:
-	
-	$$\dfrac{v^2_{0x}}{2g}=\dfrac{gt''^2}{2} \Rightarrow t''^2=\dfrac{v^2_{0x}}{g^2} \Rightarrow \boxed{t''=\dfrac{v_{0x}}{g}}$$
-	
-	Отже, справдi, час пiдйому з однiєї точки в iншу дорiвнює часу спуску.</td>
+
+$$\dfrac{v^2_{0x}}{2g}=\dfrac{gt''^2}{2} \Rightarrow t''^2=\dfrac{v^2_{0x}}{g^2} \Rightarrow \boxed{t''=\dfrac{v_{0x}}{g}}$$
+
+Отже, справдi, час пiдйому з однiєї точки в iншу дорiвнює часу спуску.</td>
 </tr>
 </table>
 </li>
