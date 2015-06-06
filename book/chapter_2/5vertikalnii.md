@@ -50,20 +50,19 @@ $$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
 
 <tr>
 <td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/9.svg" /></td>
-<td><b>А.</b> Петро пiдкидає м’яч вертикально вгору з початковою швидкiстю $v_0$.
-Рiвняння руху 
+<td><b>Б.</b> Розглядаємо спуск м’яча.
 	
-	\[x=x_0+v_{0x}t-\dfrac{at^2}{2}\]
-			
-Початкову точку приймемо за нуль, кiнцеву – $H_{max}$.
-			
-    \[H_{max} = v_{0x}t-\dfrac{at^2}{2}\]
-			
-Позначимо час пiдйому $t'$ i знайдемо його з умови рiвностi нулю швидкостi у найвищiй точцi:
-			
-    \[v(t')=v_0-gt'=0 \Rightarrow \boxed{t'=\dfrac{v_{0x}}{g}}\]
-			
-Пiдставимо у вираз для $H_{max}: H_{max} = \dfrac{v^2_{0x}}{2g}$</td>
+	Тодi $v_{0x}=0,x_0=H_{max}$.
+	
+	Позначимо час спуску $t''$ i виразимо $H_{max}$ iз рiвняння руху:
+	
+	\[x(t'')=H_{max} - \dfrac{gt''^2}{2}=0\Rightarrow H_{max} =\dfrac{gt''^2}{2}\]
+	
+	Прирiвняємо $H_{max}$ з пунктiв \textbf{А} та \textbf{Б}:
+	
+	$$\dfrac{v^2_{0x}}{2g}=\dfrac{gt''^2}{2} \Rightarrow t''^2=\dfrac{v^2_{0x}}{g^2} \Rightarrow \boxed{t''=\dfrac{v_{0x}}{g}}$$
+	
+	Отже, справдi, час пiдйому з однiєї точки в iншу дорiвнює часу спуску.</td>
 </tr>
 </table>
 
