@@ -31,7 +31,10 @@ $$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
 <li><p1>Час пiдняття тiла з одного рiвня до iншого дорiвнює часу спуску з другого на перший.</p1>
 
 <table border="none" style="width:100%">
-
+<tr>
+<td></td>
+<td></td>
+</tr>
 </table>
 </li>
 
