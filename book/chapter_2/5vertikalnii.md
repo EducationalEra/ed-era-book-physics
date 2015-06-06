@@ -31,7 +31,7 @@ $$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
 
 <table style="width:100%">
 <tr>
-<td></td>
+<td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/8.svg" /></td>
 <td></td>
 </tr>
 </table>
