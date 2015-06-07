@@ -26,13 +26,13 @@
 На рисунку дослiджується залежнiсть пройденого шляху вiд часу $$l(t)$$. При рiвномiрному прямолiнiйному русi
 
 <div class="centered-table-wrapper">
-<table class="centered-table">
+<table1 class="centered-table">
 <tr1>
 <td1>
 <p1>$$l = vt$$</p1>
 </td1>
 </tr1>
-</table>
+</table1>
 </div>
 
 Подивимось на графік:
