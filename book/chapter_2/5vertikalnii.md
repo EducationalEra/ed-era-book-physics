@@ -28,7 +28,7 @@ $$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
 
 <ol>
 <li><p1>Час пiдняття тiла з одного рiвня до iншого дорiвнює часу спуску з другого на перший.</p1>
-<table style="width:100%"><tr><td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/8.svg" /></td><td width="60%"><b>А.</b> Петро пiдкидає м’яч вертикально вгору з початковою швидкiстю $$v_0$$. 
+<table style="width:100%" border="none"><tr><td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/8.svg" /></td><td width="60%"><b>А.</b> Петро пiдкидає м’яч вертикально вгору з початковою швидкiстю $$v_0$$. 
 
 Рiвняння руху 
 
