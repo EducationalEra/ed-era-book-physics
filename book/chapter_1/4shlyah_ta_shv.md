@@ -27,8 +27,8 @@
 
 <div class="centered-table-wrapper">
 <table class="centered-table">
-<tr>
-<td>
+<tr class="eq">
+<td class="eq">
 <p1>$$l = vt$$</p1>
 </td>
 </tr>
