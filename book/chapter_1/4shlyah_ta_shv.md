@@ -26,7 +26,7 @@
 На рисунку дослiджується залежнiсть пройденого шляху вiд часу $$l(t)$$. При рiвномiрному прямолiнiйному русi
 
 
-<div class="">
+<div class="centered-table-wrapper">
 <table class="eq">
 <tr class="eq">
 <td class="eq">
