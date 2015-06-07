@@ -25,15 +25,15 @@
 
 На рисунку дослiджується залежнiсть пройденого шляху вiд часу $$l(t)$$. При рiвномiрному прямолiнiйному русi
 
-<div class="centered-table-wrapper">
-<table class="centered-table">
+
+<center><table>
 <tr class="eq">
 <td class="eq">
 <p1>$$l = vt$$</p1>
 </td>
 </tr>
-</table>
-</div>
+</table></center>
+
 
 Подивимось на графік:
 * <b>Перша пряма</b>: кожну секунду пройдений шлях збiльшується на два метри.
