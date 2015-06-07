@@ -393,7 +393,9 @@ p1 {
     margin:auto;
  }
  
-
+.eq{
+ border: 2px solid #0F5180;
+}
 
 /*modal ssssss  */  
 @import url(//fonts.googleapis.com/css?family=Exo+2:700,400&subset=latin,cyrillic);
