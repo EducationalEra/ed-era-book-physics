@@ -395,6 +395,7 @@ p1 {
 .eq{
  border: 2px solid #0F5180;
 }
+table {border: none;}
 
 /*modal ssssss  */  
 @import url(//fonts.googleapis.com/css?family=Exo+2:700,400&subset=latin,cyrillic);
