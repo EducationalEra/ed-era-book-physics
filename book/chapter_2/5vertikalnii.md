@@ -58,9 +58,7 @@ $$x(t'')=H_{max} - \dfrac{gt''^2}{2}=0\Rightarrow H_{max} =\dfrac{gt''^2}{2} $$
 
 $$\dfrac{v^2_{0x}}{2g}=\dfrac{gt''^2}{2} \Rightarrow t''^2=\dfrac{v^2_{0x}}{g^2} \Rightarrow \boxed{t''=\dfrac{v_{0x}}{g}}$$
 
-Отже, справдi, час пiдйому з однiєї точки в iншу дорiвнює часу спуску.</td>
-</tr>
-</table>
+Отже, справдi, час пiдйому з однiєї точки в iншу дорiвнює часу спуску.</td></tr></table>
 </li>
 
 
