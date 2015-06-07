@@ -394,6 +394,9 @@ p1 {
  
 .boxed-eq {
     border: 2px solid #0F5180;
+    display: table !important;
+    width: initial !important;
+    margin:auto;
 }
 
 /*modal ssssss  */  
