@@ -77,3 +77,22 @@ $$a_x$$ - проекція прискорення на вісь $$x$$.
 </div>
 </div>
 
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Рух тіла описано рівнянням \(x = 4 - 3t + 2t^2\), де всі величини виражено в одиницях СІ. Визначте проекцію швидкості тіла на вісь \(OX\) через 2 секунди після початку руху.</p>
+<answer>4,5 м/с</answer>
+<answer correct>4,375 м/с</answer>
+<answer>4,2 м/с</answer>
+<answer>4 м/с</answer>
+<explanation>
+<p>Проміжки пройдених шляхів</p>
+
+$$l_1 = 100\,\text{м},\,\,\,, l_2 = 0\,\text{м},\,\,\, l_3 = v_3t_3 = 5\cdot15 = 75\,\text{м}$$
+
+<p>Cередня швидкість</p>
+
+$$v_\text{сер} = \dfrac{l_1 + l_2 + l_3}{t_1 + t_2 + t_3} = \dfrac{100 + 0 +75}{15 + 10 + 15} = \dfrac{175}{40} = 4,375 \,\text{(м/с)}$$
+
+</explanation>
+</question>
+</quiz>
