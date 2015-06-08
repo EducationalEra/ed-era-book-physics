@@ -58,10 +58,10 @@
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Який рух є поступальним?</p>
-<answer>Двi шестернi обертаються у механiзмi годинника.</answer>
-<answer correct>Автомобiль їде з Києва в Харкiв</answer>
+<answer>Рух бумерангу</answer>
+<answer correct>Рух скейтера, який їде прямо</answer>
 <explanation>
-Шестерні у годиннику порівнянні за розміром із самим годинником, а автомобіль на трасі Київ-Харків є нехтовно малим.
+Бумеранг під час свого руху обертається, що не підходить під визначення поступального руху.
 </explanation>
 </question>
 </quiz>
