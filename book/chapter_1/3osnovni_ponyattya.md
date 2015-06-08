@@ -46,9 +46,9 @@
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Який з цих рухiв є поступальним?</p>
-<answer>Рух бумерангу</answer>
-<answer correct>Рух скейтера, який їде прямо</answer>
+<p>У якому випадку можна вважати тiло матерiальною точкою?</p>
+<answer>Двi шестернi обертаються у механiзмi годинника.</answer>
+<answer correct>Автомобiль їде з Києва в Харкiв</answer>
 </question>
 </quiz>
 
