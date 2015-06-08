@@ -113,6 +113,7 @@ t = \dfrac{S - v_1 t_1}{v_1}
 
 \[v_2 = 2v_1 = 30 \thinspace (\text{км/год})\]
 </div>
+</div>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
@@ -121,8 +122,10 @@ t = \dfrac{S - v_1 t_1}{v_1}
 <answer>0 і 80</answer>
 <answer correct>80 і 0</answer>
 <answer>160 і 0</answer>
+<explanation>
+Пригадайте, що переміщення визначається початковою і кінцевою точками руху. Якщо тіло повертається в те ж місце, звідки починало свій рух, то його переміщення рівне 0. Пройдений шлях - це довжина петлі, тобто 80 метрів.
+</explanation>
 </question>
 </quiz>
 
 
-</div>
