@@ -44,4 +44,12 @@
 </div>
 </div>
 
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Який з цих рухiв є поступальним?</p>
+<answer>Рух бумерангу</answer>
+<answer correct>Рух скейтера, який їде прямо</answer>
+</question>
+</quiz>
+
 
