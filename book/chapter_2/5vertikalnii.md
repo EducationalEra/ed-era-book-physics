@@ -70,3 +70,17 @@ $$v_x(t'')=0-gt''=-g\cdot\dfrac{v_{0x}}{g}=-v_{0x}$$
 </div>
 </div>
 
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Петро жбурляє мяч угору. Початкова швидкiсть \(v_0\) = 17,64 м/с. Прискорення вiльного падiння \(g\) = 9,8 \(\frac{м}{с^2}\).</p>
+<p>(a) Визначити максимальну висоту пiдняття м'яча над рiвнем, з якого Петро його кинув.</p>
+<answer>13,7 м</answer>
+<answer correct>15,9 м</answer>
+<answer>18,1 м</answer>
+<answer>14,2 м</answer>
+<explanation>
+<p>\(H_{max}=\dfrac{v^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15,876 м\)</p>
+</explanation>
+</question>
+</quiz>
+
