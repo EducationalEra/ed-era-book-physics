@@ -32,3 +32,17 @@ $$v_{сер} \not= \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
 <p1>Середня швидкiсть:</p1> 
 
 $$v_\text{сер} = \dfrac{l_1 +l_2+l_3}{t_1+t_2+t_3}= \dfrac{0\cdot2+ 2\cdot 3 + 3\cdot 2}{2+3+2}=\dfrac{12}{7}=1\dfrac{5}{7}$$
+
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Петро пробiг 100 метрiв за 15 секунд. Потiм зупинився перепочити на 10 секунд i ще 15 секунд вiн бiг зi швидкiстю 5м/с. Яка середня швидкiсть Петра?</p>
+<answer>80 і 80</answer>
+<answer>0 і 80</answer>
+<answer correct>80 і 0</answer>
+<answer>160 і 0</answer>
+<explanation>
+Переміщення визначається початковою і кінцевою точками руху. Якщо тіло повертається в те ж місце, звідки починало свій рух, то його переміщення рівне 0. Пройдений шлях - це довжина петлі, тобто 80 метрів.
+</explanation>
+</question>
+</quiz>
