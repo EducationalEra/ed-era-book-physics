@@ -434,10 +434,6 @@ p1 {
       width: 64px;
       position: absolute;
       top: 50%;
-      -ms-top: 40%;
-      -ms-left: 40%;
-      -webkit-top: 40%;
-      -webkit-left: 40%;
       left: 50%;
       margin-right: -50%;
       transform: translate(-50%, -50%)
