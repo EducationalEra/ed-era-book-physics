@@ -15,7 +15,7 @@
 
 <div>
 {% modalYoutube %}https://youtu.be/gqTUn9VZThw
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-physics/master/book/chapter_1/vid/1.png');">
+<div class="popup" style="background-image: url('https://raw.githubusercontent.com/chudaol/ed-era-book-physics/master/book/chapter_1/vid/1.png');">
   <div id="youtube-logo">
   </div>
 </div>
