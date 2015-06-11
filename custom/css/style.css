@@ -433,7 +433,7 @@ p1 {
       background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
       height: 45px;
       width: 64px;
-      top: 140px;
+      top: 50%;
       left: 50%;
       display:inline-block;
       /*position: absolute;
