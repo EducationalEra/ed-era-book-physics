@@ -118,7 +118,7 @@ t = \dfrac{S - v_1 t_1}{v_1}
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Петро жбурляє бумеранг i той описує петлю у повiтрi i повертається у руки до Петра. Довжина описанної петлi 80 метрiв. Чому дорiвнює шлях i перемiщення бумеранга?</p>
-<answer>80 і 80 + $$\sqrt{3}$$</answer>
+<answer>80 і 80</answer>
 <answer>0 і 80</answer>
 <answer correct>80 і 0</answer>
 <answer>160 і 0</answer>
