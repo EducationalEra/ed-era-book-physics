@@ -437,19 +437,6 @@ p1 {
       -ms-transform: translate(218px,118px); /* IE 9 */
    	  -webkit-transform: translate(218px,118px); /* Safari */
       transform: translate(218px,118px);
-     /* 
-      top: 50%;
-      left: 50%;
-      display:inline-block;
-      position: absolute;
-      -ms-transform: translateY(-40%);
-      -webkit-transform: translateY(-50%);
-      -moz-transform: translateY(-50%);
-      -o-transform: translateY(-50%);
-      transform: translateY(-50%);
-      
-      margin-right: -50%;
-      transform: translate(-50%, -50%);*/
 }
 
 .popup:hover #youtube-logo {
@@ -463,6 +450,15 @@ p1 {
       margin: 0 auto;
       background-size: 320px;
       clear: both;
+}
+#youtube-logo {
+      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
+      height: 45px;
+      width: 64px;
+      position: absolute;
+      -ms-transform: translate(128px,68px); /* IE 9 */
+   	  -webkit-transform: translate(128px,68px); /* Safari */
+      transform: translate(128px,68px);
 }
 }
 
