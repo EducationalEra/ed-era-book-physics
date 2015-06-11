@@ -433,7 +433,6 @@ p1 {
       height: 45px;
       width: 64px;
       top: 50%;
-      left: 1px;
       position: absolute;
       -ms-transform: translateY(-40%);
       -webkit-transform: translateY(-50%);
