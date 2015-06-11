@@ -79,7 +79,7 @@ $$v_x(t'')=0-gt''=-g\cdot\dfrac{v_{0x}}{g}=-v_{0x}$$
 <answer>18,1 м</answer>
 <answer>14,2 м</answer>
 <explanation>
-<p>$$H_{max}=\dfrac{v^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15,876 м$$</p>
+$$H_{max}=\dfrac{v^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15,876 м$$
 </explanation>
 </question>
 
