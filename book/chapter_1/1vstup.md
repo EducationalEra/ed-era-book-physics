@@ -10,39 +10,17 @@
 * <p1>Динамiка</p1> – наука, що розглядає причини виникнення механiчного руху.
 
 
-<div class="remodal-bg">
-  <p align="center">
-  <a href="#modal"><img src='vid/2a.png' width="65%" onmouseover="this.src='vid/2b.png';" onmouseout="this.src='vid/2a.png';" /></a>
-  </p>
-</div>
 
-
-<div class="remodal-wrapper" style="display: none;"><div class="remodal" data-remodal-id="modal" style="visibility: visible;">
-  <h1>Remodal</h1>
-  <p>
-    Flat, responsive, lightweight, fast, easy customizable modal window plugin
-    with declarative state notation and hash tracking.
-  </p>
-  <p>
-    Minified version size: ~4kb
-  </p>
-  <br>
-  <a class="remodal-cancel" href="#">Cancel</a>
-  <a class="remodal-confirm" href="#">OK</a>
-<a href="#" class="remodal-close"></a></div></div>
 
 
 <div>
-{% modalYoutube %}https://www.youtube.com/embed/s41p9IS3UYU|
+{% modalYoutube %}https://youtu.be/gqTUn9VZThw
 <div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-physics/master/book/chapter_1/vid/1.png');">
   <div id="youtube-logo">
   </div>
 </div>
 |<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
-
-
-
 
 
 
