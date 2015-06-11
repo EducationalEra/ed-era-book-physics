@@ -435,8 +435,9 @@ p1 {
       width: 64px;
       top: 140px;
       left: 50%;
-      position: absolute;
-      /*-ms-transform: translateY(-40%);
+      display:inline-block;
+      /*position: absolute;
+      -ms-transform: translateY(-40%);
       -webkit-transform: translateY(-50%);
       -moz-transform: translateY(-50%);
       -o-transform: translateY(-50%);
