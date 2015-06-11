@@ -433,17 +433,23 @@ p1 {
       background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
       height: 45px;
       width: 64px;
+      position: absolute;
+      -ms-transform: translate(250px,140px); /* IE 9 */
+   	  -webkit-transform: translate(250px,140px); /* Safari */
+      transform: translate(250px,140px);
+     /* 
       top: 50%;
       left: 50%;
       display:inline-block;
-      /*position: absolute;
+      position: absolute;
       -ms-transform: translateY(-40%);
       -webkit-transform: translateY(-50%);
       -moz-transform: translateY(-50%);
       -o-transform: translateY(-50%);
-      transform: translateY(-50%);*/
+      transform: translateY(-50%);
+      
       margin-right: -50%;
-      transform: translate(-50%, -50%)
+      transform: translate(-50%, -50%);*/
 }
 
 .popup:hover #youtube-logo {
