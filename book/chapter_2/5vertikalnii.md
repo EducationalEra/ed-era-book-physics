@@ -85,7 +85,7 @@ $$H_{max}=\dfrac{v^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15,876 м
 
 <question>
 <p>(b) Визначити весь час руху м’яча до моменту, коли Петро його знову зловить.</p>
-<answer correct>3,6 c</answer>
+<answer correct>3,6 c + $$\sqrt{3}$$</answer>
 <answer>3,2 c</answer>
 <answer>2,5 c</answer>
 <answer>1,8 c</answer>
@@ -94,7 +94,7 @@ $$H_{max}=\dfrac{v^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15,876 м
 $$t^\prime=v_0g=17,64 \cdot 9,8= 1,8 \thinspace c$$
 <p>Повний час = час пiдйому + час спуску, з iншого боку час пiдняття = часу спуску.</p>
 <p>Отже, повний час</p>
-<p>$$t=2t^\prime=3,6 c$$</p>
+<p>$$t=2t^\prime=3,6 \thinspace c$$</p>
 </explanation>
 </question>
 </quiz>
