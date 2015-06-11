@@ -434,9 +434,9 @@ p1 {
       height: 45px;
       width: 64px;
       position: absolute;
-      -ms-transform: translate(250px,140px); /* IE 9 */
-   	  -webkit-transform: translate(250px,140px); /* Safari */
-      transform: translate(250px,140px);
+      -ms-transform: translate(218px,118px); /* IE 9 */
+   	  -webkit-transform: translate(218px,118px); /* Safari */
+      transform: translate(218px,118px);
      /* 
       top: 50%;
       left: 50%;
