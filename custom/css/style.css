@@ -452,10 +452,6 @@ p1 {
       clear: both;
 }
 #youtube-logo {
-      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
-      height: 45px;
-      width: 64px;
-      position: absolute;
       -ms-transform: translate(128px,68px); /* IE 9 */
    	  -webkit-transform: translate(128px,68px); /* Safari */
       transform: translate(128px,68px);
