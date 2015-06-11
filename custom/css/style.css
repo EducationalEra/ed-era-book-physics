@@ -433,10 +433,15 @@ p1 {
       height: 45px;
       width: 64px;
       top: 50%;
-      left: 50%;
+      left: 1px;
       position: absolute;
-      margin-right: -50%;
-      transform: translate(-50%, -50%)
+      -ms-transform: translateY(-40%);
+      -webkit-transform: translateY(-50%);
+      -moz-transform: translateY(-50%);
+      -o-transform: translateY(-50%);
+      transform: translateY(-50%);
+      /*margin-right: -50%;
+      transform: translate(-50%, -50%)*/
 }
 
 .popup:hover #youtube-logo {
