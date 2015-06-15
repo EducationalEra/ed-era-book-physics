@@ -24,7 +24,7 @@ $$v_x$$ - проекцiя швидкостi на вiсь $$x$$.
 
 
 <div>
-{% modalYoutube %}https://www.youtube.com/embed/gqTUn9VZThw|
+{% modalYoutube %}https://www.youtube.com/embed/8q8XbaEuHZA|
 <div class="popup" style="background-image: url('https://raw.githubusercontent.com/chudaol/ed-era-book-physics/master/book/chapter_1/vid/3.png');">
   <div id="youtube-logo">
   </div>
