@@ -29,6 +29,18 @@ $$v_x=\lim_{\Delta t\to\infty}\dfrac{\Delta x}{\Delta t}=x'(t)$$
 </div>
 </div>
 
+
+<div>
+{% modalYoutube %}https://www.youtube.com/embed/kHo6SvAnbmk|
+<div class="popup" style="background-image: url('https://raw.githubusercontent.com/chudaol/ed-era-book-physics/master/book/chapter_1/vid/4.png');">
+  <div id="youtube-logo">
+  </div>
+</div>
+|<a href="https://study.ed-era.com/courses/EdEra/H101/h101/about?_ga=1.7854647.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
+
+
+
 $$v_x=\lim_{\Delta t\to\infty}\dfrac{\Delta x}{\Delta t}$$ означає, що миттєва швидкість визначається, як і для прямолінійного рівномірного руху, переміщенням поділеним на час, але так як $$x(t)$$ в даному
 випадку не пряма лінія, ми досліджуємо окіл точки, в якій хочемо визначити швидкість (дуже маленький проміжок часу і відповідно маленький проміжок $$\Delta x$$). Окіл точки - наближення до прямої лінії, отже, таким чином поділивши $$\Delta x$$ на $$\Delta t$$ в околі, визначаємо швидкість у даній точці.
 
