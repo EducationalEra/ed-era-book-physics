@@ -29,9 +29,9 @@
 
 <em>Перед початком розгляду кінематики радимо вам звернути увагу на розділ [Додаток](/../Add/trigonometry/trigonometry.md). Там для початку ви можете переглянути теми, які стосуються тригонометрії та векторів. Ці знання вам обов'язково знадобляться для подальшого опанування матеріалу. </em> 
 
-
+<div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVlO6JCrF1U" frameborder="0" allowfullscreen></iframe>
-
+</div>
 
 <div class="boxCourse">
 <div class="textBlock">Ще більше відео матеріалів в <eo>онлайн-курсі</eo> від розробників цієї книги</div>
