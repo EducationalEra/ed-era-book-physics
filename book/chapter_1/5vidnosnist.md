@@ -52,9 +52,9 @@ $$ L = v_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thins
 <question>
 <p>Озером пливуть два човни перпендикулярно один до одного зі швидкостями 3 м/с та 4 м/с відносно берега. Яка швидкість першого човна відносно другого?</p>
 
-<answer>3.4</answer>
-<answer>0</answer>
 <answer correct>5</answer>
+<answer>0</answer>
+<answer>3</answer>
 <answer>1</answer>
 <explanation>
 
