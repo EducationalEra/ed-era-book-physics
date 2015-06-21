@@ -542,56 +542,35 @@ p1 {
     border: solid 1px #2c3043;
 }
 
- /* Картинка для видео*/
-.popup {
-  margin: 0 auto;
-  height: 282px;
-  display:inline-block;
-  border: 1px solid
-  border: 1px solid #ddd;
-  box-shadow: inset 0 0 0 1px #eee;
-  border-radius: 3px;
+ /* video */
+@media only screen and (min-width:320px) and (max-width: 509px){
+.fluidMedia {
+    position: relative;
+    padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
 }
 
-@media only screen and (min-width:320px){
-.popup {
-      width: 320px;
-      height: 180px;
-      margin: 0 auto;
-      background-size: 320px;
-      clear: both;
+.fluidMedia iframe {
+    position: absolute;
+    top: 0; 
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
-#youtube-logo {
-      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
-      height: 45px;
-      width: 64px;
-      position: absolute;
-      -ms-transform: translate(128px,68px); /* IE 9 */
-   	  -webkit-transform: translate(128px,68px); /* Safari */
-      transform: translate(128px,68px);
-}
-}
+
+
 
 @media only screen and (min-width:510px){
-    .popup {
-        width: 500px;
-        height: 282px;
-        margin: 0 auto;
-        background-size: 500px;
-        clear: both;
-    }
-    
-    #youtube-logo {
-      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
-      height: 45px;
-      width: 64px;
-      position: absolute;
-      -ms-transform: translate(218px,118px); /* IE 9 */
-   	  -webkit-transform: translate(218px,118px); /* Safari */
-      transform: translate(218px,118px);
-}
+.fluidMedia {
+    width: 100%;
 }
 
-.popup:hover #youtube-logo {
-      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-red.png');
+.fluidMedia iframe {
+    display:block;
+    margin: 0px auto;
+    width: 510px;
+    height: 287px;
+}
 }
