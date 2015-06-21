@@ -47,6 +47,8 @@ $$ L = v_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thins
 </div>
 </div>
 
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Озером пливуть два човни перпендикулярно один до одного зі швидкостями 3 м/с та 4 м/с відносно берега.</p>
 
@@ -64,3 +66,4 @@ $$ L = v_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thins
 <p>$$|{\vec{v}}| = \sqrt{3^2 + 4^2} = 5\thinspace м/с$$</p>
 </explanation>
 </question>
+</quiz>
