@@ -10,15 +10,8 @@
 </div>
 </div>
 
-
-
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/gqTUn9VZThw|
-<div class="popup" style="background-image: url('https://raw.githubusercontent.com/chudaol/ed-era-book-physics/master/book/chapter_1/vid/2.png');">
-  <div id="youtube-logo">
-  </div>
-</div>
-|<a href="https://study.ed-era.com/courses/EdEra/P101/p101/about?_ga=1.67151697.1581692993.1410539408"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="fluidMedia">
+<iframe align="center" src="https://www.youtube.com/embed/gqTUn9VZThw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
