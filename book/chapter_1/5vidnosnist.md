@@ -65,8 +65,6 @@ $$ L = v_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thins
 $$|\vec{v}| = \sqrt{(\vec{v_1})^2 + (\vec{v_2})^2}$$ </br>
 <p></p>
 
-
-
 $$|\vec{v}| = \sqrt{3^2 + 4^2} = 5\thinspace м/с$$
 </explanation>
 </question>
