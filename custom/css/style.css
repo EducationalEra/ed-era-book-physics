@@ -614,6 +614,7 @@ p1 {
     -moz-border-radius: 4px;
     border-radius: 4px;
     border: solid 1px #faaf00;
+    line-height: 80%;
 }
 
 .but2:hover {
