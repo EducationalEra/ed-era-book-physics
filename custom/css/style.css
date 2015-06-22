@@ -604,10 +604,9 @@ p1 {
     display: inline;
     position: relative;
     background: #faaf00;
-    float: left;
+    margin:auto;
     height: 30px;
     color: white;
-    margin-top : 5px;
     font-weight: 700;
     font-size: 13px;
     -webkit-border-radius: 4px;
