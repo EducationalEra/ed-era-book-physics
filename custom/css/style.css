@@ -634,7 +634,7 @@ p1 {
 .closeBut{
     width: 5 %;
     display: inline;
-    float: right;
+    position: relative;
     height : 30px;
     margin-right : 5px;
     top : 5px;
