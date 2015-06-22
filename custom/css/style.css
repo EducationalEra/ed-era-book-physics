@@ -604,7 +604,8 @@ p1 {
     display: inline;
     position: relative;
     background: #faaf00;
-    margin:auto;
+    margin-top:auto;
+    margin-right: 10px;
     height: 30px;
     color: white;
     font-weight: 700;
