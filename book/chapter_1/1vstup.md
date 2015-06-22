@@ -38,7 +38,14 @@
 <a href="https://study.ed-era.com/courses/EdEra/P101/p101/about?_ga=1.67151697.1581692993.1410539408"><button class="but2"> Перейти на курс</button></a></div>
 
 
-
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+     <script>
+    $(document).ready(function(){
+    $(".but2").click(function(){
+        $(".boxCourse").hide();
+    });
+    });
+</script>
 
 
     
