@@ -606,8 +606,10 @@ p1 {
     background: #faaf00;
     float: left;
     color: white;
-    margin-right : 5px;
+    margin-right : 2px;
     margin-top : 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
     font-weight: 700;
     font-size: 13px;
     -webkit-border-radius: 4px;
