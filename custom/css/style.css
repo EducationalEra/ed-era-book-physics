@@ -632,6 +632,9 @@ p1 {
     left : 5px;
 }
 
+.closeBut:hover {
+    background: rgba(0,80,140,.9);
+}
 
 eo{
     color: #faaf00;
