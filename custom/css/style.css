@@ -630,6 +630,12 @@ p1 {
     border: solid 1px #faaf00;
 }
 
+.closeBut{
+    display: inline;
+    position: relative;
+    height : 30px;
+}
+
 
 eo{
     color: #faaf00;
