@@ -604,6 +604,7 @@ p1 {
     display: inline;
     position: relative;
     background: #faaf00;
+    float: left;
     color: white;
     margin-right : 5px;
     margin-top : 5px;
