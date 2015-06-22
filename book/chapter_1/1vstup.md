@@ -13,22 +13,6 @@
 
 
 
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/bVlO6JCrF1U|
-<div class="popup" style="background-image: url('https://raw.githubusercontent.com/chudaol/ed-era-book-physics/master/book/chapter_1/vid/1.png');">
-  <div id="youtube-logo">
-  </div>
-</div>
-|<a href="https://study.ed-era.com/courses/EdEra/P101/p101/about?_ga=1.67151697.1581692993.1410539408"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
-</div>
-
-
-
-
-
-
-<em>Перед початком розгляду кінематики радимо вам звернути увагу на розділ [Додаток](/../Add/trigonometry/trigonometry.md). Там для початку ви можете переглянути теми, які стосуються тригонометрії та векторів. Ці знання вам обов'язково знадобляться для подальшого опанування матеріалу. </em> 
-
 <div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVlO6JCrF1U" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -48,6 +32,15 @@ $(".boxCourse").hide();
 });
 });
 </script>
+
+
+
+
+
+
+<em>Перед початком розгляду кінематики радимо вам звернути увагу на розділ [Додаток](/../Add/trigonometry/trigonometry.md). Там для початку ви можете переглянути теми, які стосуються тригонометрії та векторів. Ці знання вам обов'язково знадобляться для подальшого опанування матеріалу. </em> 
+
+
 
 
     
