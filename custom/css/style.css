@@ -634,10 +634,10 @@ p1 {
 .closeBut{
     width: 5 %;
     display: inline;
-    position: relative;
+    float: right;
     height : 30px;
     margin-right : 5px;
-    top : 5px;
+    margin-top:5px;
 }
 
 .closeBut:hover {
