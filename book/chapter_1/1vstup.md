@@ -39,12 +39,12 @@
 
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-     <script>
-    $(document).ready(function(){
-    $(".but2").click(function(){
-        $(".boxCourse").hide();
-    });
-    });
+<script>
+$(document).ready(function(){
+$(".but2").click(function(){
+$(".boxCourse").hide();
+});
+});
 </script>
 
 
