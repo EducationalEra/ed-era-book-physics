@@ -630,6 +630,7 @@ p1 {
     position: relative;
     height : 30px;
     padding-left : 5px;
+    top : 5px;
 }
 
 .closeBut:hover {
