@@ -33,10 +33,13 @@ $$v_x=\lim_{\Delta t\to\infty}\dfrac{\Delta x}{\Delta t}=x'(t)$$
 <div>
 
 
-
-
-
+<div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kHo6SvAnbmk" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="popup"> </div>
+
+<p></p>
 
 
 
