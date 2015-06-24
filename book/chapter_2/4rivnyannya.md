@@ -6,7 +6,7 @@
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/6.svg" />
 
-<p1>Проекція переміщення:</p1> $$S_x = S_{\text{трикутника}} + S_{\text{прямокутника}}$$
+<span class="p1">Проекція переміщення:</span> $$S_x = S_{\text{трикутника}} + S_{\text{прямокутника}}$$
 
 $$S_{\text{трикутника}} = \dfrac{h\cdot a}{2} = \dfrac{(v_x-v_{0x})(t_2-t_1)}{2}=\dfrac{(v_x-v_{0x})\Delta t}{2}=\dfrac{(v_x-v_{0x})\Delta t\cdot\Delta t}{2\Delta t}=\dfrac{a\Delta t^2}{2}$$
 
