@@ -656,5 +656,8 @@ eo{
     overflow: hidden;
     width: 100%;
 }
-    
+   
+  .but2{
+    margin-left: 5%px;
+  }
 }
