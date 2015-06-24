@@ -372,9 +372,19 @@ default – "White"
     text-align: center;
 }
 
-p1 {
+.p1 {
  font-weight: bold;
  color: #0F5180;
+}
+
+.book.color-theme-1 .p1{
+    font-weight: bold;
+    color: #2C3043;
+}
+
+.book.color-theme-2 .p1{
+    font-weight: bold;
+    color: #F3EACB;
 }
 
 .centered {
