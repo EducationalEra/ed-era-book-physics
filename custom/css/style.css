@@ -649,12 +649,12 @@ eo{
 }
 
 @media only screen and (min-width:320px) and (max-width: 509px){
-        .boxCourse{
+.boxCourse{
     top: 5px;
     position: relative;
     visibility: visible;
     overflow: hidden;
-        width: 100%;
+    width: 100%;
 }
     
 }
