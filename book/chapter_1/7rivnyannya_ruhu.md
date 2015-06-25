@@ -22,14 +22,10 @@ $$v_x$$ - проекцiя швидкостi на вiсь $$x$$.
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/13.svg" class="image"/>
 
-
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/8q8XbaEuHZA|
-<div class="popup" style="background-image: url('https://raw.githubusercontent.com/chudaol/ed-era-book-physics/master/book/chapter_1/vid/3.png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8q8XbaEuHZA" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/P101/p101/about?_ga=1.67151697.1581692993.1410539408"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
 
 <div class="task-wrap">
