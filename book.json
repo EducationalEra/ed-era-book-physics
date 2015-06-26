@@ -28,6 +28,9 @@
         }
     },
     "links": {
+        "sidebar": {
+          "Перейти до сайту EdEra": "https://www.ed-era.com"  
+        },
         "sharing": {
             "vk":true
         }
