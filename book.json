@@ -28,6 +28,7 @@
         }
     },
     "links": {
+        "gitbook": false,
         "sidebar": {
           "Перейти до сайту EdEra": "https://www.ed-era.com"  
         },
