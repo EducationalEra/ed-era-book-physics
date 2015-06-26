@@ -26,5 +26,10 @@
         "gtm": {
             "token": "GTM-N86M5F"
         }
+    },
+    "links": {
+        "sharing": {
+            "vk":true
+        }
     }
 }
