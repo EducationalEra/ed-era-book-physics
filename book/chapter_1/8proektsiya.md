@@ -30,7 +30,7 @@ $$S_x = v_x (t_2 - t_1) = 2 \cdot(4-2) = 4 \thinspace \text{м}.$$
 <answer correct>200</answer>
 <answer>225</answer>
 <explanation>
-
+На вказаному проміжку швидкість постійна, отже необхідно  знайти площу звичайного прямокутника:
 \[ S_x=v_x(t_2-t_1)=20\cdot(15-5)=200 \thinspace м \]
 </explanation>
 </question>
