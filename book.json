@@ -30,7 +30,7 @@
     "links": {
         "gitbook": false,
         "sidebar": {
-          "Перейти до сайту EdEra": "https://www.ed-era.com"  
+          "Перейти до бібліотеки EdEra": "https://www.books.ed-era.com"  
         },
         "sharing": {
             "vk":true
