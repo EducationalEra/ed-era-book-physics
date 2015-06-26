@@ -1,4 +1,3 @@
-[Перейти до сайту EdEra](https://www.ed-era.com/)
 #Зміст
 [Вступне слово](book/vstupne_slovo.md)
 1. [Одновимірна кінематика](book/chapter_1/1vstup.md)
