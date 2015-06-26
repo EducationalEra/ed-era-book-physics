@@ -19,11 +19,11 @@ $$S_x = v_x (t_2 - t_1) = 2 \cdot(4-2) = 4 \thinspace \text{м}.$$
 </div>
 
 
-
+<img width="250" src="https://pp.vk.me/c624926/v624926986/e384/F03SiVl6UXg.jpg"/ class="image">
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 
-<img width="250" src="https://pp.vk.me/c624926/v624926986/e384/F03SiVl6UXg.jpg"/ class="image">
+
 <p>На рисунку представлено графiк залежностi модуля швидкостi $$\vec{v}$$ мотоциклу вiд часу t. Визначте за графiком шлях, пройдений мотоциклiстом, в iнтервалi часу вiд 5 до 15 с.</p>
 
 <answer>150</answer>
