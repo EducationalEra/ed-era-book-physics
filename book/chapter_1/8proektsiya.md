@@ -19,7 +19,7 @@ $$S_x = v_x (t_2 - t_1) = 2 \cdot(4-2) = 4 \thinspace \text{м}.$$
 </div>
 
 
-<img width="250" src="https://pp.vk.me/c624926/v624926986/e384/F03SiVl6UXg.jpg"/ class="image">
+<img width="400" src="https://pp.vk.me/c624926/v624926986/e384/F03SiVl6UXg.jpg"/ class="image">
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 
