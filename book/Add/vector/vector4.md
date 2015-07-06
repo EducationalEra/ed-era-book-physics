@@ -151,6 +151,20 @@ $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
 </question>
 </quiz>
 
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Чому дорівнює косинус кута між двома колінеарними векторами?</p>
+<answer>-0.7</answer>
+<answer>-0.5</answer>
+<answer>0</answer>
+<answer>0.5</answer>
+<answer correct>0.7</answer>
+<explanation>
+
+</explanation>
+</question>
+</quiz>
+
 
 <h2><p1>Проекція та розкладання вектора на компоненти</p1></h2>
 
