@@ -164,10 +164,11 @@ $$\vec{c} = \lambda\vec{a} + \mu\vec{b}.$$
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Знайдіть косину кута між векторами $$\vec{a}(4;9)$$ і $$\vec{b}(-2;5)$$</p>
-<answer>80 і 80</answer>
-<answer>0 і 80</answer>
-<answer correct>80 і 0</answer>
-<answer>160 і 0</answer>
+<answer>-0.7</answer>
+<answer>-0.5</answer>
+<answer>0</answer>
+<answer>0.5</answer>
+<answer correct>0.7</answer>
 <explanation>
 Косинус кута між векторами можна знайти через їх скалярний добуток.
 
