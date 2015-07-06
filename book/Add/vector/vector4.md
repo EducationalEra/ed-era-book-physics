@@ -154,13 +154,13 @@ $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Чому дорівнює косинус кута між двома колінеарними векторами?</p>
-<answer>-0.7</answer>
-<answer>-0.5</answer>
 <answer>0</answer>
-<answer>0.5</answer>
-<answer correct>0.7</answer>
+<answer>1</answer>
+<answer>-1</answer>
+<answer correct>1 або -1</answer>
+<answer>Недостатньо данних</answer>
 <explanation>
-
+Пригадайте означення колінеарності: вектори мають лежати на паралельних прямих. Тобто кут між ними буде 0 у випадку, коли вони співнапрямленні і 180$$^\circ$$, якщо вони протилежнонапрямлені. Відповідно косинус кута між колінеарними векторами буде або 1, або -1.
 </explanation>
 </question>
 </quiz>
