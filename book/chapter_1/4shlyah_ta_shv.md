@@ -118,11 +118,10 @@ t = \dfrac{S - v_1 t_1}{v_1}
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Петро жбурляє бумеранг i той описує петлю у повiтрi i повертається у руки до Петра. Довжина описанної петлi 80 метрiв. Чому дорiвнює шлях i перемiщення бумеранга?</p>
-<answer>-0.7</answer>
-<answer>-0.5</answer>
-<answer>0</answer>
-<answer>0.5</answer>
-<answer correct>0.7</answer>
+<answer>80 і 80</answer>
+<answer>0 і 80</answer>
+<answer correct>80 і 0</answer>
+<answer>160 і 0</answer>
 <explanation>
 Переміщення визначається початковою і кінцевою точками руху. Якщо тіло повертається в те ж місце, звідки починало свій рух, то його переміщення рівне 0. Пройдений шлях - це довжина петлі, тобто 80 метрів.
 </explanation>
