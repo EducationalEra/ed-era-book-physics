@@ -123,6 +123,34 @@ $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
 </div>
 </div>
 
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Знайдіть косину кута між векторами $$\vec{a}(4;9)$$ і $$\vec{b}(-2;5)$$</p>
+<answer>-0.7</answer>
+<answer>-0.5</answer>
+<answer>0</answer>
+<answer>0.5</answer>
+<answer correct>0.7</answer>
+<explanation>
+Косинус кута між векторами можна знайти через їх скалярний добуток.
+
+\[ (\vec{a}, \vec{b}) = |\vec{a}|\cdot|\vec{b}|cos(\phi) \]
+
+Тобто, 
+
+\[ cos(\phi) = \dfrac{(\vec{a}, \vec{b})}{|\vec{a}|\cdot|\vec{b}|} \]
+
+Скалярний добуток ми знаходи знаючи координати векторів:
+
+\[ (\vec{a}, \vec{b}) = a_1 b_1 + a_2 b_2 \]
+
+Отже, маємо: 9.848
+
+\[ cos(\phi) =  \dfrac{a_1 b_1 + a_2 b_2}{|\vec{a}|\cdot|\vec{b}|} = \dfrac{a_1 b_1 + a_2 b_2}{\sqrt{a_1 ^2 +a_2 ^2}\cdot \sqrt{b_1 ^2 + b_2 ^2}} = \dfrac{4\cdot (-2) + 9\cdot 5}{\sqrt{4^2 + 9^2}\cdot \sqrt{(-2)^2 + 5^2}} = \dfrac{37}{53} \approx 0.7 \]
+</explanation>
+</question>
+</quiz>
+
 
 <h2><p1>Проекція та розкладання вектора на компоненти</p1></h2>
 
@@ -161,31 +189,3 @@ $$\vec{c} = \lambda\vec{a} + \mu\vec{b}.$$
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/12.svg" />
 
-<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
-<question>
-<p>Знайдіть косину кута між векторами $$\vec{a}(4;9)$$ і $$\vec{b}(-2;5)$$</p>
-<answer>-0.7</answer>
-<answer>-0.5</answer>
-<answer>0</answer>
-<answer>0.5</answer>
-<answer correct>0.7</answer>
-<explanation>
-Косинус кута між векторами можна знайти через їх скалярний добуток.
-
-\[ (\vec{a}, \vec{b}) = |\vec{a}|\cdot|\vec{b}|cos(\phi) \]
-
-Тобто, 
-
-\[ cos(\phi) = \dfrac{(\vec{a}, \vec{b})}{|\vec{a}|\cdot|\vec{b}|} \]
-
-Скалярний добуток ми знаходи знаючи координати векторів:
-
-\[ (\vec{a}, \vec{b}) = a_1 b_1 + a_2 b_2 \]
-
-Отже, маємо: 9.848
-
-\[ cos(\phi) =  \dfrac{a_1 b_1 + a_2 b_2}{|\vec{a}|\cdot|\vec{b}|} = \dfrac{a_1 b_1 + a_2 b_2}{\sqrt{a_1 ^2 +a_2 ^2}\cdot \sqrt{b_1 ^2 + b_2 ^2}} = \dfrac{4\cdot (-2) + 9\cdot 5}{\sqrt{4^2 + 9^2}\cdot \sqrt{(-2)^2 + 5^2}} = \dfrac{37}{53} \approx 0.7 \]
-</explanation>
-</question>
-
-</quiz>
