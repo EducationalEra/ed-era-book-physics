@@ -144,7 +144,7 @@ $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
 
 \[ (\vec{a}, \vec{b}) = a_1 b_1 + a_2 b_2 \]
 
-Отже, маємо: 9.848
+Отже, маємо:
 
 \[ cos(\phi) =  \dfrac{a_1 b_1 + a_2 b_2}{|\vec{a}|\cdot|\vec{b}|} = \dfrac{a_1 b_1 + a_2 b_2}{\sqrt{a_1 ^2 +a_2 ^2}\cdot \sqrt{b_1 ^2 + b_2 ^2}} = \dfrac{4\cdot (-2) + 9\cdot 5}{\sqrt{4^2 + 9^2}\cdot \sqrt{(-2)^2 + 5^2}} = \dfrac{37}{53} \approx 0.7 \]
 </explanation>
