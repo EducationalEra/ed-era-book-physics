@@ -6,8 +6,9 @@
 <p></p>
 Для розгляду такого руху необхiдне введення двох осей. Зручним вибором є вертикальна та горизонтальна вiсь.
 
-<div class="space"><p align="center"><img align="middle" class="image" src="../images/chapter_3/1.png"/></p></div>
 
+
+![](../../images/chapter_3/1.png)
 
 * <span class="p1"><b>Траєкторiя</b></span>
 
