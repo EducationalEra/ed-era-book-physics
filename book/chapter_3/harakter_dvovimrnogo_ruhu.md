@@ -8,7 +8,6 @@
 <img class="image" width="200" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/1.png" />
 
 * <div class="space"><b>Траєкторiя</b></div>
-
 У вертикальному напрямку **завжди** дiє прискорення вiльного падiння $$\vec{g}$$ напрямлене вертикально вниз. $$\Rightarrow$$ <span class="p1">Рiвноприскорений рух.</span> Якщо вiсь $$y$$ напрямлена вгору, в загальному випадку:
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -19,4 +18,4 @@
 </tr>
 </table></div>
 
-* <div class="space"><b>Траєкторiя</b></div>
+* <div class="space"><b>Проекцiя на горизонтальну вiсь</b></div>
