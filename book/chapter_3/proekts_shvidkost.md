@@ -3,7 +3,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<b>Миттєва швидкiсть</b> напрямлена по дотичнiй до траєкторiї в точцi, яку ми розглядаємо.<br>
+<b>Миттєва швидкiсть</b> напрямлена по дотичнiй до траєкторiї в точцi, яку ми розглядаємо.<br></div>
 <p></p>
 
 <img class="image" width="200" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/2.png" />
@@ -80,6 +80,3 @@
 <b><i>Розв'язок.</i></b> Розглянемо кожен графiк:</br>
 <b>Траєкторiя</b> $$y(x)$$
 
-
-</div>
-</div>
