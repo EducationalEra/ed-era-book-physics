@@ -6,7 +6,7 @@
 <p></p>
 Для розгляду такого руху необхiдне введення двох осей. Зручним вибором є вертикальна та горизонтальна вiсь.
 
-<img class="image" width="480" height="500" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/1.png" />
+<img class="image" width="200" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/1.png" />
 
 * <span class="p1"><b>Траєкторiя</b></span>
 
