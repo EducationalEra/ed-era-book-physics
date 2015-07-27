@@ -37,5 +37,26 @@
 З вищезазначеного стає зрозумiлим, що проекцiя швидкостi на вiсь $$y$$ змiнюється протягом всього руху. Наприклад, на рисунку вище у першiй точцi $$v_y > 0$$, адже кут
 мiж дотичною та вiссю $$x$$ - гострий. У другiй точцi (верхня точка траєкторiї) $$v_y=0$$, кут дорiвнює нулю. У третiй точцi $$v_y < 0$$, кут - тупий.
 <p></p>
-Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швид-
-костi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$v$$.
+<div class="space">Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швид-
+костi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$v$$.</div>
+<img class="image" width="200" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" />
+<div class"space">Iз тригонометричних спiввiдношень у прямокутному трикутнику</div>
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$v_x=v \cos \alpha; v_y=v \sin \alpha$$</p1>
+</td>
+</tr>
+</table></div>
+<p></p>
+<div class"space">Iз теореми Пiфагора, знаючи проекцiї швидкостi, можемо знайти її модуль</div>
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$v = \sqrt{v_x^2+v_y^2}$$</p1>
+</td>
+</tr>
+</table></div>
+<p></p>
