@@ -20,7 +20,7 @@
    * [Вертикальний рух пiд дiєю сили тяжiння](book/chapter_2/5vertikalnii.md)
 * [Двовимірна кінематика](book/chapter_3/teorya_dvovimrnogo_ruhu.md)
    * [Теорія двовимірного руху](book/chapter_3/teorya_dvovimrnogo_ruhu.md)
-       * Характер двовимірного руху
+       * [Характер двовимірного руху](book/chapter_3/harakter_dvovimrnogo_ruhu.md)
        * Проекції швидкості
    * Практична частина
        * Дальність польоту, максимальна висота, час падіння
