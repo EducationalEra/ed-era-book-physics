@@ -14,7 +14,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>\[{y(t)}=y_0+v_{0y}t-\dfrac{gt^2}{2}}\]</p1>
+<p1>$${y(t)}=y_0+v_{0y}t-\dfrac{gt^2}{2}}$$</p1>
 </td>
 </tr>
 </table></div>
