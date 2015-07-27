@@ -9,7 +9,7 @@
 <img class="image" width="200" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/2.png" />
 
 <div class="space"></div>
-* <b>Проекцiя на вертикальну вiсь</b>
+* <b>Проекцiя на вертикальну вiсь</b> <br>
 Як вже зазначалося, вздовж вертикальної вiсi маємо **рiвноприскорений рух**.
 У випадку, коли вiсь напрямлена вгору ( в протилежному до напрямку прискорення вiльного падiння):
 <div class="centered-table-wrapper">
@@ -23,7 +23,7 @@
 <p></p>
 
 <div class="space"></div>
-* <b>Проекцiя на горизонтальну вiсь</b>
+* <b>Проекцiя на горизонтальну вiсь</b><br>
 У горизонтальному напрямку маємо **рiвномiрний рух**. Проекцiя швидкостi не змiнюється протягом всього руху.
 <div class="centered-table-wrapper">
 <table class="centered-table">
