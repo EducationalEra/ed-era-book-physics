@@ -554,3 +554,7 @@ default – "White"
     font-size: 15px;
   }
 }
+
+.space {
+    margin-bottom: 40px;
+}
