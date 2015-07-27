@@ -10,4 +10,11 @@
 * <div class="space"><b>Траєкторiя</b></div>
 
 У вертикальному напрямку завджи дiє прискорення вiльного падiння $$\vec{g}$$ напрямлене вертикально вниз. $$\Rightarrow$$ <span class="p1">Рiвноприскорений рух.</span> Якщо вiсь $$y$$ напрямлена вгору, в загальному випадку:
-\[{y(t)}=y_0+v_{0y}t-\dfrac{gt^2}{2}}\]
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>\[{y(t)}=y_0+v_{0y}t-\dfrac{gt^2}{2}}\]</p1>
+</td>
+</tr>
+</table></div>
