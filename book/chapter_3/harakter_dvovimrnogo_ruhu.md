@@ -8,7 +8,7 @@
 
 
 
-![width=480](../../images/chapter_3/1.png)
+![](../../images/chapter_3/1.png)
 
 * <span class="p1"><b>Траєкторiя</b></span>
 
