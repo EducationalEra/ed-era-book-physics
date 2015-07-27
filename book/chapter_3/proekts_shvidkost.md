@@ -9,26 +9,26 @@
 <img class="image" width="200" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/2.png" />
 
 * <div class="space"><b>Проекцiя на вертикальну вiсь</b>
-
-Як вже зазначалося, вздовж вертикальної вiсi маємо <b>рiвноприскорений рух.</b> У випадку, коли вiсь напрямлена вгору (в протилежному до напрямку прискорення вiльного падiння):</div>
+Як вже зазначалося, вздовж вертикальної вiсi маємо **рiвноприскорений рух**.
+У випадку, коли вiсь напрямлена вгору ( в протилежному до напрямку при-
+скорення вiльного падiння):</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_y=v_{y0}-gt$$</p1>
+<p1>$$v_y=v_{0y}-gt$$</p1>
 </td>
 </tr>
 </table></div>
 <p></p>
 
 * <div class="space"><b>Проекцiя на горизонтальну вiсь</b>
-
-У горизонтальному напрямку маємо <b>рiвномiрний рух.</b> Проекцiя швидкостi не змiнюється протягом всього руху.</div>
+У горизонтальному напрямку маємо **рiвномiрний рух**. Проекцiя швидкостi не змiнюється протягом всього руху.</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_x=_v_{0x}$$</p1>
+<p1>$$v_x=v_{0x}$$</p1>
 </td>
 </tr>
 </table></div>
