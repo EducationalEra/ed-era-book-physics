@@ -40,7 +40,8 @@
 <div class="space">Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швид-
 костi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$v$$.</div>
 <img class="image" width="200" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" />
-<div class"space">Iз тригонометричних спiввiдношень у прямокутному трикутнику</div>
+<p></p>
+<div class="space">Iз тригонометричних спiввiдношень у прямокутному трикутнику</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -50,7 +51,7 @@
 </tr>
 </table></div>
 <p></p>
-<div class"space">Iз теореми Пiфагора, знаючи проекцiї швидкостi, можемо знайти її модуль</div>
+<div class="space">Iз теореми Пiфагора, знаючи проекцiї швидкостi, можемо знайти її модуль</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -60,7 +61,7 @@
 </tr>
 </table></div>
 <p></p>
-Кут мiж напрямом швидкостi та вiссю $$x$$ можна визначити також iз тригонометричних спiввiдношень
+<div class="space">Кут мiж напрямом швидкостi та вiссю $$x$$ можна визначити також iз тригонометричних спiввiдношень</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -78,13 +79,13 @@
 <img class="image" width="700" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/4.png" />
 
 <b><i>Розв'язок.</i></b> Розглянемо кожен графiк:
-<p></p>
+</br>
 <b>Траєкторiя</b> $$y(x)$$
 <p>Траєкторiя руху тiла, кинутого пiд кутом до горизонту - парабола.</p>
-<p></p>
-<b>Горизонтальна проекцiя швидкостi</b> $$v_x(t)$$
+</br>
+<b>Горизонтальна проекцiя швидкостi</b> $$v_x(t)$$ </br>
 <p>Горизонтальна складова швидкостi не змiнюється протягом руху i дорiвнює проекцiї початкової швидкостi. При виборi вiсей таким чином, як зазначено в умовi $$v_{0x} > 0$$. Отже, це пряма лiнiя, паралельна вiсi часу.
-<p></p>
+</br>
 <b>Вертикальна проекцiя швидкостi</b> $$v_y(t)$$
 <div class="space"><p>Вертикальна складова швидкостi весь час змiнюється пiд дiєю прискорення вiльного падiння $$\vec{g}$$. Маємо рiвноприскорений рух.</p></div>
 <div align ="center">$$v_y=v_{0y}-gt$$</div>
