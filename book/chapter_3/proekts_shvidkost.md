@@ -60,3 +60,26 @@
 </tr>
 </table></div>
 <p></p>
+Кут мiж напрямом швидкостi та вiссю $$x$$ можна визначити також iз тригонометричних спiввiдношень
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$tg \alpha = \dfrac{|v_y}{v_x|}$$</p1>
+</td>
+</tr>
+</table></div>
+<p></p>
+<div class="task-wrap">
+<span class="task">Задача 1</span> <b>РОБОТА З ГРАФIКАМИ</b>
+<div class="task-text">
+<div class"space">Тiло кидають в праву сторону зi швидкiстю $$v$$ пiд кутом $$\alpha$$ до горизонту. Напрям вертикальної вiсi обрано вгору, горизонтальної - вправо. Намалювати схематично графiки траєкторiї $$y(x)$$, проекцiй швидкостi $$v_x(t)$$ та $$v_y(t)$$</br></div>
+
+<img class="image" width="700" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/4.png" />
+
+<b><i>Розв'язок.</i></b> Розглянемо кожен графiк:</br>
+<b>Траєкторiя</b> $$y(x)$$
+
+
+</div>
+</div>
