@@ -22,7 +22,7 @@ y = v_0 \sin \alpha · t - \dfrac{gt^2}{2}\\
 v_y = v_0 \sin \alpha - gt
 \end{cases}$$</div>
 <br>
-<p style="margin-left:0.7cm;"><span class="p1">1. Час польоту i час пiдняття тiла</span></p>
+<p style="margin-left:0.5cm;"><span class="p1">1. Час польоту i час пiдняття тiла</span></p>
 <p style="margin-left:1cm;">Дальнiсть польоту $$L$$ дорiвнює координатi $$x$$ в той момент, коли координата $$y = 0$$ (в момент приземлення тiла). Прирiвнявши $$y(t) = 0$$ можна вiднайти час польоту тiла $$T$$</p>
 <br>
 <div align="center">$$0 = v_0 \sin \alpha · T - \dfrac{gT^2}{2}$$</div>
@@ -53,3 +53,5 @@ v_y = v_0 \sin \alpha - gt
 </tr>
 </table></div>
 <p></p>
+<br>
+<p style="margin-left:0.5cm;"><span class="p1">2. Дальнiсть польоту тiла</span></p>
