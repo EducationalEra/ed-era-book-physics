@@ -95,13 +95,28 @@ v_y = v_0 \sin \alpha - gt
 
 Для вiдтворення експериментiв будемо використовувати формули, виведення яких здiйснили вище.
 <br>
-
 <b>Швидкiсть снаряду</b>
+<br>
 Кут $$\alpha = 30º$$, час польоту $$T \approx 24.3c$$.
+<br>
 <div align="center">$$T = \dfrac{2v_0\sin\alpha}{g} \Rightarrow v_0 = \dfrac{gT}{2\sin\alpha} = \dfrac{9.8 · 24.3}{2 · \sin 30º} \approx 238.1$$(м/с)
-
+<br>
 <b>Дальностi польоту</b>
+<br>
 Дальнiсть польоту обраховуємо по формулi
-<div align="center">$$L = \dfrac{v_0^2\sin 2\alpha}{g}</div><div align="right">(1)</div>
+<br>
+<div align="center">$$L = \dfrac{v_0^2\sin 2\alpha}{g}$$</div><div align="right">(1)</div>
+<br>
+Для кутiв 30º, 45º, 60º вiдповiдно
+<br>
+<div align="center">$$L_1 \approx 5000$$м $$=$$ 5км; $$L_2 \approx 5800м = 5.8км$$; $$L_3 \approx 5000м = 5км$$</div>
+<br>
+Порiвнявши, бачимо, що при 45º дальнiсть польоту найбiльша. Але це була вибiрка з трьох кутiв. У загальному випадку легко показати, що саме при кутi 45º дальнiсть польоту максимальна. $$L$$ у формулi (1) буде максимальним, якщо $$\sin 2 \alpha = 1 \Rightarrow \alpha = 45º.$$
+<br>
+<b>Максимальна висота</b>
+<br>
+Маємо кут $$\alpha = 45º$$ та формулу для визначення максимальної висоти
+<br>
+<div align="center">$$H = \dfrac{v_0^2\sin^2\alpha}{2g} = \dfrac{238.1^2 \sin^2 45º}{2 · 9.8} \approx 1450(м)$$</div>
 </div>
 </div>
