@@ -22,7 +22,7 @@
    * [Теорія двовимірного руху](book/chapter_3/teorya_dvovimrnogo_ruhu.md)
        * [Характер двовимірного руху](book/chapter_3/harakter_dvovimrnogo_ruhu.md)
        * [Проекції швидкості](book/chapter_3/proekts_shvidkost.md)
-   * Практична частина
+   * [Практична частина](book/chapter_3/praktichna_chastina.md)
        * Дальність польоту, максимальна висота, час падіння
        * Тіло, що кинуте горизонтально
    * Градуси та радіани
