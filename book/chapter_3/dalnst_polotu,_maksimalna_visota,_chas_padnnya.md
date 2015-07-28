@@ -10,6 +10,13 @@
 початкової швидкостi $$v_{0x} = v_0 \cos \alpha$$.
 $$
 \begin{cases}
-x = v_0 \cos \alpha · t;\\
+x = v_0 \cos \alpha · t\\
 v_x = v_0 \cos \alpha
+\end{cases}$$
+<br>
+<b>Проекцiя на вiсь $$y$$.</b> Система координат обрана таким чином, що $$y_0 = 0$$. У напрямку вiсi $$y$$ швидкiсть змiнна, на неї впливає прискорення $$\vec{g}$$, напрямлене в протилежний напрямок до напряму вiсi. Проекцiя початкової швидкостi $$v_{0y} = v_0 \sin \alpha$$.
+$$
+\begin{cases}
+y = v_0 \sin \alpha · t - \dfrac{gt^2}{2}}\\
+v_y = v_0 \sin \alpha - gt
 \end{cases}$$
