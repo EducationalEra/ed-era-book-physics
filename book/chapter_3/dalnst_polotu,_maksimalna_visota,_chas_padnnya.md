@@ -10,6 +10,6 @@
 початкової швидкостi $$v_{0x} = v_0 \cos \alpha$$.
 $$
 \begin{cases}
-x = v_0 \cos \alpha • t;\\
+x = v_0 \cos \alpha · t;\\
 v_x = v_0 \cos \alpha
 \end{cases}$$
