@@ -23,12 +23,9 @@ v_y = v_0 \sin \alpha - gt
 \end{cases}$$</div>
 <br>
 <p style="margin-left:0.6cm;"><span class="p1">1. Час польоту i час пiдняття тiла</span></p>
-<p style="margin-left:1cm;">Дальнiсть польоту $$L$$ дорiвнює координатi $$x$$ в той момент, коли координата $$y = 0$$ (в момент приземлення тiла). Прирiвнявши $$y(t) = 0$$ можна вiднайти час польоту тiла $$T$$</p>
-<br>
+<div class="space"><p style="margin-left:1cm;">Дальнiсть польоту $$L$$ дорiвнює координатi $$x$$ в той момент, коли координата $$y = 0$$ (в момент приземлення тiла). Прирiвнявши $$y(t) = 0$$ можна вiднайти час польоту тiла $$T$$</p</div>
 <div align="center">$$0 = v_0 \sin \alpha · T - \dfrac{gT^2}{2}$$</div>
-<br>
 <div align="center">$$T(\dfrac{g}{2}T - v_0 \sin \alpha) = 0 \Rightarrow \dfrac{g}{2}T - v_0 \sin \alpha = 0$$</div>
-<br>
 <p style="margin-left:1cm;"><b>Час польоту тiла:</b></p>
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -39,7 +36,7 @@ v_y = v_0 \sin \alpha - gt
 </tr>
 </table></div>
 <p></p>
-<br>
+
 <p style="margin-left:1cm;">Ми з вами у попереднiй лекцiї доводили те, що час пiдняття тiла дорiвнює часу
 спуску. Отже, час пiдняття дорiвнює половинi часу польоту тiла.</p>
 <p style="margin-left:1cm;"><b>Час пiдняття тiла:</b></p>
@@ -52,7 +49,6 @@ v_y = v_0 \sin \alpha - gt
 </tr>
 </table></div>
 <p></p>
-<br>
 <p style="margin-left:0.6cm;"><span class="p1">2. Дальнiсть польоту тiла</span></p>
 <p style="margin-left:1cm;">Як вже зазначалося у попередньому пунктi $$L = x(t) = v_0 \cos \alpha · T$$. Пiдставляючи час польоту $$T$$ iз попереднього пункту, отримуємо</p>
 <br>
