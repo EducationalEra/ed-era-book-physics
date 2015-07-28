@@ -42,7 +42,6 @@ v_y = v_0 \sin \alpha - gt
 <br>
 <p style="margin-left:1cm;">Ми з вами у попереднiй лекцiї доводили те, що час пiдняття тiла дорiвнює часу
 спуску. Отже, час пiдняття дорiвнює половинi часу польоту тiла.</p>
-<br>
 <p style="margin-left:1cm;"><b>Час пiдняття тiла:</b></p>
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -60,7 +59,6 @@ v_y = v_0 \sin \alpha - gt
 <div align="center">$$L = \dfrac{2 v_0^2 \sin \alpha \cos \alpha}{g}$$</div>
 <br>
 <p style="margin-left:1cm;">Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha$$</p>
-<br>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -103,3 +101,11 @@ v_y = v_0 \sin \alpha - gt
 <br>
 
 <b>Швидкiсть снаряду</b>
+Кут $$\alpha = 30º$$, час польоту $$T \approx 24.3c$$.
+<div align="center">$$T = \dfrac{2v_0\sin\alpha}{g} \Rightarrow v_0 = \dfrac{gT}{2\sin\alpha} = \dfrac{9.8 · 24.3}{2 · \sin 30º} \approx 238.1$$(м/с)
+
+<b>Дальностi польоту</b>
+Дальнiсть польоту обраховуємо по формулi
+<div align="center">$$L = \dfrac{v_0^2\sin 2\alpha}{g}</div><div align="right">(1)</div>
+</div>
+</div>
