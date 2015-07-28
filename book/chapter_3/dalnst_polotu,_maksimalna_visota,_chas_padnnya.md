@@ -22,7 +22,7 @@ y = v_0 \sin \alpha · t - \dfrac{gt^2}{2}\\
 v_y = v_0 \sin \alpha - gt
 \end{cases}$$</div>
 <br>
-<p style="margin-left:0.5cm;"><span class="p1">1. Час польоту i час пiдняття тiла</span></p>
+<p style="margin-left:0.6cm;"><span class="p1">1. Час польоту i час пiдняття тiла</span></p>
 <p style="margin-left:1cm;">Дальнiсть польоту $$L$$ дорiвнює координатi $$x$$ в той момент, коли координата $$y = 0$$ (в момент приземлення тiла). Прирiвнявши $$y(t) = 0$$ можна вiднайти час польоту тiла $$T$$</p>
 <br>
 <div align="center">$$0 = v_0 \sin \alpha · T - \dfrac{gT^2}{2}$$</div>
@@ -54,7 +54,7 @@ v_y = v_0 \sin \alpha - gt
 </table></div>
 <p></p>
 <br>
-<p style="margin-left:0.5cm;"><span class="p1">2. Дальнiсть польоту тiла</span></p>
+<p style="margin-left:0.6cm;"><span class="p1">2. Дальнiсть польоту тiла</span></p>
 <p style="margin-left:1cm;">Як вже зазначалося у попередньому пунктi $$L = x(t) = v_0 \cos \alpha · T$$. Пiдставляючи час польоту $$T$$ iз попереднього пункту, отримуємо</p>
 <br>
 <div align="center">$$L = \dfrac{2 v_0^2 \sin \alpha \cos \alpha}{g}$$</div>
@@ -71,7 +71,7 @@ v_y = v_0 \sin \alpha - gt
 </table></div>
 <p></p>
 <br>
-<p style="margin-left:0.5cm;"><span class="p1">3. Максимальна висота</span></p>
+<p style="margin-left:0.6cm;"><span class="p1">3. Максимальна висота</span></p>
 <p style="margin-left:1cm;">Максимальна висота $$H$$ - координата 𝑦 в момент часу $$t = t'$$ (час пiдйому).</p>
 <br>
 <div align="center">$$H = y(t') = v_0 \sin \alpha · t' - \dfrac{gt'^2}{2}$$</div>
