@@ -55,3 +55,38 @@ v_y = v_0 \sin \alpha - gt
 <p></p>
 <br>
 <p style="margin-left:0.5cm;"><span class="p1">2. Дальнiсть польоту тiла</span></p>
+<p style="margin-left:1cm;">Як вже зазначалося у попередньому пунктi $$L = x(t) = v_0 \cos \alpha · T$$. Пiдставляючи час польоту $$T$$ iз попереднього пункту, отримуємо</p>
+<br>
+<div align="center">$$L = \dfrac{2 v_0^2 \sin \alpha \cos \alpha}{g}$$</div>
+<br>
+<p style="margin-left:1cm;">Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha$$</p>
+<br>
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$L = \dfrac{v_0^2 \sin 2 \alpha}{g}$$</p1>
+</td>
+</tr>
+</table></div>
+<p></p>
+<br>
+<p style="margin-left:0.5cm;"><span class="p1">3. Максимальна висота</span></p>
+<p style="margin-left:1cm;">Максимальна висота $$H$$ - координата 𝑦 в момент часу $$t = t'$$ (час пiдйому).</p>
+<br>
+<div align="center">$$H = y(t') = v_0 \sin \alpha · t' - \dfrac{gt'^2}{2}$$</div>
+<br>
+<p style="margin-left:1cm;">Пiдставляємо $$t' = \dfrac{v_0 \sin \alpha}{g}$$ iз попереднього пункту</p>
+<br>
+<div align="center">$$H - \dfrac{v_0^2 \sin^2 \alpha}{g} - \dfrac{v_0^2 \sin^2 \alpha}{2g}$$</div>
+<br>
+<p style="margin-left:1cm;"><b>Максимальна висота:</b></p>
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$H = \dfrac{v_0^2 \sin^2 \alpha}{2g}$$</p1>
+</td>
+</tr>
+</table></div>
+<p></p>
