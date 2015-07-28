@@ -22,14 +22,14 @@ y = v_0 \sin \alpha · t - \dfrac{gt^2}{2}\\
 v_y = v_0 \sin \alpha - gt
 \end{cases}$$</div>
 <br>
-<p style="margin-left:1cm;"><span class="p1">1. Час польоту i час пiдняття тiла</span></p>
-<p style="margin-left:1.2cm;">Дальнiсть польоту $$L$$ дорiвнює координатi $$x$$ в той момент, коли координата $$y = 0$$ (в момент приземлення тiла). Прирiвнявши $$y(t) = 0$$ можна вiднайти час польоту тiла $$T$$.
+<p style="margin-left:0.7cm;"><span class="p1">1. Час польоту i час пiдняття тiла</span></p>
+<p style="margin-left:1cm;">Дальнiсть польоту $$L$$ дорiвнює координатi $$x$$ в той момент, коли координата $$y = 0$$ (в момент приземлення тiла). Прирiвнявши $$y(t) = 0$$ можна вiднайти час польоту тiла $$T$$</p>
 <br>
 <div align="center">$$0 = v_0 \sin \alpha · T - \dfrac{gT^2}{2}$$</div>
 <br>
 <div align="center">$$T(\dfrac{g}{2}T - v_0 \sin \alpha) = 0 \Rightarrow \dfrac{g}{2}T - v_0 \sin \alpha = 0$$</div>
 <br>
-<b>Час польоту тiла:</b>
+<p style="margin-left:1cm;"><b>Час польоту тiла:</b></p>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -40,10 +40,10 @@ v_y = v_0 \sin \alpha - gt
 </table></div>
 <p></p>
 <br>
-Ми з вами у попереднiй лекцiї доводили те, що час пiдняття тiла дорiвнює часу
-спуску. Отже, час пiдняття дорiвнює половинi часу польоту тiла.
+<p style="margin-left:1cm;">Ми з вами у попереднiй лекцiї доводили те, що час пiдняття тiла дорiвнює часу
+спуску. Отже, час пiдняття дорiвнює половинi часу польоту тiла.</p>
 <br>
-<b>Час пiдняття тiла:</b>
+<p style="margin-left:1cm;"><b>Час пiдняття тiла:</b></p>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
