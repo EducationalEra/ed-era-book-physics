@@ -8,10 +8,9 @@
 
 <img class="image" width="200" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/2.png" />
 
-
 * <div class="space"><b>Проекцiя на вертикальну вiсь</b><br>
 Як вже зазначалося, вздовж вертикальної вiсi маємо <b>рiвноприскорений рух</b>.
-У випадку, коли вiсь напрямлена вгору ( в протилежному до напрямку прискорення вiльного падiння):</div>
+У випадку, коли вiсь напрямлена вгору (в протилежному до напрямку прискорення вiльного падiння):</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
