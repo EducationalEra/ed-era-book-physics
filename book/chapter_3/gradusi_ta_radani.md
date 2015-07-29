@@ -28,3 +28,13 @@ $$1рад \approx 57.3º$$. Один повний оберт – $$2\pi$$ рад
 <div class="p3">Як бачите, радiан визначається через довжину дуги $$S$$.</div>
 
 <div align="center">$$\theta$$(рад) $$= \dfrac{S}{R}$$</div>
+
+Вiдповiдно, якщо $$2\pi$$ рад вiдповiдає куту 360º, то довжина дуги в даному випадку дорiвнює довжинi кола $$L$$.
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$2\pi = \dfrac{L}{R} \Rightarrow L = 2\piR$$</p1>
+</td>
+</tr>
+</table></div>
