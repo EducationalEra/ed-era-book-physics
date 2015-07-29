@@ -64,3 +64,6 @@
 <div align="center">60º·$$\dfrac{2\pi}{360º} = \dfrac{\pi}{3}$$</div><br>
 <div align="center">90º·$$\dfrac{2\pi}{360º} = \dfrac{\pi}{2}$$</div><br>
 <div align="center">270º·$$\dfrac{2\pi}{360º} = \dfrac{3\pi}{2}$$</div><br>
+
+</div>
+</div>
