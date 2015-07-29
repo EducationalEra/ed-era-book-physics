@@ -50,7 +50,7 @@
 <br>
 <b>Розв’язок.</b> Так як $$2\pi$$ рад $$=$$ 360º, помноживши будь-який вираз на 360º та подiливши на $$2\pi$$, нiчого не змiниться. Так само i навпаки. Використовуючи цей факт ми i будемо отримувати необхiднi для переведення формули.
 <br>
-<h2><b>1.</b></h2>
+<b>1.</b>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -59,10 +59,10 @@
 </td>
 </tr>
 </table></div>
-<div align="center">30º·$$\dfrac{2\pi}{360º} = \dfrac{\pi}{6}$$</div><br>
-<div align="center">60º·$$\dfrac{2\pi}{360º} = \dfrac{\pi}{3}$$</div><br>
-<div align="center">90º·$$\dfrac{2\pi}{360º} = \dfrac{\pi}{2}$$</div><br>
-<div align="center">270º·$$\dfrac{2\pi}{360º} = \dfrac{3\pi}{2}$$</div><br>
+<div align="center">30º · $$\dfrac{2\pi}{360º} = \dfrac{\pi}{6}$$</div><br>
+<div align="center">60º · $$\dfrac{2\pi}{360º} = \dfrac{\pi}{3}$$</div><br>
+<div align="center">90º · $$\dfrac{2\pi}{360º} = \dfrac{\pi}{2}$$</div><br>
+<div align="center">270º · $$\dfrac{2\pi}{360º} = \dfrac{3\pi}{2}$$</div><br>
 <b>2.</b>
 <div class="centered-table-wrapper">
 <table class="centered-table">
