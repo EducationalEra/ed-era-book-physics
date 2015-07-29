@@ -12,6 +12,7 @@
 <br>
 
 <img class="image" width="600" height="120" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/8.png" />
+<br>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
