@@ -17,4 +17,6 @@
 $$1рад \approx 57.3º. Один повний оберт – $$2\Pi рад$$.<br></div>
 <p></p>
 
+<img class="image" width="500" height="100" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/9.png" />
+
 
