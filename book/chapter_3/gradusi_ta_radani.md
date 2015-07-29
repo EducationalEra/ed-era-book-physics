@@ -24,17 +24,37 @@ $$1рад \approx 57.3º$$. Один повний оберт – $$2\pi$$ рад
 <br>
 
 <img class="image" width="600" height="120" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/9.png" />
-
+<br>
 <div class="p3">Як бачите, радiан визначається через довжину дуги $$S$$.</div>
-
+<br>
 <div align="center">$$\theta$$(рад) $$= \dfrac{S}{R}$$</div>
-
-Вiдповiдно, якщо $$2\pi$$ рад вiдповiдає куту 360º, то довжина дуги в даному випадку дорiвнює довжинi кола $$L$$.
+<br>
+<div class="space">Вiдповiдно, якщо $$2\pi$$ рад вiдповiдає куту 360º, то довжина дуги в даному випадку дорiвнює довжинi кола $$L$$.</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$2\pi = \dfrac{L}{R} \Rightarrow L = 2\piR$$</p1>
+<p1>$$2\pi = \dfrac{L}{R} \Rightarrow L = 2 \pi R$$</p1>
 </td>
 </tr>
 </table></div>
+
+<div class="task-wrap">
+<span class="task">Задача 1</span> <b>ПЕРЕВЕДЕННЯ ОДИНИЦЬ</b>
+<div class="task-text">
+1. Перевести градуси: 30º, 60º, 90º, 270º в радiани.
+2. Перевести радiани: $$\dfrac{\pi}{4}, \dfrac{2\pi}{3}, \dfrac{\pi}{2}, \dfrac{5\pi}{6}$$ в градуси.
+<br>
+<b>Розв’язок.</b> Так як $$2\pi$$ рад $$=$$ 360º, помноживши будь-який вираз на 360º та подiливши на $$2\pi$$, нiчого не змiниться. Так само i навпаки. Використовуючи цей факт ми i будемо отримувати необхiднi для переведення формули.
+<br>
+<b>1.</b>
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>Кут у радiанах $$=$$ Кут у градусах · $$\dfrac{2\pi}{360º}$$</p1>
+</td>
+</tr>
+</table></div>
+</div>
+</div>
