@@ -39,18 +39,20 @@
 </td>
 </tr>
 </table></div>
+<br>
 
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ПЕРЕВЕДЕННЯ ОДИНИЦЬ</b>
 <div class="task-text">
-1. Перевести градуси: 30º, 60º, 90º, 270º в радiани.
+1. Перевести градуси: 30º, 60º, 90º, 270º в радiани.<br>
 2. Перевести радiани: $$\dfrac{\pi}{4}, \dfrac{2\pi}{3}, \dfrac{\pi}{2}, \dfrac{5\pi}{6}$$ в градуси.
 
 
 <br>
-<i><b>Розв’язок.</b></i> Так як $$2\pi$$ рад $$=$$ 360º, помноживши будь-який вираз на 360º та подiливши на $$2\pi$$, нiчого не змiниться. Так само i навпаки. Використовуючи цей факт ми i будемо отримувати необхiднi для переведення формули.
+<i><b>Розв’язок.</b></i>  Так як $$2\pi$$ рад $$=$$ 360º, помноживши будь-який вираз на 360º та подiливши на $$2\pi$$, нiчого не змiниться. Так само i навпаки. Використовуючи цей факт ми i будемо отримувати необхiднi для переведення формули.
 <br>
-<b>1.</b>
+<br>
+<div class="p3"><b>1.</b></div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -63,7 +65,7 @@
 <div align="center">60º · $$\dfrac{2\pi}{360º} = \dfrac{\pi}{3}$$</div><br>
 <div align="center">90º · $$\dfrac{2\pi}{360º} = \dfrac{\pi}{2}$$</div><br>
 <div align="center">270º · $$\dfrac{2\pi}{360º} = \dfrac{3\pi}{2}$$</div><br>
-<b>2.</b>
+<div class="p3"><b>2.</b></div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
