@@ -58,12 +58,22 @@
 </td>
 </tr>
 </table></div>
-</div>
-</div>
 <div align="center">30º·$$\dfrac{2\pi}{360º} = \dfrac{\pi}{6}$$</div><br>
 <div align="center">60º·$$\dfrac{2\pi}{360º} = \dfrac{\pi}{3}$$</div><br>
 <div align="center">90º·$$\dfrac{2\pi}{360º} = \dfrac{\pi}{2}$$</div><br>
 <div align="center">270º·$$\dfrac{2\pi}{360º} = \dfrac{3\pi}{2}$$</div><br>
-
+<b>2.</b>
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>Кут у градусах $$=$$ Кут у радiанах · $$\dfrac{360º}{2\pi}$$</p1>
+</td>
+</tr>
+</table></div>
+<div align="center">$$\dfrac{\pi}{4} · \dfrac{360º}{2\pi} = 45º$$</div><br>
+<div align="center">$$\dfrac{2\pi}{3} · \dfrac{360º}{2\pi} = 120º$$</div><br>
+<div align="center">$$\dfrac{\pi}{2} · \dfrac{360º}{2\pi} = 90º$$</div><br>
+<div align="center">$$\dfrac{5\pi}{6} · \dfrac{360º}{2\pi} = 150º$$</div><br>
 </div>
 </div>
