@@ -7,3 +7,4 @@
 <b>Градус (позначається º)</b> - одиниця вимiру плоского кута.<br>
 Прямий кут – 90º. Один повний оберт – 360º.<br></div>
 <p></p>
+<img class="image" width="500" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/8.png" />
