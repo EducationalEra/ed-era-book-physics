@@ -31,7 +31,7 @@
        * [Загальна характеристика криволінійного руху](book/chapter_3/zagalna_harakteristika_krivolninogo_ruhu.md)
        * [Рівномірний рух по колу](book/chapter_3/rvnomrnii_ruh_po_kolu.md)
        * [Виведення. Доцентрове прискорення (додатково)](book/chapter_3/vivedennya_dotsentrove_priskorennya_dodatkovo.md)
-       * Важливі приклади
+       * [Важливі приклади](book/chapter_3/vazhliv_prikladi.md)
 * Концепція сили
    * Вступ у динаміку
    * Інертність та маса
