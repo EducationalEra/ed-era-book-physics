@@ -5,19 +5,10 @@
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Градус (позначається º)</b> - одиниця вимiру плоского кута.<br/>
+<br/>
 Прямий кут – 90º. Один повний оберт – 360º.
 </div>
 </div>
-
-<div class="eoz-wrap">
-<span class="eoz">Означення</span>
-<div class="eoz-text">
-<b>Градус (позначається º)</b> - одиниця вимiру плоского кута.<br>
-Прямий кут – 90º. Один повний оберт – 360º.
-</div>
-</div>
-<br>
-<p></p>
 
 <img class="image" width="600" height="120" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/8.png" />
 
