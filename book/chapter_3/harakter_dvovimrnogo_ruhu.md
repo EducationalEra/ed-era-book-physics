@@ -8,7 +8,7 @@
 
 <img class="image" width="200" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/1.png" />
 
-* <div class="space"><b>Проекцiя на вертикальну вiсь</b>
+• <div class="space"><b>Проекцiя на вертикальну вiсь</b>
 
 У вертикальному напрямку <b>завжди</b> дiє прискорення вiльного падiння $$\vec{g}$$ напрямлене вертикально вниз. $$\Rightarrow$$ <span class="p1">Рiвноприскорений рух.</span> Якщо вiсь $$y$$ напрямлена вгору, в загальному випадку:</div>
 <div class="centered-table-wrapper">
@@ -20,7 +20,8 @@
 </tr>
 </table></div>
 <p></p>
-* <div class="space"><b>Проекцiя на горизонтальну вiсь</b>
+
+• <div class="space"><b>Проекцiя на горизонтальну вiсь</b>
 У горизонтальному напрямку, як вже зазначалось, ми нехтуємо опором повiтря. Отже, немає жодних стороннiх впливiв на тiло пiд час руху у горизонтальному напрямку. $$\Rightarrow$$ <span class="p1">Рiвномiрний рух.</span> Проекцiя швидкостi на вiсь $$x$$ пiд час всього руху не змiнюється i дорiвнює проекцiї початкової швидкостi $$v_x=x_{0x}$$.</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
