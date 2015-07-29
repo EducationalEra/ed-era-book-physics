@@ -9,9 +9,8 @@
 
 
 </p>
-1. fgdxgfcgcgcgfcfdsfsdfds dsfdsfsdfsdfds fsdfdsfdsfdsfsdfds xfgfgfcg cghccggc
 
-<ul>
-<li>1. У першому випадку прискорення $$\vec{a}$$ напрямлене вздовж вiсi $$x$$. Таким чином маємо <b>прямолiнiйний рiвноприскорений рух.</li>
-<li>2. dsfsdfdsf fds fsd</li>
-</ul>
+<ol>
+<li>У першому випадку прискорення $$\vec{a}$$ напрямлене вздовж вiсi $$x$$. Таким чином маємо <b>прямолiнiйний рiвноприскорений рух.</li>
+<li>dsfsdfdsf fds fsd</li>
+</ol>
