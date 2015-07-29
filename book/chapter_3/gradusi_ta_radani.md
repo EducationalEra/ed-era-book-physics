@@ -23,3 +23,5 @@ $$1рад \approx 57.3º$$. Один повний оберт – 2 $$\pi$$ ра�
 
 <img class="image" width="600" height="120" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/9.png" />
 
+<div class="p3">Як бачите, радiан визначається через довжину дуги $$S$$.</div>
+
