@@ -10,7 +10,7 @@
 </div>
 <p></p>
 
-<img class="image" width="600" height="150" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/8.png" />
+<img class="image" width="600" height="110" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/8.png" />
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
@@ -21,6 +21,6 @@ $$1рад \approx 57.3º. Один повний оберт – $$2\Pi рад$$.<
 </div>
 <p></p>
 
-<img class="image" width="600" height="150" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/9.png" />
+<img class="image" width="600" height="110" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/9.png" />
 
 
