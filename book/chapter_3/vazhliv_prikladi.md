@@ -108,7 +108,7 @@
 <p style="margin-left:1cm;"><span class="p1"><b>2. Шкiви та шестернi рiзних радiусiв</b></span></p>
 <div class="space">Ще один тип вiдомих задач стосується з’єднаних механiзмiв, що обертаються. Цi механiзми мають рiзнi радiуси (або у випадку шестерней – рiзну кiлькiсть зубцiв) та, вiдповдно, рiзнi перiоди обертання.</div>
 
-<div class="space"><img class="image" width="196" height="286" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/21.png" /></div>
+<div class="space"><img class="image" width="320" height="247" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/21.png" /></div>
 
 <div class="space">Потрiбно розумiти всього двi речi для вирiшення таких задач:</div>
 <ul>
