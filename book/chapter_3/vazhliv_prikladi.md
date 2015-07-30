@@ -10,7 +10,7 @@
 
 <div class="space">Розглянемо приклад. Автомобiль рухається рiвномiрно по горизонтальнiй дорозi без проковзування зi швидкiстю $\vec{v}$. Визначити швидкостi вказаних точок.</div>
 
-<img class="image" width="235" height="240" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/16.png" />
+<div class="space"><img class="image" width="235" height="240" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/16.png" /></div>
 
 <ul>
 <li>
@@ -27,7 +27,7 @@
 <li>
 <div class="space">Тепер розглянемо <b>першу точку</b></div>
 
-<img class="image" width="326" height="114" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/17.png" />
+<div class="space"><img class="image" width="326" height="114" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/17.png" /></div>
 
 
 <div class="space">Швидкiсть цiєї точки складається з лiнiйної швидкостi обертання колеса $\vec{v_{об}}$, напрямленої влiво та поступальної швидкостi $\vec{v}$, напрямленої вправо.</div>
@@ -55,7 +55,7 @@
 <li>
 <div class="space"><b>Друга точка.</b></div>
 
-<img class="image" width="374" height="132" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/18.png" />
+<div class="space"><img class="image" width="374" height="132" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/18.png" /></div>
 
 
 <div class="space">Швидкостi обертального та поступального руху напрямленi вправо. Також ми тепер знаємо з попереднього пункту, що швидкiсть обератання дорiвнює швидкостi поступального руху</div>
@@ -71,7 +71,7 @@
 <li>
 <div class="space"><b>Третя точка.</b></div>
 
-<img class="image" width="196" height="286" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/19.png" />
+<div class="space"><img class="image" width="196" height="286" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/19.png" /></div>
 
 
 <div class="space">Швидкiсть обертального руху напрямлена вертикально вгору. швидкiсть поступального руху, як завжди, вправо. Векторну суму можна здiйснити за правилом паралелограма. Модуль результуючого вектора можна знайти за допомогою теореми Пiфагора.</div>
@@ -87,7 +87,7 @@
 <li>
 <div class="space"><b>Четверта точка.</b></div>
 
-<img class="image" width="200" height="145" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/20.png" />
+<div class="space"><img class="image" width="200" height="145" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/20.png" /></div>
 
 
 <div class="space">Швидкiсть обертального руху напрямлена по дотичнiй до поверхнi колеса. Швидкiсть поступального руху – вправо. Iз геометрiї кут мiж векторами 45º. За допомогою теореми косинусiв:</div>
