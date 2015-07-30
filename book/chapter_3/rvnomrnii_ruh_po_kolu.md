@@ -50,7 +50,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v = \dfrac{L}{T} = \dfrac{2 \pi R}{T} = 2 \pi v R$$</p1>
+<p1>$$v = \dfrac{L}{T} = \dfrac{2 \pi R}{T} = 2 \pi \nu R$$</p1>
 </td>
 </tr>
 </table></div></li>
@@ -59,13 +59,13 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\omega = \dfrac{\Delta \phi}{\Delta t} = \dfrac{2 \pi}{T} = 2 \pi v$$</p1>
+<p1>$$\omega = \dfrac{\Delta \phi}{\Delta t} = \dfrac{2 \pi}{T} = 2 \pi \nu$$</p1>
 </td>
 </tr>
 </table></div></li>
 </ol>
 <ul>
-<li><div class="space"><b>Зв’язок мiж лiнiйною та кутовою швидкiстю.</b> Якщо порiвняти отриманi вирази для лiнiйної ($v = 2 \pi v R$) та кутової швидкості ($\omega = 2 \pi v$), видно, що зв’язок мiж цими швидкостями:</div>
+<li><div class="space"><b>Зв’язок мiж лiнiйною та кутовою швидкiстю.</b> Якщо порiвняти отриманi вирази для лiнiйної ($v = 2 \pi \nu R$) та кутової швидкості ($\omega = 2 \pi \nu$), видно, що зв’язок мiж цими швидкостями:</div>
 
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -108,22 +108,22 @@
 <li>
 Частота – обернена до перiоду величина
 
-<div align="center">$$v = \dfrac{1}{T} = \dfrac{1}{0.5} = $$</div>
+<div align="center">$$\nu = \dfrac{1}{T} = \dfrac{1}{0.5} = 2(c^{-1})$$</div>
 </li>
 <li>
 Лiнiйна швидкiсть визначається як вiдношення пройденого шляху до часу, за який було подолано цей шлях. Повний оберт долається за перiод $$T$$:
 
-<div align="center"></div>
+<div align="center">$$v = \dfrac{2 \pi R}{T} = \dfrac{2 · 3.14 · 0.6}{0.5} \approx 7.5$$(м/с)</div>
 </li>
 <li>
 Кутова швидкiсть дорiвнює вiдношенню кута повороту до часу, за який цей кут було подолано. Кут повороту для повного оберту $$2 \pi$$, вiдповiдний час – $$T$$.
 
-<div align="center"></div>
+<div align="center">$$\omega = \dfrac{2 \pi}{T} = \dfrac{2 · 3.14}{0.5} \approx 12.6$$(рад/с)</div>
 </li>
 <li>
 Доцентрове прискорення:
 
-<div align="center"></div>
+<div align="center">$$a_Д = \dfrac{v^2}{R} = \dfrac{7.5^2}{0.6} \approx 93.8$$(м/$$c^2$$)</div>
 </li>
 </ul>
 </div>
