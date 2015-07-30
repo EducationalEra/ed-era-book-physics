@@ -10,14 +10,13 @@
 <b>Тангенцiальне прискорення</b> $$a_T = 0$$
 </div>
 </div>
-<img class="image" width="395" height="510" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/12.png">
+<img class="image" width="200" height="255" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/12.png">
 
 На рисунку зображено рiвномiрний рух тiла по колу та   положення точки у два моменти часу $$t_1$$ та $$t_2$$.
 
 
 <span class="p1"><p style="margin-left:1cm;">Основнi характеристики та величини:</p></span>
 <ul>
-<li>
 <b>1. Перiод обертання</b> $$T(c)$$ - час, за який тiло здiйснює повний оберт. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то перiод
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -28,9 +27,7 @@
 </tr>
 </table></div>
 
-</li>
-<li>
-<b>2. Частота обертання</b> $$v(c^-1$$, Гц) - кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота
+<b>2. Частота обертання</b> $$v(c^{-1}$$, Гц) - кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -40,7 +37,6 @@
 </tr>
 </table></div>
 
-</li>
 <b>3. Кут повороту</b> $$\Delta \phi$$(рад) - кут, на який повертається радiус кола, напрямлений з центра до дослiджуваної точки, за час руху тiла $$\Delta t$$. У секцiї 1 ми розглядали зв’язок кута у радiанах з довжиною дуги та радiусом кола.
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -50,5 +46,4 @@
 </td>
 </tr>
 </table></div>
-</li>
 </ul>
