@@ -16,7 +16,8 @@
 
 
 <span class="p1"><p style="margin-left:1cm;">Основнi характеристики та величини:</p></span>
-<ul>
+<ol>
+<li>
 <b>1. Перiод обертання</b> $$T(c)$$ - час, за який тiло здiйснює повний оберт. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то перiод
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -27,6 +28,8 @@
 </tr>
 </table></div>
 
+</li>
+<li>
 <b>2. Частота обертання</b> $$v(c^{-1}$$, Гц) - кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -37,6 +40,8 @@
 </tr>
 </table></div>
 
+</li>
+<li>
 <b>3. Кут повороту</b> $$\Delta \phi$$(рад) - кут, на який повертається радiус кола, напрямлений з центра до дослiджуваної точки, за час руху тiла $$\Delta t$$. У секцiї 1 ми розглядали зв’язок кута у радiанах з довжиною дуги та радiусом кола.
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -46,4 +51,5 @@
 </td>
 </tr>
 </table></div>
-</ul>
+</li>
+</ol>
