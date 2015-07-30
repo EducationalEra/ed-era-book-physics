@@ -16,7 +16,7 @@
 
 
 
-<p style="margin-left:1.5cm;">Основнi характеристики та величини:</p></span>
+<p style="margin-left:1.0cm;">Основнi характеристики та величини:</p></span>
 <ol>
 <li><div class="space"><b>Перiод обертання</b> $$T(c)$$ - час, за який тiло здiйснює повний оберт. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то перiод</div>
 <div class="centered-table-wrapper">
