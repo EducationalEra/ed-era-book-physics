@@ -2,7 +2,7 @@
 
 <img class="image" width="600" height="110" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/10.png">
 <br>
-<div class="p3">На рисунку зображено швидкiсть $$\vec{v}$$, яка напрямлена для наглядностi вздовж вiсi $$x$$.</div>
+<p style="margin-left:0.7cm;">На рисунку зображено швидкiсть $$\vec{v}$$, яка напрямлена для наглядностi вздовж вiсi $$x$$.</p>
 
 <ol>
 <li>
