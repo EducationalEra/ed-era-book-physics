@@ -95,7 +95,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_4 = \sqrt{v^2 + v^2 - 2 v · v · \cos (135º)} \approx 1.85v$$</p1>
+<p1>$$v_4 = \sqrt{v^2 + v^2 - 2 v · v · \cos (135°)} \approx 1.85v$$</p1>
 </td>
 </tr>
 </table></div>
