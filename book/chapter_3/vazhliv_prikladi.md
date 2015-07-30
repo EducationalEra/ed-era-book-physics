@@ -29,6 +29,7 @@
 
 <img class="image" width="326" height="114" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/17.png" />
 
+
 <div class="space">Швидкiсть цiєї точки складається з лiнiйної швидкостi обертання колеса $\vec{v_{об}}$, напрямленої влiво та поступальної швидкостi $\vec{v}$, напрямленої вправо.</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -56,6 +57,7 @@
 
 <img class="image" width="374" height="132" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/18.png" />
 
+
 <div class="space">Швидкостi обертального та поступального руху напрямленi вправо. Також ми тепер знаємо з попереднього пункту, що швидкiсть обератання дорiвнює швидкостi поступального руху</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -71,6 +73,7 @@
 
 <img class="image" width="196" height="286" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/19.png" />
 
+
 <div class="space">Швидкiсть обертального руху напрямлена вертикально вгору. швидкiсть поступального руху, як завжди, вправо. Векторну суму можна здiйснити за правилом паралелограма. Модуль результуючого вектора можна знайти за допомогою теореми Пiфагора.</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -85,6 +88,7 @@
 <div class="space"><b>Четверта точка.</b></div>
 
 <img class="image" width="200" height="145" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/20.png" />
+
 
 <div class="space">Швидкiсть обертального руху напрямлена по дотичнiй до поверхнi колеса. Швидкiсть поступального руху – вправо. Iз геометрiї кут мiж векторами 45º. За допомогою теореми косинусiв:</div>
 <div class="centered-table-wrapper">
