@@ -93,7 +93,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v = \omega R \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\phi}{t} \Rightarrow | v = \dfrac{l}{t}, \omega = \dfrac{\phi}{t} | \Rightarrow v = \omega R$$</p1>
+<p1>$$v = \omega R$$</p1>
 </td>
 </tr>
 </table></div>
@@ -102,3 +102,13 @@
 <div align="center">$$l = R \omega \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\phi}{t} \Rightarrow | v = \dfrac{l}{t}, \omega = \dfrac{\phi}{t} | \Rightarrow v = \omega R$$</div>
 </li>
 </ul>
+
+<ol start="6">
+<li>
+<b>Доцентрове прискорення</b> $$a_Д$$(м/$$c^2)-  прискорення, що у будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$v$$
+
+<div align="center">$$a_Д = \dfrac{v^2}{R}$$</div>
+
+Якщо цiкавитесь детальним виведенням цiєї формули, розберiть наступний пiдпункт.
+</li>
+</ol>
