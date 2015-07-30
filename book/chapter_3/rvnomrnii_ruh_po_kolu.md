@@ -89,6 +89,7 @@
 <li>
 <b>Зв’язок мiж лiнiйною та кутовою швидкiстю.</b> Якщо порiвняти отриманi вирази для лiнiйної ($$v = 2 \pi v R$$) та кутової швидкості ($$\omega = 2 \pi v$$), видно, що зв’язок мiж цими швидкостями:
 
+
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
