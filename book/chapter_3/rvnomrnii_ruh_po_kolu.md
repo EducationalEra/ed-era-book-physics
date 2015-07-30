@@ -87,18 +87,18 @@
 
 <ul>
 <li>
-Зв’язок мiж лiнiйною та кутовою швидкiстю. Якщо порiвняти отриманi вирази для лiнiйної ($$v = 2 \pi v R$$) та кутової швидкості ($$\omega = 2 \pi v$$), видно, що зв’язок мiж цими швидкостями:
+<b>Зв’язок мiж лiнiйною та кутовою швидкiстю.</b> Якщо порiвняти отриманi вирази для лiнiйної ($$v = 2 \pi v R$$) та кутової швидкості ($$\omega = 2 \pi v$$), видно, що зв’язок мiж цими швидкостями:
 
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v = \omega R \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\phi}{t} \Rightarrow | v = \dfrac{l}{t}, \omega = \dfrac{\phi}{t} | \Rightarrow v = \omega R $$</p1>
+<p1>$$v = \omega R \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\phi}{t} \Rightarrow | v = \dfrac{l}{t}, \omega = \dfrac{\phi}{t} | \Rightarrow v = \omega R$$</p1>
 </td>
 </tr>
 </table></div>
 
 Цей вираз також випливає iз зв’язку кута повороту з довжиною дуги i радiусом:
-<div align="center">$$l = R \phi \Rightarrow $$</div>
+<div align="center">$$l = R \omega \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\phi}{t} \Rightarrow | v = \dfrac{l}{t}, \omega = \dfrac{\phi}{t} | \Rightarrow v = \omega R$$</div>
 </li>
 </ul>
