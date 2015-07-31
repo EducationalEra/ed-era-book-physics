@@ -33,7 +33,7 @@
        * [Виведення. Доцентрове прискорення (додатково)](book/chapter_3/vivedennya_dotsentrove_priskorennya_dodatkovo.md)
        * [Важливі приклади](book/chapter_3/vazhliv_prikladi.md)
 * [Концепція сили](book/chapter_4/kontseptsya_sili.md)
-   * Вступ у динаміку
+   * [Вступ у динаміку](book/chapter_4/vstup_u_dinamku.md)
    * Інертність та маса
    * Сила: рівнодійна сил
    * Перший закон Ньютона
