@@ -35,7 +35,7 @@
 * [Концепція сили](book/chapter_4/vstup_u_dinamku.md)
    * [Вступ у динаміку](book/chapter_4/vstup_u_dinamku.md)
    * [Інертність та маса](book/chapter_4/nertnst_ta_masa.md)
-   * Сила: рівнодійна сил
+   * [Сила: рівнодійна сил](book/chapter_4/sila_rvnodina_sil.md)
    * Перший закон Ньютона
    * Другий закон Ньютона та сила тяжіння
    * Третій закон Ньютона
