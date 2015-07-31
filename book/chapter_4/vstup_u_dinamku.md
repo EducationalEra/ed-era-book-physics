@@ -4,7 +4,7 @@
 
 <div class="p3"><b>Динамiка</b> – роздiл механiки, що вивчає причини виникнення руху. Центральним поняттям є <b>сила,</b> що прикладена до тiла.</div>
 
-<img class="image" width="182" height="250" float: left hspace="15" vspace="5" align="right" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/1.png" />
+<img class="image" width="182" height="250" float: left hspace="20" vspace="20" align="right" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/1.png" />
 
 <div class="p3"><b>Сер Iсаак Ньютон</b> (4 сiчня 1643 – 31 березня 1727) – англiйський вчений, творець класичної фiзики.</div>
 
