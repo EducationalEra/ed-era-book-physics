@@ -37,7 +37,7 @@
    * [Інертність та маса](book/chapter_4/nertnst_ta_masa.md)
    * [Сила: рівнодійна сил](book/chapter_4/sila_rvnodina_sil.md)
    * [Перший закон Ньютона](book/chapter_4/pershii_zakon_nyutona.md)
-   * Другий закон Ньютона та сила тяжіння
+   * [Другий закон Ньютона та сила тяжіння](book/chapter_4/drugii_zakon_nyutona_ta_sila_tyazhnnya.md)
    * Третій закон Ньютона
    * Сила реакції опори та вага
    * Приклади
