@@ -38,7 +38,7 @@
    * [Сила: рівнодійна сил](book/chapter_4/sila_rvnodina_sil.md)
    * [Перший закон Ньютона](book/chapter_4/pershii_zakon_nyutona.md)
    * [Другий закон Ньютона та сила тяжіння](book/chapter_4/drugii_zakon_nyutona_ta_sila_tyazhnnya.md)
-   * Третій закон Ньютона
+   * [Третій закон Ньютона](book/chapter_4/treti_zakon_nyutona.md)
    * Сила реакції опори та вага
    * Приклади
        * Рух у ліфті
