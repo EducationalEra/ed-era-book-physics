@@ -39,7 +39,7 @@
    * [Перший закон Ньютона](book/chapter_4/pershii_zakon_nyutona.md)
    * [Другий закон Ньютона та сила тяжіння](book/chapter_4/drugii_zakon_nyutona_ta_sila_tyazhnnya.md)
    * [Третій закон Ньютона](book/chapter_4/treti_zakon_nyutona.md)
-   * Сила реакції опори та вага
+   * [Сила реакції опори та вага](book/chapter_4/sila_reakts_opori_ta_vaga.md)
    * Приклади
        * Рух у ліфті
        * Система тіл, що з'єднанні ниткою
