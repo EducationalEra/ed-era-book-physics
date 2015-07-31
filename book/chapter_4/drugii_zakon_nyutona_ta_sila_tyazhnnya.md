@@ -6,10 +6,10 @@
 
 <ul>
 <li>
-<span class="p1"><b>$$\vec{a} = \dfrac{\vec{F}}{m}$$ – прискорення, що надане тiлу</b></span>
+<div class="space"><span class="p1"><b>$$\vec{a} = \dfrac{\vec{F}}{m}$$ – прискорення, що надане тiлу</b></span></div>
 </li>
 <li>
-<span class="p1"><b>$$\vec{F} = \vec{F_1} + \vec{F_2} + ... + \vec{F_n}$$ – рiвнодiйна сил, що надає тiлу прискорення</b> </span>
+<div class="space"><span class="p1"><b>$$\vec{F} = \vec{F_1} + \vec{F_2} + ... + \vec{F_n}$$ – рiвнодiйна сил, що надає тiлу прискорення</b></span></div>
 </li>
 <li>
 <span class="p1"><b>$m$ – маса тiла</b></span>
