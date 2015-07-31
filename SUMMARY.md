@@ -32,7 +32,7 @@
        * [Рівномірний рух по колу](book/chapter_3/rvnomrnii_ruh_po_kolu.md)
        * [Виведення. Доцентрове прискорення (додатково)](book/chapter_3/vivedennya_dotsentrove_priskorennya_dodatkovo.md)
        * [Важливі приклади](book/chapter_3/vazhliv_prikladi.md)
-* Концепція сили
+* [Концепція сили](book/chapter_4/kontseptsya_sili.md)
    * Вступ у динаміку
    * Інертність та маса
    * Сила: рівнодійна сил
