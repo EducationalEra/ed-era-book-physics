@@ -4,11 +4,7 @@
 
 <b>Динамiка</b> – роздiл механiки, що вивчає причини виникнення руху. Центральним поняттям є <b>сила,</b> що прикладена до тiла.
 
-<b>Сер Iсаак Ньютон</b> (4 сiчня 1643 – 31 березня 1727) – англiйський вчений, творець класичної фiзики.
-
-У своїй славетнiй працi "Математичнi начала натуральної фiлософiї" (Philosophi Naturalis Principia Mathematica) вiн сформулював закон всесвiтнього тяжiння та закони руху – три закони Ньютона. Ця праця заклала фундамент класичної фiзики i є основою курсу механiка. $\ae$
-
-<img class="image" width="182" height="250" float="right" hspace="5" vspace="5" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/1.png" />
+<img class="image" width="182" height="250" float: left hspace="5" vspace="5" align="right" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/1.png" />
 
 <b>Сер Iсаак Ньютон</b> (4 сiчня 1643 – 31 березня 1727) – англiйський вчений, творець класичної фiзики.
 
