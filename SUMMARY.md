@@ -42,7 +42,7 @@
    * [Сила реакції опори та вага](book/chapter_4/sila_reakts_opori_ta_vaga.md)
    * [Приклади](book/chapter_4/prikladi.md)
        * [Рух у ліфті](book/chapter_4/ruh_u_lft.md)
-       * Система тіл, що з'єднанні ниткою
+       * [Система тіл, що з'єднанні ниткою](book/chapter_4/sistema_tl,_scho_zdnann_nitkoyu.md)
    * Сила пружності та закон Гука
    * Послідовне та паралельне з'єднання пружин
 * [Сила тертя](123/sila_tertya.md)
