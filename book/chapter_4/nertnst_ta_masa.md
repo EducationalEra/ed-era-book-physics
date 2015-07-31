@@ -18,7 +18,6 @@
 <div class="eoz-text">
 <div class="space">Масса ($$m$$) - мiра iнертностi тiла.</div>
 
-
 У SI: кг
 </div>
 </div>
