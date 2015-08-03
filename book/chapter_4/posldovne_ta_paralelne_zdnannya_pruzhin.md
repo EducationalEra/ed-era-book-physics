@@ -8,7 +8,7 @@
 <ol>
 <li>
 <div class="space"><span class="p1"><b>Паралельне з’єднання пружин.</b></span> Нехай двi пружини з $$k_1$$ та $$k_2$$ з’єднанi паралельно. Тодi, якщо ми закрiпимо вантаж, як зображено на рисунку, то внаслiдок дiї сили тяжiння $$\vec{F_Т}$$ виникає деформацiя пружин i вiдповiдно двi сили
-пружностi $$\vec{F_1}$ i $\vec{F_2}$$.</div>
+пружностi $$\vec{F_1}$$ i $$\vec{F_2}$$.</div>
 
 <div class="space"><img class="image" width="330" height="115" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/23.png"></div>
 
