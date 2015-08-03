@@ -39,13 +39,13 @@
    * [Перший закон Ньютона](book/chapter_4/pershii_zakon_nyutona.md)
    * [Другий закон Ньютона та сила тяжіння](book/chapter_4/drugii_zakon_nyutona_ta_sila_tyazhnnya.md)
    * [Третій закон Ньютона](book/chapter_4/treti_zakon_nyutona.md)
+   * Реакцiя опори та пiдвiсу
    * [Сила реакції опори та вага](book/chapter_4/sila_reakts_opori_ta_vaga.md)
    * [Приклади](book/chapter_4/prikladi.md)
        * [Рух у ліфті](book/chapter_4/ruh_u_lft.md)
        * [Система тіл, що з'єднанні ниткою](book/chapter_4/sistema_tl,_scho_zdnann_nitkoyu.md)
    * [Сила пружності та закон Гука](book/chapter_4/sila_pruzhnost_ta_zakon_guka.md)
    * [Послідовне та паралельне з'єднання пружин](book/chapter_4/posldovne_ta_paralelne_zdnannya_pruzhin.md)
-   *  Реакцiя опори та пiдвiсу
 * [Сила тертя](123/sila_tertya.md)
    * Сила тертя спокою
    * Сила тертя ковзання
