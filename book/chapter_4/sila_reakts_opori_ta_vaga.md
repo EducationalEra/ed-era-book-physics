@@ -33,7 +33,7 @@ $\vec{F_A}$ - дiя першого тiла на друге; $\vec{F_R}$ - дiя 
 
 <div class="space"><img class="image" width="230" height="216" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/13.png"></div>
 
-<ul>
+<ol>
 <li>
 За другим законом Ньютона рiвнодiйна сил дорiвнює масi тiла помноженiй на прискорення:
 
@@ -49,6 +49,6 @@ $\vec{F_A}$ - дiя першого тiла на друге; $\vec{F_R}$ - дiя 
 
 <div align="center">$$\vec{P} = - \vec{N}$$</div>
 </li>
-</ul>
+</ol>
 </div>
 </div>
