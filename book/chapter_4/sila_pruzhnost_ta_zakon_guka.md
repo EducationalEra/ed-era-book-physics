@@ -10,15 +10,19 @@
 </div>
 </div>
 
-<div class="space"><img float:right hspace="20" vspace="20" align="left" class="image" width="235" height="310" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/18.png">
-
+<div style="float:right" class="space"><img hspace="40" vspace="20" align="left" class="image" width="235" height="310" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/18.png">
 $$l_0$$ – довжина тiла у спокої;
+<br>
 $$l$$ - довжина тiла пiсля деформацiї;
+<br>
 $$\Delta l = l - l_0$$ – видовження тiла;
+<br>
 $$S$$ – площа поперечного перерiзу;
+<br>
 $$\vec{F}$$ – прикладена сила;
-$$\vec{F_П}$$ – сила пружностi;</div>
-
+<br>
+$$\vec{F_П}$$ – сила пружностi;
+<br></div>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
