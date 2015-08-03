@@ -64,7 +64,7 @@ $$\vec{F_П}$$ – сила пружностi;</div>
 
 <div class="space"><img class="image" width="442" height="94" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/20.png"></div>
 
-<div class="space">Закон Гука говорить про пропорцiйнiсть мiж силою пружностi $$F_П$$, яка виникає внаслiдок деформацiї i видовженням тiла $$\Delta l$$. Чим бiльший коефiцiєнт жорсткостi $$k$$, тим швидше зi збiльшенням видовження зростає сила пружностi, яка намагається повернути тiло у свiй "звичний" стан. На рисунку $$k = \tg \alpha$$.</div>
+<div class="space">Закон Гука говорить про пропорцiйнiсть мiж силою пружностi $$F_П$$, яка виникає внаслiдок деформацiї i видовженням тiла $$\Delta l$$. Чим бiльший коефiцiєнт жорсткостi $$k$$, тим швидше зi збiльшенням видовження зростає сила пружностi, яка намагається повернути тiло у свiй "звичний" стан. На рисунку $$k = tg \alpha$$.</div>
 
 <div class="space"><img class="image" width="314" height="242" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/21.png"></div>
 
