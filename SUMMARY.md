@@ -47,7 +47,7 @@
    * [Сила пружності та закон Гука](book/chapter_4/sila_pruzhnost_ta_zakon_guka.md)
    * [Послідовне та паралельне з'єднання пружин](book/chapter_4/posldovne_ta_paralelne_zdnannya_pruzhin.md)
 * [Сила тертя](book/chapter_5/silatertya.md)
-   * Сила тертя спокою
+   * [Сила тертя спокою](book/chapter_5/sila_tertya_spokoyu.md)
    * Сила тертя ковзання
        * Тiло на вертикальнiй стiнцi
    * Тiло на похилiй площинi
