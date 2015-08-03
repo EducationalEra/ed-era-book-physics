@@ -26,9 +26,9 @@
 
 <div align="center" class="space"><span class="p1">Сила тяжiння = $$\vec{F} = m \vec{g}$$</span></div>
 
-<div class="...-wrap">
-<span class="...">Задача 2</span> <b>РОМАНТИЧНА</b>
-<div class="...-text">
+<div class="task-wrap">
+<span class="task">Задача 2</span> <b>РОМАНТИЧНА</b>
+<div class="task-text">
 Уявiть ситуацiю: дiвчина бiжить назустрiч хлопцю зi швидкiстю 20 км/год. Яку силу йому потрiно прикласти, щоб зупинити кохану протягом двохметрової дистанцiї.
 
 <div class="space"><img class="image" width="295" height="237" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/8.png"></div>
