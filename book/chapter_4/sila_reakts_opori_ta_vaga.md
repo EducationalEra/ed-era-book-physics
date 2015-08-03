@@ -29,21 +29,21 @@ $\vec{F_A}$ - дiя першого тiла на друге; $\vec{F_R}$ - дiя 
 <div class="alg-wrap">
 <span class="alg">Авторський алгоритм</span> Отримання ваги в задачах
 <div class="alg-text">
-Вага за третiм законом Ньютона дорiвнює за модулем силi реакцiї опори або пiдвiса.
+<div class="space">Вага за третiм законом Ньютона дорiвнює за модулем силi реакцiї опори або пiдвiса.</div>
 
-image
+<div class="space"><img class="image" width="230" height="216" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/13.png"></div>
 
 <ol>
 <li>
-За другим законом Ньютона рiвнодiйна сил дорiвнює масi тiла помноженiй на прискорення:
-<div align="center">$$\vec{F_1} + \vec{F_2} + ... + \vec{F_N} = m \vec{a}$$</div>
+<div class="space">За другим законом Ньютона рiвнодiйна сил дорiвнює масi тiла помноженiй на прискорення:</div>
+<div class="space" align="center">$$\vec{F_1} + \vec{F_2} + ... + \vec{F_N} = m \vec{a}$$</div>
 </li>
 <li>
-Розв’язуючи це рiвняння, наприклад, за допомогою розкладання на проекцiї, виражаємо силу реакцiї опори або пiдвiса (в залежностi вiд задачi)
-<div align="center">$$\vec{N}/\vec{T}$$</div>
+<div class="space">Розв’язуючи це рiвняння, наприклад, за допомогою розкладання на проекцiї, виражаємо силу реакцiї опори або пiдвiса (в залежностi вiд задачi)</div>
+<div class="space" align="center">$$\vec{N}/\vec{T}$$</div>
 </li>
 <li>
-За третiм законом Ньютона:
+<div class="space">За третiм законом Ньютона:</div>
 <div align="center">$$\vec{P} = - \vec{N}$$</div>
 </li>
 </ol>
