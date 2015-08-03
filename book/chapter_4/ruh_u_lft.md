@@ -6,39 +6,39 @@
 
 На тiло дiє всього двi сили: сила тяжiння $\vec{F_Т} = m \vec{g}$ та сила реакцiї опори $\vec{N}$.
 
-<div class="space">Другий закон Ньютона:</div>
+Другий закон Ньютона:
 
 <div class="space" align="center">$$\vec{N} + m \vec{g} = m \vec{a}$$</div>
 
 <ol>
 <li>
 <span class="p1"><b>Лiфт у станi спокою або рухається с постiйною швидкiстю $a = 0$.</b></span>
-<div class="space">Другий закон Ньютона в проекцiї на $y$:</div>
+Другий закон Ньютона в проекцiї на $y$:
 
 <div class="space" align="center">$$N - mg = 0 \Rightarrow N = mg$$</div>
 
-<div class="space">Третiй закон Ньютона:</div>
+Третiй закон Ньютона:
 
 <div class="space" align="center">$$P = N = mg$$</div>
 </li>
 <li>
 <span class="p1"><b>Лiфт рухається з прискоренням, напрямленим вниз $a_y < 0$.</b></span>
-<div class="space">Другий закон Ньютона в проекцiї на $y$:</div>
+Другий закон Ньютона в проекцiї на $y$:
 
 <div class="center" align="center">$$N - mg = -ma \Rightarrow N = m(g - a)$$</div>
 
-<div class="space">Третiй закон Ньютона:</div>
+Третiй закон Ньютона:
 
 <div class="space" align="center">$$P = N < mg$$</div>
 </li>
 
 <li>
 <span class="p1"><b>Лiфт рухається з прискоренням, напрямленим вгору $a_y > 0$.</b></span>
-<div class="space">Другий закон Ньютона в проекцiї на $y$:</div>
+Другий закон Ньютона в проекцiї на $y$:
 
 <div class="space" align="center">$$N - mg = ma \Rightarrow N = m(g + a)$$</div>
 
-<div class="space">Третiй закон Ньютона:</div>
+Третiй закон Ньютона:
 
 <div class="space" align="center">$$P = N$$</div>
 </li>
