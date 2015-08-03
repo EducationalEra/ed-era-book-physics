@@ -45,6 +45,7 @@
        * [Система тіл, що з'єднанні ниткою](book/chapter_4/sistema_tl,_scho_zdnann_nitkoyu.md)
    * [Сила пружності та закон Гука](book/chapter_4/sila_pruzhnost_ta_zakon_guka.md)
    * [Послідовне та паралельне з'єднання пружин](book/chapter_4/posldovne_ta_paralelne_zdnannya_pruzhin.md)
+   *  Реакцiя опори та пiдвiсу
 * [Сила тертя](123/sila_tertya.md)
    * Сила тертя спокою
    * Сила тертя ковзання
