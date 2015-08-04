@@ -50,7 +50,7 @@
    * [Сила тертя спокою](book/chapter_5/sila_tertya_spokoyu.md)
    * [Сила тертя ковзання](book/chapter_5/sila_tertya_kovzannya.md)
        * [Тiло на вертикальнiй стiнцi](book/chapter_5/tilo_na_vertikalnii_stintsi.md)
-   * Тiло на похилiй площинi
+   * [Тiло на похилiй площинi](book/chapter_5/tilo_na_pohilii_ploschini.md)
 * Динамiка та статика
    * Вступ до динамiки руху тiла по колу
    * Сили, що створюють доцентрове прискорення
