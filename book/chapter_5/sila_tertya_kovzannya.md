@@ -30,4 +30,78 @@ img
 
 img
 
-У ЗНО та шкiльнiй фiзицi взагалi часто використовують лише коефiцiєнт тертя ковзання. Отже, коли не сказано який саме коефiцiєнт дано, то це означає, що мається на увазi коефiцiєнт тертя ковзання.
+У <b>ЗНО</b> та шкiльнiй фiзицi взагалi часто використовують лише коефiцiєнт тертя ковзання. Отже, коли не сказано який саме коефiцiєнт дано, то це означає, що мається на увазi коефiцiєнт тертя ковзання.
+
+Давайте побудуємо графiк залежностi сили тертя вiд прикладеної сили
+
+img
+
+<ol>
+<li>
+Поки тiло у спокої, збiльшення прикладеної сили $$\vec{F}$$ викликає пропорцiйне збiльшення сили тертя спокою i при цьому $$F_T = F$$
+</li>
+<li>
+Коли прикладена сила стає рiвною $$F = \mu_c N$$, тiло зрушується з мiсця.
+</li>
+<li>
+При русi тiла дiє постiйна сила тертя ковзання $$F_T = \mu_k N < \mu_c N$$.
+</li>
+</ol>
+
+Шкала графiка зображена для випадку з коефiцiєнтом тертя спокою $$\mu_c$$ = 0.4, коефiцiєнтом тертя ковзання $$\mu_k$$ = 0.3, масою тiла 10 кг на горизонтальнiй площинi.
+
+<div class="task-wrap">
+<span class="task">Задача 1</span> <b>ШТОВХАТИ ЧИ ТЯГТИ?</b>
+<div class="task-text">
+Уявiть ситуацiю: вам потрiбно покатати на санках маленького Петра (iм’я не впливає на розв’язок задачi). В якому випадку вам потрiбно прикладати меншу силу, щоб з постiйною швидкiстю везти санки?
+
+img
+
+Давайте зобразимо всi дiючi сили на санки у двох випадках.
+
+img
+
+<ol>
+<li>
+<div class="space">Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$</div>
+<div class="space">Проекцiя на вiсь $$y: -mg + N - F \sin \alpha = 0 \Rightarrow N = mg + F \sin \alpha $$</div>
+<div class="space">Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила</div>
+<div class="space">Сила тертя ковзання: $$F_T = \mu N$$.</div>
+
+<div class="space">Пiдставимо отриману силу $$N$$</div>
+
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$F_T = \mu N = \mu (mg + F \sin \alpha) \Rightarrow F = \dfrac{\mu (mg + F \sin \alpha)}{\cos \alpha}$$</p1>
+</td>
+</tr>
+</table></div>
+</li>
+<li>
+<div class="space">Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$</div>
+<div class="space">Проекцiя на вiсь $$y: -mg + N + F \sin \alpha = 0 \Rightarrow N = mg - F \sin \alpha $$</div>
+
+<div class="space">Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила</div.
+
+<div>Сила тертя ковзання: $$F_T = \mu N$$.</div>
+
+<div class="space">Пiдставимо отриману силу $$N$$</div>
+
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$F_T = \mu N = \mu (mg - F \sin \alpha) \Rightarrow F = \dfrac{\mu (mg- F \sin \alpha)}{\cos \alpha}$$</p1>
+</td>
+</tr>
+</table></div>
+</li>
+</ol>
+
+<div class="space">Як бачите у другому випадку вертикальна складова прикладеної сили напрямлена в протилежну сторону до сили тяжiння, тим самим зменшуючи силу реакцiї опори $$N$$. В свою чергу сила тертя, що пропорцiйна $$N$$, також менше.</div>
+
+<b>Вiдповiдь: тягти.</b>
+</div>
+</div>
