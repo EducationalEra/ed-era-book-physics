@@ -31,7 +31,7 @@ img
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\mu N = mg \sin \alpha \Rightarrow \mu mg \cos \alpha = mg \sin \alpha \Rightarrow \mu = \dfrac{\sin \alpha}{\cos \alpha} =  \alpha$$</p1>
+<p1>$$\mu N = mg \sin \alpha \Rightarrow \mu mg \cos \alpha = mg \sin \alpha \Rightarrow \mu = \dfrac{\sin \alpha}{\cos \alpha} = tg\ \alpha$$</p1>
 </td>
 </tr>
 </table></div>
