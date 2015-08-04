@@ -23,7 +23,7 @@ img
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\mu_c \gt \mu_k$$</p1>
+<p1>$$\mu_c > \mu_k$$</p1>
 </td>
 </tr>
 </table></div>
