@@ -49,7 +49,7 @@
 * [Сила тертя](book/chapter_5/silatertya.md)
    * [Сила тертя спокою](book/chapter_5/sila_tertya_spokoyu.md)
    * [Сила тертя ковзання](book/chapter_5/sila_tertya_kovzannya.md)
-       * Тiло на вертикальнiй стiнцi
+       * [Тiло на вертикальнiй стiнцi](book/chapter_5/tilo_na_vertikalnii_stintsi.md)
    * Тiло на похилiй площинi
 * Динамiка та статика
    * Вступ до динамiки руху тiла по колу
