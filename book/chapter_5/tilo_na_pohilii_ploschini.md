@@ -12,3 +12,26 @@ img
 
 Повiльно збiльшуючи кут нахилу площини, спостерiгаємо за поведiнкою тiла. При досягненнi певного кута $$\alpha$$ тiло зрушиться i почне "сповзати" вниз. Давайте розберемо цей переломний момент. Фактично момент початку руху означає, що сила тертя вже дорiвнює своєму максимальному значенню $$\mu N$$. Вiсь $$x$$ в цьому випадку дуже зручно розмiстити вздовж поверхнi, тодi вiсь $$y$$ – перпендикулярна i напрям-
 лена вздовж напрямку сили реакцiї опори $$\vec{N}$$. Вважаємо, що у момент початку руху прискорення ще дорiвнює нулю.
+
+Другий закон Ньютона:
+
+<div align="center">$$m \vec{g} + \vec{N} + \vec{F_T} = 0$$</div>
+
+Вiсь $$x$$ :
+
+<div align="center">$$mg \sin \alpha - F_T = 0 \Rightarrow F_T  = mg \sin \alpha$$</div>
+
+Вiсь $$y$$ :
+
+<div align="center">$$-mg \cos \alpha + N = 0 \Rightarrow N = mg \cos \alpha$$</div>
+
+Нагадую, що в момент зрушення тiла $$F_T = \mu N$$. Пiдставимо у вираз для сили тертя:
+
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$\mu N = mg \sin \alpha \Rightarrow \mu mg \cos \alpha = mg \sin \alpha \Rightarrow \mu = \dfrac{\sin \alpha}{\cos \alpha} = tg \alpha$$</p1>
+</td>
+</tr>
+</table></div>
