@@ -31,7 +31,13 @@ img
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\mu N = mg \sin \alpha \Rightarrow \mu mg \cos \alpha = mg \sin \alpha \Rightarrow \mu = \dfrac{\sin \alpha}{\cos \alpha} = tg \alpha$$</p1>
+<p1>$$\mu N = mg \sin \alpha \Rightarrow \mu mg \cos \alpha = mg \sin \alpha \Rightarrow \mu = \dfrac{\sin \alpha}{\cos \alpha} =  \alpha$$</p1>
 </td>
 </tr>
 </table></div>
+
+Ми отримали вираз для коефiцiєнта тертя. Тепер використавши лiнiйку, яку ми мали, можемо використати те, що тангенс дорiвнює протилеглому катету подiленому на прилеглий.
+
+<font color="red"><b>Важливо $${\Large!}$$</b></font> Коефiцiєнт тертя не залежить вiд маси тiла та площi стику поверхонь.
+
+<div align="center"><span class="p1"><b>Коефiцiєнт тертя залежить лише вiд матерiалiв стичних поверхонь.</b></span></div>
