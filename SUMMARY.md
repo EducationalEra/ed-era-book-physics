@@ -48,7 +48,7 @@
    * [Послідовне та паралельне з'єднання пружин](book/chapter_4/posldovne_ta_paralelne_zdnannya_pruzhin.md)
 * [Сила тертя](book/chapter_5/silatertya.md)
    * [Сила тертя спокою](book/chapter_5/sila_tertya_spokoyu.md)
-   * Сила тертя ковзання
+   * [Сила тертя ковзання](book/chapter_5/sila_tertya_kovzannya.md)
        * Тiло на вертикальнiй стiнцi
    * Тiло на похилiй площинi
 * Динамiка та статика
