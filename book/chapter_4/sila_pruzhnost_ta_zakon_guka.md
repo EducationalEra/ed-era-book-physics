@@ -10,7 +10,7 @@
 </div>
 </div>
 
-<div class="space"><img class="image" width="410" height="156" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/18.png">
+<div class="space"><img class="image" width="440" height="166" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/18.png">
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
