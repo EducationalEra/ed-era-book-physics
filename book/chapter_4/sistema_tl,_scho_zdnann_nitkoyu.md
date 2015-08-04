@@ -9,7 +9,7 @@
 
 <div class="space"><p class="p3">Напрямимо вiсь $y$ вгору та розглянемо кожне тiло окремо</p></div>
 
-<div class="space"><img class="image" width="3350" height="195" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/17.png"></div>
+<div class="space"><img class="image" width="360" height="195" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/17.png"></div>
 
 <ol>
 <li>
