@@ -52,7 +52,7 @@
        * [Тiло на вертикальнiй стiнцi](book/chapter_5/tilo_na_vertikalnii_stintsi.md)
    * [Тiло на похилiй площинi](book/chapter_5/tilo_na_pohilii_ploschini.md)
 * [Динамiка та статика](book/chapter_6/dinamika_ta_statika.md)
-   * Вступ до динамiки руху тiла по колу
+   * [Вступ до динамiки руху тiла по колу](book/chapter_6/vstup_do_dinamiki_ruhu_tila_po_kolu.md)
    * Сили, що створюють доцентрове прискорення
        * Сила натягу нитки
        * Сила тиску
