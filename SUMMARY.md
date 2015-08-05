@@ -55,7 +55,7 @@
    * [Вступ до динамiки руху тiла по колу](book/chapter_6/vstup_do_dinamiki_ruhu_tila_po_kolu.md)
    * [Сили, що створюють доцентрове прискорення](book/chapter_6/sili,_scho_stvoryuyut_dotsentrove_priskorennya.md)
        * [Сила натягу нитки](book/chapter_6/sila_natyagu_nitki.md)
-       * Сила тиску
+       * [Сила тиску](book/chapter_6/sila_tisku.md)
        * Сила тертя
    * Статика та умови рiвноваги
        * Перша умова рiвноваги
