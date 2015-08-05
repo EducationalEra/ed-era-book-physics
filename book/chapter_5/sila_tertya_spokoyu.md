@@ -17,7 +17,7 @@
 
 <div class="space"><p class="p3">Тепер намагаємось все ж таки зрушити тiло, приклавши бiльшу силу, а воно знову не рухається. Таким чином виходить, що сила тертя спокою знову дорiвнює прикладенiй силi.</p></div>
 
-<div class="space"><img class="image" width="334" height="261" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/3.png"></div>
+<div class="space"><img class="image" width="334" height="261" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/14.png"></div>
 
 <div class="space">В певний момент нашої прикладеної сили достатньо, щоб зрушити тiло. У цю переломну мить сила тертя спокою набуває свого <b>максимального значення</b> $$F_{T\max}^c$$. Верхнiй iндекс "с" означає, що ми розглядаємо силу тертя спокою.</div>
 
