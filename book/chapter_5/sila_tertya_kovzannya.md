@@ -6,35 +6,35 @@
 
 <div class="space">Щоб тiло ковзало з рiвномiрною швидкiстю за другим законом Ньютона</div>
 
-<div class="centered-table-wrapper">
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$F = F_T = \mu_k N$$</p1>
 </td>
 </tr>
-</table></div>
+</table></div></div>
 
 <div class="space">Сила тертя ковзання на вiдмiну вiд сили тертя спокою – постiйна. Вона не залежить вiд прикладеної сили. Якщо прикладена сила буде бiльшою за силу тертя ковзання – тiло буде рухатись з прискоренням, якщо рiвною – з постiйною швидкiстю.</div>
 
 <div class="space"><p class="p3"><font color="red"><b>Бiльш того$$\Large!$$</b></font> Якщо самостiйно провести аналiз, не важко пересвiдчитися, що зсунути тiло важче, нiж потiм штовхати його з рiвномiрною швидкiстю. Максимальна сила тертя спокою (сила, яку требя прикласти, щоб зрушити тiло) бiльша за силу тертя ковзання. Тому є рiзниця мiж коефiцiєнтами тертя спокою $$\mu_c$$ та ковзання $$\mu_k$$.</p></div>
 
-<div class="centered-table-wrapper">
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\mu_c > \mu_k$$</p1>
 </td>
 </tr>
-</table></div>
+</table></div></div>
 
-<div class="space"><img class="image" width="439" height="110" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/5.png"></div>
+<div class="space"><img class="image" width="650" height="165" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/5.png"></div>
 
 <div class="space">У <b>ЗНО</b> та шкiльнiй фiзицi взагалi часто використовують лише коефiцiєнт тертя ковзання. Отже, коли не сказано який саме коефiцiєнт дано, то це означає, що мається на увазi коефiцiєнт тертя ковзання.</div>
 
 <div class="space">Давайте побудуємо графiк залежностi сили тертя вiд прикладеної сили</div>
 
-<div class="space"><img class="image" width="484" height="366" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/6.png"></div>
+<div class="space"><img class="image" width="323" height="244" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/6.png"></div>
 
 <ol>
 <li>
@@ -55,11 +55,11 @@
 <div class="task-text">
 <div class="space">Уявiть ситуацiю: вам потрiбно покатати на санках маленького Петра (iм’я не впливає на розв’язок задачi). В якому випадку вам потрiбно прикладати меншу силу, щоб з постiйною швидкiстю везти санки?</div>
 
-<div class="space"><img class="image" width="366" height="113" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></div>
+<div class="space"><img class="image" width="622" height="192" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></div>
 
 <div class="space">Давайте зобразимо всi дiючi сили на санки у двох випадках.</div>
 
-<div class="space"><img class="image" width="585" height="238" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png"></div>
+<div class="space"><img class="image" width="418" height="170" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png"></div>
 
 <ol>
 <li>
@@ -70,14 +70,14 @@
 
 <div class="space">Пiдставимо отриману силу $$N$$</div>
 
-<div class="centered-table-wrapper">
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$F_T = \mu N = \mu (mg + F \sin \alpha) \Rightarrow F = \dfrac{\mu (mg + F \sin \alpha)}{\cos \alpha}$$</p1>
 </td>
 </tr>
-</table></div>
+</table></div></div>
 </li>
 <li>
 <div class="space">Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$</div>
@@ -89,14 +89,14 @@
 
 <div class="space">Пiдставимо отриману силу $$N$$</div>
 
-<div class="centered-table-wrapper">
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$F_T = \mu N = \mu (mg - F \sin \alpha) \Rightarrow F = \dfrac{\mu (mg- F \sin \alpha)}{\cos \alpha}$$</p1>
 </td>
 </tr>
-</table></div>
+</table></div></div>
 </li>
 </ol>
 
