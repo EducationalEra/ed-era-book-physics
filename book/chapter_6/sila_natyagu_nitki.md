@@ -15,7 +15,7 @@ img
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$F_Н = m a_Д = m \dfrac{v^2}{R}$$</p1>
+<p1>$$F_н = m a_Д = m \dfrac{v^2}{R}$$</p1>
 </td>
 </tr>
 </table></div>
@@ -26,9 +26,9 @@ img
 
 За другим законом Ньютона:
 
-<div align="center">$$m \vec{g} + \vec{F_Н} = m \vec{a}$$</div>
+<div align="center">$$m \vec{g} + \vec{F_н} = m \vec{a}$$</div>
 
-$$0x \ : \ F_Н \sin \alpha = ma = m \dfrac{v^2}{R}$$ – горизонтальна складова $$F_Н$$ визначає $$a_Д$$.
+$$0x \ : \ F_н \sin \alpha = ma = m \dfrac{v^2}{R}$$ – горизонтальна складова $$F_н$$ визначає $$a_Д$$.
 
 $$0y \ : \ T \cos \alpha - mg = 0$$ – чим бiльше маса тiла, тим гострiше кут $$\alpha$$.
 
@@ -43,15 +43,15 @@ img
 
 <b><i>Розв’язок.</i></b> Запишемо 2 закон Ньютона:
 
-<div align="center">$$m \vec{g} + \vec{F_Н} = m \vec{a_Д}$$</div>
+<div align="center">$$m \vec{g} + \vec{F_н} = m \vec{a_Д}$$</div>
 
 Сила натягу нитки має вертикальну i горизонтальну складову. Не забувайте, що саме горизонтальна складова створює доцентрове прискорення i задає характер руху по колу
 
-<b>Проекцiя на x:</b> $$F_Н \sin \alpha = m a_Д \Rightarrow a_Д = \dfrac{F_Н \sin \alpha}{m}$$
+<b>Проекцiя на x:</b> $$F_н \sin \alpha = m a_Д \Rightarrow a_Д = \dfrac{F_н \sin \alpha}{m}$$
 
-<b>Проекцiя на y:</b> $$F_Н \cos \alpha - mg = 0 \Rightarrow F_Н = \dfrac{mg}{\cos \alpha}$$
+<b>Проекцiя на y:</b> $$F_н \cos \alpha - mg = 0 \Rightarrow F_н = \dfrac{mg}{\cos \alpha}$$
 
-Пiдставивши $$F_Н$$ з другого рiвняння у перше, отримаємо вираз для <b>доцентрового прискорення:</b>
+Пiдставивши $$F_н$$ з другого рiвняння у перше, отримаємо вираз для <b>доцентрового прискорення:</b>
 
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -62,7 +62,7 @@ img
 </tr>
 </table></div>
 
-З виразу для доцентрового прискорення можна отримати вираз для лiнiйної швидкостi: $$a = \dfrac{v^2}{R} \Rightarrow v = \sqrt{aR}. Радiус кола можна отримати, використовуючи
+З виразу для доцентрового прискорення можна отримати вираз для лiнiйної швидкостi: $$a = \dfrac{v^2}{R} \Rightarrow v = \sqrt{aR}$$. Радiус кола можна отримати, використовуючи
 довжину нитки $$l \rightarrow R = l \sin \alpha$$.
 
 <b>Лiнiйна швидкiсть:</b>
