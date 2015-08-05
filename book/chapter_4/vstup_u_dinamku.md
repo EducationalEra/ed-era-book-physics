@@ -7,6 +7,4 @@
 <img class="image" width="182" height="250" float: left hspace="40" vspace="20" align="right" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/1.png" />
 
 <div class="p3"><b>Сер Iсаак Ньютон</b> (4 сiчня 1643 - 31 березня 1727) – англiйський вчений, творець класичної фiзики.</div>
-
-
 <div class="p3">У своїй славетнiй працi "Математичнi начала натуральної фiлософiї" (Philosophi&#230 Naturalis Principia Mathematica) вiн сформулював закон всесвiтнього тяжiння та закони руху - три закони Ньютона. Ця праця заклала фундамент класичної фiзики i є основою курсу механiка.</div>
