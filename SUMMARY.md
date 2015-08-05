@@ -56,7 +56,7 @@
    * [Сили, що створюють доцентрове прискорення](book/chapter_6/sili,_scho_stvoryuyut_dotsentrove_priskorennya.md)
        * [Сила натягу нитки](book/chapter_6/sila_natyagu_nitki.md)
        * [Сила тиску](book/chapter_6/sila_tisku.md)
-       * Сила тертя
+       * [Сила тертя](book/chapter_6/sila_tertya.md)
    * Статика та умови рiвноваги
        * Перша умова рiвноваги
        * Друга умова рiвоваги та момент сили
