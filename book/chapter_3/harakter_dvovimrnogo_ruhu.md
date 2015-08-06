@@ -6,19 +6,19 @@
 <p></p>
 Для розгляду такого руху необхiдне введення двох осей. Зручним вибором є вертикальна та горизонтальна вiсь.</div>
 
-<img class="image" width="200" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/1.png" />
+<img class="image" width="250" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/1.png" />
 
 <div class="space"><b>• Проекцiя на вертикальну вiсь</b>
 <br>
 У вертикальному напрямку <b>завжди</b> дiє прискорення вiльного падiння $$\vec{g}$$ напрямлене вертикально вниз. $$\Rightarrow$$ <span class="p1">Рiвноприскорений рух.</span> Якщо вiсь $$y$$ напрямлена вгору, в загальному випадку:</div>
-<div class="centered-table-wrapper">
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$y(t)=y_0+v_{0y}t-\dfrac{gt^2}{2}$$</p1>
 </td>
 </tr>
-</table></div>
+</table></div></div>
 <p></p>
 
 <div class="space"><b>• Проекцiя на горизонтальну вiсь</b>
