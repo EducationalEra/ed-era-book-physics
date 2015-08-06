@@ -1,8 +1,8 @@
 # Тангенцiальне та доцентрове прискорення
 
-<img class="image" width="600" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/10.png">
-<br>
-<p style="margin-left:0.7cm;">На рисунку зображено швидкiсть $$\vec{v}$$, яка напрямлена для наглядностi вздовж вiсi $$x$$.</p>
+<div class="space"><img class="image" width="600" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/10.png">
+
+<p class="p3">На рисунку зображено швидкiсть $$\vec{v}$$, яка напрямлена для наглядностi вздовж вiсi $$x$$.</p>
 
 <ol>
 <div class="space"><li>
