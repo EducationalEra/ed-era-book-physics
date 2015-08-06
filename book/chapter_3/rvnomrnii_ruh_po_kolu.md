@@ -13,7 +13,7 @@
 </div>
 </div>
 <br>
-<div class="space"><img class="image" width="350" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/12.png"></div>
+<div class="space"><img class="image" width="250" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/12.png"></div>
 
 <div class="space">На рисунку зображено рiвномiрний рух тiла по колу та   положення точки у два моменти часу $$t_1$$ та $$t_2$$.</div>
 
