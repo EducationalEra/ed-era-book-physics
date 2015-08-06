@@ -13,13 +13,13 @@
 </div>
 </div>
 <br>
-<div class="space"><img class="image" width="250" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/12.png"></div>
+<div class="space"><img class="image" width="225" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/12.png"></div>
 
 <div class="space">На рисунку зображено рiвномiрний рух тiла по колу та   положення точки у два моменти часу $$t_1$$ та $$t_2$$.</div>
 
 <p class="p3"><div class="space"><b><span class="p1">Основнi характеристики та величини:</span></b></div></p>
 <ol>
-<b><li><div class="space">Перiод обертання</b> $$T(c)$$ – час, за який тiло здiйснює повний оберт. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то перiод</div>
+<li><div class="space"><b>Перiод обертання</b> $$T(c)$$ – час, за який тiло здiйснює повний оберт. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то перiод</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -28,7 +28,7 @@
 </td>
 </tr>
 </table></div></div></li>
-<div class="space"><b><li>Частота обертання</b> $$\nu$$ ($$c^{-1}$$, Гц) – кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота</div>
+<div class="space"><li><b>Частота обертання</b> $$\nu$$ ($$c^{-1}$$, Гц) – кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -37,7 +37,7 @@
 </td>
 </tr>
 </table></div></div></li>
-<div class="space"><b><li>Кут повороту</b> $$\Delta \varphi$$ (рад) - кут, на який повертається радiус кола, напрямлений з центра до дослiджуваної точки, за час руху тiла $$\Delta t$$. У секцiї 1 ми розглядали зв’язок кута у радiанах з довжиною дуги та радiусом кола.</div>
+<div class="space"><li><b>Кут повороту</b> $$\Delta \varphi$$ (рад) - кут, на який повертається радiус кола, напрямлений з центра до дослiджуваної точки, за час руху тiла $$\Delta t$$. У секцiї 1 ми розглядали зв’язок кута у радiанах з довжиною дуги та радiусом кола.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -48,7 +48,7 @@
 </tr>
 </table></div></div>
 </li>
-<div class="space"><b><li>Лiнiйна швидкiсть</b> $$v$$ (м/с) - дорiвнює довжинi дуги, яку проходить тiло за одиницю часу $$t$$. Лiнiйна швидкiсть завжди напрямлена по дотичнiй до траєкторiї, а у випадку рiвномiрного руху по колу рiвна за модулем у кожнiй точцi.
+<div class="space"><li><b>Лiнiйна швидкiсть</b> $$v$$ (м/с) - дорiвнює довжинi дуги, яку проходить тiло за одиницю часу $$t$$. Лiнiйна швидкiсть завжди напрямлена по дотичнiй до траєкторiї, а у випадку рiвномiрного руху по колу рiвна за модулем у кожнiй точцi.
 Тiло здiйснює повний оберт, тобто проходить довжину дуги, що дорiвнює довжинi кола, за час $$T$$ (перiод). Довжина кола $$L = 2 \pi R$$.</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -59,7 +59,7 @@
 </tr>
 </table></div></div>
 </li>
-<div class="space"><b><li>Кутова швидкiсть</b> $$\omega$$ (рад/c) - дорiвнює вiдношенню кута повороту до часу $$\Delta t$$, за який цей поворот було здiйснено. Повний оберт вiдповiдає куту повороту $$2 \pi$$. Час, за який здiйснюється повний оберт – перiод $$T$$.</div>
+<div class="space"><li><b>Кутова швидкiсть</b> $$\omega$$ (рад/c) - дорiвнює вiдношенню кута повороту до часу $$\Delta t$$, за який цей поворот було здiйснено. Повний оберт вiдповiдає куту повороту $$2 \pi$$. Час, за який здiйснюється повний оберт – перiод $$T$$.</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -86,7 +86,7 @@
 <div class="space" align="center">$$l = R \varphi \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\varphi}{t} \Rightarrow | v = \dfrac{l}{t}, \omega = \dfrac{\varphi}{t} | \Rightarrow v = \omega R$$</div></li>
 </ul>
 <ol start="6">
-<div class="space"><b><li>Доцентрове прискорення</b> $$a_Д \ (м/c^2)$$ - прискорення, що у будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$v$$</div>
+<div class="space"><li><b>Доцентрове прискорення</b> $$a_Д \ (м/c^2)$$ - прискорення, що у будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$v$$</div>
 <div class="space" align="center">$$a_Д = \dfrac{v^2}{R}$$</div>
 
 <div class="space">Якщо цiкавитесь детальним виведенням цiєї формули, розберiть наступний пiдпункт.</div></li>
