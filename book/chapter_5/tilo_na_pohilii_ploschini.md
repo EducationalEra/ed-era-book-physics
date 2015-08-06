@@ -2,7 +2,7 @@
 
 <div class="space">Багато задач стосується тiл, якi знаходяться на похилiй площинi.</div>
 
-<div class="space"><img class="image" width="331" height="334" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/10.png"></div>
+<div class="space"><img class="image" width="350" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/10.png"></div>
 
 <div class="space">Будемо розбиратися з цим типом завдань на конкретних експериментах.</div>
 
@@ -45,14 +45,14 @@
 
 <div class="space">Маємо два тiла з масами $$m_1$$ та $$m_2$$. Визначити умови для трьох станiв системи: 1) стан спокою системи; 2) прискорення другого тiла напрямлене вгору; 3) прискорення другого тiла напрямлене вниз.</div>
 
-<div class="space"><img class="image" width="463" height="220" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/11.png"></div> 
+<div class="space"><img class="image" width="463" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/11.png"></div> 
 
 <ul>
 <li>
 <div class="space"><b>Момент перед початком руху другого тiла вниз</b>
 У цей момент сила тертя, що дiє на перше тiло напрямлена вниз по похилiй площинi. Прискорення у цей момент ще дорiвнює нулю. Сила тертя дорiвнює максимальнiй силi тертя спокою $$\mu N$$.</div>
 
-<div class="space"><img class="image" width="403" height="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/12.png"></div>
+<div class="space"><img class="image" width="403" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/12.png"></div>
 
 Проекцiя на вiсь $$x$$ для першого тіла: 
 
@@ -79,7 +79,7 @@
 <b>Момент перед початком руху другого тiла вгору</b>
 <div class="space">Тут вiдмiннiсть у тому, що сила тертя для першого тiла тепер напрямлена в iншу сторону. Тобто спiвпадає по напрямку з силою натягу нитки. Далi проводимо аналогiчнi до першого випадку розрахунки.</div>
 
-<div class="space"><img class="image" width="397" height="190" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/13.png"></div>
+<div class="space"><img class="image" width="400" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/13.png"></div>
 
 Проекцiя на вiсь $$x$$ для першого тiла:
 
