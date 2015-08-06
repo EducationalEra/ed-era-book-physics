@@ -57,7 +57,7 @@
        * [Сила натягу нитки](book/chapter_6/sila_natyagu_nitki.md)
        * [Сила тиску](book/chapter_6/sila_tisku.md)
        * [Сила тертя](book/chapter_6/sila_tertya.md)
-   * Статика та умови рiвноваги
+   * [Статика та умови рiвноваги](book/chapter_6/statika_ta_umovi_rivnovagi.md)
        * Перша умова рiвноваги
        * Друга умова рiвоваги та момент сили
    * Центр тяжiння та центр мас
