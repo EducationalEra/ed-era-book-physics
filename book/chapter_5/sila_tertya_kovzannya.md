@@ -2,7 +2,7 @@
 
 Пiсля того, як ви зрушили тiло, тобто приклали потрiбну силу $$F = \mu_c N$$, тiло починає ковзати по поверхнi. Тепер у дiю вступає <span class"p1"><b>сила тертя ковзання $$F_T^k = \mu_k N$$.</b></span>
 
-<div class="space"><img class="image" width="267" height="214" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/4.png"></div>
+<div class="space"><img class="image" width="267" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/4.png"></div>
 
 <div class="space">Щоб тiло ковзало з рiвномiрною швидкiстю за другим законом Ньютона</div>
 
@@ -28,13 +28,13 @@
 </tr>
 </table></div></div>
 
-<div class="space"><img class="image" width="650" height="165" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/5.png"></div>
+<div class="space"><img class="image" width="650" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/5.png"></div>
 
 <div class="space">У <b>ЗНО</b> та шкiльнiй фiзицi взагалi часто використовують лише коефiцiєнт тертя ковзання. Отже, коли не сказано який саме коефiцiєнт дано, то це означає, що мається на увазi коефiцiєнт тертя ковзання.</div>
 
 <div class="space">Давайте побудуємо графiк залежностi сили тертя вiд прикладеної сили</div>
 
-<div class="space"><img class="image" width="323" height="244" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/6.png"></div>
+<div class="space"><img class="image" width="323" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/6.png"></div>
 
 <ol>
 <li>
@@ -55,11 +55,11 @@
 <div class="task-text">
 <div class="space">Уявiть ситуацiю: вам потрiбно покатати на санках маленького Петра (iм’я не впливає на розв’язок задачi). В якому випадку вам потрiбно прикладати меншу силу, щоб з постiйною швидкiстю везти санки?</div>
 
-<div class="space"><img class="image" width="622" height="192" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></div>
+<div class="space"><img class="image" width="622" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></div>
 
 <div class="space">Давайте зобразимо всi дiючi сили на санки у двох випадках.</div>
 
-<div class="space"><img class="image" width="418" height="170" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png"></div>
+<div class="space"><img class="image" width="418" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png"></div>
 
 <ol>
 <li>
