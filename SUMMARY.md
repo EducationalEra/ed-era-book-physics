@@ -59,7 +59,7 @@
        * [Сила тертя](book/chapter_6/sila_tertya.md)
    * [Статика та умови рiвноваги](book/chapter_6/statika_ta_umovi_rivnovagi.md)
        * [Перша умова рiвноваги](book/chapter_6/persha_umova_rivnovagi.md)
-       * Друга умова рiвоваги та момент сили
+       * [Друга умова рiвоваги та момент сили](book/chapter_6/druga_umova_rivovagi_ta_moment_sili.md)
    * Центр тяжiння та центр мас
    * Стiйкiсть рiвноваги
 * Iмпульс, робота, потужнiсть
