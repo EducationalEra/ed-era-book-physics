@@ -2,4 +2,4 @@
 
 <div class="space">До цього моменту в усiх задачах ми нехтували тертям. Якщо в умовi задачi кажуть ’рух по гладкiй поверхнi’, це означає, що вам пропонують не брати до уваги силу тертя. З iншої сторони, на практицi безлiч ситуацiй, коли це неможливо. Навiть якщо вiзуально вам здається, що поверхня не має нiякої шерухуватостi, якщо наблизити роздiльну лiнiю мiж двома поверхнями, бачимо, що вона все-таки iснує.</div>
 
-<div class="space"><img class="image" width="333" height="325" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/1.png"></div>
+<div class="space"><img class="image" width="333" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/1.png"></div>
