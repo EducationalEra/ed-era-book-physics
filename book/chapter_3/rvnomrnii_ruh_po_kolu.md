@@ -97,7 +97,7 @@
 <div class="task-text">
 <div class="space">Кулька на краю нитки з довжиною 1.2 метри здiйснює рiвномiрний рух по колу. Кут мiж ниткою та вертикаллю дорiвнює 30º. Петро за допомогою годинника визначив, що кулька робить 60 обертiв за пiв хвилини. Знайти: перiод обертання кульки, частоту, лiнiйну та кутову швидкiсть, доцентрове прискорення.</div>
 
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png"></div>
+<div class="space"><img class="image" width="225"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png"></div>
 
 <div class="space"><b><i>Розв’язок.</i></b> Перш за все, час спостерiгання 0.5 хв потрiбно перевести у СI: 0.5 хв = 30 с.
 По-друге, для подальших дiй нам потрiбно знати радiус кола.</div>
