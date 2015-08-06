@@ -33,11 +33,11 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v = \dfrac{N}{t} = \dfrac{1}{T}$$</p1>
+<p1>$$\upsilon = \dfrac{N}{t} = \dfrac{1}{T}$$</p1>
 </td>
 </tr>
 </table></div></div></li>
-<div class="space"><li><b>Кут повороту</b> $$\Delta \varphi$$ (рад) - кут, на який повертається радiус кола, напрямлений з центра до дослiджуваної точки, за час руху тiла $$\Delta t$$. У секцiї 1 ми розглядали зв’язок кута у радiанах з довжиною дуги та радiусом кола.</div>
+<div class="space"><li><b>Кут повороту</b> $$\Delta \varphi$$ (рад) - кут, на який повертається радiус кола, напрямлений з центра до дослiджуваної точки, за час руху тiла $$\Delta t$$. У секцiї <b>1</b> ми розглядали зв’язок кута у радiанах з довжиною дуги та радiусом кола.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -48,13 +48,14 @@
 </tr>
 </table></div></div>
 </li>
-<div class="space"><li><b>Лiнiйна швидкiсть</b> $$v$$ (м/с) - дорiвнює довжинi дуги, яку проходить тiло за одиницю часу $$t$$. Лiнiйна швидкiсть завжди напрямлена по дотичнiй до траєкторiї, а у випадку рiвномiрного руху по колу рiвна за модулем у кожнiй точцi.
+<div class="space"><li><b>Лiнiйна швидкiсть</b> $$\upsilon$$ (м/с) - дорiвнює довжинi дуги, яку проходить тiло за одиницю часу $$t$$. Лiнiйна швидкiсть завжди напрямлена по дотичнiй до траєкторiї, а у випадку рiвномiрного руху по колу рiвна за модулем у кожнiй точцi.
+<br>
 Тiло здiйснює повний оберт, тобто проходить довжину дуги, що дорiвнює довжинi кола, за час $$T$$ (перiод). Довжина кола $$L = 2 \pi R$$.</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v = \dfrac{L}{T} = \dfrac{2 \pi R}{T} = 2 \pi \nu R$$</p1>
+<p1>$$\upsilon = \dfrac{L}{T} = \dfrac{2 \pi R}{T} = 2 \pi \nu R$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -71,23 +72,23 @@
 </li>
 </ol>
 <ul>
-<div class="space"><b><li>Зв’язок мiж лiнiйною та кутовою швидкiстю.</b> Якщо порiвняти отриманi вирази для лiнiйної ($v = 2 \pi \nu R$) та кутової швидкості ($\omega = 2 \pi \nu$), видно, що зв’язок мiж цими швидкостями:</div>
+<div class="space"><b><li>Зв’язок мiж лiнiйною та кутовою швидкiстю.</b> Якщо порiвняти отриманi вирази для лiнiйної ($$\upsilon = 2 \pi \nu R$$) та кутової швидкості ($$\omega = 2 \pi \nu$$), видно, що зв’язок мiж цими швидкостями:</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$v = \omega R$</p1>
+<p1>$$\upsilon = \omega R$$</p1>
 </td>
 </tr>
 </table></div></div>
 
 <div class="space">Цей вираз також випливає iз зв’язку кута повороту з довжиною дуги i радiусом:</div>
-<div class="space" align="center">$$l = R \varphi \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\varphi}{t} \Rightarrow | v = \dfrac{l}{t}, \omega = \dfrac{\varphi}{t} | \Rightarrow v = \omega R$$</div></li>
+<div class="space" align="center">$$l = R \varphi \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\varphi}{t} \Rightarrow | \upsilon = \dfrac{l}{t}, \omega = \dfrac{\varphi}{t} | \Rightarrow \upsilon = \omega R$$</div></li>
 </ul>
 <ol start="6">
-<div class="space"><li><b>Доцентрове прискорення</b> $$a_Д \ (м/c^2)$$ - прискорення, що у будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$v$$</div>
-<div class="space" align="center">$$a_Д = \dfrac{v^2}{R}$$</div>
+<div class="space"><li><b>Доцентрове прискорення</b> $$a_Д \ (м/c^2)$$ - прискорення, що у будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$\upsilon$$</div>
+<div class="space" align="center">$$a_Д = \dfrac{\upsilon^2}{R}$$</div>
 
 <div class="space">Якщо цiкавитесь детальним виведенням цiєї формули, розберiть наступний пiдпункт.</div></li>
 </ol>
@@ -103,7 +104,7 @@
 По-друге, для подальших дiй нам потрiбно знати радiус кола.</div>
 
 
-<div class="space"> align="center">$$\sin \alpha = \dfrac{R}{L} \Rightarrow R = L \cdot \sin \alpha = 1.2 \cdot \dfrac{1}{2} = 0.6$$(м)</div>
+<div class="space" align="center">$$\sin \alpha = \dfrac{R}{L} \Rightarrow R = L \cdot \sin \alpha = 1.2 \cdot \dfrac{1}{2} = 0.6$$(м)</div>
 
 <ul>
 <li>
@@ -124,20 +125,20 @@
 Лiнiйна швидкiсть визначається як вiдношення пройденого шляху до часу, за який було подолано цей шлях. Повний оберт долається за перiод $$T$$:
 
 
-<div align="center">$$v = \dfrac{2 \pi R}{T} = \dfrac{2 \cdot 3.14 \cdot 0.6}{0.5} \approx 7.5$$(м/с)</div>
+<div align="center">$$\upsilon = \dfrac{2 \pi R}{T} = \dfrac{2 \cdot 3.14 \cdot 0.6}{0.5} \approx 7.5$$(м/с)</div>
 
 </li>
 <li>
 Кутова швидкiсть дорiвнює вiдношенню кута повороту до часу, за який цей кут було подолано. Кут повороту для повного оберту $$2 \pi$$, вiдповiдний час – $$T$$.
 
 
-<div align="center">$$\omega = \dfrac{2 \pi}{T} = \dfrac{2 · 3.14}{0.5} \approx 12.6$$(рад/с)</div>
+<div align="center">$$\omega = \dfrac{2 \pi}{T} = \dfrac{2 \cdot 3.14}{0.5} \approx 12.6 \ (рад/с)$$</div>
 
 </li>
 <li>
 
 Доцентрове прискорення:
-<div align="center">$$a_Д = \dfrac{v^2}{R} = \dfrac{7.5^2}{0.6} \approx 93.8$$(м/$$c^2$$)</div>
+<div align="center">$$a_Д = \dfrac{\upsilon^2}{R} = \dfrac{7.5^2}{0.6} \approx 93.8 \ (м/с^2)$$</div>
 </li>
 </ul>
 </div>
