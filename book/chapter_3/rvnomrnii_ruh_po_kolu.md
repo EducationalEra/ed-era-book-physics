@@ -12,6 +12,7 @@
 <b>Тангенцiальне прискорення</b> $$a_T = 0$$
 </div>
 </div>
+
 <br>
 <div class="space"><img class="image" width="225" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/12.png"></div>
 
