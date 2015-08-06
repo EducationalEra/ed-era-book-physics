@@ -1,6 +1,6 @@
 # Сила натягу нитки
 
-<div class="space">У цьому роздiлi розглянемо випадки, коли тiло набуває доцентрове прискорення завдяки силi натягу нитки.<d
+<div class="space">У цьому роздiлi розглянемо випадки, коли тiло набуває доцентрове прискорення завдяки силi натягу нитки.<div>
 
 <ol>
 <span class="p1"><b><li>
@@ -24,7 +24,7 @@
 
 <div class="space"><img class="image" width="222" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/6.png"></div>
 
-<div class="space">За другим законом Ньютона:</div>
+За другим законом Ньютона:
 
 <div class="space" align="center">$$m \vec{g} + \vec{F_н} = m \vec{a}$$</div>
 
@@ -41,7 +41,7 @@
 
 <div class="space"><b>Знайти</b> доцентрове прискорення кульки, лiнiйну швидкiсть та перiод обертання</div>
 
-<div class="space"><b><i>Розв’язок.</i></b> Запишемо 2 закон Ньютона:</div>
+<b><i>Розв’язок.</i></b> Запишемо 2 закон Ньютона:
 
 <div class="space" align="center">$$m \vec{g} + \vec{F_н} = m \vec{a_Д}$$</div>
 
@@ -104,20 +104,17 @@
 <span class="alg">Авторський алгоритм</span> Обертання у вертикальнiй площинi
 <div class="alg-text">
 <ol>
-<b><li></b>
-<div class="space">Розписуємо усi сили, що дiють на тiло у данiй точцi (пр. 1 точка у рис. вгорi):</div>
+<div class="space"><li>Розписуємо усi сили, що дiють на тiло у данiй точцi (пр. 1 точка у рис. вгорi):</div>
 
 <div class="space"><img class="image" width="404" height="177" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/9.png"></div>
 
 <div class="space" align="center">$$m \vec{g} + \vec{F_{н1}} = m \vec{a}$$</div>
 </li>
-<b><li></b>
-<div class="space">Обераємо вiсi та проектуємо (в даному випадку на $$y$$):</div>
+<div class="space"><li>Обераємо вiсi та проектуємо (в даному випадку на $$y$$):</div>
 
 <div class="space" align="center">$$mg + F_{н1} = m \dfrac{v^2}{R}$$</div>
 </li>
-<b><li></b>
-<div class="space">Наступнi кроки залежать вiд того, що дано в умовi. Наприклад, в умовi дано швидкiсть, масу, радiус кола (чи довжину нитки), а треба знайти силу натягу нитки.</div>
+<div class="space"><li>Наступнi кроки залежать вiд того, що дано в умовi. Наприклад, в умовi дано швидкiсть, масу, радiус кола (чи довжину нитки), а треба знайти силу натягу нитки.</div>
 
 <div class="space" align="center">$$F_{н1} = m (g + \dfrac{v^2}{R})$$</div>
 
