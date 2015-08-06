@@ -60,7 +60,7 @@
    * [Статика та умови рiвноваги](book/chapter_6/statika_ta_umovi_rivnovagi.md)
        * [Перша умова рiвноваги](book/chapter_6/persha_umova_rivnovagi.md)
        * [Друга умова рiвоваги та момент сили](book/chapter_6/druga_umova_rivovagi_ta_moment_sili.md)
-   * Центр тяжiння та центр мас
+   * [Центр тяжiння та центр мас](book/chapter_6/tsentr_tyazhinnya_ta_tsentr_mas.md)
    * Стiйкiсть рiвноваги
 * Iмпульс, робота, потужнiсть
    * Механiчна робота
