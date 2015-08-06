@@ -18,7 +18,7 @@
 <div class="eoz-text">
 <b>Радiан (позначається "рад")</b> вiдповiдає куту, що утворений двома радiусами та дугою, довжина ($$S$$) якої дорiвнює радiусу кола ($$R$$).<br>
 <br>
-1рад $$\approx$$ 57.3º. Один повний оберт – $$2\pi$$ рад.
+1 рад $$\approx$$ 57.3º. Один повний оберт – $$2\pi$$ рад.
 </div>
 </div>
 <br>
@@ -27,7 +27,7 @@
 <br>
 <div class="p3">Як бачите, радiан визначається через довжину дуги $$S$$.</div>
 <br>
-<div align="center">$$\theta$$(рад) $$= \dfrac{S}{R}$$</div>
+<div align="center">$$\theta$$ (рад) $$= \dfrac{S}{R}$$</div>
 <br>
 <div class="space">Вiдповiдно, якщо $$2\pi$$ рад вiдповiдає куту 360º, то довжина дуги в даному випадку дорiвнює довжинi кола $$L$$.</div>
 <div class="centered-table-wrapper">
@@ -51,7 +51,8 @@
 <i><b>Розв’язок.</b></i>  Так як $$2\pi$$ рад $$=$$ 360º, помноживши будь-який вираз на 360º та подiливши на $$2\pi$$, нiчого не змiниться. Так само i навпаки. Використовуючи цей факт ми i будемо отримувати необхiднi для переведення формули.
 <br>
 <br>
-<div class="p3"><b>1.</b></div>
+<ol>
+<b><li></b>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -64,7 +65,8 @@
 <div align="center">60º · $$\dfrac{2\pi}{360º} = \dfrac{\pi}{3}$$</div><br>
 <div align="center">90º · $$\dfrac{2\pi}{360º} = \dfrac{\pi}{2}$$</div><br>
 <div align="center">270º · $$\dfrac{2\pi}{360º} = \dfrac{3\pi}{2}$$</div><br>
-<div class="p3"><b>2.</b></div>
+</li>
+<b><li></b>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -77,5 +79,6 @@
 <div align="center">$$\dfrac{2\pi}{3} · \dfrac{360º}{2\pi} = 120º$$</div><br>
 <div align="center">$$\dfrac{\pi}{2} · \dfrac{360º}{2\pi} = 90º$$</div><br>
 <div align="center">$$\dfrac{5\pi}{6} · \dfrac{360º}{2\pi} = 150º$$</div><br>
+</li>
 </div>
 </div>
