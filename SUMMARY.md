@@ -58,7 +58,7 @@
        * [Сила тиску](book/chapter_6/sila_tisku.md)
        * [Сила тертя](book/chapter_6/sila_tertya.md)
    * [Статика та умови рiвноваги](book/chapter_6/statika_ta_umovi_rivnovagi.md)
-       * Перша умова рiвноваги
+       * [Перша умова рiвноваги](book/chapter_6/persha_umova_rivnovagi.md)
        * Друга умова рiвоваги та момент сили
    * Центр тяжiння та центр мас
    * Стiйкiсть рiвноваги
