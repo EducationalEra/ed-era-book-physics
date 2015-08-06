@@ -13,7 +13,7 @@
 <p1>$$a_Д = \dfrac{v^2}{R}$$</p1>
 </td>
 </tr>
-</table></div><div>
+</table></div></div>
 
 <div class="space">В цiй темi ми будемо розглядати рiвномiрний рух по колу з точки зору <b>динамiки.</b></div>
 
@@ -30,6 +30,6 @@
 </tr>
 </table></div></div>
 
-<div class="space">Наприклад, на рисунку, який зображено вище, кулька масою m прикрiплена до нитки. Нитка дiє на кульку з силою $$\vec{F}$$ i створює доцентрове прискорення.</div>
+<div class="space">Наприклад, на рисунку, який зображено вище, кулька масою $$m$$ прикрiплена до нитки. Нитка дiє на кульку з силою $$\vec{F}$$ i створює доцентрове прискорення.</div>
 
 <img class="image" width="333"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/3.png">
