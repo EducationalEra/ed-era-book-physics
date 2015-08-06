@@ -2,14 +2,14 @@
 
 <div class="space">Нехай на поверхнi лежить блок. До нього прикладено двi сили: сила тяжiння $$m \vec{g}$$ та сила реакцiї опори $$\vec{N}$$. Другий закон Ньютона справджується. Двi сили урiвноважують одна одну i маємо нульове прискорення.</div>
 
-<div class="space"><img class="image" width="334" height="259" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/2.png"></div>
+<div class="space"><img class="image" width="334" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/2.png"></div>
 
 <div class="space"><p class="p3">Тепер починаємо прикладати невелику силу до тiла, а воно все одно поки не рухається. Зрозумiло, що для того, щоб другий закон Ньютона продовжував виконуватися, повинна з’явитися сила, яка урiвноважує силу, яку ми приклали до тiла. Це сила тертя $$\vec{F_Т}$$.</p></div>
 
 <div class="space"><p class="p3"><i> Ми з вами домовилися, що для легкостi зображення позначатимемо всi сили, прикладенi до тiла з рiвномiрним розподiлом маси, використовуючи наближення
 матерiальної точки. Взагалi то, сила тертя, наприклад, повинна йти вздовж поверхнi, а сила реакцiї опори вiд самої опопри. Коли буде важливо враховувати форму тіла i точку прикладання сили, ми це обов’язково будемо робити.</i></p></div>
 
-<div class="space"><img class="image" width="334" height="261" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/3.png"></div>
+<div class="space"><img class="image" width="334" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/3.png"></div>
 
 <div class="space">Сила тертя, яка виникає мiж поверхнею та тiлом, коли воно ще нерухоме, називається <span class="p1"><b>силою тертя спокою.</b></span> Для того, щоб прискорення тiла дорiвнювало нулю, сила тертя спокою повинна дорiвнювати прикладенiй силi.</div>
 
@@ -17,7 +17,7 @@
 
 <div class="space"><p class="p3">Тепер намагаємось все ж таки зрушити тiло, приклавши бiльшу силу, а воно знову не рухається. Таким чином виходить, що сила тертя спокою знову дорiвнює прикладенiй силi.</p></div>
 
-<div class="space"><img class="image" width="334" height="261" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/14.png"></div>
+<div class="space"><img class="image" width="334" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/14.png"></div>
 
 <div class="space">В певний момент нашої прикладеної сили достатньо, щоб зрушити тiло. У цю переломну мить сила тертя спокою набуває свого <b>максимального значення</b> $$F_{T\max}^c$$. Верхнiй iндекс "с" означає, що ми розглядаємо силу тертя спокою.</div>
 
