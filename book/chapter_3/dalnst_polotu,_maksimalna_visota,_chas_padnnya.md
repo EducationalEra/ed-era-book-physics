@@ -99,7 +99,7 @@ v_y = v_0 \sin \alpha - gt
 <br>
 <p style="margin-left:1cm;">Кут $$\alpha = 30º$$, час польоту $$T \approx 24.3c$$.</p>
 <br>
-<div align="center">$$T = \dfrac{2v_0\sin\alpha}{g} \Rightarrow v_0 = \dfrac{gT}{2\sin\alpha} = \dfrac{9.8 · 24.3}{2 · \sin 30º} \approx 238.1$$(м/с)</div>
+<div align="center">$$T = \dfrac{2v_0\sin\alpha}{g} \Rightarrow v_0 = \dfrac{gT}{2\sin\alpha} = \dfrac{9.8 · 24.3}{2 · \sin 30º} \approx 238.1 \ (м/с)$$</div>
 <br>
 <b>Дальностi польоту</b>
 <br>
@@ -114,6 +114,6 @@ v_y = v_0 \sin \alpha - gt
 <br>
 <p style="margin-left:1cm;">Маємо кут $$\alpha = 45º$$ та формулу для визначення максимальної висоти</p>
 <br>
-<div align="center">$$H = \dfrac{v_0^2\sin^2\alpha}{2g} = \dfrac{238.1^2 \sin^2 45º}{2 · 9.8} \approx 1450(м)$$</div>
+<div align="center">$$H = \dfrac{v_0^2\sin^2\alpha}{2g} = \dfrac{238.1^2 \sin^2 45º}{2 · 9.8} \approx 1450 \ (м)$$</div>
 </div>
 </div>
