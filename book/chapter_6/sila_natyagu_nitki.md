@@ -15,7 +15,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$F_н = m a_Д = m \dfrac{v^2}{R}$$</p1>
+<p1>$$F_н = m a_Д = m \dfrac{\upsilon^2}{R}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -28,7 +28,7 @@
 
 <div class="space" align="center">$$m \vec{g} + \vec{F_н} = m \vec{a}$$</div>
 
-<div class="space">$$0x \ : \ F_н \sin \alpha = ma = m \dfrac{v^2}{R}$$ – горизонтальна складова $$F_н$$ визначає $$a_Д$$.</div>
+<div class="space">$$0x \ : \ F_н \sin \alpha = ma = m \dfrac{\upsilon^2}{R}$$ – горизонтальна складова $$F_н$$ визначає $$a_Д$$.</div>
 
 <div class="space">$$0y \ : \ T \cos \alpha - mg = 0$$ – чим бiльше маса тiла, тим гострiше кут $$\alpha$$.</div>
 
@@ -62,7 +62,7 @@
 </tr>
 </table></div></div>
 
-<div class="space">З виразу для доцентрового прискорення можна отримати вираз для лiнiйної швидкостi: $$a = \dfrac{v^2}{R} \Rightarrow v = \sqrt{aR}$$. Радiус кола можна отримати, використовуючи довжину нитки $$l \rightarrow R = l \sin \alpha$$.</div>
+<div class="space">З виразу для доцентрового прискорення можна отримати вираз для лiнiйної швидкостi: $$a = \dfrac{\upsilon^2}{R} \Rightarrow \upsilon = \sqrt{aR}$$. Радiус кола можна отримати, використовуючи довжину нитки $$l \rightarrow R = l \sin \alpha$$.</div>
 
 <div class="space"><b>Лiнiйна швидкiсть:</b></div>
 
@@ -70,18 +70,18 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v = \sqrt{\dfrac{g l \sin^2 \alpha}{\cos \alpha}} \approx 2.4 \ м/с$$</p1>
+<p1>$$\upsilon = \sqrt{\dfrac{g \thinspace l \sin^2 \alpha}{\cos \alpha}} \approx 2.4 \ м/с$$</p1>
 </td>
 </tr>
 </table></div></div>
 
-<div class="space"><b>Перiод коливань $$T$$</b> – це час, за який кулька здiйснює повний оберт, iншими словами тiло проходить все коло ($$2 \pi R$$) зі швидкістю $$v$$ за час $$T$$.</div>
+<div class="space"><b>Перiод коливань $$T$$</b> – це час, за який кулька здiйснює повний оберт, iншими словами тiло проходить все коло ($$2 \pi R$$) зі швидкістю $$\upsilon$$ за час $$T$$.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$T = \dfrac{2 \pi R}{v} = \dfrac{2 \pi l \sin \alpha}{\sqrt{\dfrac{g l \sin^2 \alpha}{\cos \alpha}}} \Rightarrow T = 2 \pi \sqrt{\dfrac{l \cos \alpha}{g}} \approx 2.6 \ c$$</p1>
+<p1>$$T = \dfrac{2 \pi R}{\upsilon} = \dfrac{2 \pi \thinspace l \sin \alpha}{\sqrt{\dfrac{g \thinspace l \sin^2 \alpha}{\cos \alpha}}} \Rightarrow T = 2 \pi \sqrt{\dfrac{l \cos \alpha}{g}} \approx 2.6 \ c$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -92,7 +92,7 @@
 </li>
 <span class="p1"><b><li>
 Обертання тiла на нитцi у вертикальнiй площинi</b></span>
-<div class="space">Рух тiла у вертикальнiй площинi <b>не є рiвномiрним</b>. Справа в тому, що не дивлячись на те, що радiус кола у будь-якiй точцi однаковий, швидкiсть змiнюється внаслiдок дiї сили тяжiння. Прискорення у кожнiй точцi можна обчислити по вже знайомiй формулi $$a = \dfrac{v^2}{R}$$.</div>
+<div class="space">Рух тiла у вертикальнiй площинi <b>не є рiвномiрним</b>. Справа в тому, що не дивлячись на те, що радiус кола у будь-якiй точцi однаковий, швидкiсть змiнюється внаслiдок дiї сили тяжiння. Прискорення у кожнiй точцi можна обчислити по вже знайомiй формулi $$a = \dfrac{\upsilon^2}{R}$$.</div>
 
 <div class="space"><img class="image" width="231" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/8.png"></div>
 
@@ -112,11 +112,11 @@
 </li>
 <div class="space"><li>Обераємо вiсi та проектуємо (в даному випадку на $$y$$):</div>
 
-<div class="space" align="center">$$mg + F_{н1} = m \dfrac{v^2}{R}$$</div>
+<div class="space" align="center">$$mg + F_{н1} = m \dfrac{\upsilon^2}{R}$$</div>
 </li>
 <div class="space"><li>Наступнi кроки залежать вiд того, що дано в умовi. Наприклад, в умовi дано швидкiсть, масу, радiус кола (чи довжину нитки), а треба знайти силу натягу нитки.</div>
 
-<div class="space" align="center">$$F_{н1} = m (g + \dfrac{v^2}{R})$$</div>
+<div class="space" align="center">$$F_{н1} = m (g + \dfrac{\upsilon^2}{R})$$</div>
 
 <div class="space"><b>P.S.</b> Якщо крутити кульку зображеним вище чином, то можлива ситуацiя виходу кульки iз колової траєкторiї. Це можливо, якщо ви не надали кульцi достатньої швидкостi. У випадку точки 1, кулька може не пройти коло i почати летiти вниз. Коли ми маємо справу з ниткою, це означає, що сила натягу нитки дорiвнює нулю. Можна отримати <b>мiнiмальну швидкiсть</b>, з якою потрiбно обертати кульку, щоб вона <b>«пройшла» коло певного радiусу</b>. Для цього в рiвняннi iз п.2 силу натягу нитки прирiвнюємо до нуля.</div>
 
@@ -124,7 +124,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$mg = m \dfrac{v_{min}^2}{R} \Rightarrow v_{min} = \sqrt{gR}$$</p1>
+<p1>$$mg = m \dfrac{\upsilon_{min}^2}{R} \Rightarrow \upsilon_{min} = \sqrt{gR}$$</p1>
 </td>
 </tr>
 </table></div></div>
