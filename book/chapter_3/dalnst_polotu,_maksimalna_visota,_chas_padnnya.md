@@ -1,6 +1,6 @@
 # Дальнiсть польоту, максимальна висота, час пiдняття
 
-Розглядаємо вже згадану вище задачу. Тiло кидають в праву сторону зi швидкiстю $$v_0$$ пiд кутом $$\alpha$$ до горизонту. Отримаємо формули для дальностi польоту $$L,$$ максимальної висоти пiдйому $$H,$$ часу пiдняття на максимальну висоту $$t'$$.
+Розглядаємо вже згадану вище задачу. Тiло кидають в праву сторону зi швидкiстю $$\upsilon_0$$ пiд кутом $$\alpha$$ до горизонту. Отримаємо формули для дальностi польоту $$L,$$ максимальної висоти пiдйому $$H,$$ часу пiдняття на максимальну висоту $$t^\prime$$.
 
 <img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/5.png" />
 <br>
@@ -8,30 +8,30 @@
 <br>
 <br>
 <b>Проекцiя на вiсь $$x$$.</b> Система координат обрана таким чином, що $$x_0 = 0$$. У напрямку вiсi $$x$$ швидкiсть постiйна i дорiвнює проекцiї початкової швидкостi. Проекцiя
-початкової швидкостi $$v_{0x} = v_0 \cos \alpha$$.
+початкової швидкостi $$\upsilon_{0x} = \upsilon_0 \cos \alpha$$.
 $$
 \begin{cases}
-x = v_0 \cos \alpha · t\\
-v_x = v_0 \cos \alpha
+x = \upsilon_0 \cos \alpha · t\\
+\upsilon_x = \upsilon_0 \cos \alpha
 \end{cases}$$
 <br>
-<b>Проекцiя на вiсь $$y$$.</b> Система координат обрана таким чином, що $$y_0 = 0$$. У напрямку вiсi $$y$$ швидкiсть змiнна, на неї впливає прискорення $$\vec{g}$$, напрямлене в протилежний напрямок до напряму вiсi. Проекцiя початкової швидкостi $$v_{0y} = v_0 \sin \alpha$$.
+<b>Проекцiя на вiсь $$y$$.</b> Система координат обрана таким чином, що $$y_0 = 0$$. У напрямку вiсi $$y$$ швидкiсть змiнна, на неї впливає прискорення $$\vec{g}$$, напрямлене в протилежний напрямок до напряму вiсi. Проекцiя початкової швидкостi $$\upsilon_{0y} = \upsilon_0 \sin \alpha$$.
 <br>
 <div align="center">$$\begin{cases}
-y = v_0 \sin \alpha · t - \dfrac{gt^2}{2}\\
-v_y = v_0 \sin \alpha - gt
+y = \upsilon_0 \sin \alpha · t - \dfrac{gt^2}{2}\\
+\upsilon_y = \upsilon_0 \sin \alpha - gt
 \end{cases}$$</div>
 <br>
 <p style="margin-left:0.6cm;"><span class="p1">1. Час польоту i час пiдняття тiла</span></p>
 <div class="space"><p style="margin-left:1cm;">Дальнiсть польоту $$L$$ дорiвнює координатi $$x$$ в той момент, коли координата $$y = 0$$ (в момент приземлення тiла). Прирiвнявши $$y(t) = 0$$ можна вiднайти час польоту тiла $$T$$</p</div>
-<div align="center">$$0 = v_0 \sin \alpha · T - \dfrac{gT^2}{2}$$</div>
-<div align="center">$$T(\dfrac{g}{2}T - v_0 \sin \alpha) = 0 \Rightarrow \dfrac{g}{2}T - v_0 \sin \alpha = 0$$</div>
+<div align="center">$$0 = \upsilon_0 \sin \alpha · T - \dfrac{gT^2}{2}$$</div>
+<div align="center">$$T(\dfrac{g}{2}T - \upsilon_0 \sin \alpha) = 0 \Rightarrow \dfrac{g}{2}T - v_0 \sin \alpha = 0$$</div>
 <p style="margin-left:1cm;"><b>Час польоту тiла:</b></p>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$T = \dfrac{2v_0\sin\alpha}{g}$$</p1>
+<p1>$$T = \dfrac{2\upsilon_0\sin\alpha}{g}$$</p1>
 </td>
 </tr>
 </table></div>
@@ -44,13 +44,13 @@ v_y = v_0 \sin \alpha - gt
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$t' = \dfrac{T}{2} = \dfrac{v_0\sin\alpha}{g}$$</p1>
+<p1>$$t' = \dfrac{T}{2} = \dfrac{\upsilon_0\sin\alpha}{g}$$</p1>
 </td>
 </tr>
 </table></div>
 <p></p>
 <p style="margin-left:0.6cm;"><span class="p1">2. Дальнiсть польоту тiла</span></p>
-<p style="margin-left:1cm;">Як вже зазначалося у попередньому пунктi $$L = x(t) = v_0 \cos \alpha · T$$. Пiдставляючи час польоту $$T$$ iз попереднього пункту, отримуємо</p>
+<p style="margin-left:1cm;">Як вже зазначалося у попередньому пунктi $$L = x(t) = \upsilon_0 \cos \alpha · T$$. Пiдставляючи час польоту $$T$$ iз попереднього пункту, отримуємо</p>
 <br>
 <div align="center">$$L = \dfrac{2 v_0^2 \sin \alpha \cos \alpha}{g}$$</div>
 <br>
@@ -59,7 +59,7 @@ v_y = v_0 \sin \alpha - gt
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$L = \dfrac{v_0^2 \sin 2 \alpha}{g}$$</p1>
+<p1>$$L = \dfrac{\upsilon_0^2 \sin 2 \alpha}{g}$$</p1>
 </td>
 </tr>
 </table></div>
@@ -68,18 +68,18 @@ v_y = v_0 \sin \alpha - gt
 <p style="margin-left:0.6cm;"><span class="p1">3. Максимальна висота</span></p>
 <p style="margin-left:1cm;">Максимальна висота $$H$$ - координата 𝑦 в момент часу $$t = t'$$ (час пiдйому).</p>
 <br>
-<div align="center">$$H = y(t') = v_0 \sin \alpha · t' - \dfrac{gt'^2}{2}$$</div>
+<div align="center">$$H = y(t') = \upsilon_0 \sin \alpha · t' - \dfrac{gt'^2}{2}$$</div>
 <br>
-<p style="margin-left:1cm;">Пiдставляємо $$t' = \dfrac{v_0 \sin \alpha}{g}$$ iз попереднього пункту</p>
+<p style="margin-left:1cm;">Пiдставляємо $$t' = \dfrac{\upsilon_0 \sin \alpha}{g}$$ iз попереднього пункту</p>
 <br>
-<div align="center">$$H - \dfrac{v_0^2 \sin^2 \alpha}{g} - \dfrac{v_0^2 \sin^2 \alpha}{2g}$$</div>
+<div align="center">$$H - \dfrac{\upsilon_0^2 \sin^2 \alpha}{g} - \dfrac{\upsilon_0^2 \sin^2 \alpha}{2g}$$</div>
 <br>
 <p style="margin-left:1cm;"><b>Максимальна висота:</b></p>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$H = \dfrac{v_0^2 \sin^2 \alpha}{2g}$$</p1>
+<p1>$$H = \dfrac{\upsilon_0^2 \sin^2 \alpha}{2g}$$</p1>
 </td>
 </tr>
 </table></div>
@@ -99,13 +99,13 @@ v_y = v_0 \sin \alpha - gt
 <br>
 <p style="margin-left:1cm;">Кут $$\alpha = 30º$$, час польоту $$T \approx 24.3c$$.</p>
 <br>
-<div align="center">$$T = \dfrac{2v_0\sin\alpha}{g} \Rightarrow v_0 = \dfrac{gT}{2\sin\alpha} = \dfrac{9.8 · 24.3}{2 · \sin 30º} \approx 238.1 \ (м/с)$$</div>
+<div align="center">$$T = \dfrac{2 \upsilon_0 \sin \alpha}{g} \Rightarrow \upsilon_0 = \dfrac{gT}{2\sin\alpha} = \dfrac{9.8 · 24.3}{2 · \sin 30º} \approx 238.1 \ (м/с)$$</div>
 <br>
 <b>Дальностi польоту</b>
 <br>
 <p style="margin-left:1cm;">Дальнiсть польоту обраховуємо по формулi</p>
 <br>
-<div align="center">$$L = \dfrac{v_0^2\sin 2\alpha}{g}$$</div><div align="right">(1)</div>
+<div align="center">$$L = \dfrac{\upsilon_0^2\sin 2\alpha}{g}$$</div><div align="right">(1)</div>
 <p style="margin-left:1cm;">Для кутiв 30º, 45º, 60º вiдповiдно</p>
 <div align="center">$$L_1 \approx 5000$$м $$=$$ 5км; $$L_2 \approx 5800м = 5.8км$$; $$L_3 \approx 5000м = 5км$$</div>
 <br>
@@ -114,6 +114,6 @@ v_y = v_0 \sin \alpha - gt
 <br>
 <p style="margin-left:1cm;">Маємо кут $$\alpha = 45º$$ та формулу для визначення максимальної висоти</p>
 <br>
-<div align="center">$$H = \dfrac{v_0^2\sin^2\alpha}{2g} = \dfrac{238.1^2 \sin^2 45º}{2 · 9.8} \approx 1450 \ (м)$$</div>
+<div align="center">$$H = \dfrac{\upsilon_0^2\sin^2\alpha}{2g} = \dfrac{238.1^2 \sin^2 45º}{2 · 9.8} \approx 1450 \ (м)$$</div>
 </div>
 </div>
