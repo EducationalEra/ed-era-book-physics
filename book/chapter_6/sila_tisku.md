@@ -16,7 +16,7 @@
 
 <div class="space">У верхнiй точцi на автомобiль дiють двi сили: сила тиску (реакцiї опори) вiд рампи та сила тяжiння. Рух по колу означає, що автомобiль має доцентрове прискорення.</div>
 
-<div class="space" align="center">$$m \vec{g} + \vec{F_т} = m \vec{a} \Rightarrow mg + F_т = m \dfrac{v^2}{R}$$</div>
+<div class="space" align="center">$$m \vec{g} + \vec{F_т} = m \vec{a} \Rightarrow mg + F_т = m \dfrac{\upsilon^2}{R}$$</div>
 
 <div class="space">Якщо ви порiвняєте отримане рiвняння з рiвнянням, яке ми отримували при розглядi руху тiла на нитцi у вертикальнiй площинi, то побачите, що все повнiстю аналогiчно. Тiло починає вiдриватись вiд рампи в момент, коли сила тиску дорiвнює нулю. Це означає, що доцентрове прискорення просто дорiвнює прискоренню вiльного падiння $$g$$. Як i в завданнi з ниткою, отримаємо</div>
 
@@ -24,7 +24,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_{min} = \sqrt{gR}$$</p1>
+<p1>$$\upsilon_{min} = \sqrt{gR}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -46,7 +46,7 @@
 
 <div class="space"><img class="image" width="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/13.png"></div>
 
-<div class="space">Коли автомобiль рухається по коловiй траєкторiї, то в кожнiй точцi вiн має доцентрове прискорення $$a = \dfrac{v^2}{R}$$. У верхнiй точцi моста доцентрове прискорення напрямлене вертикально вниз.</div>
+<div class="space">Коли автомобiль рухається по коловiй траєкторiї, то в кожнiй точцi вiн має доцентрове прискорення $$a = \dfrac{\upsilon^2}{R}$$. У верхнiй точцi моста доцентрове прискорення напрямлене вертикально вниз.</div>
 <br>
 <div class="space">За другим законом Ньютона:</div>
 
@@ -65,7 +65,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$m(g - a) = 0 \Rightarrow \dfrac{v^2}{R} = g \Rightarrow v_{відриву} = \sqrt{gR}$$</p1>
+<p1>$$m(g - a) = 0 \Rightarrow \dfrac{\upsilon^2}{R} = g \Rightarrow \upsilon_{відриву} = \sqrt{gR}$$</p1>
 </td>
 </tr>
 </table></div></div>
