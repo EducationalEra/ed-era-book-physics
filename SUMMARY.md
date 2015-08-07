@@ -72,7 +72,7 @@
        * [Кiнетична енергiя](book/chapter_7/kinetichna_energiya.md)
        * [Консервативнi та неконсервативнi сили](book/chapter_7/konservativni_ta_nekonservativni_sili.md)
        * [Потенцiальна енергiя](book/chapter_7/potentsialna_energiya.md)
-       * Закон збереження механiчної енергiї
+       * [Закон збереження механiчної енергiї](book/chapter_7/zakon_zberezhennya_mehanichno_energi.md)
    * Потужнiсть та ККД
    * Iмпульс
        * Закон збереження iмпульсу
