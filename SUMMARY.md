@@ -71,7 +71,7 @@
    * [Робота та енергiя](book/chapter_7/robota_ta_energiya.md)
        * [Кiнетична енергiя](book/chapter_7/kinetichna_energiya.md)
        * [Консервативнi та неконсервативнi сили](book/chapter_7/konservativni_ta_nekonservativni_sili.md)
-       * Потенцiальна енергiя
+       * [Потенцiальна енергiя](book/chapter_7/potentsialna_energiya.md)
        * Закон збереження механiчної енергiї
    * Потужнiсть та ККД
    * Iмпульс
