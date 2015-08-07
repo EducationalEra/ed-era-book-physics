@@ -66,7 +66,7 @@
    * [Механiчна робота](book/chapter_7/mehanichna_robota.md)
        * [Дiя постiйної сили](book/chapter_7/diya_postiino_sili.md)
        * [Геометричний змiст роботи](book/chapter_7/geometrichnii_zmist_roboti.md)
-       * Робота сили тяжiння
+       * [Робота сили тяжiння](book/chapter_7/robota_sili_tyazhinnya.md)
        * Робота сили пружностi
    * Робота та енергiя
        * Кiнетична енергiя
