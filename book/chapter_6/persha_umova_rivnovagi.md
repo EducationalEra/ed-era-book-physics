@@ -11,11 +11,11 @@
 <div class="eoz-text">
 <div class="space"><b>Перша умова рiвноваги:</b> щоб тiло перебувало у станi рiвноваги, сума сил, що дiє на нього, повинна дорiвнювати нулю.</div>
 
-<div class="space" align="center">$$\Sigma \vec{F} = 0$$</div>
+<div class="space" align="center">$$\vec{F_{\Sigma}} = 0$$</div>
 
 <div class="space">Якщо розглядається задача з силами, що дiють у однiй площинi, то суми проекцiй на $$x$$ та на $$y$$ повиннi дорiвнювати нулю.</div>
 
-<div align="center">$$\Sigma F_x = 0; \quad \Sigma F_y = 0$$</div>
+<div align="center">$$F_{\Sigma}^x = 0; \quad F_{\Sigma}^y = 0$$</div>
 </div>
 </div>
 <br>
