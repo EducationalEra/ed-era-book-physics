@@ -69,7 +69,7 @@
        * [Робота сили тяжiння](book/chapter_7/robota_sili_tyazhinnya.md)
        * [Робота сили пружностi](book/chapter_7/robota_sili_pruzhnosti.md)
    * [Робота та енергiя](book/chapter_7/robota_ta_energiya.md)
-       * Кiнетична енергiя
+       * [Кiнетична енергiя](book/chapter_7/kinetichna_energiya.md)
        * Консервативнi та неконсервативнi сили
        * Потенцiальна енергiя
        * Закон збереження механiчної енергiї
