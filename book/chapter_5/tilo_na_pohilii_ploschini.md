@@ -2,7 +2,7 @@
 
 <div class="space">Багато задач стосується тiл, якi знаходяться на похилiй площинi.</div>
 
-<div class="space"><img class="image" width="350" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/10.png"></div>
+<div class="space"><img class="image" width="300" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/10.png"></div>
 
 <div class="space">Будемо розбиратися з цим типом завдань на конкретних експериментах.</div>
 
