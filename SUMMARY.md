@@ -65,7 +65,7 @@
 * [Iмпульс, робота, потужнiсть](book/chapter_7/impuls,_robota,_potuzhnist.md)
    * [Механiчна робота](book/chapter_7/mehanichna_robota.md)
        * [Дiя постiйної сили](book/chapter_7/diya_postiino_sili.md)
-       * Геометричний змiст роботи
+       * [Геометричний змiст роботи](book/chapter_7/geometrichnii_zmist_roboti.md)
        * Робота сили тяжiння
        * Робота сили пружностi
    * Робота та енергiя
