@@ -4,11 +4,11 @@
 
 <p class="p3"><span class="p1"><b>1. Швидкiсть рiзних точок на колесi</b></span></p>
 
-<div class="space">На ЗНО дуже часто зустрiчаються завдання на комбiнування двох видiв руху: поступального та обертального. Важливим фактом є те, що якщо точка рухається поступально зi швидкiстю $$\vec{v_п}$$ та обертально з лiнiйною швидкiстю $$\vec{v_о}$$, то результуюча швидкiсть точки:</div>
+<div class="space">На ЗНО дуже часто зустрiчаються завдання на комбiнування двох видiв руху: поступального та обертального. Важливим фактом є те, що якщо точка рухається поступально зi швидкiстю $$\vec{\upsilon_п}$$ та обертально з лiнiйною швидкiстю $$\vec{\upsilon_о}$$, то результуюча швидкiсть точки:</div>
 
-<div class="space" align="center">$\vec{v} = \vec{v_п} + \vec{v_о}$</div>
+<div class="space" align="center">$$\vec{\upsilon} = \vec{\upsilon_п} + \vec{\upsilon_о}$$</div>
 
-<div class="space"><b>Розглянемо приклад.</b> Автомобiль рухається рiвномiрно по горизонтальнiй дорозi <b>без проковзування</b> зi швидкiстю $\vec{v}$. Визначити швидкостi вказаних точок.</div>
+<div class="space"><b>Розглянемо приклад.</b> Автомобiль рухається рiвномiрно по горизонтальнiй дорозi <b>без проковзування</b> зi швидкiстю $$\vec{\upsilon}$$. Визначити швидкостi вказаних точок.</div>
 
 <div class="space"><img class="image" width="250" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/16.png" /></div>
 
@@ -19,7 +19,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_о = v$$</p1>
+<p1>$$\upsilon_о = \upsilon$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -30,12 +30,12 @@
 <div class="space"><img class="image" width="325" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/17.png" /></div>
 
 
-<div class="space">Швидкiсть цiєї точки складається з лiнiйної швидкостi обертання колеса $\vec{v_{об}}$, напрямленої влiво та поступальної швидкостi $\vec{v}$, напрямленої вправо.</div>
+<div class="space">Швидкiсть цiєї точки складається з лiнiйної швидкостi обертання колеса $$\vec{\upsilon_{об}}$$, напрямленої влiво та поступальної швидкостi $$\vec{\upsilon}$$, напрямленої вправо.</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\vec{v_1} = \vec{v_{об}} + \vec{v}$$</p1>
+<p1>$$\vec{\upsilon_1} = \vec{\upsilon_{об}} + \vec{\upsilon}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -45,7 +45,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_1 = 0 \Rightarrow \vec{v_{об}} = \vec{v}$$</p1>
+<p1>$$\upsilon_1 = 0 \Rightarrow \vec{\upsilon_{об}} = \vec{\upsilon}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -63,7 +63,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\vec{v_2} = \vec{v_{об}} + \vec{v} \Rightarrow v_2 = 2v$$</p1>
+<p1>$$\vec{\upsilon_2} = \vec{\upsilon_{об}} + \vec{\upsilon} \Rightarrow \upsilon_2 = 2\upsilon$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -80,7 +80,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_3 = \sqrt{v^2 + v^2} = v \sqrt{2}$$</p1>
+<p1>$$\upsilon_3 = \sqrt{\upsilon^2 + \upsilon^2} = \upsilon \sqrt{2}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -96,7 +96,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_4 = \sqrt{v^2 + v^2 - 2 v \cdot v \cdot \cos (135°)} \approx 1.85v$$</p1>
+<p1>$$\upsilon_4 = \sqrt{\upsilon^2 + \upsilon^2 - 2 \upsilon \cdot \upsilon \cdot \cos (135°)} \approx 1.85v$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -115,11 +115,11 @@
 <ul>
 <li>
 <div class="space">Точки, що обертаються на рiзних тiлах (рiзних радiусiв, наприклад) та поєднанi мiж собою або за допомогою дроту (як на цьому рисунку), або при безпосередньому контактi без проковзування, мають <b>однакову швидкiсть.</b></div>
-<div align="center" class="space">$$v_2 = v_3 \Rightarrow \dfrac{R_2}{T_2} = \dfrac{R_3}{T_3}$$ або $$R_2 \nu_2 = R_3 \nu_3$$</div>
+<div align="center" class="space">$$\upsilon_2 = \upsilon_3 \Rightarrow \dfrac{R_2}{T_2} = \dfrac{R_3}{T_3}$$ або $$R_2 \nu_2 = R_3 \nu_3$$</div>
 </li>
 <li>
 <div class="space">Частини (наприклад, рiзного радiуса) одного i того самого тiла мають <b>однаковi кутовi швидкостi,</b> адже кут повороту за промiжок часу однаковий для всiх точок на тiлi.</div>
-<div align="center" class="space">$\omega_3 = \omega_4 \Rightarrow T_3 = T_4$</div>
+<div align="center" class="space">$$\omega_3 = \omega_4 \Rightarrow T_3 = T_4$$</div>
 <div align="center">$$\omega_1 = \omega_2 \Rightarrow T_1 = T_2$$</div>
 </li>
 </ul>
