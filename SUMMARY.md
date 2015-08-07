@@ -68,7 +68,7 @@
        * [Геометричний змiст роботи](book/chapter_7/geometrichnii_zmist_roboti.md)
        * [Робота сили тяжiння](book/chapter_7/robota_sili_tyazhinnya.md)
        * [Робота сили пружностi](book/chapter_7/robota_sili_pruzhnosti.md)
-   * Робота та енергiя
+   * [Робота та енергiя](book/chapter_7/robota_ta_energiya.md)
        * Кiнетична енергiя
        * Консервативнi та неконсервативнi сили
        * Потенцiальна енергiя
