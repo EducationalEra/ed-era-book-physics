@@ -63,7 +63,7 @@
    * [Центр тяжiння та центр мас](book/chapter_6/tsentr_tyazhinnya_ta_tsentr_mas.md)
    * [Стiйкiсть рiвноваги](book/chapter_6/stiikist_rivnovagi.md)
 * [Iмпульс, робота, потужнiсть](book/chapter_7/impuls,_robota,_potuzhnist.md)
-   * Механiчна робота
+   * [Механiчна робота](book/chapter_7/mehanichna_robota.md)
        * Дiя постiйної сили
        * Геометричний змiст роботи
        * Робота сили тяжiння
