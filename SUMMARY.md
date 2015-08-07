@@ -62,7 +62,7 @@
        * [Друга умова рiвоваги та момент сили](book/chapter_6/druga_umova_rivovagi_ta_moment_sili.md)
    * [Центр тяжiння та центр мас](book/chapter_6/tsentr_tyazhinnya_ta_tsentr_mas.md)
    * [Стiйкiсть рiвноваги](book/chapter_6/stiikist_rivnovagi.md)
-* [Iмпульс, робота, потужнiсть](book/chapter_7/mehanichna_robota.md)
+* [Iмпульс, робота, потужнiсть](book/chapter_7/impuls,_robota,_potuzhnist.md)
    * [Механiчна робота](book/chapter_7/mehanichna_robota.md)
        * Дiя постiйної сили
        * Геометричний змiст роботи
