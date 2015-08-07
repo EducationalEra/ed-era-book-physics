@@ -10,7 +10,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$a_Д = \dfrac{v^2}{R}$$</p1>
+<p1>$$a_Д = \dfrac{\upsilon^2}{R}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -25,7 +25,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\vec{F} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n} = m \vec{a_Д} = \dfrac{v^2}{R}$$</p1>
+<p1>$$\vec{F_{\Sigma}} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n} = m \vec{a_Д} = \dfrac{\upsilon^2}{R}$$</p1>
 </td>
 </tr>
 </table></div></div>
