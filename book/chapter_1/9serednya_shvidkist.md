@@ -6,18 +6,18 @@
 
 Очевидно, що середня швидкiсть в данiй задачi не дорiвнює середньому арифметичному трьох швидкостей:
 
-$$v_{сер} \not= \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
+$$\upsilon_{сер} \not= \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Ceредня швидкiсть</b> 
 
-\[\vec{v}_\text{сер} = \dfrac{\vec{S}_\Sigma}{t_\Sigma} = \dfrac{\vec{S}_1 + \vec{S}_2 + ... + \vec{S}_n}{t_1+ t_2 + ... +t_n}\]
+\[\vec{\upsilon}_\text{сер} = \dfrac{\vec{S}_\Sigma}{t_\Sigma} = \dfrac{\vec{S}_1 + \vec{S}_2 + ... + \vec{S}_n}{t_1+ t_2 + ... +t_n}\]
 
 <b>Ceредня шляхова швидкiсть</b> 
 
-\[v_\text{сер} = \dfrac{l_\Sigma}{t_\Sigma} = \dfrac{l_1 + l_2 + ... + l_n}{t_1+ t_2 + ... +t_n}\]
+\[\upsilon_\text{сер} = \dfrac{l_\Sigma}{t_\Sigma} = \dfrac{l_1 + l_2 + ... + l_n}{t_1+ t_2 + ... +t_n}\]
 </div>
 </div>
 
@@ -26,12 +26,12 @@ $$v_{сер} \not= \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
 
 
 * <b>Промiжки часу:</b> $$t_1 = 2 \thinspace c, \ t_2 = 3 \thinspace c, \ t_3 = 2 \thinspace c$$
-* <b>Промiжки шляху:</b> $$ l_1 = v_1 t_1, \ l_2 = v_2t_2, \ l_3 = v_3t_3$$
+* <b>Промiжки шляху:</b> $$ l_1 = v_1 t_1, \ l_2 = \upsilon_2t_2, \ l_3 = \upsilon_3t_3$$
 
 
 <span class="p1">Середня швидкiсть:</span> 
 
-$$v_\text{сер} = \dfrac{l_1 +l_2+l_3}{t_1+t_2+t_3}= \dfrac{0\cdot2+ 2\cdot 3 + 3\cdot 2}{2+3+2}=\dfrac{12}{7}=1\dfrac{5}{7}$$
+$$\upsilon_\text{сер} = \dfrac{l_1 +l_2+l_3}{t_1+t_2+t_3}= \dfrac{0\cdot2+ 2\cdot 3 + 3\cdot 2}{2+3+2}=\dfrac{12}{7}=1\dfrac{5}{7}$$
 
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
@@ -44,11 +44,11 @@ $$v_\text{сер} = \dfrac{l_1 +l_2+l_3}{t_1+t_2+t_3}= \dfrac{0\cdot2+ 2\cdot 3 
 <explanation>
 <p>Проміжки пройдених шляхів</p>
 
-$$l_1 = 100\,\text{м},\,\,\,, l_2 = 0\,\text{м},\,\,\, l_3 = v_3t_3 = 5\cdot15 = 75\,\text{м}$$
+$$l_1 = 100\,\text{м},\,\,\,, l_2 = 0\,\text{м},\,\,\, l_3 = \upsilon_3t_3 = 5\cdot15 = 75\,\text{м}$$
 
 <p>Cередня швидкість</p>
 
-$$v_\text{сер} = \dfrac{l_1 + l_2 + l_3}{t_1 + t_2 + t_3} = \dfrac{100 + 0 +75}{15 + 10 + 15} = \dfrac{175}{40} = 4,375 \,\text{(м/с)}$$
+$$\upsilon_\text{сер} = \dfrac{l_1 + l_2 + l_3}{t_1 + t_2 + t_3} = \dfrac{100 + 0 +75}{15 + 10 + 15} = \dfrac{175}{40} = 4,375 \,\text{(м/с)}$$
 
 </explanation>
 </question>
