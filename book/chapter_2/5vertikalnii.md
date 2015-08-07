@@ -22,34 +22,34 @@
 
 При вертикальному русi у бiльшостi пiдручникiв вiсь направляють вгору. В такому випадку рiвняння руху виглядає таким чином:
 
-$$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
+$$x=x_0+\upsilon_{0x}t-\dfrac{at^2}{2}$$
 
 Є декiлька цiкавих фактiв, пов’язаних з рухом, при якому нехтують опором повiтря.
 
 <ol>
 <li><p1>Час пiдняття тiла з одного рiвня до iншого дорiвнює часу спуску з другого на перший.</p1>
-<table style="width:100%"><tr border ="0"><td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/8.svg" /></td><td width="60%"><b>А.</b> Петро пiдкидає м’яч вертикально вгору з початковою швидкiстю $$v_0$$. 
+<table style="width:100%"><tr border ="0"><td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/8.svg" /></td><td width="60%"><b>А.</b> Петро пiдкидає м’яч вертикально вгору з початковою швидкiстю $$\upsilon_0$$. 
 
 Рiвняння руху 
 
-\[x=x_0+v_{0x}t-\dfrac{at^2}{2}\] 
+\[x=x_0+\upsilon_{0x}t-\dfrac{at^2}{2}\] 
 
 Початкову точку приймемо за нуль, кiнцеву – $$H_{max}$$.
 
-\[H_{max} = v_{0x}t-\dfrac{at^2}{2}\]
+\[H_{max} = \upsilon_{0x}t-\dfrac{at^2}{2}\]
 
 Позначимо час пiдйому $$t'$$ i знайдемо його з умови рiвностi нулю швидкостi у найвищiй точцi:
 
-\[v(t')=v_0-gt'=0 \Rightarrow \boxed{t'=\dfrac{v_{0x}}{g}}\]
+\[\upsilon(t')=\upsilon_0-gt'=0 \Rightarrow \boxed{t'=\dfrac{\upsilon_{0x}}{g}}\]
 
-Пiдставимо у вираз для $$H_{max}: H_{max} = \dfrac{v^2_{0x}}{2g}$$</td></tr></table>
-<table style="width:100%"><tr><td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/9.svg" /></td><td width="60%" border="0"><b>Б.</b> Розглядаємо спуск м’яча. Тодi $$v_{0x}=0,x_0=H_{max}$$. Позначимо час спуску $$t''$$ i виразимо $$H_{max}$$ iз рiвняння руху:
+Пiдставимо у вираз для $$H_{max}: H_{max} = \dfrac{\upsilon^2_{0x}}{2g}$$</td></tr></table>
+<table style="width:100%"><tr><td><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/9.svg" /></td><td width="60%" border="0"><b>Б.</b> Розглядаємо спуск м’яча. Тодi $$\upsilon_{0x}=0,x_0=H_{max}$$. Позначимо час спуску $$t''$$ i виразимо $$H_{max}$$ iз рiвняння руху:
 
 \[x(t'')=H_{max} - \dfrac{gt''^2}{2}=0\Rightarrow H_{max} =\dfrac{gt''^2}{2}\]
 
 Прирiвняємо $$H_{max}$$ з пунктiв <b>А</b> та <b>Б</b>:
 
-\[\dfrac{v^2_{0x}}{2g}=\dfrac{gt''^2}{2} \Rightarrow t''^2=\dfrac{v^2_{0x}}{g^2} \Rightarrow \boxed{t''=\dfrac{v_{0x}}{g}}\]
+\[\dfrac{\upsilon^2_{0x}}{2g}=\dfrac{gt''^2}{2} \Rightarrow t''^2=\dfrac{\upsilon^2_{0x}}{g^2} \Rightarrow \boxed{t''=\dfrac{\upsilon_{0x}}{g}}\]
 
 Отже, справдi, час пiдйому з однiєї точки в iншу дорiвнює часу спуску.</td></tr></table></li>
 
@@ -57,7 +57,7 @@ $$x=x_0+v_{0x}t-\dfrac{at^2}{2}$$
 
 Користуючись результатами попереднього пункту, ми вже визначили час спуску. Тодi швидкiсть у точцi, з якої починався рух, пiсля спуску:
 
-$$v_x(t'')=0-gt''=-g\cdot\dfrac{v_{0x}}{g}=-v_{0x}$$
+$$\upsilon_x(t'')=0-gt''=-g \cdot \dfrac{\upsilon_{0x}}{g}= -\upsilon_{0x}$$
 
 Знак мiнус вказує на те, що швидкiсть напрямлена протилежно напрямку вiсi.</li>
 
@@ -71,7 +71,7 @@ $$v_x(t'')=0-gt''=-g\cdot\dfrac{v_{0x}}{g}=-v_{0x}$$
 </div>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
-<p>Петро жбурляє мяч угору. Початкова швидкiсть \(v_0\) = 17,64 м/с. Прискорення вiльного падiння \(g\) = 9,8 \(\frac{м}{с^2}\).</p>
+<p>Петро жбурляє мяч угору. Початкова швидкiсть \(\upsilon_0\) = 17,64 м/с. Прискорення вiльного падiння \(g\) = 9,8 \(\frac{м}{с^2}\).</p>
 <question>
 <p>(a) Визначити максимальну висоту пiдняття м'яча над рiвнем, з якого Петро його кинув.</p>
 <answer>13,7 м</answer>
@@ -79,7 +79,7 @@ $$v_x(t'')=0-gt''=-g\cdot\dfrac{v_{0x}}{g}=-v_{0x}$$
 <answer>18,1 м</answer>
 <answer>14,2 м</answer>
 <explanation>
-$$H_{max}=\dfrac{v^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15,876 м$$
+$$H_{max}=\dfrac{\upsilon^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15,876 м$$
 </explanation>
 </question>
 
@@ -91,7 +91,7 @@ $$H_{max}=\dfrac{v^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15,876 м
 <answer>1,8 c</answer>
 <explanation>
 <p>Час пiдйому:</p>
-$$t^\prime=v_0g=17,64 \cdot 9,8= 1,8 \thinspace c$$
+$$t^\prime = \upsilon_0g = 17,64 \cdot 9,8= 1,8 \thinspace c$$
 <p>Повний час = час пiдйому + час спуску, з iншого боку час пiдняття = часу спуску.</p>
 <p>Отже, повний час</p>
 <p>$$t=2t^\prime=3,6 \thinspace c$$</p>
