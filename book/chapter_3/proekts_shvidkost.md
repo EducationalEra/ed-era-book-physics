@@ -15,7 +15,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_y=v_{0y}-gt$$</p1>
+<p1>$$\upsilon_y = \upsilon_{0y} - gt$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -27,17 +27,17 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_x=v_{0x}$$</p1>
+<p1>$$\upsilon_x = \upsilon_{0x}$$</p1>
 </td>
 </tr>
 </table></div></div>
 <p></p>
 
-З вищезазначеного стає зрозумiлим, що проекцiя швидкостi на вiсь $$y$$ змiнюється протягом всього руху. Наприклад, на рисунку вище у першiй точцi $$v_y > 0$$, адже кут
-мiж дотичною та вiссю $$x$$ - гострий. У другiй точцi (верхня точка траєкторiї) $$v_y=0$$, кут дорiвнює нулю. У третiй точцi $$v_y < 0$$, кут - тупий.
+З вищезазначеного стає зрозумiлим, що проекцiя швидкостi на вiсь $$y$$ змiнюється протягом всього руху. Наприклад, на рисунку вище у першiй точцi $$\upsilon_y > 0$$, адже кут
+мiж дотичною та вiссю $$x$$ - гострий. У другiй точцi (верхня точка траєкторiї) $$\upsilon_y=0$$, кут дорiвнює нулю. У третiй точцi $$\upsilon_y < 0$$, кут - тупий.
 <p></p>
 <div class="space">Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швид-
-костi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$v$$.</div>
+костi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon$$.</div>
 <div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" /></div>
 <p></p>
 <div class="space">Iз тригонометричних спiввiдношень у прямокутному трикутнику</div>
@@ -45,7 +45,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v_x=v \cos \alpha; v_y=v \sin \alpha$$</p1>
+<p1>$$\upsilon_x = \upsilon \cos \alpha; \ \upsilon_y = \upsilon \sin \alpha$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -55,7 +55,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$v = \sqrt{v_x^2+v_y^2}$$</p1>
+<p1>$$\upsilon = \sqrt{\upsilon_x^2 + \upsilon_y^2}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -65,7 +65,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$tg \alpha = \dfrac{v_y}{v_x}$$</p1>
+<p1>$$tg \alpha = \dfrac{\upsilon_y}{\upsilon_x}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -73,7 +73,7 @@
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>РОБОТА З ГРАФIКАМИ</b>
 <div class="task-text">
-<div class"space">Тiло кидають в праву сторону зi швидкiстю $$v$$ пiд кутом $$\alpha$$ до горизонту. Напрям вертикальної вiсi обрано вгору, горизонтальної - вправо. Намалювати схематично графiки траєкторiї $$y(x)$$, проекцiй швидкостi $$v_x(t)$$ та $$v_y(t)$$.</div>
+<div class"space">Тiло кидають в праву сторону зi швидкiстю $$\upsilon$$ пiд кутом $$\alpha$$ до горизонту. Напрям вертикальної вiсi обрано вгору, горизонтальної - вправо. Намалювати схематично графiки траєкторiї $$y(x)$$, проекцiй швидкостi $$\upsilon_x(t)$$ та $$\upsilon_y(t)$$.</div>
 
 <div class="space"><img class="image" width="700" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/4.png" /></div>
 
@@ -83,16 +83,15 @@
 <br>
 <p style="margin-left:1cm;">Траєкторiя руху тiла, кинутого пiд кутом до горизонту - парабола.</p>
 <br>
-<b>Горизонтальна проекцiя швидкостi</b> $$v_x(t)$$ 
+<b>Горизонтальна проекцiя швидкостi</b> $$\upsilon_x(t)$$ 
 <br>
-<p style="margin-left:1cm;">Горизонтальна складова швидкостi не змiнюється протягом руху i дорiвнює проекцiї початкової швидкостi. При виборi вiсей таким чином, як зазначено в умовi $$v_{0x} \gt 0$$. Отже, це пряма лiнiя, паралельна вiсi часу.</p>
+<p style="margin-left:1cm;">Горизонтальна складова швидкостi не змiнюється протягом руху i дорiвнює проекцiї початкової швидкостi. При виборi вiсей таким чином, як зазначено в умовi $$\upsilon_{0x} \gt 0$$. Отже, це пряма лiнiя, паралельна вiсi часу.</p>
 <br>
-<b>Вертикальна проекцiя швидкостi</b> $$v_y(t)$$
+<b>Вертикальна проекцiя швидкостi</b> $$\upsilon_y(t)$$
 <br>
 <p style="margin-left:1cm;">Вертикальна складова швидкостi весь час змiнюється пiд дiєю прискорення вiльного падiння $$\vec{g}$$. Маємо рiвноприскорений рух.</p>
-<div align ="center">$$v_y=v_{0y}-gt$$</div>
+<div align ="center">$$\upsilon_y = \upsilon_{0y}-gt$$</div>
 <br>
-<p style="margin-left:1cm;">При виборi вiсей таким чином, як зазначено в умовi $$v_{0y} \gt 0$$. З плином часу ця проекцiя стає рiвною нулю (верхня точка траєкторiї), а потiм проекцiя
-стає вiд’ємною (рух вниз).</p>
+<p style="margin-left:1cm;">При виборi вiсей таким чином, як зазначено в умовi $$\upsilon_{0y} \gt 0$$. З плином часу ця проекцiя стає рiвною нулю (верхня точка траєкторiї), а потiм проекцiя стає вiд’ємною (рух вниз).</p>
 </div>
 </div>
