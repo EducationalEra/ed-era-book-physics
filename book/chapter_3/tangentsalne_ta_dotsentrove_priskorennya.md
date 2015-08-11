@@ -2,7 +2,7 @@
 
 <div class="space"><img class="image" width="600" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/10.png"></div>
 
-<p class="p3">На рисунку зображено швидкiсть $$\vec{v}$$, яка напрямлена для наглядностi вздовж вiсi $$x$$.</p>
+<p class="p3">На рисунку зображено швидкiсть $$\vec{\upsilon}$$, яка напрямлена для наглядностi вздовж вiсi $$x$$.</p>
 
 <ol>
 <div class="space"><li>
