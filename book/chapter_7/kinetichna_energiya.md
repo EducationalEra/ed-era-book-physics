@@ -32,7 +32,7 @@
 
 <div class="space">Пiдставимо отримане вище $d$:</div>
 
-<div class="space" align="center">A = ma \dfrac{\upsilon_2^2 - \upsilon_1^2}{2a} = m \dfrac{\upsilon_2^2 - \upsilon_1^2}{2}</div>
+<div class="space" align="center">$$A = ma \dfrac{\upsilon_2^2 - \upsilon_1^2}{2a} = m \dfrac{\upsilon_2^2 - \upsilon_1^2}{2}$$</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -74,7 +74,7 @@
 
 <div class="space"><p class="p3">Нехай ви пiднiмаєте тiло з постiйною швидкiстю $\upsilon$ вгору, прикладаючи силу $\vec{F}$.</p></div>
 
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/11.png"></div>
+<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/11.png"></div>
 
 <div class="space">Чому дорiвнює сумарна робота, яку виконано над тiлом при пiдняттi на висоту $h$? З теореми, що маємо вище, виходить, що сумарна робота дорiвнює нулю, адже $\upsilon_2 = \upsilon_1 = \upsilon = const$. Не вiриться? Давайте перевiремо.</div>
 
