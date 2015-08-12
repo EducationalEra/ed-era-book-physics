@@ -57,7 +57,7 @@
 
 <div class="space"><b>Сила тяжiння та сила пружностi – консервативнi сили.</b></div>
 
-<img class="image" width="200"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/13.png"></div>
+<img class="image" width="150"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/13.png"></div>
 </div>
 </div>
 
