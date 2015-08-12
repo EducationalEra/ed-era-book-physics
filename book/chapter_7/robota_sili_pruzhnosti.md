@@ -35,4 +35,4 @@
 </tr>
 </table></div></div>
 
-<img class="image" width="200"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/11.png">
+<img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/11.png">
