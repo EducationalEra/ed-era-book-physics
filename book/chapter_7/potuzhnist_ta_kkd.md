@@ -123,7 +123,7 @@
 
 <div class="space">Корисна робота – робота з пiдняття вантажу на висоту $h: \ A_к = mgh$. Можемо виразити висоту $h$ через довжину похилої площини $l$ та синус кута $\alpha: \ A_к = mgl \sin \alpha$. Затрачена робота – робота сили $F$ по перемiщенню тiла вздовж похилої площини: $A_з = Fl$. Щоб тiло рухалось рiвномiрно, сума усiх прикладених сил повинна дорiвнювати нулю.</div>
 
-<div class="space" align="center">$$Oy \ : \ N - mg \cos \alpha = 0 \Rightarrow N = mg \cos \alpha; \ F_Т = \muN = \mu mg \cos \alpha$$</div>
+<div class="space" align="center">$$Oy \ : \ N - mg \cos \alpha = 0 \Rightarrow N = mg \cos \alpha; \ F_Т = \mu N = \mu mg \cos \alpha$$</div>
 
 <div class="space" align="center">$$Ox \ : \ F - F_Т - mg \sin \alpha = 0 \Rightarrow F = F_Т + mg \sin \alpha = \mu mg \cos \alpha + mg \sin \alpha$$</div>
 
@@ -135,6 +135,6 @@
 
 <div class="space">Тепер можемо отримати ККД:</div>
 
-<div align="center">$$\eta = \dfrac{A_к}{A_з} = \dfrac{mgl \sin \alpha}{mgl(\mu \cos \alpha + \sin \alpha)} = \dfrac{\sin \alpha}{\mu \cos \alpha + \sin \alpha} = \dfrac{\dfrac{1}{2}}{0.4 \cdot \dfrac{\sqrt{3}}{2} + \dfrac{1}{2}} \qpprox 0.6 = 60 \%$$</div>
+<div align="center">$$\eta = \dfrac{A_к}{A_з} = \dfrac{mgl \sin \alpha}{mgl(\mu \cos \alpha + \sin \alpha)} = \dfrac{\sin \alpha}{\mu \cos \alpha + \sin \alpha} = \dfrac{\dfrac{1}{2}}{0.4 \cdot \dfrac{\sqrt{3}}{2} + \dfrac{1}{2}} \approx 0.6 = 60 \%$$</div>
 </li>
 </ol>
