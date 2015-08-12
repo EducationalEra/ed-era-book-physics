@@ -1,15 +1,15 @@
 # Робота сили тяжiння
 
-Розглядаємо приклад. Тiло вiдпускають на висотi $h$ i воно летить вертикально вниз. Яку роботу виконає сила тяжiння?
+<div class="space">Розглядаємо приклад. Тiло вiдпускають на висотi $h$ i воно летить вертикально вниз. Яку роботу виконає сила тяжiння?<div class="space">
 
-Напрям вектора перемiщення $h$ спiвпадає з напрямом сили тяжiння $m \vec{g}$ Це означає, що робота сили тяжiння додатня i за визначенням дорiвнює:
+<div class="space"><p class="p3">Напрям вектора перемiщення $h$ спiвпадає з напрямом сили тяжiння $m \vec{g}$ Це означає, що робота сили тяжiння додатня i за визначенням дорiвнює:</p></div>
 
-<div align="center">$A = m g h$</div>
+<div class="space" align="center">$A = m g h$</div>
 
-img
+<div class="space"><img class="image" width="200"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/6.png"></div>
 
-Якщо ж тiло пiднiмають вгору, то сила тяжiння виконує негативну роботу, адже напрям вектора перемiщення $\vec{h}$ протилежний до напряму дiї сили тяжiння $m \vec{g}$.
+<div class="space">Якщо ж тiло пiднiмають вгору, то сила тяжiння виконує негативну роботу, адже напрям вектора перемiщення $\vec{h}$ протилежний до напряму дiї сили тяжiння $m \vec{g}$.</div>
 
-<div align="center">$A = -mgh$</div>
+<div class="space" align="center">$A = -mgh$</div>
 
-img
+<img class="image" width="200"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/7.png">
