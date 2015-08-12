@@ -30,7 +30,7 @@
 
 <div class="space">Робота <b>консервативних</b> сил дорiвнює рiзницi потенцiальних енергiй у початковiй та у кiнцевiй точках:</div>
 
-<div align="center">$A = E_{П1} - E_{П2} = - \Delta E_П$</div>
+<div class="space" align="center">$A = E_{П1} - E_{П2} = - \Delta E_П$</div>
 </div>
 </div>
 
