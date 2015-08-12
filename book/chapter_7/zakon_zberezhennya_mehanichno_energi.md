@@ -1,43 +1,45 @@
 # Закон збереження механiчної енергiї
 
-Тепер, комбiнуючи отриманi знання про роботу та види енергiй, ми з легкiстю отримаємо поняття повної механiчної енергiї. Знову звернемося до прикладу з силою тяжiння:
+<div class="space">Тепер, комбiнуючи отриманi знання про роботу та види енергiй, ми з легкiстю отримаємо поняття повної механiчної енергiї. Знову звернемося до прикладу з силою тяжiння:</div>
 
-img
+<div class="space"><img class="image" width="200"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/16.png"></div>
 
-Тiло рухається пiд дiєю сили тяжiння. На висотi $h_1$ має швидкiсть $\upsilon_1$, на висотi $h_2$ – $\upsilon_2$.
+<div class="space">Тiло рухається пiд дiєю сили тяжiння. На висотi $h_1$ має швидкiсть $\upsilon_1$, на висотi $h_2$ – $\upsilon_2$.</div>
 
 <ul>
-<li>
-Згiдно з теоремою про кiнетичну енергiю (пункт 7.2.1), робота, яку виконує сила тяжiння дорiвнює рiзницi кiнетичної енергiї тiла у кiнцевому та початковому станi:
-<div align="center">$$A = E_{К2} - E_{К1} = \dfrac{m \upsilon_2^2}{2} - \dfrac{m \upsilon_1^2}{2}$$</div>
+<div class="space"><li>
+Згiдно з теоремою про кiнетичну енергiю (пункт 7.2.1), робота, яку виконує сила тяжiння дорiвнює рiзницi кiнетичної енергiї тiла у кiнцевому та початковому станi:</div>
+
+<div class="space" align="center">$$A = E_{К2} - E_{К1} = \dfrac{m \upsilon_2^2}{2} - \dfrac{m \upsilon_1^2}{2}$$</div>
 </li>
-<li>
-З iншого боку роботу сили тяжiння можна отримати i за допомогою потенцiальної енергiї (попереднiй пункт). Тут навпаки: початковий стан - кiнцевий:
-<div align="center">$$A = E_{П2} - E_{П1} = mgh_1 - mgh_2$$</div>
+<div class="space"><li>
+З iншого боку роботу сили тяжiння можна отримати i за допомогою потенцiальної енергiї (попереднiй пункт). Тут навпаки: початковий стан - кiнцевий:</div>
+
+<div class="space" align="center">$$A = E_{П2} - E_{П1} = mgh_1 - mgh_2$$</div>
 </li>
 </ul>
 
-Прирiвнявши вирази для роботи, маємо:
+<div class="space">Прирiвнявши вирази для роботи, маємо:</div>
 
-<div class="centered-table-wrapper">
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\dfrac{m \upsilon_2^2}{2} - \dfrac{m \upsilon_1^2}{2} = mgh_1 - mgh_2 \Rightarrow \dfrac{m \upsilon_1^2}{2} + mgh_1 = \dfrac{m \upsilon_2^2}{2} + mgh_2$$</p1>
 </td>
 </tr>
-</table></div>
+</table></div></div>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<span class="p1"><b>Повна механiчна енергiя</b></span> – сума потенцiальної енергiї та кiнетичної енергiї тiла.
+<div class="space"><span class="p1"><b>Повна механiчна енергiя</b></span> – сума потенцiальної енергiї та кiнетичної енергiї тiла.</div>
 
-<div align="center">$$E = \dfrac{m \upsilon^2}{2} + mgh$$</div>
+<div class="space" align="center">$$E = \dfrac{m \upsilon^2}{2} + mgh$$</div>
 
-<span class="p1"><b>Повна механiчна енергiя системи тiл</b></span> – це сума повних енергiй усiх тiл, що входять у систему.
+<div class="space"><span class="p1"><b>Повна механiчна енергiя системи тiл</b></span> – це сума повних енергiй усiх тiл, що входять у систему.</div>
 
-<span class="p1"><b>Закон збереження повної механiчної енергiї</b></span>: У полi консервативних сил сума кiнетичної та потенцiальної енергiї залишається постiйною.
+<div class="space"><span class="p1"><b>Закон збереження повної механiчної енергiї</b></span>: У полi консервативних сил сума кiнетичної та потенцiальної енергiї залишається постiйною.</div>
 
 <div align="center">$E_1 = E_2 = E = const$</div>
 </div>
@@ -46,73 +48,73 @@ img
 <div class="task-wrap">
 <span class="task">Задача 2</span> <b>АМЕРИКАНСЬКI ГIРКИ</b>
 <div class="task-text">
-Вiзок американських гiрок починає зiсковузувати з висоти $H$ з нульовою початковою швидкiстю. На якiй висотi $h$ у вiзка буде швидкiсть рiвно в три рази меньша, нiж у найнижчiй точцi? Для розрахункiв силою тертя мiж вiзком та гiркою можна знехтувати.
+<div class="space">Вiзок американських гiрок починає зiсковузувати з висоти $H$ з нульовою початковою швидкiстю. На якiй висотi $h$ у вiзка буде швидкiсть рiвно в три рази меньша, нiж у найнижчiй точцi? Для розрахункiв силою тертя мiж вiзком та гiркою можна знехтувати.</div>
 
-img
+<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/17.png"></div>
 
-Для початку розпишемо повну механiчну енергiю для кожної з точок.
+<div class="space">Для початку розпишемо повну механiчну енергiю для кожної з точок.</div>
 
 <ol>
-<li>
-В умовi сказано, що початкова швидкiсть нульова $\rightarrow E_{К1} = 0$. Натомiсть вiзок знаходиться на висотi $H$ вiд нульового рiвня, який вiдповiдає найнижчiй точцi (наш вибiр). Отже, потенцiальна енергiя: $E_П = mgH$, а повна енергiя:
+<div class="space"><li>
+В умовi сказано, що початкова швидкiсть нульова $\rightarrow E_{К1} = 0$. Натомiсть вiзок знаходиться на висотi $H$ вiд нульового рiвня, який вiдповiдає найнижчiй точцi (наш вибiр). Отже, потенцiальна енергiя: $E_П = mgH$, а повна енергiя:</div>
 
-<div align="center">$E_1 = E_П = mgH$</div>
+<div class="space" align="center">$E_1 = E_П = mgH$</div>
 </li>
-<li>
-У найнижчiй точцi (нульовий рiвень) потенцiальна енергiя дорiвнює нулю: $E_П = 0$. З iншого боку саме у цiй точцi вiзок набуває максимальної швидкостi, адже уся потенцiальна енергiя перейшла у кiнетичну. Повна енергiя:
+<div class="space"><li>
+У найнижчiй точцi (нульовий рiвень) потенцiальна енергiя дорiвнює нулю: $E_П = 0$. З iншого боку саме у цiй точцi вiзок набуває максимальної швидкостi, адже уся потенцiальна енергiя перейшла у кiнетичну. Повна енергiя:</div>
 
-<div align="center">$$E_2 = \dfrac{m \upsilon_2^2}{2}$$</div>
+<div class="space" align="center">$$E_2 = \dfrac{m \upsilon_2^2}{2}$$</div>
 </li>
-<li>
-У третiй точцi вiзок має i кiнетичну, i потенцiальну енергiю. Повна енергiя:
+<div class="space"><li>
+У третiй точцi вiзок має i кiнетичну, i потенцiальну енергiю. Повна енергiя:</div>
 
-<div align="center">$$E_3 = mgh + \dfrac{m \upsilon_3^2}{2}$$</div>
+<div class="space" align="center">$$E_3 = mgh + \dfrac{m \upsilon_3^2}{2}$$</div>
 </li>
 </ol>
 
-Визначимо швидкiсть вiзка у другiй точцi, використовуючи закон збереження повної механiчної енергiї:
+<div class="space">Визначимо швидкiсть вiзка у другiй точцi, використовуючи закон збереження повної механiчної енергiї:</div>
 
-<div align="center">$$E_1 = E_2 \Rightarrow mgH = \dfrac{m \upsilon_2^2}{2} \Rightarrow \upsilon_2 = \sqrt{2gH}$$</div>
+<div class="space" align="center">$$E_1 = E_2 \Rightarrow mgH = \dfrac{m \upsilon_2^2}{2} \Rightarrow \upsilon_2 = \sqrt{2gH}$$</div>
 
-З умови у третiй точцi швидкiсть в три рази менша за швидкiсть у другiй точцi: $$\upsilon_3 = \dfrac{\upsilon_2}{3} = \dfrac{\sqrt{2gH}}{3}$$. Скористаємось законом збереження енергiї для першого та третього випадку (могли i для другого та третього):
+<div class="space">З умови у третiй точцi швидкiсть в три рази менша за швидкiсть у другiй точцi: $$\upsilon_3 = \dfrac{\upsilon_2}{3} = \dfrac{\sqrt{2gH}}{3}$$. Скористаємось законом збереження енергiї для першого та третього випадку (могли i для другого та третього):</div>
 
-<div align="center">$$E_1 = E_3 \Rightarrow mgH = mgh + \dfrac{m \upsilon_3^2}{2} \Rightarrow h = \dfrac{gH - \dfrac{\upsilon_3^2}{2}}{g}$$</div>
+<div class="space" align="center">$$E_1 = E_3 \Rightarrow mgH = mgh + \dfrac{m \upsilon_3^2}{2} \Rightarrow h = \dfrac{gH - \dfrac{\upsilon_3^2}{2}}{g}$$</div>
 
-Пiдставимо отриману вище $\upsilon_3$:
+<div class="space">Пiдставимо отриману вище $\upsilon_3$:</div>
 
-<div class="centered-table-wrapper">
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$h = H - \dfrac{H}{9} = \dfrac{8H}{9}$$</p1>
 </td>
 </tr>
-</table></div>
+</table></div></div>
 </div>
 </div>
 
 <div class="task-wrap">
 <span class="task">Задача 3</span> <b>МЕРТВА ПЕТЛЯ</b>
 <div class="task-text">
-Вiзок на американських гiрках починає зiсковзувати вниз з нульовою початковою швидкiстю. Попереду його чекає мертва петля. З якої мiнiмальної висоти $H_{min}$ можна вiдпустити вiзок, щоб вiн все ж таки здiйснив повний оберт у петлi?
+<div class="space">Вiзок на американських гiрках починає зiсковзувати вниз з нульовою початковою швидкiстю. Попереду його чекає мертва петля. З якої мiнiмальної висоти $H_{min}$ можна вiдпустити вiзок, щоб вiн все ж таки здiйснив повний оберт у петлi?</div>
 
-img
+<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/18.png"></div>
 
-Для початку давайте порахуємо, якою повинна бути мiнiмальна лiнiйна швидкiсть у вiзка, щоб вiн не "вiдiрвався"у верхнiй точцi. Ми це робили також при розглядi динамiки руху тiла по колу, але згадаємо ще раз. У верхнiй тоцi на вiзок дiють двi сили: сила тяжiння $mg$ та сила реакцiї опори $N$ Обидвi – вертикально вниз. Вiзок вiдiрветься у той момент, коли сила реакцiї опори стане рiвною нулю, це буде означати, що вiзок нiяк не тисне на опору. Доцентрове прискорення у верхнiй точцi також напрямлене вертикально вниз. Другий закон Ньютона:
+<div class="space">Для початку давайте порахуємо, якою повинна бути мiнiмальна лiнiйна швидкiсть у вiзка, щоб вiн не "вiдiрвався"у верхнiй точцi. Ми це робили також при розглядi динамiки руху тiла по колу, але згадаємо ще раз. У верхнiй тоцi на вiзок дiють двi сили: сила тяжiння $mg$ та сила реакцiї опори $N$ Обидвi – вертикально вниз. Вiзок вiдiрветься у той момент, коли сила реакцiї опори стане рiвною нулю, це буде означати, що вiзок нiяк не тисне на опору. Доцентрове прискорення у верхнiй точцi також напрямлене вертикально вниз. Другий закон Ньютона:</div>
 
-<div align="center">$$mg + N = m a_д \ |N \ge 0| \ m a_д \ge mg$$</div>
+<div class="space" align="center">$$mg + N = m a_д \ |N \ge 0| \ m a_д \ge mg$$</div>
 
-<div align="center">$$a_д = \dfrac{\upsilon^2}{R} \Rightarrow \upsilon^2 \ge gR$$</div>
+<div class="space" align="center">$$a_д = \dfrac{\upsilon^2}{R} \Rightarrow \upsilon^2 \ge gR$$</div>
 
-Тепер можемо скористатися законом збереження повної механiчної енергiї. Повна енергiя на висотi $H$ з нульовою швидкiстю:
+<div class="space">Тепер можемо скористатися законом збереження повної механiчної енергiї. Повна енергiя на висотi $H$ з нульовою швидкiстю:</div>
 
-<div align="center">$E = mgH$</div>
+<div class="space" align="center">$E = mgH$</div>
 
-Повна енергiя у верхнiй точцi мертвої петлi на висотi $2R$ зі швидкістю $\upsilon$:
+<div class="space">Повна енергiя у верхнiй точцi мертвої петлi на висотi $2R$ зі швидкістю $\upsilon$:</div>
 
-<div align="center">$$E = 2mgR + \dfrac{m \upsilon^2}{2}$$</div>
+<div class="space" align="center">$$E = 2mgR + \dfrac{m \upsilon^2}{2}$$</div>
 
-Пiдставимо мiнiмальну отриману мiнiмальну швидкiсть та прирiвняємо повнi енергiї:
+<div class="space">Пiдставимо мiнiмальну отриману мiнiмальну швидкiсть та прирiвняємо повнi енергiї:</div>
 
 <div align="center">$$mgH_{min} = 2mgR = \dfrac{mgR}{2} \Rightarrow H_{min} = \dfrac{5gR}{2}$$</div>
 </div>
