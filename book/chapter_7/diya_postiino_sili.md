@@ -9,7 +9,7 @@
 
 <div class="space"><span class="p1"><b>SI:</b></span> Н $$\cdot$$ м $$=$$ Дж</div>
 
-<div class="space"><img class="image" width="400" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/1.png"></div>
+<div class="space"><img class="image" width="350" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/1.png"></div>
 </div>
 </div>
 
@@ -22,7 +22,7 @@
 <div class="task-text">
 <div class="space">Ящик масою $$m = 30 \thinspace кг$$ протягнули на вiдстань $$30 \thinspace м$$ прикладаючи силу $$F = 30 \thinspace Н$$ пiд кутом 30º до горизонту. Сила тертя $$F_т = 20 \thinspace Н$$. <b>1.</b> Яку роботу по перемiщенню ящика виконує сила $$F$$? <b>2.</b> Яку роботу по перемiщенню ящика виконує сила тертя $$F_т$$? <b>3.</b> Яка сумарна робота виконується? <b>4.</b> Яким чином потрiбно прикласти силу $$F$$, щоб її робота дорiвнювала нулю?</div>
 
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div>
+<div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div>
 
 <div class="space"><b>1.</b> Сила $$\vec{F}$$ напрямлена пiд кутом 30º до вектора перемiщення $$\vec{S}$$. Робота:</div>
 
