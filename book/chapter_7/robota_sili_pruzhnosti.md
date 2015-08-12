@@ -20,8 +20,6 @@
 
 <div class="space">Як вже зазначалося у попередньому пунктi, робота дорiвнює площi фiгури пiд графiком $F(x)$. При видовженнi на вiдстань $x$ маємо трикутник з основою рiвною $x$, висотою – $kx$. Площа трикутника дорiвнює висотi помноженiй на основу i подiленiй на 2.</div>
 
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/10.png"></div>
-
 <div class="space"><p class="p3">Отже, коли сила пружностi спiвнапрямлена з напрямом змiни видовження, вона виконує додатню роботу, яка рiвна $$\dfrac{kx^2}{2}$$.</p></div>
 
 <div class="space"><p class="p3">Ось iнша ситуацiя, ми прикладаємо силу $F$, щоб видовжити пружину на $x$. Сила пружностi в такому випадку напрямлена в протилежну сторону до вектора перемiщення. Таким чином, робота сили пружностi буде вiд’ємною:</p></div>
@@ -35,4 +33,4 @@
 </tr>
 </table></div></div>
 
-<img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/11.png">
+<img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/10.png">
