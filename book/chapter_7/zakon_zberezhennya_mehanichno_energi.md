@@ -41,7 +41,7 @@
 
 <div class="space"><span class="p1"><b>Закон збереження повної механiчної енергiї</b></span>: У полi консервативних сил сума кiнетичної та потенцiальної енергiї залишається постiйною.</div>
 
-<div align="center">$E_1 = E_2 = E = const$</div>
+<div class="space" align="center">$E_1 = E_2 = E = const$</div>
 </div>
 </div>
 
