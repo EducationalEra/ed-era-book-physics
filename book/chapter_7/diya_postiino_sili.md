@@ -1,7 +1,7 @@
 # Дiя постiйної сили (F = const)
 
 <div class="eoz-wrap">
-<span class="eoz">Текст в шапке</span>
+<span class="eoz">Означення</span>
 <div class="eoz-text">
 <span class="p1"><b>Механiчна робота $$A$$</b></span> – це скалярна величина, що визначається, як добуток модуля перемiщення $$S$$ на компоненту сили $$F_{\parallel}$$, яка паралельна до перемiщення.
 
@@ -9,7 +9,7 @@
 
 <span class="p1"><b>SI:</b></span> Н $$\cdot$$ м $$=$$ Дж
 
-img
+<div class="space"><img class="image" width="250" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/1.png"></div>
 </div>
 </div>
 
