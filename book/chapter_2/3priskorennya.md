@@ -38,7 +38,7 @@ $$\upsilon_x(t)=\upsilon_{0x}+a_xt$$
 
 У школі максимум розглядається рівноприскорений рух, але якщо б прискорення було змінним, то знадобилося б означення <b>миттєвого прискорення</b>, аналогічно до миттєвої швидкості, і виражалося би воно таким чином:
 
-$$a_x=lim_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon'_x(t)=x''(t)$$
+$$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon'_x(t)=x''(t)$$
 
 Отже, проекція швидкості – похідна від координати, проекція прискорення - похідна від проекції швидкості. А в курсі математики ви ще познайомитесь з означенням другої похідної, тобто "похідної від похідної" (саме це і зображує $$x''(t)$$).
 </div>
@@ -55,10 +55,10 @@ $$a_x=lim_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon'_x(t)=x''(t
 
 <p><b><i>Розв’язок.</i></b> Розглянемо кожну ділянку окремо: <br></p>
 <p></p>
-<p><b>Перша</b> ($$t_1 = 0c, t_2 = 3c$$)
+<p><b>Перша</b> ($$t_1 = 0 \thinspace \text{c}, t_2 = 3 \thinspace \text{c}$$)
 Проекція прискорення </p>
 
-\[a_{1x} = -2 \dfrac{\text{м}}{\text{c}^2}\]
+\[a_{1x} = -2 \thinspace \dfrac{\text{м}}{\text{c}^2}\]
 
 Тоді рівняння швидкості
 
@@ -66,12 +66,12 @@ $$a_x=lim_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon'_x(t)=x''(t
 
 Проекція швидкості через три секунди руху:
 
-\[\upsilon_{1x}(3)=-4\dfrac{\text{м}}{\text{c}}\]
+\[\upsilon_{1x}(3)=-4 \thinspace \dfrac{\text{м}}{\text{c}}\]
 
-<p><b>Друга</b> ($$t_1 = 3c, t_2 = 5c$$).
+<p><b>Друга</b> ($$t_1 = 3 \thinspace \text{c}, t_2 = 5 \thinspace \text{c}$$).
 Проекція прискорення</p> 
 
-\[a_{2x} = 4 \dfrac{\text{м}}{\text{c}^2}\]
+\[a_{2x} = 4 \thinspace \dfrac{\text{м}}{\text{c}^2}\]
 
 Тоді рівняння швидкості 
 
@@ -81,11 +81,11 @@ $$a_x=lim_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon'_x(t)=x''(t
 
 $$\upsilon_{2x}(2)=4\dfrac{\text{м}}{\text{c}}$$
 
-<p><b>Третя</b> ($$t_1 = 5c, t_2 = 9c$$).
+<p><b>Третя</b> ($$t_1 = 5 \thinspace \text{c}, t_2 = 9 \thinspace \text{c}$$).
 
 Проекція прискорення </p>
 
-\[a_{3x} = 1\dfrac{\text{м}}{\text{c}^2}\]
+\[a_{3x} = 1 \thinspace \dfrac{\text{м}}{\text{c}^2}\]
 
 Тоді рівняння швидкості 
 
@@ -93,11 +93,11 @@ $$\upsilon_{2x}(2)=4\dfrac{\text{м}}{\text{c}}$$
 
 Проекція швидкості через три секунди руху:
 
-\[\upsilon_{3x}(4)=8\dfrac{\text{м}}{\text{c}}\]
+\[\upsilon_{3x}(4)=8 \thinspace \dfrac{\text{м}}{\text{c}}\]
 
 Проекція швидкості через чотири секунди руху:
 
-\[\upsilon_{3x}(4)=8\dfrac{\text{м}}{\text{c}}\]
+\[\upsilon_{3x}(4)=8 \thinspace \dfrac{\text{м}}{\text{c}}\]
 
 </div>
 </div>
