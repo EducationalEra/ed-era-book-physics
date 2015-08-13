@@ -79,7 +79,7 @@ $$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon'_x(
 
 Проекція швидкості через три секунди руху:
 
-$$\upsilon_{2x}(2)=4\dfrac{\text{м}}{\text{c}}$$
+$$\upsilon_{2x}(2)=4 \thinspace \dfrac{\text{м}}{\text{c}}$$
 
 <p><b>Третя</b> ($$t_1 = 5 \thinspace \text{c}, t_2 = 9 \thinspace \text{c}$$).
 
