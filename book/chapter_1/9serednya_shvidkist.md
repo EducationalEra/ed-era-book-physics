@@ -26,7 +26,7 @@ $$\upsilon_{сер} \not= \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
 
 
 * <b>Промiжки часу:</b> $$t_1 = 2 \thinspace c, \ t_2 = 3 \thinspace c, \ t_3 = 2 \thinspace c$$
-* <b>Промiжки шляху:</b> $$ l_1 = v_1 t_1, \ l_2 = \upsilon_2t_2, \ l_3 = \upsilon_3t_3$$
+* <b>Промiжки шляху:</b> $$ l_1 = \upsilon_1 t_1, \ l_2 = \upsilon_2t_2, \ l_3 = \upsilon_3t_3$$
 
 
 <span class="p1">Середня швидкiсть:</span> 
