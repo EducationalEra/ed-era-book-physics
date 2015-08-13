@@ -11,14 +11,14 @@
 
 <b>Швидкiсть рiвномiрного прямолiнiйного руху</b> – вектор, який дорiвнює вiдношенню перемiщення до промiжку часу, за який воно було здiйснено.</br>
 
-\[\vec{v}=\dfrac{\vec{S}}{t}\] 
+\[\vec{\upsilon}=\dfrac{\vec{S}}{t}\] 
 <b>СI</b> – м/с
 </div>
 </div>
 
 При рiвномiрному прямолiнiйному русi:
 
-* Швидкість постійна – $$\vec{v} = const$$ (лат. <i>constanta</i> – постійна). Відповідно, прискорення – $$\vec{a} = 0$$.
+* Швидкість постійна – $$\vec{\upsilon} = const$$ (лат. <i>constanta</i> – постійна). Відповідно, прискорення – $$\vec{a} = 0$$.
 * Траєкторiя руху – пряма лiнiя $$\rightarrow$$ модуль перемiщення спiвпадає зi шляхом $$|\vec{S}| = l$$
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/5.svg" class="image"/>
