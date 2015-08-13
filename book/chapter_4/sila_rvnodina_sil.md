@@ -1,11 +1,11 @@
 # Сила: рiвнодiйна сил
 
-Центральне поняття динамiки – <b>сила</b>.
+Центральне поняття динамiки – <span class="p1"><b>сила</b></span>.
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<div class="space">Сила ($$\vec{F}$$) – векторна величина, що є мiрою дiї тiл або полiв на дане тiло.</div>
+<div class="space"><span class="p1"><b>Сила ($$\vec{F}$$)</b></span> – векторна величина, що є мiрою дiї тiл або полiв на дане тiло.</div>
 
 <div class="space">Вектор $$\vec{F}$$ має <b>напрямок, величину, точку прикладання.</b></div>
 
@@ -13,7 +13,7 @@
 
 <div class="space" align="center">$$\vec{F_{\Sigma}} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$</div>
 
-У SI: Н </i>(Н’ютон)</i>
+<span class="p1"><b>SI:</b></span> Н </i>(Н’ютон)</i>
 </div>
 </div>
 <div class="space">Детальнiше розгляд сили буде продовжено при розглядi другого закону Н’ютона.</div>
