@@ -15,8 +15,8 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<div class="space">Масса ($$m$$) – мiра iнертностi тiла.</div>
+<div class="space"><span class="p1"><b>Масса ($$m$$)</b></span> – мiра iнертностi тiла.</div>
 
-У SI: кг
+<span class="p1"><b>SI:</b></span> кг
 </div>
 </div>
