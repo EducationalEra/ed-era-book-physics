@@ -39,7 +39,7 @@ $$\upsilon_x$$ - проекцiя швидкостi на вiсь $$x$$.
 <b><i>Розв'язок.</b></i>  Рiвняння руху має такий вигляд
 \[x = x_0 + \upsilon_x t \Rightarrow\]
 
-\[\Rightarrow \upsilon_{x1} = 10 \thinspace \text{м/с}, \ \upsilon_{x2} = 15 \thinspace \text{м/с}\]
+\[\Rightarrow \upsilon_{1x} = 10 \thinspace \text{м/с}, \ \upsilon_{2x} = 15 \thinspace \text{м/с}\]
 
 Отже, собака наздожене Петра.</br>
 <p> </p>
@@ -47,7 +47,7 @@ $$\upsilon_x$$ - проекцiя швидкостi на вiсь $$x$$.
 В момент, коли собака наздожене Петра, вони будуть знаходитись на однiй координатi. Можна прирiвняти рiвняння руху $$x_1 = x_2$$.
 	\[20 + 10 t = -5 + 15t \Rightarrow \boxed{t= 5\thinspace c}\]
 	Собака наздожене Петра через 5 секунд. За 5 секунд Петро може пробiгти:
-	\[\upsilon_{x1} t = 10 \cdot 5 = 50 \thinspace \text{м}\]
+	\[\upsilon_{1x} t = 10 \cdot 5 = 50 \thinspace \text{м}\]
 	
 	Все ж таки хлопцю сьогоднi пощастило i вiн встигне дiстатися своєї домiвки цiлим та неушкодженим.
 
