@@ -15,7 +15,7 @@
 <b>Проекцiя вектора на вiсь</b> — це довжина вiдрiзка, який сполучає проекцiю на вiсь точки початку вектора та кiнця вектора.</br>
 <p></p>
 <span class="p1">Проекцiя вектора $$\vec{\upsilon}$$</span> на вісь $$x$$
-\[ \upsilon_x= |\vec{\upsilon}|\cos(\alpha) \]
+\[ \upsilon_x= | \thinspace \vec{\upsilon} \thinspace |\cos(\alpha) \]
 </div>
 </div>
 
