@@ -28,9 +28,9 @@
 
 <div class="space" align="center">$$m \vec{g} + \vec{F_н} = m \vec{a}$$</div>
 
-<div class="space">$$0x \ : \ F_н \sin \alpha = ma = m \dfrac{\upsilon^2}{R}$$ – горизонтальна складова $$F_н$$ визначає $$a_Д$$.</div>
+<div class="space">$$Ox \ : \ F_н \sin \alpha = ma = m \dfrac{\upsilon^2}{R}$$ – горизонтальна складова $$F_н$$ визначає $$a_Д$$.</div>
 
-<div class="space">$$0y \ : \ T \cos \alpha - mg = 0$$ – чим бiльше маса тiла, тим гострiше кут $$\alpha$$.</div>
+<div class="space">$$Oy \ : \ T \cos \alpha - mg = 0$$ – чим бiльше маса тiла, тим гострiше кут $$\alpha$$.</div>
 
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ШВИДКIСТЬ ТА ПЕРIОД ОБЕРТАННЯ</b>
