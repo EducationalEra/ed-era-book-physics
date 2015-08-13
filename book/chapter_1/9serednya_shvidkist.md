@@ -13,11 +13,11 @@ $$\upsilon_{сер} \not= \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
 <div class="eoz-text">
 <b>Ceредня швидкiсть</b> 
 
-\[\vec{\upsilon}_\text{сер} = \dfrac{\vec{S}_\Sigma}{t_\Sigma} = \dfrac{\vec{S}_1 + \vec{S}_2 + ... + \vec{S}_n}{t_1+ t_2 + ... +t_n}\]
+\[\vec{\upsilon}_\text{сер} = \dfrac{\vec{S}_\Sigma}{t_\Sigma} = \dfrac{\vec{S}_1 + \vec{S}_2 + \cdots + \vec{S}_n}{t_1+ t_2 + \cdots +t_n}\]
 
 <b>Ceредня шляхова швидкiсть</b> 
 
-\[\upsilon_\text{сер} = \dfrac{l_\Sigma}{t_\Sigma} = \dfrac{l_1 + l_2 + ... + l_n}{t_1+ t_2 + ... +t_n}\]
+\[\upsilon_\text{сер} = \dfrac{l_\Sigma}{t_\Sigma} = \dfrac{l_1 + l_2 + \cdots + l_n}{t_1+ t_2 + \cdots +t_n}\]
 </div>
 </div>
 
