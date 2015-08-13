@@ -14,4 +14,4 @@
 
 <div class="space"><p class="p3">Cила, яку потрiбно прикласти, щоб тiло залишалося нерухомим:</p></div>
 
-<div align="center">$$mg = \mu F \Rightarrow F = \dfrac{mg}{\mu} = \dfrac{1 \cdot 9.8}{0.2} = 49$$ (<i>H</i>)</div>
+<div align="center">$$mg = \mu F \Rightarrow F = \dfrac{mg}{\mu} = \dfrac{1 \cdot 9.8}{0.2} = 49$$ (H)</div>
