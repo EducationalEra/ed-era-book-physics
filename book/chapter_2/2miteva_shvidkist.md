@@ -24,7 +24,7 @@
 <div class="eoz-text">
 <b>Миттєва швидкість</b> – швидкість тіла в даний момент часу в даній точці траєкторії 
 
-$$\upsilon_x=\lim\limits_{\Delta t\to 0}^{} \dfrac{\Delta x}{\Delta t}=x'(t)$$
+<div align="center">$$\upsilon_x=\lim\limits_{\Delta t\to 0}^{} \dfrac{\Delta x}{\Delta t}=x'(t)$$</div>
 
 </div>
 </div>
