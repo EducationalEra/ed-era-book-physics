@@ -8,7 +8,7 @@ $$S_x = \upsilon_x (t_2 - t_1) = 2 \cdot(4-2) = 4 \thinspace \text{м}.$$
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/15.svg" class="image"/>
 
-З графiку видно, що проекцiя перемiщення на вiсь x дорiвнює площi прямокутника, обмеженного лiнiєю $$\upsilon_x=2$$ i лiнiями $$t= t_1 = 2, \ t= t_2 =4$$.
+З графiку видно, що проекцiя перемiщення на вiсь $x$ дорiвнює площi прямокутника, обмеженного лiнiєю $$\upsilon_x=2$$ i лiнiями $$t= t_1 = 2, \ t= t_2 =4$$.
 
 
 <div class="add-wrap">
