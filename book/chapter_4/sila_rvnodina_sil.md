@@ -39,7 +39,7 @@
 
 <div class="space" align="center">$$|\vec{F_3} + \vec{F_4}| = 2.5 - 2 = 0.5$$ (<i>H</i>)</div>
 
-<div class="space">Отже, задача з 4 векторами ми звели до задачi з двома векторами однакової величини. За теоремою Пiфагора знаходимо величину результуючого вектора.</div>
+<div class="space">Отже, задачу з 4 векторами ми звели до задачi з двома векторами однакової величини. За теоремою Пiфагора знаходимо величину результуючого вектора.</div>
 
 <div class="space"><img class="image" width="135" height="180" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/6.png"></div>
 
