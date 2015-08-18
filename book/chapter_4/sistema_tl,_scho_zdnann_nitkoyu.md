@@ -37,11 +37,11 @@
 
 <ul>
 <li>
-<div class="space">Якщо би <span class="p1"><b>маси були однаковi</b></span>, то система перебувала би у рiвновазi.</div>
+<div class="space">Якщо б <span class="p1"><b>маси були однаковi</b></span>, то система перебувала би у рiвновазi.</div>
 <div class="space" align="center">$$m_1 = m_2 \rightarrow a = 0$$</div>
 </li>
 <li>
-<div class="space">Якщо би <span class="p1"><b>одного тiла взагалi не було</b></span>, то iнше тiло рухалось би просто з прискоренням $$\vec{g}$$.</div>
+<div class="space">Якщо б <span class="p1"><b>одного тiла взагалi не було</b></span>, то iнше тiло рухалось просто з прискоренням $$\vec{g}$$.</div>
 <div align="center">$$m_1 = 0 \rightarrow a = g \dfrac{m_2}{m_2} = g$$</div>
 </li>
 </ul>
