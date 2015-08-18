@@ -96,7 +96,7 @@
        * [Координати векторів](book/Add/vector/vector3.md)
        * [Операції над векторами](book/Add/vector/vector4.md)
            * [Модуль вектора](book/Add/vector/vector4.md)
-           * [Додавання веторів](book/Add/vector/vector4.md)
+           * [Додавання векторів](book/Add/vector/vector4.md)
            * [Множення вектора на скаляр](book/Add/vector/vector4.md)
            * [Скалярний добуток векторів](book/Add/vector/vector4.md)
            * [Проекція та розкладання вектора на компоненти](book/Add/vector/vector4.md)
