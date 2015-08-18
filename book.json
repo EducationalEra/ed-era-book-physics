@@ -33,7 +33,8 @@
     "links": {
         "gitbook": false,
         "sidebar": {
-          "Перейти до бібліотеки EdEra": "https://www.books.ed-era.com"  
+          "Перейти до бібліотеки EdEra": "https://www.books.ed-era.com",
+          "Фізика: класична механіка" : "https://www.ed-era.com/books/physics"
         },
         "sharing": {
             "vk":true
