@@ -61,7 +61,7 @@
 </tr>
 </table></div></div>
 </li>
-<div class="space"><li><b>Кутова швидкiсть</b> $$\omega$$ (рад/c) - дорiвнює вiдношенню кута повороту до часу $$\Delta t$$, за який цей поворот було здiйснено. Повний оберт вiдповiдає куту повороту $$2 \pi$$. Час, за який здiйснюється повний оберт – перiод $$T$$.</div>
+<div class="space"><li><b>Кутова швидкiсть</b> $$\omega$$ (рад/c) - дорiвнює вiдношенню кута повороту до часу $$\Delta t$$, за який цей поворот було здiйснено. Повний оберт вiдповiдає куту поворота $$2 \pi$$. Час, за який здiйснюється повний оберт – перiод $$T$$.</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -84,7 +84,7 @@
 </tr>
 </table></div></div>
 
-<div class="space">Цей вираз також випливає iз зв’язку кута повороту з довжиною дуги i радiусом:</div>
+<div class="space">Цей вираз також випливає зі зв’язку кута повороту з довжиною дуги i радiусом:</div>
 <div class="space" align="center">$$l = R \varphi \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\varphi}{t} \Rightarrow | \upsilon = \dfrac{l}{t}, \omega = \dfrac{\varphi}{t} | \Rightarrow \upsilon = \omega R$$</div></li>
 </ul>
 <ol start="6">
@@ -97,7 +97,7 @@
 <div class="task-wrap">
 <span class="task">Задача 2</span> <b>КУЛЬКА НА НИТЦI</b>
 <div class="task-text">
-<div class="space">Кулька на краю нитки з довжиною 1.2 метри здiйснює рiвномiрний рух по колу. Кут мiж ниткою та вертикаллю дорiвнює 30º. Петро за допомогою годинника визначив, що кулька робить 60 обертiв за пiв хвилини. Знайти: перiод обертання кульки, частоту, лiнiйну та кутову швидкiсть, доцентрове прискорення.</div>
+<div class="space">Кулька на краю нитки з довжиною 1.2 метра здiйснює рiвномiрний рух по колу. Кут мiж ниткою та вертикаллю дорiвнює 30º. Петро за допомогою годинника визначив, що кулька робить 60 обертiв за пiвхвилини. Знайти: перiод обертання кульки, частоту, лiнiйну та кутову швидкiсть, доцентрове прискорення.</div>
 
 <div class="space"><img class="image" width="225"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png"></div>
 
