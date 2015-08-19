@@ -30,7 +30,7 @@
 
 <div class="space"><img class="image" width="650" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/5.png"></div>
 
-<div class="space">У <b>ЗНО</b> та шкiльнiй фiзицi взагалi часто використовують лише коефiцiєнт тертя ковзання. Отже, коли не сказано який саме коефiцiєнт дано, то це означає, що мається на увазi коефiцiєнт тертя ковзання.</div>
+<div class="space">У <b>ЗНО</b> та шкiльнiй фiзицi часто використовують лише коефiцiєнт тертя ковзання. Отже, коли не сказано який саме коефiцiєнт дано, то це означає, що мається на увазi коефiцiєнт тертя ковзання.</div>
 
 <div class="space">Давайте побудуємо графiк залежностi сили тертя вiд прикладеної сили</div>
 
@@ -38,7 +38,7 @@
 
 <ol>
 <li>
-<div class="space">Поки тiло у спокої, збiльшення прикладеної сили $$\vec{F}$$ викликає пропорцiйне збiльшення сили тертя спокою i при цьому $$F_T = F$$</div>
+<div class="space">Поки тiло у спокої, збiльшення прикладеної сили $$\vec{F}$$ викликає пропорцiйне збiльшення сили тертя спокою i при цьому $$F_T = F$$.</div>
 </li>
 <li>
 <div class="space">Коли прикладена сила стає рiвною $$F = \mu_c N$$, тiло зрушується з мiсця.</div>
@@ -48,27 +48,27 @@
 </li>
 </ol>
 
-<div class="space">Шкала графiка зображена для випадку з коефiцiєнтом тертя спокою $$\mu_c = 0.4$$, коефiцiєнтом тертя ковзання $$\mu_k = 0.3$$, масою тiла 10 кг на горизонтальнiй площинi.</div>
+<div class="space">Шкала графiка зображена для випадку з коефiцiєнтом тертя спокою $$\mu_c = 0.4$$, коефiцiєнтом тертя ковзання $$\mu_k = 0.3$$ та масою тiла 10 кг на горизонтальнiй площинi.</div>
 
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ШТОВХАТИ ЧИ ТЯГТИ?</b>
 <div class="task-text">
 <div class="space">Уявiть ситуацiю: вам потрiбно покатати на санках маленького Петра (iм’я не впливає на розв’язок задачi). В якому випадку вам потрiбно прикладати меншу силу, щоб з постiйною швидкiстю везти санки?</div>
 
-<div class="space"><img class="image" width="622" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></div>
+<div class="space"><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></div>
 
 <div class="space">Давайте зобразимо всi дiючi сили на санки у двох випадках.</div>
 
-<div class="space"><img class="image" width="418" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png"></div>
+<div class="space"><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png"></div>
 
 <ol>
 <li>
-<div class="space">Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$</div>
-<div class="space">Проекцiя на вiсь $$y: -mg + N - F \sin \alpha = 0 \Rightarrow N = mg + F \sin \alpha $$</div>
-<div class="space">Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила</div>
+<div class="space">Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.</div>
+<div class="space">Проекцiя на вiсь $$y: -mg + N - F \sin \alpha = 0 \Rightarrow N = mg + F \sin \alpha $$.</div>
+<div class="space">Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.</div>
 <div class="space">Сила тертя ковзання: $$F_T = \mu N$$.</div>
 
-<div class="space">Пiдставимо отриману силу $$N$$</div>
+<div class="space">Пiдставимо отриману силу $$N$$.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -80,14 +80,14 @@
 </table></div></div>
 </li>
 <li>
-<div class="space">Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$</div>
-<div class="space">Проекцiя на вiсь $$y: -mg + N + F \sin \alpha = 0 \Rightarrow N = mg - F \sin \alpha $$</div>
+<div class="space">Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.</div>
+<div class="space">Проекцiя на вiсь $$y: -mg + N + F \sin \alpha = 0 \Rightarrow N = mg - F \sin \alpha $$.</div>
 
-<div class="space">Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила</div>
+<div class="space">Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.</div>
 
 <div class="space">Сила тертя ковзання: $$F_T = \mu N$$.</div>
 
-<div class="space">Пiдставимо отриману силу $$N$$</div>
+<div class="space">Пiдставимо отриману силу $$N$$.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -100,7 +100,7 @@
 </li>
 </ol>
 
-<div class="space">Як бачите у другому випадку вертикальна складова прикладеної сили напрямлена в протилежну сторону до сили тяжiння, тим самим зменшуючи силу реакцiї опори $$N$$. В свою чергу сила тертя, що пропорцiйна $$N$$, також менше.</div>
+<div class="space">Як бачите, у другому випадку вертикальна складова прикладеної сили напрямлена в протилежну сторону до сили тяжiння, тим самим зменшуючи силу реакцiї опори $$N$$. В свою чергу сила тертя, що пропорцiйна $$N$$, також менше.</div>
 
 <b>Вiдповiдь: тягти.</b>
 </div>
