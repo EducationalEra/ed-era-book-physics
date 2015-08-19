@@ -25,19 +25,19 @@
         },
         "gtm": {
             "token": "GTM-N86M5F"
-        }
-    },
-    "variables": {
-      "basePath": "http://physics.ed-era.com"
-    },
-    "links": {
-        "gitbook": false,
-        "sidebar": {
-          "Перейти до бібліотеки EdEra": "https://www.books.ed-era.com",
-          "Фізика: класична механіка": "https://www.ed-era.com/books/physics"
         },
-        "sharing": {
-            "vk":true
+        "variables": {
+          "basePath": "http://physics.ed-era.com"
+        },
+        "links": {
+            "gitbook": false,
+            "sidebar": {
+              "Перейти до бібліотеки EdEra": "https://www.books.ed-era.com",
+              "Фізика: класична механіка": "https://www.ed-era.com/books/physics"
+            },
+            "sharing": {
+                "vk":true
+            }
         }
     }
 }
