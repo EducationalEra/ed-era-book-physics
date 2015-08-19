@@ -41,7 +41,7 @@
 <div class="space">Коли автомобiль рухається по горизонтальнiй дорозi, на нього дiють двi сили у вертикальному напрямку: сила тяжiння $$m \vec{g}$$ та сила реакцiї опори (тиску) $$\vec{F_Т}$$.
 <br>
 <br>
-За другим законом Ньютона: $$F_т = mg$$.</div>
+За другим законом Ньютона: $$F_Т = mg$$.</div>
 
 <div class="space"><span class="p1"><b>Опуклий мiст:</b></span></div>
 
@@ -55,7 +55,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$m \vec{g} + \vec{F_т} = m \vec{a} \Rightarrow mg - F_т = ma \Rightarrow F_т = m(g - a)$$</p1>
+<p1>$$m \vec{g} + \vec{F_Т} = m \vec{a} \Rightarrow mg - F_Т = ma \Rightarrow F_т = m(g - a)$$</p1>
 </td>
 </tr>
 </table></div></div>
