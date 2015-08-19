@@ -74,7 +74,7 @@
        * [Потенцiальна енергiя](book/chapter_7/potentsialna_energiya.md)
        * [Закон збереження механiчної енергiї](book/chapter_7/zakon_zberezhennya_mehanichno_energi.md)
    * [Потужнiсть та ККД](book/chapter_7/potuzhnist_ta_kkd.md)
-   * [Iмпульс](book/chapter_7/impuls.md)
+   * Iмпульс
        * [Закон збереження iмпульсу](book/chapter_7/zakon_zberezhennya_impulsu.md)
        * [Закон збереження механiчної енергiї](book/chapter_7/2zakon_zberezhennya_mehanichno_energi.md)
 * Закон Всесвітнього тяжіння
