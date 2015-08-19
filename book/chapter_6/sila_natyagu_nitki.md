@@ -5,7 +5,7 @@
 <ol>
 <span class="p1"><b><li>
 Обертання тiла на нитцi в горизонтальнiй площинi</b></span>
-<div class="space">При обертаннi тiла, прикрiпленого до нитки, на нього сила натягу. Вона напрямлена до центра кола та створює доцентрове прискорення.</div>
+<div class="space">При обертаннi тiла, прикрiпленого до нитки, на нього діє сила натягу. Вона напрямлена до центра кола та створює доцентрове прискорення.</div>
 
 <div class="space"><img class="image" width="412" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/5.png"></div>
 
@@ -15,7 +15,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$F_н = m a_Д = m \dfrac{\upsilon^2}{R}$$</p1>
+<p1>$$F_Н = m a_Д = m \dfrac{\upsilon^2}{R}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -28,7 +28,7 @@
 
 <div class="space" align="center">$$m \vec{g} + \vec{F_н} = m \vec{a}$$</div>
 
-<div class="space">$$Ox \ : \ F_н \sin \alpha = ma = m \dfrac{\upsilon^2}{R}$$ – горизонтальна складова $$F_н$$ визначає $$a_Д$$.</div>
+<div class="space">$$Ox \ : \ F_Н \sin \alpha = ma = m \dfrac{\upsilon^2}{R}$$ – горизонтальна складова $$F_Н$$ визначає $$a_Д$$.</div>
 
 <div class="space">$$Oy \ : \ T \cos \alpha - mg = 0$$ – чим бiльше маса тiла, тим гострiше кут $$\alpha$$.</div>
 
@@ -43,15 +43,15 @@
 
 <b><i>Розв’язок.</i></b> Запишемо 2 закон Ньютона:
 
-<div class="space" align="center">$$m \vec{g} + \vec{F_н} = m \vec{a_Д}$$</div>
+<div class="space" align="center">$$m \vec{g} + \vec{F_Н} = m \vec{a_Д}$$</div>
 
-<div class="space">Сила натягу нитки має вертикальну i горизонтальну складову. Не забувайте, що саме горизонтальна складова створює доцентрове прискорення i задає характер руху по колу.</div>
+<div class="space">Сила натягу нитки має вертикальну i горизонтальну складову. Пам’ятайте, що саме горизонтальна складова створює доцентрове прискорення i задає характер руху по колу.</div>
 
-<div class="space"><b>Проекцiя на x:</b> $$F_н \sin \alpha = m a_Д \Rightarrow a_Д = \dfrac{F_н \sin \alpha}{m}$$</div>
+<div class="space"><b>Проекцiя на x:</b> $$F_Н \sin \alpha = m a_Д \Rightarrow a_Д = \dfrac{F_н \sin \alpha}{m}$$</div>
 
-<div class="space"><b>Проекцiя на y:</b> $$F_н \cos \alpha - mg = 0 \Rightarrow F_н = \dfrac{mg}{\cos \alpha}$$</div>
+<div class="space"><b>Проекцiя на y:</b> $$F_Н \cos \alpha - mg = 0 \Rightarrow F_н = \dfrac{mg}{\cos \alpha}$$</div>
 
-<div class="space">Пiдставивши $$F_н$$ з другого рiвняння у перше, отримаємо вираз для <b>доцентрового прискорення:</b></div>
+<div class="space">Пiдставивши $$F_Н$$ з другого рiвняння у перше, отримаємо вираз для <b>доцентрового прискорення:</b></div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
