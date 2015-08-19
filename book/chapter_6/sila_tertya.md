@@ -12,7 +12,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$ma < F_{Тс}^{max}$$</p1>
+<p1>$$ma < F_{Tc}^{max}$$</p1>
 </td>
 </tr>
 </table></div></div>
