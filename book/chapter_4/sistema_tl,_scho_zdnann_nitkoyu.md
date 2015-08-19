@@ -1,7 +1,7 @@
 # Система тiл, що з’єднанi ниткою
 <div class="space">Уявiть блок, що обертається. Через нього перекинута нерозтяжна нитка, на якiй з двох сторiн закрiпленi блоки рiзної маси $$m_2 > m_1$$. Таким чином з’явлається прискорення.</div>
 
-<div class="space"><img class="image" width="180" height="231" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/16.svg"></div>
+<div class="space"><img class="image" width="250" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/16.svg"></div>
 
 <div class="space">Перше, що важливо. Якщо сказано, що <b>нитка</b> нерозтяжна, сила натягу $$T$$ у будь-якiй її точцi <b>однакова.</b> За третiм законом Ньютона вага дорiвнює силi натягу нитки. Виходить, що для даного випадку <span class="p1"><b>вага у двох тiл рiзної маси однакова.</b></span> Це дуже важливий концептуальний момент. Не плутайте масу з вагою!</div>
 
@@ -9,7 +9,7 @@
 
 <div class="space"><p class="p3">Напрямимо вiсь $$y$$ вгору та розглянемо кожне тiло окремо</p></div>
 
-<div class="space"><img class="image" width="360" height="195" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/17.png"></div>
+<div class="space"><img class="image" width="400" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/17.png"></div>
 
 <ol>
 <li>
