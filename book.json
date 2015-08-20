@@ -28,7 +28,9 @@
         }
     },
     "variables": {
-      "basePath": "http://physics.ed-era.com"
+      "basePath": "http://physics.ed-era.com",
+      "link": "https://ed-era.com/books/physics/",
+      "title": "Класична механіка"
     },
     "links": {
         "gitbook": false,
