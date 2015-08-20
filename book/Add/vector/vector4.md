@@ -4,20 +4,20 @@
 
 <h2><p1>Модуль вектора</p1></h2>
 
-Як вже було зазначено модуль вектора $$\vec{AB} = \vec{a} (a_1;a_2)$$ – це довжина відрізка $$AB$$, що позначається $$|\vec{AB}|=|\vec{a}|$$.
+Як вже було зазначено модуль вектора $$\vec{AB} = \vec{a} \thinspace (a_1;a_2)$$ – це довжина відрізка $$AB$$, що позначається $$|\thinspace \vec{AB}\thinspace|=|\thinspace \vec{a} \thinspace|$$.
 
 
 Модуль обчислюється за відомою формулою довжини відрізка:
 
-$$|\vec{AB}|=\sqrt{(x_2-x_1 )^2+(y_2-y_1 )^2}.$$
+$$|\thinspace \vec{AB} \thinspace|=\sqrt{(x_2-x_1 )^2+(y_2-y_1 )^2}.$$
 
 Або ж через координати вектора:
 
-$$|\vec{a}|=\sqrt{a_1^2+a_2^2}.$$
+$$|\thinspace \vec{a} \thinspace|=\sqrt{a_1^2+a_2^2}.$$
 
 <h2><p1>Додавання векторів</p1></h2>
 
-В координатному представленні в результаті додавання векторів $$\vec{a} (a_1;a_2)$$ та $$\vec{b} (b_1;b_2)$$ отримаємо вектор $$\vec{c} (c_1;c_2)$$, такий що:
+В координатному представленні в результаті додавання векторів $$\vec{a} \thinspace (a_1;a_2)$$ та $$\vec{b} \thinspace (b_1;b_2)$$ отримаємо вектор $$\vec{c} \thinspace (c_1;c_2)$$, такий що:
 
 $$c_1=a_1+b_1;$$
 
@@ -59,7 +59,7 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
 
 <h2><p1>Множення вектора на скаляр</p1></h2>
 
-При множенні вектора $$\vec{a} (a_1;a_2)$$ на скалярну величину $$\lambda$$, кожна координата вектора множиться на цей скаляр:
+При множенні вектора $$\vec{a} \thinspace (a_1;a_2)$$ на скалярну величину $$\lambda$$, кожна координата вектора множиться на цей скаляр:
 
 $$\lambda\vec{a} = (\lambda a_1;\lambda a_2).$$
 
@@ -70,18 +70,18 @@ $$\lambda\vec{a} = (\lambda a_1;\lambda a_2).$$
         <li>Комутативність: $$\lambda\vec{a} = \vec{a}\lambda$$.</li>
         <li>Асоціативність: $$\lambda(\mu\vec{a}) = (\lambda\mu)\vec{a}$$.</li>
         <li>Дистрибутивність відносно додавання чисел: $$(\lambda + \mu)\vec{a} = \lambda\vec{a} + \mu\vec{a}$$</li>
-        <li>Дистрибутивність відносно додавання векторів: $\lambda(\vec{a} + \vec{b}) = \lambda\vec{a} + \lambda\vec{b}$.</li>
+        <li>Дистрибутивність відносно додавання векторів: $$\lambda(\vec{a} + \vec{b}) = \lambda\vec{a} + \lambda\vec{b}$$.</li>
     </ul>
 </div>
 </div>
 
-З точки зору геометрїї при множенні довжина вектора збільшується в $$|\lambda|$$ разів:
+З точки зору геометрїї при множенні довжина вектора збільшується в $$|\thinspace \lambda \thinspace|$$ разів:
 
-$$|\lambda\vec{a}|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2} = \sqrt{\lambda^2 (a_1^2+a_2^2)}=|\lambda|\sqrt{a_1^2+a_2^2} = |\lambda|\cdot|\vec{a}|$$
+$$|\thinspace \lambda\vec{a} \thinspace|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2} = \sqrt{\lambda^2 (a_1^2+a_2^2)}=|\thinspace \lambda \thinspace|\sqrt{a_1^2+a_2^2} = |\thinspace \lambda \thinspace| \cdot |\thinspace \vec{a} \thinspace|$$
 
 При цьому:
-1. якщо $$\lambda>0$$, то напрямок вектора зберігається;
-2. якщо $$\lambda<0$$, то напрямок вектора змінюється на протилежний:
+1. якщо $$\lambda > 0$$, то напрямок вектора зберігається;
+2. якщо $$\lambda < 0$$, то напрямок вектора змінюється на протилежний:
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/8.svg" />
 
@@ -90,20 +90,20 @@ $$|\lambda\vec{a}|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2} = \sqrt{\lambda^2 (a
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<b>Скалярним добутком</b> двох векторів $$\vec{a} (a_1;a_2)$$ та $$\vec{b} (b_1;b_2)$$ називається <b>число</b> $$a_1 b_1+a_2 b_2$$. Скалярний добуток позначається $$\vec{a}\cdot\vec{b}$$ або $$(\vec{a},\vec{b})$$.
+<b>Скалярним добутком</b> двох векторів $$\vec{a} \thinspace (a_1;a_2)$$ та $$\vec{b} \thinspace (b_1;b_2)$$ називається <b>число</b> $$a_1 b_1+a_2 b_2$$. Скалярний добуток позначається $$\vec{a}\cdot\vec{b}$$ або $$(\vec{a},\vec{b})$$.
 </div>
 </div>
 
 Скалярний добуток вектора самого на себе називається <b>скалярним квадратом</b>, який дорівнює квадрату довжини вектора:
 
-$$(\vec{a},\vec{a}) = \vec{a}^2 = |\vec{a}|^2.$$
+$$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Скалярний добуток</b> також означається як добуток довжин векторів та косинусу кута між цими векторами:
 
-$$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
+$$(\vec{a},\vec{b})=|\thinspace \vec{a} \thinspace| \cdot |\thinspace \vec{b} \thinspace| \cdot \cos{\varphi}$$
 
 
 <p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/9.svg" /></p>
@@ -134,11 +134,11 @@ $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
 <explanation>
 Косинус кута між векторами можна знайти через їх скалярний добуток.
 
-\[ (\vec{a}, \vec{b}) = |\vec{a}|\cdot|\vec{b}|cos(\phi) \]
+\[ (\vec{a}, \vec{b}) = |\thinspace \vec{a} \thinspace| \cdot |\thinspace \vec{b} \thinspace| cos(\varphi) \]
 
 Тобто, 
 
-\[ cos(\phi) = \dfrac{(\vec{a}, \vec{b})}{|\vec{a}|\cdot|\vec{b}|} \]
+\[ cos(\varphi) = \dfrac{(\vec{a}, \vec{b})}{|\thinspace \vec{a} \thinspace| \cdot |\thinspace \vec{b} \thinspace|} \]
 
 Скалярний добуток ми знаходи знаючи координати векторів:
 
@@ -146,7 +146,7 @@ $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
 
 Отже, маємо:
 
-\[ cos(\phi) =  \dfrac{a_1 b_1 + a_2 b_2}{|\vec{a}|\cdot|\vec{b}|} = \dfrac{a_1 b_1 + a_2 b_2}{\sqrt{a_1 ^2 +a_2 ^2}\cdot \sqrt{b_1 ^2 + b_2 ^2}} = \dfrac{4\cdot (-2) + 9\cdot 5}{\sqrt{4^2 + 9^2}\cdot \sqrt{(-2)^2 + 5^2}} = \dfrac{37}{53} \approx 0.7 \]
+\[ cos(\varphi) =  \dfrac{a_1 b_1 + a_2 b_2}{|\thinspace \vec{a} \thinspace| \cdot |\thinspace \vec{b} \thinspace|} = \dfrac{a_1 b_1 + a_2 b_2}{\sqrt{a_1 ^2 +a_2 ^2} \cdot \sqrt{b_1 ^2 + b_2 ^2}} = \dfrac{4 \cdot (-2) + 9\cdot 5}{\sqrt{4^2 + 9^2}\cdot \sqrt{(-2)^2 + 5^2}} = \dfrac{37}{53} \approx 0.7 \]
 </explanation>
 </question>
 </quiz>
@@ -172,22 +172,22 @@ $$(\vec{a},\vec{b})=|\vec{a}|\cdot|\vec{b}|\cdot\cos{\varphi}$$
 
 Ті одиничні вектори, які співпадають з напрямками осей системи координат називають <p1>ортами</p1>.
 Зазвичай орт, що має напрямок вздовж вісі $$Ox$$ позначають $$\vec{e_1}$$ (або $$\vec{i}$$), а вздовж вісі $$Oy$$ – відповідно $$\vec{e_2}$$ (або $$\vec{j}$$).
-У координатному представленні їх можна записати: $$\vec{e_1} (1;0)$$ та $$\vec{e_1} (0;1)$$.
+У координатному представленні їх можна записати: $$\vec{e_1} (1;0)$$ та $$\vec{e_2} (0;1)$$.
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/10.svg" />
 
 Візьмемо два вектора довільної довжини: $$\vec{a_1}$$, який напрямлений вздовж вісі $$Ox$$, а інший, $$\vec{a_2}$$ – вздовж $$Oy$$.
 Запишемо сумарний вектор, який позначимо $$\vec{a}$$:
 
-$$\vec{a_1} (a_1;0) + \vec{a_2} (0;a_2) = \vec{a}(a_1;a_2).$$
+$$\vec{a_1} \thinspace (a_1;0) + \vec{a_2} \thinspace (0;a_2) = \vec{a} \thinspace (a_1;a_2).$$
 
 В свою чергу, вектор $$\vec{a_1}$$ можна виразити через орт $$\vec{e_1}$$: вони мають однаковий напрямок і відрізняються лише довжиною:
 
-$$\vec{a_1} (a_1;0)=a_1 \vec{e_1} (1;0).$$
+$$\vec{a_1} \thinspace (a_1;0)=a_1 \vec{e_1} \thinspace (1;0).$$
 
 Аналогічним чином:
 
-$$\vec{a_2} (0;a_2)=a_2 \vec{e_2} (0;1).$$
+$$\vec{a_2} \thinspace (0;a_2)=a_2 \vec{e_2} \thinspace (0;1).$$
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/11.svg" />
 
