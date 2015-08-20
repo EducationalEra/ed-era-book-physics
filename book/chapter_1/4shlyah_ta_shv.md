@@ -19,7 +19,7 @@
 При рiвномiрному прямолiнiйному русi:
 
 * Швидкість постійна – $$\vec{\upsilon} = const$$ (лат. <i>constanta</i> – постійна). Відповідно, прискорення – $$\vec{a} = 0$$.
-* Траєкторiя руху – пряма лiнiя $$\rightarrow$$ модуль перемiщення спiвпадає зi шляхом $$|\vec{S}| = l$$
+* Траєкторiя руху – пряма лiнiя $$\rightarrow$$ модуль перемiщення спiвпадає зi шляхом $$|\thinspace \vec{S} \thinspace| = l$$
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/5.svg" class="image"/>
 
@@ -69,7 +69,7 @@
 
 <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/7.svg" class="image"/>
 <div class="caption">
-    Графiк залежностi модуля швидкостi вiд часу $$v(t)$$ для трьох випадкiв.
+    Графiк залежностi модуля швидкостi вiд часу $$\upsilon(t)$$ для трьох випадкiв.
 </div>
 
 Швидкiсть при рiвномiрному прямолiнiйному русi не змiнюється з часом. Отже, це просто пряма лiнiя, паралельна осi часу.
@@ -109,7 +109,7 @@ t = \dfrac{S - \upsilon_1 t_1}{\upsilon_1}
 За умовою, Микола наздогнав Петра бiля дому $\rightarrow$ можна прирiвняти час руху велосипедиста і скейтера:</br>
 \[ \dfrac{S-\upsilon_1 t_1}{\upsilon_1} = \dfrac{S}{2\upsilon_1} \Rightarrow S - \upsilon_1 t_1 = \dfrac{S}{2}\]
 А звiдси вже легко отримати швидкiсть:</br>
-\[v_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15\thinspace (\text{км/год}) \]
+\[\upsilon_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15\thinspace (\text{км/год}) \]
 
 \[\upsilon_2 = 2\upsilon_1 = 30 \thinspace (\text{км/год})\]
 </div>
