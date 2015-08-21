@@ -47,9 +47,9 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
 
 <div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/5.svg" /></div>
 
-За цим же правилом можна додавати багато векторів, для цього їх всі потрібно послідовно з’єднати. Результатом буде вектор, що починається у початку першого вектора, та закінчується у кінці останнього вектора:
+<div class="space">За цим же правилом можна додавати багато векторів, для цього їх всі потрібно послідовно з’єднати. Результатом буде вектор, що починається у початку першого вектора, та закінчується у кінці останнього вектора:</div>
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/6.svg" />
+<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/6.svg" /></div>
 
 <div class="space"><p1>«Правило паралелограма»</p1>: потрібно зробити паралельне перенесення одного з векторів так, щоб початки векторів співпали. На основі цих векторів будується паралелограм, а сумарний вектор буде співпадати з діагоналлю побудованого паралелограма і матиме початок в точці суміщення векторів:</div>
 
@@ -81,7 +81,7 @@ $$|\thinspace \lambda\vec{a} \thinspace|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2
 
 При цьому:
 1. якщо $$\lambda > 0$$, то напрямок вектора зберігається;
-<div class="space">2. якщо $$\lambda < 0$$, то напрямок вектора змінюється на протилежний:</div>
+2. <div class="space">якщо $$\lambda < 0$$, то напрямок вектора змінюється на протилежний:</div>
 
 <div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/8.svg" /></div>
 
