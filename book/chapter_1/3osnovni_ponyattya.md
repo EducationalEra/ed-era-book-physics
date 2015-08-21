@@ -54,17 +54,5 @@
 </question>
 </quiz>
 
-<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
-<question>
-<p>Петро дуже полюбляє плавати в басейні, зазвичай, він пропливає 3 рази туди і назад по всій довжині басейну. Чому дорівнює переміщення та шлях Петра, якщо довжина басейну 50 м?</p>
-<answer>300 і 300</answer>
-<answer>0 і 50</answer>
-<answer correct>0 і 300</answer>
-<answer>300 і 0</answer>
-<explanation>
-Переміщення – відстань між точками початку та кінця руху, у даному випадку вона дорівнює 0, так як Петро повернувся у точку початку руху. Шлях – відстань, яку він проплив $\rightarrow$ 300 м.
-</explanation>
-</question>
-</quiz>
 
 
