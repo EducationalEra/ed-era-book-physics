@@ -4,7 +4,7 @@
 
 <div class="space"><img class="image" width="231"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/1.png"></div>
 
-<div class="space">Нами також була отримана формула для <span class="p1"><b>доцентрового прискорення:</b></span></div>
+<div class="space">Ми також отримали формулу для <span class="p1"><b>доцентрового прискорення:</b></span></div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -15,7 +15,7 @@
 </tr>
 </table></div></div>
 
-<div class="space">В цiй темi ми будемо розглядати рiвномiрний рух по колу з точки зору <b>динамiки.</b></div>
+<div class="space">У цiй темi ми будемо розглядати рiвномiрний рух по колу з точки зору <b>динамiки.</b></div>
 
 <div class="space"><img class="image" width="283"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/2.png"></div>
 
