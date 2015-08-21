@@ -79,9 +79,9 @@ $$\lambda\vec{a} = (\lambda a_1;\lambda a_2).$$
 
 $$|\thinspace \lambda\vec{a} \thinspace|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2} = \sqrt{\lambda^2 (a_1^2+a_2^2)}=|\thinspace \lambda \thinspace|\sqrt{a_1^2+a_2^2} = |\thinspace \lambda \thinspace| \cdot |\thinspace \vec{a} \thinspace|$$
 
-При цьому:
+<div class="space">При цьому:
 1. якщо $$\lambda > 0$$, то напрямок вектора зберігається;
-2. <div class="space">якщо $$\lambda < 0$$, то напрямок вектора змінюється на протилежний:</div>
+2. якщо $$\lambda < 0$$, то напрямок вектора змінюється на протилежний:</div>
 
 <div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/8.svg" /></div>
 
