@@ -13,42 +13,43 @@
 Для визначення тригонометричних функцій кута $$\alpha$$ потрібно взяти **прямокутний** трикутник, що містить цей кут $$\alpha$$. Сторони трикутника матимуть наступні назви:
 
 * <p1>Гіпотенуза</p1> –  сторона **прямокутного** трикутника, що лежить навпроти його прямого кута. Вона завжди є найдовшою зі сторін трикутника.
-* <p1>Прилеглий катет</p1> – сторона, що лежить між прямим кутом і кутом $$\alpha$$
-* <p1>Протилеглий катет</p1> – сторона, що лежить навпроти кута $$\alpha$$
+* <p1>Прилеглий катет</p1> – сторона, що лежить між прямим кутом і кутом $$\alpha$$.
+* <div class="space"><p1>Протилеглий катет</p1> – сторона, що лежить навпроти кута $$\alpha$$.</div>
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/1.svg" />
+<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/1.svg" /></div>
 
 Тепер у нас є все необхідне для означення основних тригонометричних функій. 
 
-* <p><p1>Синус кута</p1> – це відношення довжини протилеглого катета до довжини гіпотенузи. В нашому випадку: </p>
+* <div class="space"><p><p1>Синус кута</p1> – це відношення довжини протилеглого катета до довжини гіпотенузи. В нашому випадку: </p></div>
 <center>
 $$\sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\color{#D0021B}т\color{#D0021B}и\color{#D0021B}л\color{#D0021B}е\color{#D0021B}г\color{#D0021B}л\color{#D0021B}и\color{#D0021B}й} \thinspace {\color{#D0021B} к\color{#D0021B}а\color{#D0021B}т\color{#D0021B}е\color{#D0021B}т}}{\color{#4A90E2}г\color{#4A90E2}і\color{#4A90E2}п\color{#4A90E2}о\color{#4A90E2}т\color{#4A90E2}е\color{#4A90E2}н\color{#4A90E2}у\color{#4A90E2}з\color{#4A90E2}а} = \dfrac{\color{#D0021B}b}{\color{#4A90E2}h}$$ </center>
-* <p><p1>Косинус кута</p1> – це відношення довжини прилеглого катета до довжини гіпотенузи:</p>
+* <div class="space"><p><p1>Косинус кута</p1> – це відношення довжини прилеглого катета до довжини гіпотенузи:</p></div>
     <center>$$\cos(\alpha) = \dfrac{\color{#417505}п\color{#417505}р\color{#417505}и\color{#417505}л\color{#417505}е\color{#417505}г\color{#417505}л\color{#417505}и\color{#417505}й \thinspace \color{#417505}к\color{#417505}а\color{#417505}т\color{#417505}е\color{#417505}т}{\color{#4A90E2}г\color{#4A90E2}і\color{#4A90E2}п\color{#4A90E2}о\color{#4A90E2}т\color{#4A90E2}е\color{#4A90E2}н\color{#4A90E2}у\color{#4A90E2}з\color{#4A90E2}а}=\dfrac{\color{#417505}a}{\color{#4A90E2}h}$$</center>
 
-* <p><p1>Тангенс кута</p1> – це відношення довжини протилеглого катета до довжини прилеглого катета:</p>
+* <div class="space"><p><p1>Тангенс кута</p1> – це відношення довжини протилежного катета до довжини прилеглого катета:</p></div>
     <p><center>$$\text{tg}(\alpha)=\dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\color{#D0021B}т\color{#D0021B}и\color{#D0021B}л\color{#D0021B}е\color{#D0021B}г\color{#D0021B}л\color{#D0021B}и\color{#D0021B}й} \thinspace {\color{#D0021B} к\color{#D0021B}а\color{#D0021B}т\color{#D0021B}е\color{#D0021B}т}}{\color{#417505}п\color{#417505}р\color{#417505}и\color{#417505}л\color{#417505}е\color{#417505}г\color{#417505}л\color{#417505}и\color{#417505}й \thinspace \color{#417505}к\color{#417505}а\color{#417505}т\color{#417505}е\color{#417505}т}=\dfrac{\color{#D0021B}b}{\color{#417505}a}$$</center></p>
-    Розділивши чисельних і знаменник на довжину гіпотинузи, отмаємо:
-    <center>$$\text{tg}(\alpha)=\dfrac{\color{#D0021B}b/ \color{#4A90E2}h}{\color{#417505}a/ \color{#4A90E2}h} = \dfrac{\sin(\alpha)}{\cos(\alpha)}$$</center>
+    <div class="space">Розділивши чисельних і знаменник на довжину гіпотинузи, отримаємо:</div>
+    <div class="space"><center>$$\text{tg}(\alpha)=\dfrac{\color{#D0021B}b/ \color{#4A90E2}h}{\color{#417505}a/ \color{#4A90E2}h} = \dfrac{\sin(\alpha)}{\cos(\alpha)}$$</center></div>
 
-Ще три основні тригонометричні функції є оберненими до попередніх:
+<div class="space">Ще три основні тригонометричні функції є оберненими до попередніх:</div>
 
-* <p1>Катангенс кута</p1>:
-    <p><center>$$\text{ctg}(\alpha) = \dfrac{1}{\text{tg}(\alpha)} = \dfrac{\cos(\alpha)}{\sin(\alpha)}$$</center></p>
+* <div class="space"><p1>Катангенс кута</p1>:</div>
+    <div class="space"><p><center>$$\text{ctg}(\alpha) = \dfrac{1}{\text{tg}(\alpha)} = \dfrac{\cos(\alpha)}{\sin(\alpha)}$$</center></p></div>
 
-* <p1>Секанс кута</p1>:
-   <p> <center>$$\sec(\alpha) = \dfrac{1}{sin(\alpha)}$$</center></p>
-* <p1>Косеканс кута</p1>:
-   <p> <center>$$\csc(\alpha) = \dfrac{1}{cos(\alpha)}$$</center></p>
+* <div class="space"><p1>Секанс кута</p1>:</div>
+   <div class="space"><p> <center>$$\sec(\alpha) = \dfrac{1}{sin(\alpha)}$$</center></p></div>
+* <div class="space"><p1>Косеканс кута</p1>:</div>
+   <div class="space"><p><center>$$\csc(\alpha) = \dfrac{1}{cos(\alpha)}$$</center></p></div>
 
-<p>Усі ці функції є періодичними, тобто повторюють свої значення при певній змінні кута. Для функцій <i>sin, cos, sec</i> і <i>csc</i> величина цієї зміни становить $$2\pi$$, для <i>tg, ctg</i> – $$\pi$$.</p>
+<div class="space"><p>Усі ці функції є періодичними, тобто повторюють свої значення при певній змінні кута. Для функцій <i>sin, cos, sec</i> і <i>csc</i> величина цієї зміни становить $$2\pi$$, для <i>tg, ctg</i> – $$\pi$$.</p></div>
 <p><center>$$\sin(\alpha) = \sin(\alpha \pm 2\pi k), \, k = \overline{1, 2, 3,...} $$</center></p>
 <p><center>$$\text{tg}(\alpha) = \sin(\alpha \pm \pi k), \, k = \overline{1, 2, 3,...} $$</center></p>
-Аналогічно й для <i>cos, ctg, sec, csc</i>.
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" />
+<div class="space">Аналогічно й для <i>cos, ctg, sec, csc</i>.</div>
+
+<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" /></div>
 <div class="caption">Графік залежності функцій sin та cos від кута на проміжку $$[0; 2\pi]$$ </div>
-<img class="image"  src="http://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif" />
+<div class="space"><img class="image"  src="http://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif" /></div>
 <div class="caption"></div>
 
 Як видно з графіку, функції $$\sin$$ та $$\cos$$ мають однакову форму, проте  відрізняються фазою на $$\dfrac{\pi}{2}$$:
