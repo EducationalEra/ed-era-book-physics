@@ -53,7 +53,7 @@
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ШТОВХАТИ ЧИ ТЯГТИ?</b>
 <div class="task-text">
-<div class="space">Уявiть ситуацiю: вам потрiбно покатати на санках маленького Петра (iм’я не впливає на розв’язок задачi). В якому випадку вам потрiбно прикладати меншу силу, щоб з постiйною швидкiстю везти санки?</div>
+<div class="space">Уявiть ситуацiю: вам потрiбно покатати на санках маленького Петра (iм’я не впливає на розв’язок задачi). У якому випадку вам потрiбно прикладати меншу силу, щоб з постiйною швидкiстю везти санки?</div>
 
 <div class="space"><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></div>
 
