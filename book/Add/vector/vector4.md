@@ -43,17 +43,17 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
 
 Для <p1>геометричної побудови</p1> вектора суми $$\vec{c} = \vec{a} + \vec{b}$$ використовують <p1>«правило трикутника»</p1> або <p1>«правило паралелограма»</p1>.
 
-<p1>«Правило трикутника»</p1>: потрібно зробити паралельне перенесення одного з векторів так, щоб його початок співпадав з кінцем іншого. Вектор суми утворюватиме трикутник з двома векторами, він буде починатись в точці початку першого вектора і закінчуватись в точці кінця другого:
+<div class="space"><p1>«Правило трикутника»</p1>: потрібно зробити паралельне перенесення одного з векторів так, щоб його початок співпадав з кінцем іншого. Вектор суми утворюватиме трикутник з двома векторами, він буде починатись в точці початку першого вектора і закінчуватись в точці кінця другого:</div>
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/5.svg" />
+<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/5.svg" /></div>
 
 За цим же правилом можна додавати багато векторів, для цього їх всі потрібно послідовно з’єднати. Результатом буде вектор, що починається у початку першого вектора, та закінчується у кінці останнього вектора:
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/6.svg" />
 
-<p1>«Правило паралелограма»</p1>: потрібно зробити паралельне перенесення одного з векторів так, щоб початки векторів співпали. На основі цих векторів будується паралелограм, а сумарний вектор буде співпадати з діагоналлю побудованого паралелограма і матиме початок в точці суміщення векторів:
+<div class="space"><p1>«Правило паралелограма»</p1>: потрібно зробити паралельне перенесення одного з векторів так, щоб початки векторів співпали. На основі цих векторів будується паралелограм, а сумарний вектор буде співпадати з діагоналлю побудованого паралелограма і матиме початок в точці суміщення векторів:</div>
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/7.svg" />
+<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/7.svg" /></div>
 
 Віднімання векторів $$\vec{a} - \vec{b}$$ еквівалентне додаванню протилежного вектора: $$\vec{a} + (-\vec{b})$$.
 
@@ -81,9 +81,9 @@ $$|\thinspace \lambda\vec{a} \thinspace|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2
 
 При цьому:
 1. якщо $$\lambda > 0$$, то напрямок вектора зберігається;
-2. якщо $$\lambda < 0$$, то напрямок вектора змінюється на протилежний:
+<div class="space">2. якщо $$\lambda < 0$$, то напрямок вектора змінюється на протилежний:</div>
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/8.svg" />
+<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/8.svg" /></div>
 
 <h2><p1>Скалярний добуток векторів</p1></h2>
 
@@ -98,19 +98,19 @@ $$|\thinspace \lambda\vec{a} \thinspace|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2
 
 $$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
 
-<div class="eoz-wrap">
+<div class="space"><div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Скалярний добуток</b> також означається як добуток довжин векторів та косинусу кута між цими векторами:
 
-$$(\vec{a},\vec{b})=|\thinspace \vec{a} \thinspace| \cdot |\thinspace \vec{b} \thinspace| \cdot \cos{\varphi}$$
+<div class="space">$$(\vec{a},\vec{b})=|\thinspace \vec{a} \thinspace| \cdot |\thinspace \vec{b} \thinspace| \cdot \cos{\varphi}$$</div>
 
 
-<p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/9.svg" /></p>
+<div class="space"><p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/9.svg" /></p></div>
 
 <p1>Зауваження</p1>: якщо вектори $$\vec{a}$$ та $$\vec{b}$$ не є нульовими і перпендикулярні, кут між ними $$\varphi = \dfrac{\pi}{2}$$ і $$\cos{\varphi} = \cos{\dfrac{\pi}{2}} = 0$$, то з вищенаведеного означення випливає, що <b>скалярний добуток перпендикулярних векторів рівний нулю</b>, і навпаки.
 </div>
-</div>
+</div></div>
 
 <div class="ebio-wrap">
 <span class="ebio">Властивості скалярного добутку векторів</span>
@@ -170,11 +170,11 @@ $$(\vec{a},\vec{b})=|\thinspace \vec{a} \thinspace| \cdot |\thinspace \vec{b} \t
 
 <p1>Одиничним</p1> називається вектор одиничної довжини.
 
-Ті одиничні вектори, які співпадають з напрямками осей системи координат називають <p1>ортами</p1>.
+<div class="space">Ті одиничні вектори, які співпадають з напрямками осей системи координат називають <p1>ортами</p1>.
 Зазвичай орт, що має напрямок вздовж вісі $$Ox$$ позначають $$\vec{e_1}$$ (або $$\vec{i}$$), а вздовж вісі $$Oy$$ – відповідно $$\vec{e_2}$$ (або $$\vec{j}$$).
-У координатному представленні їх можна записати: $$\vec{e_1} (1;0)$$ та $$\vec{e_2} (0;1)$$.
+У координатному представленні їх можна записати: $$\vec{e_1} (1;0)$$ та $$\vec{e_2} (0;1)$$.</div>
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/10.svg" />
+<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/10.svg" /></div>
 
 Візьмемо два вектора довільної довжини: $$\vec{a_1}$$, який напрямлений вздовж вісі $$Ox$$, а інший, $$\vec{a_2}$$ – вздовж $$Oy$$.
 Запишемо сумарний вектор, який позначимо $$\vec{a}$$:
@@ -187,9 +187,9 @@ $$\vec{a_1} \thinspace (a_1;0)=a_1 \vec{e_1} \thinspace (1;0).$$
 
 Аналогічним чином:
 
-$$\vec{a_2} \thinspace (0;a_2)=a_2 \vec{e_2} \thinspace (0;1).$$
+<div class="space">$$\vec{a_2} \thinspace (0;a_2)=a_2 \vec{e_2} \thinspace (0;1).$$</div>
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/11.svg" />
+<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/11.svg" /></div>
 
 Підставивши ці вирази до виразу для вектора $$\vec{a}$$, отримуємо:
 
@@ -199,7 +199,7 @@ $$\vec{a} = a_1\vec{e_1} + a_2\vec{e_2}.$$
 
 Узагальнивши вищенаведене: будь-який довільний вектор можна однозначно представити у вигляді <b>лінійної комбінації</b> двох інших відомих векторів:
 
-$$\vec{c} = \lambda\vec{a} + \mu\vec{b}.$$
+<div class="space">$$\vec{c} = \lambda\vec{a} + \mu\vec{b}.$$</div>
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/12.svg" />
 
