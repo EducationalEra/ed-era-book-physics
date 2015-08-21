@@ -96,7 +96,7 @@ $$|\thinspace \lambda\vec{a} \thinspace|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2
 
 Скалярний добуток вектора самого на себе називається <b>скалярним квадратом</b>, який дорівнює квадрату довжини вектора:
 
-$$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
+$$(\vec{a},\vec{a}) = \vec{a}<sup>2</sup> = |\thinspace \vec{a} \thinspace|2.$$
 
 <div class="space"><div class="eoz-wrap">
 <span class="eoz">Означення</span>
