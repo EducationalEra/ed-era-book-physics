@@ -33,17 +33,17 @@
 
 <div class="space"><img class="image" width="290" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/4.png"></div>
 
-<div class="space" align="center">$$|\vec{F_1} + \vec{F_2}| = 1.5 - 1 = 0.5$$ (<i>H</i>)</div>
+<div class="space" align="center">$$|\vec{F_1} + \vec{F_2}| = 1.5 - 1 = 0.5   \thinspace (H)$$</div>
 
 <div class="space"><img class="image" width="480" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/5.png"></div>
 
-<div class="space" align="center">$$|\vec{F_3} + \vec{F_4}| = 2.5 - 2 = 0.5$$ (<i>H</i>)</div>
+<div class="space" align="center">$$|\vec{F_3} + \vec{F_4}| = 2.5 - 2 = 0.5 \thinspace (H)$$</div>
 
 <div class="space">Отже, задачу з 4 векторами ми звели до задачi з двома векторами однакової величини. За теоремою Пiфагора знаходимо величину результуючого вектора.</div>
 
 <div class="space"><img class="image" width="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/6.png"></div>
 
-<div class="space" align="center">$$|\vec{F_{\Sigma}}| = \sqrt{0.5^2 + 0.5^2} \approx 0.71$$ (<i>H</i>)</div>
+<div class="space" align="center">$$|\vec{F_{\Sigma}}| = \sqrt{0.5^2 + 0.5^2} \approx 0.71 \thinspace (H)$$</div>
 
 Таким чином, дiя чотирьох сил на тiло з точки зору розв’язання задач на динамiку – те саме, що розглядати дiю однiєї сили на тiло.
 </div>
