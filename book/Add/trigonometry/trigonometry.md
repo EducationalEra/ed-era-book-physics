@@ -56,7 +56,7 @@ $$\sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\co
 <p><center>$$\sin(\alpha) = \cos(\dfrac{\pi}{2} - \alpha)$$</center></p>
 <p><center>$$\cos(\alpha) = \sin(\dfrac{\pi}{2} - \alpha)$$</center></p>
 
-<p>Корисним буде дізнатись також бзнання деяких тригонометричних співвідношень.</p>
+<p>Варто знати також деякі тригонометричні співвідношення.</p>
 
 * <p>Наступне співвідношення випливає із теореми Піфагора:</p>
      <center>$$\sin^2(\alpha) + \cos^2(\alpha) = 1$$</center>
