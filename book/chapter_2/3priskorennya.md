@@ -17,7 +17,7 @@ $$\vec{a} = \dfrac{\vec{\upsilon}-\vec{\upsilon}_0}{\Delta t}$$<br>
 
 При рівноприскореному прямолінійному русі:
 1. Прискорення постійне – $$\vec{a}=const$$
-2. Проекція швидкості – пряма лінія, кут нахилу якої визначає прискорення:
+2. Проекція швидкості – пряма лінія, кут нахилу якої визначає прискорення: 
 $$\upsilon_x(t)=\upsilon_{0x}+a_xt$$
 
 <img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/3.svg" />
@@ -38,9 +38,9 @@ $$\upsilon_x(t)=\upsilon_{0x}+a_xt$$
 
 У школі розглядається тільки рівноприскорений рух, але якщо б прискорення було змінним, то знадобилося б означення <b>миттєвого прискорення</b>, аналогічно до миттєвої швидкості, і виражалося би воно таким чином:
 
-$$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon'_x(t)=x''(t)$$
+$$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon_x^\prime (t)=x^{\prime \prime}(t)$$
 
-Отже, проекція швидкості – похідна від координати, проекція прискорення - похідна від проекції швидкості. А в курсі математики ви ще познайомитесь з означенням другої похідної, тобто "похідної від похідної" (саме це і зображує $$x''(t)$$).
+Отже, проекція швидкості – похідна від координати, проекція прискорення - похідна від проекції швидкості. А в курсі математики ви ще познайомитесь з означенням другої похідної, тобто «похідної від похідної» (саме це і зображує $$x^{\prime \prime}(t)$$).
 </div>
 </div>
 
@@ -71,7 +71,7 @@ $$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon'_x(
 <p><b>Друга</b> ($$t_1 = 3 \thinspace \text{c}, t_2 = 5 \thinspace \text{c}$$).
 Проекція прискорення</p> 
 
-\[a_{2x} = 4 \thinspace \dfrac{\text{м}}{\text{c}^2}\]
+\[a_{2x} = 4 \thinspace \text{м/c}^2\]
 
 Тоді рівняння швидкості 
 
@@ -79,13 +79,13 @@ $$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon'_x(
 
 Проекція швидкості через три секунди руху:
 
-$$\upsilon_{2x}(2)=4 \thinspace \dfrac{\text{м}}{\text{c}}$$
+$$\upsilon_{2x}(2)=4 \thinspace \text{м/c}$$
 
 <p><b>Третя</b> ($$t_1 = 5 \thinspace \text{c}, t_2 = 9 \thinspace \text{c}$$).
 
 Проекція прискорення </p>
 
-\[a_{3x} = 1 \thinspace \dfrac{\text{м}}{\text{c}^2}\]
+\[a_{3x} = 1 \thinspace \text{м/c}^2\]
 
 Тоді рівняння швидкості 
 
@@ -93,11 +93,11 @@ $$\upsilon_{2x}(2)=4 \thinspace \dfrac{\text{м}}{\text{c}}$$
 
 Проекція швидкості через три секунди руху:
 
-\[\upsilon_{3x}(4)=8 \thinspace \dfrac{\text{м}}{\text{c}}\]
+\[\upsilon_{3x}(4)=8 \thinspace \text{м/c}\]
 
 Проекція швидкості через чотири секунди руху:
 
-\[\upsilon_{3x}(4)=8 \thinspace \dfrac{\text{м}}{\text{c}}\]
+\[\upsilon_{3x}(4)=8 \thinspace \text{м/c}\]
 
 </div>
 </div>
