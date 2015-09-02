@@ -3,10 +3,14 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<b>Миттєва швидкiсть</b> напрямлена по дотичнiй до траєкторiї в точцi, яку ми розглядаємо.<br></div>
+<div class="space"><b>Миттєва швидкiсть</b> напрямлена по дотичнiй до траєкторiї в точцi, яку ми розглядаємо.<br></div>
 <p></p>
 
-<div class="space"><img class="image" width="250" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/2.png" /></div>
+<div class="fluidMedia">
+<iframe width="560" height="315" src="https://youtu.be/CzNHaTGwuxo" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="popup"> </div>
 
 <div class="space">• <b>Проекцiя на вертикальну вiсь</b><br>
 Як вже зазначалося, вздовж вертикальної вiсi маємо <b>рiвноприскорений рух</b>.
