@@ -33,7 +33,8 @@
     "links": {
         "gitbook": false,
         "sidebar": {
-          "Перейти до бібліотеки EdEra": "https://www.ed-era.com/books"
+          "Перейти до бібліотеки EdEra": "https://www.ed-era.com/books",
+           "Зв'язок з нами": "mailto:info@ed-era.com"
         },
         "sharing": {
             "vk":true
