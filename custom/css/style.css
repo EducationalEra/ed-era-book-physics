@@ -27,6 +27,7 @@ default – "White"
     width:100%;
     background: #FAFAFA;
     border: .15em solid #0F5181;
+    margin-top: -0.19em;
     padding-left:10px;
     padding-right:10px;
     padding-top:5px;
@@ -75,6 +76,7 @@ default – "White"
     width:100%;
     background: #fff;
     border-left: .15em solid #faaf00;
+    margin-top: -0.19em;
     padding-left:10px;
     padding-right:10px;
     padding-top:5px;
@@ -143,6 +145,7 @@ default – "White"
     width:100%;
     background: #fff;
     border-top: .15em solid #faaf00;
+    margin-top: -0.19em;
     padding-left:10px;
     padding-right:10px;
     border-bottom: .15em solid #faaf00;
@@ -213,6 +216,7 @@ default – "White"
     width:100%;
     background: #fff;
     border-top: .15em solid #0F5181;
+    margin-top: -0.19em;
     padding-left:10px;
     padding-right:10px;
     border-bottom: .15em solid #0F5181;
@@ -280,6 +284,7 @@ default – "White"
     background: #fff;
     border-left: .15em solid #0F5181;
     border-top: .15em solid #0F5181;
+    margin-top: -0.19em;
     padding-left:10px;
     padding-right:10px;
     padding-top:5px;
