@@ -22,3 +22,16 @@ v_x = v_0
 y = H - \dfrac{gt^2}{2}\\
 v_y = -gt
 \end{cases}$$</div>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Петро горизонтально кинув камінь зі схилу. Через секунду після того як він випустив його, камінь перемістився вздовж вертикальної вісі на ...</p>
+<answer correct>5 м</answer>
+<answer>7.5 м</answer>
+<answer>10 м</answer>
+<answer>12 м</answer>
+<explanation>
+$$y = \dfrac{gt^2}{2} = \dfrac{9.8 \cdot 1^2}{2} \approx 5 \thinspace \text{м}$$
+</explanation>
+</question>
+</quiz>
