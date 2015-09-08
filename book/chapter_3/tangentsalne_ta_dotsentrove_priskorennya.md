@@ -36,3 +36,18 @@
 </ul>
 </div>
 </div>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Тангенцiальне прискорення дорiвнює 5 м/с, доцентрове – 12 м/с. Чому дорiвнює модуль вектора прискорення?</p>
+ 
+<answer>15 м/с</answer>
+<answer correct>13 м/с</answer>
+<answer>17 м/с</answer>
+<answer>16 м/с</answer>
+<explanation>
+З теореми Піфагора:
+$$a = \sqrt{a_Д^2 + a_Т^2} = \sqrt{5^2 + 12^2} = \sqrt{169} = 13$$ (м/с)
+</explanation>
+</question>
+</quiz>
