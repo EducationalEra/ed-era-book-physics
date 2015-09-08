@@ -18,10 +18,10 @@ v_x = v_0
 <br>
 <div class="space"><b>Проекцiя на вiсь $$y$$.</b> Початкова швидкiсть спiвнапрямлена з вiссю $$x$$. Отже, проекцiя початкової швидкостi на вiсь $$y$$ дорiвнює нулю. Надалi проекцiя швидкостi зростає по модулю внаслiдок прискорення, але вона вiд’ємна, так як вiсь напрямлена в протилежному напрямку до прискорення. А початкова координата при обранiй системi координат $$y_0 = H$$.</div>
 
-<div align="center">$$\begin{cases}
+<div class="space"><div align="center">$$\begin{cases}
 y = H - \dfrac{gt^2}{2}\\
 v_y = -gt
-\end{cases}$$</div>
+\end{cases}$$</div></div>
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://youtu.be/soTUgFuBOtg" frameborder="0" allowfullscreen></iframe>
