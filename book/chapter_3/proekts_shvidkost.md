@@ -103,12 +103,13 @@ https://study.ed-era.com:9090/c4x/EdEra/P101/asset/1.png
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Нехай ми маємо графік двовимірного руху.
+<p>Нехай ми маємо графік двовимірного руху.</p>
 
 <div class="space"><img width="250" src="https://study.ed-era.com:9090/c4x/EdEra/P101/asset/1.png"/ class="image"></div>
 
-У точці початку руху проекції швидкості:</p>
+<p>У точці початку руху проекції швидкості:</p>
  
+
 <answer>$$\upsilon_x > 0, \thinspace \upsilon_y < 0$$</answer>
 <answer>$$\upsilon_x < 0, \thinspace \upsilon_y > 0$$</answer>
 <answer correct>$$\upsilon_x > 0, \thinspace \upsilon_y > 0$$</answer>
@@ -121,8 +122,8 @@ https://study.ed-era.com:9090/c4x/EdEra/P101/asset/1.png
 <answer correct>$$\upsilon_x > 0, \thinspace \upsilon_y = 0$$</answer>
 <answer>$$\upsilon_x = 0, \thinspace \upsilon_y < 0$$</answer>
 <explanation>
-1. У точці початку руху, швидкість $\upsilon_x$ та $\upsilon_y$ додатні, так як з графіку видно, що тіло здійснює переміщення по вісі $x$ та $y$.
-2. У найвищій точці 
+1. У точці початку руху, швидкість $\upsilon_x$ та $\upsilon_y$ додатні, так як з графіку видно, що тіло здійснює додатнє переміщення по вісі $x$ та $y$.
+2. У найвищій точці, швидкість $v_y = 0$, тому що вона увесь час змінюється під дією прискорення вільного падіння $\vec{g}$, а $\upsilon_x > 0$ так як це рівномірний рух.
 
 </explanation>
 </question>
