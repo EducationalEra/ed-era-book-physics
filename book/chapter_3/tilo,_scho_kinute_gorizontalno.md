@@ -9,19 +9,23 @@
 Рiвняння для даного випадку:
 <br>
 <br>
-<div class="space"><b>Проекцiя на вiсь $$x$$.</b> Початкова швидiсть спiвнапрямлена з вiссю $$x$$. Отже, модуль швидкостi дорiвнює проекцiї на вiсь.</div>
+<div class="space"><b>Проекцiя на вiсь $$x$$.</b> Початкова швидкiсть спiвнапрямлена з вiссю $$x$$. Отже, модуль швидкостi дорiвнює проекцiї на вiсь.</div>
 
 <div align="center">$$\begin{cases}
 x = v_0 t\\
 v_x = v_0
 \end{cases}$$</div>
 <br>
-<div class="space"><b>Проекцiя на вiсь $$y$$.</b> Початкова швидiсть спiвнапрямлена з вiссю $$x$$. Отже, проекцiя початкової швидкостi на вiсь $$y$$ дорiвнює нулю. Надалi проекцiя швидкостi зростає по модулю внаслiдок прискорення, але вона вiд’ємна, так як вiсь напрямлена в протилежному напрямку до прискорення. А початкова координата при обранiй системi координат $$y_0 = H$$.</div>
+<div class="space"><b>Проекцiя на вiсь $$y$$.</b> Початкова швидкiсть спiвнапрямлена з вiссю $$x$$. Отже, проекцiя початкової швидкостi на вiсь $$y$$ дорiвнює нулю. Надалi проекцiя швидкостi зростає по модулю внаслiдок прискорення, але вона вiд’ємна, так як вiсь напрямлена в протилежному напрямку до прискорення. А початкова координата при обранiй системi координат $$y_0 = H$$.</div>
 
 <div align="center">$$\begin{cases}
 y = H - \dfrac{gt^2}{2}\\
 v_y = -gt
 \end{cases}$$</div>
+
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://youtu.be/soTUgFuBOtg" frameborder="0" allowfullscreen></iframe>
+</div></div>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
@@ -32,6 +36,19 @@ v_y = -gt
 <answer>12 м</answer>
 <explanation>
 $$y = \dfrac{gt^2}{2} = \dfrac{9.8 \cdot 1^2}{2} \approx 5 \thinspace \text{м}$$
+</explanation>
+</question>
+</quiz>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Кулю вистрілюють горизонтально і вона падає на землю через $$0.5$$ с. Якщо збільшити швидкість кулі вдвічі, то вона впаде на землю через:</p>
+<answer>1 с</answer>
+<answer>0.25 с</answer>
+<answer correct>0.5 с</answer>
+<answer>1.5 с</answer>
+<explanation>
+Якщо ми збільшимо швидкість кулі вдвічі, ми не змінемо проекцію $$\upsilon_y$$, тому час, коли впаде куля <b>не залежить</b> від її швидкості.
 </explanation>
 </question>
 </quiz>
