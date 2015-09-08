@@ -99,8 +99,6 @@
 </div>
 </div>
 
-https://study.ed-era.com:9090/c4x/EdEra/P101/asset/1.png
-
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Нехай ми маємо графік двовимірного руху.</p>
