@@ -4,9 +4,9 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<b>Градус (позначається º)</b> – одиниця вимiру плоского кута.<br/>
+<b>Градус (позначається $$^\circ$$)</b> – одиниця вимiру плоского кута.<br/>
 <br/>
-Прямий кут – 90º. Один повний оберт – 360º.
+Прямий кут – $$90^\circ$$. Один повний оберт – $$360^\circ$$.
 </div>
 </div>
 <br>
@@ -18,7 +18,7 @@
 <div class="eoz-text">
 <b>Радiан (позначається "рад")</b> вiдповiдає куту, що утворений двома радiусами та дугою, довжина ($$S$$) якої дорiвнює радiусу кола ($$R$$).<br>
 <br>
-1 рад $$\approx$$ 57.3º. Один повний оберт – $$2\pi$$ рад.
+1 рад $$\approx 57.3^\circ$$. Один повний оберт – $$2\pi$$ рад.
 </div>
 </div>
 <br>
@@ -29,7 +29,7 @@
 <br>
 <div align="center">$$\theta$$ (рад) $$= \dfrac{S}{R}$$</div>
 <br>
-<div class="space">Вiдповiдно, якщо $$2\pi$$ рад вiдповiдає куту 360º, то довжина дуги в даному випадку дорiвнює довжинi кола $$L$$.</div>
+<div class="space">Вiдповiдно, якщо $$2\pi$$ рад вiдповiдає куту $$360^\circ$$, то довжина дуги в даному випадку дорiвнює довжинi кола $$L$$.</div>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -43,12 +43,12 @@
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ПЕРЕВЕДЕННЯ ОДИНИЦЬ</b>
 <div class="task-text">
-1. Перевести градуси: 30º, 60º, 90º, 270º в радiани.<br>
+1. Перевести градуси: $$30^\circ, 60^\circ, 90^\circ, 270^\circ$$ в радiани.<br>
 2. Перевести радiани: $$\dfrac{\pi}{4}, \dfrac{2\pi}{3}, \dfrac{\pi}{2}, \dfrac{5\pi}{6}$$ в градуси.
 
 <br>
 <br>
-<i><b>Розв’язок.</b></i>  Так як $$2\pi$$ рад $$=$$ 360º, помноживши будь-який вираз на 360º та подiливши на $$2\pi$$, нiчого не змiниться. Так само i навпаки. Використовуючи цей факт ми i будемо отримувати необхiднi для переведення формули.
+<i><b>Розв’язок.</b></i>  Так як $$2\pi$$ рад $$= 360^\circ$$, помноживши будь-який вираз на $$360^\circ$$ та подiливши на $$2\pi$$, нiчого не змiниться. Так само i навпаки. Використовуючи цей факт ми i будемо отримувати необхiднi для переведення формули.
 <br>
 <br>
 <ol>
@@ -57,14 +57,14 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>Кут у радiанах $$=$$ Кут у градусах · $$\dfrac{2\pi}{360º}$$</p1>
+<p1>Кут у радiанах $$=$$ Кут у градусах · $$\dfrac{2\pi}{360^\circ}$$</p1>
 </td>
 </tr>
 </table></div>
-<div align="center">30º · $$\dfrac{2\pi}{360º} = \dfrac{\pi}{6}$$</div><br>
-<div align="center">60º · $$\dfrac{2\pi}{360º} = \dfrac{\pi}{3}$$</div><br>
-<div align="center">90º · $$\dfrac{2\pi}{360º} = \dfrac{\pi}{2}$$</div><br>
-<div align="center">270º · $$\dfrac{2\pi}{360º} = \dfrac{3\pi}{2}$$</div><br>
+<div align="center">$$30^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{\pi}{6}$$</div><br>
+<div align="center">$$60^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{\pi}{3}$$</div><br>
+<div align="center">$$90^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{\pi}{2}$$</div><br>
+<div align="center">$$270^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{3\pi}{2}$$</div><br>
 </li>
 <b><li></b>
 <div class="centered-table-wrapper">
@@ -75,10 +75,10 @@
 </td>
 </tr>
 </table></div>
-<div align="center">$$\dfrac{\pi}{4} · \dfrac{360º}{2\pi} = 45º$$</div><br>
-<div align="center">$$\dfrac{2\pi}{3} · \dfrac{360º}{2\pi} = 120º$$</div><br>
-<div align="center">$$\dfrac{\pi}{2} · \dfrac{360º}{2\pi} = 90º$$</div><br>
-<div align="center">$$\dfrac{5\pi}{6} · \dfrac{360º}{2\pi} = 150º$$</div><br>
+<div align="center">$$\dfrac{\pi}{4} · \dfrac{360^\circ}{2\pi} = 45^\circ$$</div><br>
+<div align="center">$$\dfrac{2\pi}{3} · \dfrac{360^\circ}{2\pi} = 120^\circ$$</div><br>
+<div align="center">$$\dfrac{\pi}{2} · \dfrac{360^\circ}{2\pi} = 90^\circ$$</div><br>
+<div align="center">$$\dfrac{5\pi}{6} · \dfrac{360^\circ}{2\pi} = 150^\circ$$</div><br>
 </li>
 </div>
 </div>
