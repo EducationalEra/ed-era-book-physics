@@ -121,3 +121,11 @@ y = \upsilon_0 \sin \alpha · t - \dfrac{gt^2}{2}\\
 <div align="center">$$H = \dfrac{\upsilon_0^2\sin^2\alpha}{2g} = \dfrac{238.1^2 \sin^2 45º}{2 · 9.8} \approx 1450 \ (м)$$</div>
 </div>
 </div>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Нехай ми маємо графік двовимірного руху.</p>
+<explanation>
+</explanation>
+</question>
+</quiz>
