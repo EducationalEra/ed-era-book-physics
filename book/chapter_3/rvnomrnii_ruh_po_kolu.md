@@ -14,7 +14,9 @@
 </div>
 
 <br>
-<div class="space"><img class="image" width="225" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/12.png"></div>
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://youtu.be/XTgEQ31A8wA" frameborder="0" allowfullscreen></iframe>
+</div></div>
 
 <div class="space">На рисунку зображено рiвномiрний рух тiла по колу та   положення точки у два моменти часу $$t_1$$ та $$t_2$$.</div>
 
