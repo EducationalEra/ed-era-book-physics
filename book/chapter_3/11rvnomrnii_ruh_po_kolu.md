@@ -22,7 +22,7 @@
 
 <p class="p3"><div class="space"><b><span class="p1">Основнi характеристики та величини:</span></b></div></p>
 <ol>
-<li><div class="space"><b>Перiод обертання</b> $$T(c)$$ – час, за який тiло здiйснює повний оберт. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то перiод</div>
+<li><div class="space"><b>Перiод обертання</b> $$T \thinspace (c)$$ – час, за який тiло здiйснює повний оберт. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то перiод</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -31,7 +31,7 @@
 </td>
 </tr>
 </table></div></div></li>
-<div class="space"><li><b>Частота обертання</b> $$\nu$$ ($$c^{-1}$$, Гц) – кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота</div>
+<div class="space"><li><b>Частота обертання</b> $$\nu \thinspace (c^{-1}, \thinspace \text{Гц}$$) – кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -40,7 +40,7 @@
 </td>
 </tr>
 </table></div></div></li>
-<div class="space"><li><b>Кут повороту</b> $$\Delta \varphi$$ (рад) - кут, на який повертається радiус кола, напрямлений з центра до дослiджуваної точки, за час руху тiла $$\Delta t$$. У секцiї <b>1</b> ми розглядали зв’язок кута у радiанах з довжиною дуги та радiусом кола.</div>
+<div class="space"><li><b>Кут повороту</b> $$\Delta \varphi$$ (рад) - кут, на який повертається радiус кола, напрямлений з центра до дослiджуваної точки, за час руху тiла $$\Delta t$$. У секцiї $$1$$ ми розглядали зв’язок кута у радiанах з довжиною дуги та радiусом кола.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -63,7 +63,7 @@
 </tr>
 </table></div></div>
 </li>
-<div class="space"><li><b>Кутова швидкiсть</b> $$\omega$$ (рад/c) - дорiвнює вiдношенню кута повороту до часу $$\Delta t$$, за який цей поворот було здiйснено. Повний оберт вiдповiдає куту поворота $$2 \pi$$. Час, за який здiйснюється повний оберт – перiод $$T$$.</div>
+<div class="space"><li><b>Кутова швидкiсть</b> $$\omega \thinspace \text{(рад/с)}$$ - дорiвнює вiдношенню кута повороту до часу $$\Delta t$$, за який цей поворот було здiйснено. Повний оберт вiдповiдає куту поворота $$2 \pi$$. Час, за який здiйснюється повний оберт – перiод $$T$$.</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -75,7 +75,7 @@
 </li>
 </ol>
 <ul>
-<div class="space"><b><li>Зв’язок мiж лiнiйною та кутовою швидкiстю.</b> Якщо порiвняти отриманi вирази для лiнiйної ($$\upsilon = 2 \pi \nu R$$) та кутової швидкості ($$\omega = 2 \pi \nu$$), видно, що зв’язок мiж цими швидкостями:</div>
+<div class="space"><b><li>Зв’язок мiж лiнiйною та кутовою швидкiстю.</b> Якщо порiвняти отриманi вирази для лiнiйної $$(\upsilon = 2 \pi \nu R)$$ та кутової швидкості $$(\omega = 2 \pi \nu)$$, видно, що зв’язок мiж цими швидкостями:</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -90,7 +90,7 @@
 <div class="space" align="center">$$l = R \varphi \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\varphi}{t} \Rightarrow | \upsilon = \dfrac{l}{t}, \omega = \dfrac{\varphi}{t} | \Rightarrow \upsilon = \omega R$$</div></li>
 </ul>
 <ol start="6">
-<div class="space"><li><b>Доцентрове прискорення</b> $$a_Д \ (м/c^2)$$ - прискорення, що у будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$\upsilon$$</div>
+<div class="space"><li><b>Доцентрове прискорення</b> $$a_Д \thinspace (\text{м/c}^2)$$ - прискорення, що у будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$\upsilon$$</div>
 <div class="space" align="center">$$a_Д = \dfrac{\upsilon^2}{R}$$</div>
 
 <div class="space">Якщо цiкавитесь детальним виведенням цiєї формули, розберiть наступний пiдпункт.</div></li>
@@ -99,49 +99,49 @@
 <div class="task-wrap">
 <span class="task">Задача 2</span> <b>КУЛЬКА НА НИТЦI</b>
 <div class="task-text">
-<div class="space">Кулька на краю нитки з довжиною 1.2 метра здiйснює рiвномiрний рух по колу. Кут мiж ниткою та вертикаллю дорiвнює 30º. Петро за допомогою годинника визначив, що кулька робить 60 обертiв за пiвхвилини. Знайти: перiод обертання кульки, частоту, лiнiйну та кутову швидкiсть, доцентрове прискорення.</div>
+<div class="space">Кулька на краю нитки з довжиною $$1.2$$ метра здiйснює рiвномiрний рух по колу. Кут мiж ниткою та вертикаллю дорiвнює $30^\circ$. Петро за допомогою годинника визначив, що кулька робить $60$ обертiв за пiвхвилини. Знайти: перiод обертання кульки, частоту, лiнiйну та кутову швидкiсть, доцентрове прискорення.</div>
 
 <div class="space"><img class="image" width="225"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png"></div>
 
-<div class="space"><b><i>Розв’язок.</i></b> Перш за все, час спостерiгання 0.5 хв потрiбно перевести у СI: 0.5 хв = 30 с.
+<div class="space"><b><i>Розв’язок.</i></b> Перш за все, час спостерiгання $$0.5$$ хв потрiбно перевести у СI: $$0.5$$ хв $$= 30$$ с.
 По-друге, для подальших дiй нам потрiбно знати радiус кола.</div>
 
 
-<div class="space" align="center">$$\sin \alpha = \dfrac{R}{L} \Rightarrow R = L \cdot \sin \alpha = 1.2 \cdot \dfrac{1}{2} = 0.6$$(м)</div>
+<div class="space" align="center">$$\sin \alpha = \dfrac{R}{L} \Rightarrow R = L \cdot \sin \alpha = 1.2 \cdot \dfrac{1}{2} = 0.6 \thinspace (\text{м})$$</div>
 
 <ul>
 <li>
 Перiод обертання кульки дорiвнює часу спостерiгання подiленому на кiлькiсть здiйснених обертiв:
 
 
-<div align="center">$$T = \dfrac{t}{N} = \dfrac{30}{60} = 0.5(c)$$</div>
+<div align="center">$$T = \dfrac{t}{N} = \dfrac{30}{60} = 0.5 \thinspace (\text{c})$$</div>
 
 </li>
 <li>
 Частота – обернена до перiоду величина
 
 
-<div align="center">$$\nu = \dfrac{1}{T} = \dfrac{1}{0.5} = 2\ (c^{-1})$$</div>
+<div align="center">$$\nu = \dfrac{1}{T} = \dfrac{1}{0.5} = 2 \thinspace (\text{c}^{-1})$$</div>
 
 </li>
 <li>
 Лiнiйна швидкiсть визначається як вiдношення пройденого шляху до часу, за який було подолано цей шлях. Повний оберт долається за перiод $$T$$:
 
 
-<div align="center">$$\upsilon = \dfrac{2 \pi R}{T} = \dfrac{2 \cdot 3.14 \cdot 0.6}{0.5} \approx 7.5$$(м/с)</div>
+<div align="center">$$\upsilon = \dfrac{2 \pi R}{T} = \dfrac{2 \cdot 3.14 \cdot 0.6}{0.5} \approx 7.5 \thinspace (\text{м/с})$$</div>
 
 </li>
 <li>
 Кутова швидкiсть дорiвнює вiдношенню кута повороту до часу, за який цей кут було подолано. Кут повороту для повного оберту $$2 \pi$$, вiдповiдний час – $$T$$.
 
 
-<div align="center">$$\omega = \dfrac{2 \pi}{T} = \dfrac{2 \cdot 3.14}{0.5} \approx 12.6 \ (рад/с)$$</div>
+<div align="center">$$\omega = \dfrac{2 \pi}{T} = \dfrac{2 \cdot 3.14}{0.5} \approx 12.6 \thinspace (\text{рад/с})$$</div>
 
 </li>
 <li>
 
 Доцентрове прискорення:
-<div align="center">$$a_Д = \dfrac{\upsilon^2}{R} = \dfrac{7.5^2}{0.6} \approx 93.8 \ (м/с^2)$$</div>
+<div align="center">$$a_Д = \dfrac{\upsilon^2}{R} = \dfrac{7.5^2}{0.6} \approx 93.8 \thinspace (\text{м/с}^2)$$</div>
 </li>
 </ul>
 </div>
