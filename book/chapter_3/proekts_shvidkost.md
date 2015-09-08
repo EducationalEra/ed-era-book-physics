@@ -127,3 +127,28 @@
 </question>
 </quiz>
 
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Тіло кинули під кутом $$60^\circ$$ до горизонту. Початкова швидкість дорівнює 30 м/с.</p>
+
+<p>Проекція початкової швидкості на вісь $x$</p>
+<answer>20 м/с</answer>
+<answer correct>15 м/с</answer>
+<answer>12 м/с</answer>
+<answer>30 м/с</answer>
+
+<p>Проекція початкової швидкості на вісь $y$</p>
+<answer>20 м/с</answer>
+<answer correct>25.5 м/с</answer>
+<answer>15 м/с</answer>
+<answer>30 м/с</answer>
+<explanation>
+Із тригонометричних співвідношень у трикутнику:
+<br>
+$$\upsilon_x = \upsilon \cos \alpha; \ \upsilon_y = \upsilon \sin \alpha \Rightarrow \upsilon_x = 30 \cdot \dfrac{1}{2} = 15 \thinspace \text{(м/с)}; \\ \upsilon_y = 30 \cdot \dfrac{\sqrt{3}}{2} = 30 \cdot \dfrac{1.7}{2} \approx 30 \cdot 0.85 = 25.5 \thinspace \text{(м/с)}$$
+</explanation>
+</question>
+</quiz>
+
+
+
