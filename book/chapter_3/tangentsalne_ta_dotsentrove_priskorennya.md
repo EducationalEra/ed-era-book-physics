@@ -1,5 +1,9 @@
 # Тангенцiальне та доцентрове прискорення
 
+<div class="fluidMedia">
+<iframe width="560" height="315" src="https://youtu.be/CzNHaTGwuxo" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <div class="space"><img class="image" width="600" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/10.png"></div>
 
 <p class="p3">На рисунку зображено швидкiсть $$\vec{\upsilon}$$, яка напрямлена для наглядностi вздовж вiсi $$x$$.</p>
