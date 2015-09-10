@@ -48,7 +48,7 @@ $$y = \dfrac{gt^2}{2} = \dfrac{9.8 \cdot 1^2}{2} \approx 5 \thinspace \text{м}$
 <answer correct>0.5 с</answer>
 <answer>1.5 с</answer>
 <explanation>
-Якщо ми збільшимо швидкість кулі вдвічі, то проекція $$\upsilon_y$$ не зміниться, як зазначено вище $$\upsilon_y = -gt$$.
+Якщо ми збільшимо швидкість кулі вдвічі, то проекція $$\upsilon_y$$ не зміниться, як зазначено вище $$\upsilon_y = -gt \thinspace .$$
 </explanation>
 </question>
 </quiz>
