@@ -6,7 +6,7 @@
 
 <div class="space">На ЗНО дуже часто зустрiчаються завдання на комбiнування двох видiв руху: поступального та обертального. Важливим фактом є те, що якщо точка рухається поступально зi швидкiстю $$\vec{\upsilon_п}$$ та обертально з лiнiйною швидкiстю $$\vec{\upsilon_о}$$, то результуюча швидкiсть точки:</div>
 
-<div class="space" align="center">$$\vec{\upsilon} = \vec{\upsilon_п} + \vec{\upsilon_о}$$</div>
+<div class="space" align="center">$$\vec{\upsilon_{ }} = \vec{\upsilon_п} + \vec{\upsilon_о}$$</div>
 
 <div class="space"><b>Розглянемо приклад.</b> Автомобiль рухається рiвномiрно по горизонтальнiй дорозi <b>без проковзування</b> зi швидкiстю $$\vec{\upsilon}$$. Визначити швидкостi вказаних точок.</div>
 
@@ -35,17 +35,17 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\vec{\upsilon_1} = \vec{\upsilon_{об}} + \vec{\upsilon}$$</p1>
+<p1>$$\vec{\upsilon_1} = \vec{\upsilon_{об}} + \vec{\upsilon_{ }}$$</p1>
 </td>
 </tr>
 </table></div></div>
 
-<div class="space">З iншої сторони, не дарма в умовi видiлено жирним, що колесо рухається без проковзування. Це означає, що у системi вiдлiку "Земля"ця точка прив’язана до неї, тобто нерухома. Отже, при розглядi модулей швидкостей отримуємо</div>
+<div class="space">З iншої сторони, не дарма в умовi видiлено жирним, що колесо рухається без проковзування. Це означає, що у системi вiдлiку "Земля" ця точка прив’язана до неї, тобто нерухома. Отже, при розглядi модулей швидкостей отримуємо</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\upsilon_1 = 0 \Rightarrow \vec{\upsilon_{об}} = \vec{\upsilon}$$</p1>
+<p1>$$\upsilon_1 = 0 \Rightarrow \vec{\upsilon_{об}} = \vec{\upsilon_{ }}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -63,7 +63,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\vec{\upsilon_2} = \vec{\upsilon_{об}} + \vec{\upsilon} \Rightarrow \upsilon_2 = 2\upsilon$$</p1>
+<p1>$$\vec{\upsilon_2} = \vec{\upsilon_{об}} + \vec{\upsilon_{ }} \Rightarrow \upsilon_2 = 2\upsilon$$</p1>
 </td>
 </tr>
 </table></div></div>
