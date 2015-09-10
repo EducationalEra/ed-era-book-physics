@@ -15,18 +15,18 @@
 початкової швидкостi $$\upsilon_{0x} = \upsilon_0 \cos \alpha$$.
 $$
 \begin{cases}
-x = \upsilon_0 \cos \alpha · t\\
+x = \upsilon_0 \cos \alpha \cdot t \\
 \upsilon_x = \upsilon_0 \cos \alpha
 \end{cases}$$
 <br>
 <b>Проекцiя на вiсь $$y$$.</b> Система координат обрана таким чином, що $$y_0 = 0$$. У напрямку вiсi $$y$$ швидкiсть змiнна, на неї впливає прискорення $$\vec{g}$$, напрямлене в протилежний напрямок до напряму вiсi. Проекцiя початкової швидкостi $$\upsilon_{0y} = \upsilon_0 \sin \alpha$$.
 <br>
 <div align="center">$$\begin{cases}
-y = \upsilon_0 \sin \alpha · t - \dfrac{gt^2}{2}\\
+y = \upsilon_0 \sin \alpha \cdot t - \dfrac{gt^2}{2}\\
 \upsilon_y = \upsilon_0 \sin \alpha - gt
 \end{cases}$$</div>
 <br>
-<p style="margin-left:0.6cm;"><span class="p1">1. Час польоту i час пiдняття тiла</span></p>
+<p style="margin-left:0.6cm;"><span class="p1"><b>1. Час польоту i час пiдняття тiла.</b></span></p>
 <div class="space"><p style="margin-left:1cm;">Дальнiсть польоту $$L$$ дорiвнює координатi $$x$$ в той момент, коли координата $$y = 0$$ (в момент приземлення тiла). Прирiвнявши $$y(t) = 0$$ можна вiднайти час польоту тiла $$T$$</p</div>
 <div align="center">$$0 = \upsilon_0 \sin \alpha · T - \dfrac{gT^2}{2}$$</div>
 <div align="center">$$T(\dfrac{g}{2}T - \upsilon_0 \sin \alpha) = 0 \Rightarrow \dfrac{g}{2}T - v_0 \sin \alpha = 0$$</div>
@@ -53,7 +53,7 @@ y = \upsilon_0 \sin \alpha · t - \dfrac{gt^2}{2}\\
 </tr>
 </table></div>
 <p></p>
-<p style="margin-left:0.6cm;"><span class="p1">2. Дальнiсть польоту тiла</span></p>
+<p style="margin-left:0.6cm;"><span class="p1"><b>2. Дальнiсть польоту тiла.</b></span></p>
 <p style="margin-left:1cm;">Як вже зазначалося у попередньому пунктi $$L = x(t) = \upsilon_0 \cos \alpha · T$$. Пiдставляючи час польоту $$T$$ iз попереднього пункту, отримуємо</p>
 <br>
 <div align="center">$$L = \dfrac{2 v_0^2 \sin \alpha \cos \alpha}{g}$$</div>
@@ -69,7 +69,7 @@ y = \upsilon_0 \sin \alpha · t - \dfrac{gt^2}{2}\\
 </table></div>
 <p></p>
 <br>
-<p style="margin-left:0.6cm;"><span class="p1">3. Максимальна висота</span></p>
+<p style="margin-left:0.6cm;"><span class="p1"><b>3. Максимальна висота.</b></span></p>
 <p style="margin-left:1cm;">Максимальна висота $$H$$ – координата 𝑦 в момент часу $$t = t'$$ (час пiдйому).</p>
 <br>
 <div align="center">$$H = y(t') = \upsilon_0 \sin \alpha · t' - \dfrac{gt'^2}{2}$$</div>
