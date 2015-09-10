@@ -121,7 +121,7 @@
 <answer>$$\upsilon_x = 0, \thinspace \upsilon_y < 0$$</answer>
 <explanation>
 1. У точці початку руху, швидкість $\upsilon_x$ та $\upsilon_y$ додатні, так як з графіку видно, що тіло здійснює додатнє переміщення по вісі $x$ та $y$.
-2. У найвищій точці, швидкість $v_y = 0$, тому що вона увесь час змінюється під дією прискорення вільного падіння $\vec{g}$, а $\upsilon_x > 0$ так як це рівномірний рух.
+2. У найвищій точці, швидкість $$v_y = 0$$, тому що вона увесь час змінюється під дією прискорення вільного падіння $$\vec{g}$$, а $$\upsilon_x > 0$$ так як це рівномірний рух.
 
 </explanation>
 </question>
@@ -145,7 +145,7 @@
 <explanation>
 Із тригонометричних співвідношень у трикутнику:
 <br>
-$$\upsilon_x = \upsilon \cos \alpha; \ \upsilon_y = \upsilon \sin \alpha \Rightarrow \upsilon_x = 30 \cdot \dfrac{1}{2} = 15 \thinspace \text{(м/с)}; \\ \upsilon_y = 30 \cdot \dfrac{\sqrt{3}}{2} = 30 \cdot \dfrac{1.7}{2} \approx 30 \cdot 0.85 = 25.5 \thinspace \text{(м/с)}$$
+$$\upsilon_x = \upsilon \cos \alpha; \ \upsilon_y = \upsilon \sin \alpha \Rightarrow \upsilon_x = 30 \cdot \dfrac{1}{2} = 15 \thinspace \text{(м/с)}; \ \upsilon_y = 30 \cdot \dfrac{\sqrt{3}}{2} = 30 \cdot \dfrac{1.7}{2} \approx 30 \cdot 0.85 = 25.5 \thinspace \text{(м/с)}$$
 </explanation>
 </question>
 </quiz>
