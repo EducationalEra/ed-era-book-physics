@@ -6,8 +6,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EgUHljq7U7I" frameborder="0" allowfullscreen></iframe>
 </div></div>
 
-<div class="space"><img class="image" width="400" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/11.png"></div>
-
 <div class="space">Радiус кола (кривизна у точцi) визначається наявною складовою доцентрового прискорення. Яка саме залежнiсть, ви дiзнаєтесь незабаром. Рух по колу є прикладом криволiнiйного руху.</div>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
