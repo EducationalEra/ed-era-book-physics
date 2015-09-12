@@ -6,7 +6,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RlfFPuc5Mp8" frameborder="0" allowfullscreen></iframe>
 </div></div>
 
-<div class="space"><img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/5.png" /></div>
+<img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/5.png" />
 <br>
 Запишемо рiвняння руху та проекцiй швидкостей.
 <br>
