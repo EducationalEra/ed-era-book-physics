@@ -20,7 +20,7 @@
        * [Проекції швидкості](book/chapter_3/3proekts_shvidkost.md)
    * [Практична частина](book/chapter_3/4praktichna_chastina.md)
        * [Дальність польоту, максимальна висота, час падіння](book/chapter_3/5dalnst_polotu,_maksimalna_visota,_chas_padnnya.md)
-       * [Тiло, що кинуте горизонтально](book/chapter_3/tilo,_scho_kinute_gorizontalno.md)
+       * [Тiло, що кинуте горизонтально](book/chapter_3/6tilo,_scho_kinute_gorizontalno.md)
    * Градуси та радіани
    * Криволінійний рух
        * Тангенціальне та доцентрове прискорення
