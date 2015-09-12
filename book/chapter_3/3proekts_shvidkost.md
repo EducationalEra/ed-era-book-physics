@@ -78,7 +78,7 @@
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>РОБОТА З ГРАФIКАМИ</b>
 <div class="task-text">
-<div class"space">Тiло кидають в праву сторону зi швидкiстю $$\upsilon$$ пiд кутом $$\alpha$$ до горизонту. Напрям вертикальної вiсi обрано вгору, горизонтальної – вправо. Намалювати схематично графiки траєкторiї $$y(x)$$, проекцiй швидкостi $$\upsilon_x(t)$$ та $$\upsilon_y(t)$$.</div>
+<div class"space">Тiло кидають у праву сторону зi швидкiстю $$\upsilon$$ пiд кутом $$\alpha$$ до горизонту. Напрям вертикальної вiсi обрано вгору, горизонтальної – вправо. Намалювати схематично графiки траєкторiї $$y(x)$$, проекцiй швидкостi $$\upsilon_x(t)$$ та $$\upsilon_y(t)$$.</div>
 
 <div class="space"><img class="image" width="700" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/4.png" /></div>
 
@@ -109,6 +109,8 @@
 <answer>12 м/с</answer>
 <answer>30 м/с</answer>
 <explanation>
+Із тригонометричних співвідношень у трикутнику:
+<br>
 $$\upsilon_x = \upsilon \cos \alpha \Rightarrow \upsilon_x = 30 \cdot \dfrac{1}{2} = 15 \thinspace \text{(м/с)}$$
 </explanation>
 </question>
