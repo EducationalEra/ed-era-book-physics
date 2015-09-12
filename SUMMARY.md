@@ -26,6 +26,7 @@
        * [Виведення. Доцентрове прискорення (додатково)](book/chapter_3/12vivedennya_dotsentrove_priskorennya_dodatkovo.md)
        * [Важливі приклади](book/chapter_3/13vazhliv_prikladi.md)
    * Характер двовимірного руху
+   * Проекції швидкості
 * Концепція сили
    * Вступ у динаміку
    * Інертність та маса
