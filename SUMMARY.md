@@ -24,7 +24,7 @@
    * [Градуси та радіани](book/chapter_3/7gradusi_ta_radani.md)
    * [Криволінійний рух](book/chapter_3/8krivolninii_ruh.md)
        * [Тангенціальне та доцентрове прискорення](book/chapter_3/9tangentsalne_ta_dotsentrove_priskorennya.md)
-       * [Загальна характеристика криволінійного руху](book/chapter_3/n/zagalna_harakteristika_krivolninogo_ruhu.md)
+       * [Загальна характеристика криволінійного руху](book/chapter_3/10zagalna_harakteristika_krivolninogo_ruhu.md)
        * [Рівномірний рух по колу](book/chapter_3/n/rvnomrnii_ruh_po_kolu.md)
        * [Виведення. Доцентрове прискорення (додатково)](book/chapter_3/n/vivedennya_dotsentrove_priskorennya_dodatkovo.md)
        * [Важливі приклади](book/chapter_3/n/vazhliv_prikladi.md)
