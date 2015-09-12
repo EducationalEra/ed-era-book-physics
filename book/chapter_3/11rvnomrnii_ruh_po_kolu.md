@@ -87,7 +87,7 @@
 </table></div></div>
 
 <div class="space">Цей вираз також випливає зі зв’язку кута повороту з довжиною дуги i радiусом:</div>
-<div class="space" align="center">$$l = R \varphi \Rightarrow |: t | \Rightarrow \dfrac{l}{t} = R \dfrac{\varphi}{t} \Rightarrow | \upsilon = \dfrac{l}{t}, \omega = \dfrac{\varphi}{t} | \Rightarrow \upsilon = \omega R$$</div></li>
+<div class="space" align="center">$$l = R \varphi \Rightarrow |: t \ | \Rightarrow \dfrac{l}{t} = R \dfrac{\varphi}{t} \Rightarrow | \thinspace \upsilon = \dfrac{l}{t}, \omega = \dfrac{\varphi}{t} \thinspace | \Rightarrow \upsilon = \omega R$$</div></li>
 </ul>
 <ol start="6">
 <div class="space"><li><b>Доцентрове прискорення</b> $$a_Д \thinspace (\text{м/c}^2)$$ - прискорення, що у будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$\upsilon$$</div>
