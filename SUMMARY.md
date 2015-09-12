@@ -87,4 +87,5 @@
        * [Рівність векторів](book/Add/vector/vector2.md)
        * [Координати векторів](book/Add/vector/vector3.md)
        * [Операції над векторами](book/Add/vector/vector4.md)
+* Дальнiсть польоту, максимальна висота, час пiдняття
 
