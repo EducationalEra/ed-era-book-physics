@@ -18,7 +18,6 @@
    * Теорiя двовимiрного руху
        * Характер двовимiрного руху
        * Проекції швидкості
-   * Проекцiї швидкостi
    * [Градуси та радіани](book/chapter_3/7gradusi_ta_radani.md)
    * [Криволінійний рух](book/chapter_3/8krivolninii_ruh.md)
        * [Тангенціальне та доцентрове прискорення](book/chapter_3/9tangentsalne_ta_dotsentrove_priskorennya.md)
