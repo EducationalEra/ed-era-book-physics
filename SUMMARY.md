@@ -17,6 +17,7 @@
 * [Двовимірна кінематика](book/chapter_3/1teorya_dvovimrnogo_ruhu.md)
    * Теорiя двовимiрного руху
        * Характер двовимiрного руху
+       * Проекції швидкості
    * Проекцiї швидкостi
    * [Градуси та радіани](book/chapter_3/7gradusi_ta_radani.md)
    * [Криволінійний рух](book/chapter_3/8krivolninii_ruh.md)
