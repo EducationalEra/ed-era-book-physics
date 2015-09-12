@@ -103,43 +103,20 @@
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Нехай ми маємо графік двовимірного руху.</p>
-
-<div class="space"><img width="250" src="https://study.ed-era.com:9090/c4x/EdEra/P101/asset/1.png"/ class="image"></div>
-
-<p>У точці початку руху проекції швидкості:</p>
- 
-
-<answer>$$\upsilon_x > 0, \thinspace \upsilon_y < 0$$</answer>
-<answer>$$\upsilon_x < 0, \thinspace \upsilon_y > 0$$</answer>
-<answer correct>$$\upsilon_x > 0, \thinspace \upsilon_y > 0$$</answer>
-<answer>$$\upsilon_x = 0, \thinspace \upsilon_y < 0$$</answer>
-
-<p>У найвищій точці графіка проекції швидкості:</p>
-
-<answer>$$\upsilon_x < 0, \thinspace \upsilon_y = 0$$</answer>
-<answer>$$\upsilon_x = 0, \thinspace \upsilon_y > 0$$</answer>
-<answer correct>$$\upsilon_x > 0, \thinspace \upsilon_y = 0$$</answer>
-<answer>$$\upsilon_x = 0, \thinspace \upsilon_y < 0$$</answer>
+<p>Тіло кинули під кутом $$60^\circ$$ до горизонту. Початкова швидкість дорівнює 30 м/с. Чому дорівнює проекція початкової швидкості на вісь $x$?</p>
+<answer>20 м/с</answer>
+<answer correct>15 м/с</answer>
+<answer>12 м/с</answer>
+<answer>30 м/с</answer>
 <explanation>
-1. У точці початку руху, швидкість $\upsilon_x$ та $\upsilon_y$ додатні, так як з графіку видно, що тіло здійснює додатнє переміщення по вісі $x$ та $y$.
-2. У найвищій точці, швидкість $$v_y = 0$$, тому що вона увесь час змінюється під дією прискорення вільного падіння $$\vec{g}$$, а $$\upsilon_x > 0$$ так як це рівномірний рух.
-
+$$\upsilon_x = \upsilon \cos \alpha \Rightarrow \upsilon_x = 30 \cdot \dfrac{1}{2} = 15 \thinspace \text{(м/с)}$$
 </explanation>
 </question>
 </quiz>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Тіло кинули під кутом $$60^\circ$$ до горизонту. Початкова швидкість дорівнює 30 м/с.</p>
-
-<p>Проекція початкової швидкості на вісь $x$</p>
-<answer>20 м/с</answer>
-<answer correct>15 м/с</answer>
-<answer>12 м/с</answer>
-<answer>30 м/с</answer>
-
-<p>Проекція початкової швидкості на вісь $y$</p>
+<p>Чому дорівнює проекція початкової швидкості на вісь $y$?</p>
 <answer>20 м/с</answer>
 <answer correct>25.5 м/с</answer>
 <answer>15 м/с</answer>
@@ -147,7 +124,7 @@
 <explanation>
 Із тригонометричних співвідношень у трикутнику:
 <br>
-$$\upsilon_x = \upsilon \cos \alpha; \ \upsilon_y = \upsilon \sin \alpha \Rightarrow \upsilon_x = 30 \cdot \dfrac{1}{2} = 15 \thinspace \text{(м/с)}; \ \upsilon_y = 30 \cdot \dfrac{\sqrt{3}}{2} = 30 \cdot \dfrac{1.7}{2} \approx 30 \cdot 0.85 = 25.5 \thinspace \text{(м/с)}$$
+$$\upsilon_y = \upsilon \sin \alpha \Rightarrow \upsilon_y = 30 \cdot \dfrac{\sqrt{3}}{2} = 30 \cdot \dfrac{1.7}{2} \approx 30 \cdot 0.85 = 25.5 \thinspace \text{(м/с)}$$
 </explanation>
 </question>
 </quiz>
