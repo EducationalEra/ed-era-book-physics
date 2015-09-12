@@ -18,9 +18,6 @@
    * Теорiя двовимiрного руху
        * Характер двовимiрного руху
    * Проекцiї швидкостi
-   * [Практична частина](book/chapter_3/4praktichna_chastina.md)
-       * [Дальність польоту, максимальна висота, час падіння](book/chapter_3/5dalnst_polotu,_maksimalna_visota,_chas_padnnya.md)
-       * [Тiло, що кинуте горизонтально](book/chapter_3/6tilo,_scho_kinute_gorizontalno.md)
    * [Градуси та радіани](book/chapter_3/7gradusi_ta_radani.md)
    * [Криволінійний рух](book/chapter_3/8krivolninii_ruh.md)
        * [Тангенціальне та доцентрове прискорення](book/chapter_3/9tangentsalne_ta_dotsentrove_priskorennya.md)
