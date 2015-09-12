@@ -3,7 +3,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<div class="space"><b>Миттєва швидкiсть</b> напрямлена по дотичнiй до траєкторiї в точцi, яку ми розглядаємо.</div>
+<b>Миттєва швидкiсть</b> напрямлена по дотичнiй до траєкторiї в точцi, яку ми розглядаємо.
 </div>
 </div>
 <p></p>
@@ -16,7 +16,7 @@
 <br>
 <div class="space">• <b>Проекцiя на вертикальну вiсь</b><br>
 Як вже зазначалося, вздовж вертикальної вiсi маємо <b>рiвноприскорений рух</b>.
-У випадку, коли вiсь напрямлена вгору (в протилежному до напрямку прискорення вiльного падiння):</div>
+У випадку, коли вiсь напрямлена вгору (у протилежному до напрямку прискорення вiльного падiння):</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -45,7 +45,7 @@
 <div class="space">Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швидкостi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon$$.</div>
 <div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" /></div>
 <p></p>
-<div class="space">Iз тригонометричних спiввiдношень у прямокутному трикутнику</div>
+<div class="space">Iз тригонометричних спiввiдношень у прямокутному трикутнику:</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -55,7 +55,7 @@
 </tr>
 </table></div></div>
 
-<div class="space">Iз теореми Пiфагора, знаючи проекцiї швидкостi, можемо знайти її модуль</div>
+<div class="space">Iз теореми Пiфагора, знаючи проекцiї швидкостi, можемо знайти її модуль:</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
