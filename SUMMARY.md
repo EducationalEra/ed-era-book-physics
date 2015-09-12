@@ -16,6 +16,7 @@
    * [Вертикальний рух пiд дiєю сили тяжiння](book/chapter_2/5vertikalnii.md)
 * [Двовимірна кінематика](book/chapter_3/1teorya_dvovimrnogo_ruhu.md)
    * Характер двовимірного руху
+   * Проекції швидкості
    * [Практична частина](book/chapter_3/4praktichna_chastina.md)
        * [Дальнiсть польоту, максимальна висота, час пiдняття](book/chapter_3/5dalnst_polotu,_maksimalna_visota,_chas_padnnya.md)
        * [Тіло, що кинуте горизонтально](book/chapter_3/6tilo,_scho_kinute_gorizontalno.md)
@@ -26,7 +27,6 @@
        * [Рівномірний рух по колу](book/chapter_3/11rvnomrnii_ruh_po_kolu.md)
        * [Виведення. Доцентрове прискорення (додатково)](book/chapter_3/12vivedennya_dotsentrove_priskorennya_dodatkovo.md)
        * [Важливі приклади](book/chapter_3/13vazhliv_prikladi.md)
-   * Проекції швидкості
 * Концепція сили
    * Вступ у динаміку
    * Інертність та маса
