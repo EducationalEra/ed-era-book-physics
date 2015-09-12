@@ -24,7 +24,7 @@ v_y = -gt
 \end{cases}$$</div></div>
 
 <div class="space"><div class="fluidMedia">
-<iframe width="560" height="315" src="https://youtu.be/soTUgFuBOtg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/soTUgFuBOtg" frameborder="0" allowfullscreen></iframe>
 </div></div>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
