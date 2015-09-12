@@ -16,7 +16,7 @@
    * [Вертикальний рух пiд дiєю сили тяжiння](book/chapter_2/5vertikalnii.md)
 * [Двовимірна кінематика](book/chapter_3/1teorya_dvovimrnogo_ruhu.md)
    * [Практична частина](book/chapter_3/4praktichna_chastina.md)
-       * Дальнiсть польоту, максимальна висота, час пiдняття
+       * [Дальнiсть польоту, максимальна висота, час пiдняття](book/chapter_3/5dalnst_polotu,_maksimalna_visota,_chas_padnnya.md)
        * Тіло, що кинуте горизонтально
    * [Градуси та радіани](book/chapter_3/7gradusi_ta_radani.md)
    * [Криволінійний рух](book/chapter_3/8krivolninii_ruh.md)
