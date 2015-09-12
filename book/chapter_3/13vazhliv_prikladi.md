@@ -30,22 +30,22 @@
 <div class="space"><img class="image" width="325" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/17.png" /></div>
 
 
-<div class="space">Швидкiсть цiєї точки складається з лiнiйної швидкостi обертання колеса $$\vec{\upsilon_{об}}$$, напрямленої влiво та поступальної швидкостi $$\vec{\upsilon}$$, напрямленої вправо.</div>
+<div class="space">Швидкiсть цiєї точки складається з лiнiйної швидкостi обертання колеса $$\vec{\upsilon_{о}}$$, напрямленої влiво та поступальної швидкостi $$\vec{\upsilon}$$, напрямленої вправо.</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\vec{\upsilon_1} = \vec{\upsilon_{об}} + \vec{\upsilon_{ }}$$</p1>
+<p1>$$\vec{\upsilon_1} = \vec{\upsilon_{о}} + \vec{\upsilon_{ }}$$</p1>
 </td>
 </tr>
 </table></div></div>
 
-<div class="space">З iншої сторони, не дарма в умовi видiлено жирним, що колесо рухається без проковзування. Це означає, що у системi вiдлiку "Земля" ця точка прив’язана до неї, тобто нерухома. Отже, при розглядi модулей швидкостей отримуємо</div>
+<div class="space">З iншої сторони, не дарма в умовi видiлено жирним, що колесо рухається без проковзування. Це означає, що у системi вiдлiку «Земля» ця точка прив’язана до неї, тобто нерухома. Отже, при розглядi модулей швидкостей отримуємо</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\upsilon_1 = 0 \Rightarrow \vec{\upsilon_{об}} = \vec{\upsilon_{ }}$$</p1>
+<p1>$$\upsilon_1 = 0 \Rightarrow \vec{\upsilon_{о}} = \vec{\upsilon_{ }}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -63,7 +63,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\vec{\upsilon_2} = \vec{\upsilon_{об}} + \vec{\upsilon_{ }} \Rightarrow \upsilon_2 = 2\upsilon$$</p1>
+<p1>$$\vec{\upsilon_2} = \vec{\upsilon_{о}} + \vec{\upsilon_{ }} \Rightarrow \upsilon_2 = 2\upsilon$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -91,12 +91,12 @@
 <div class="space"><img class="image" width="220" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/20.png" /></div>
 
 
-<div class="space">Швидкiсть обертального руху напрямлена по дотичнiй до поверхнi колеса. Швидкiсть поступального руху – вправо. Iз геометрiї кут мiж векторами 45º. За допомогою теореми косинусiв:</div>
+<div class="space">Швидкiсть обертального руху напрямлена по дотичнiй до поверхнi колеса. Швидкiсть поступального руху – вправо. Iз геометрiї кут мiж векторами $$45^\circ$$. За допомогою теореми косинусiв:</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\upsilon_4 = \sqrt{\upsilon^2 + \upsilon^2 - 2 \upsilon \cdot \upsilon \cdot \cos (135°)} \approx 1.85v$$</p1>
+<p1>$$\upsilon_4 = \sqrt{\upsilon^2 + \upsilon^2 - 2 \upsilon \cdot \upsilon \cdot \cos (135^\circ)} \approx 1.85v$$</p1>
 </td>
 </tr>
 </table></div></div>
