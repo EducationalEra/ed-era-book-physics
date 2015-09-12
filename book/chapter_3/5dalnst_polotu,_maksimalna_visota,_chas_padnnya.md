@@ -56,11 +56,11 @@ y = \upsilon_0 \sin \alpha \cdot t - \dfrac{gt^2}{2}\\
 <p></p>
 </li>
 <span class="p1"><b><li>Дальнiсть польоту тiла.</b></span></p>
-Як вже зазначалося у попередньому пунктi $$L = x(t) = \upsilon_0 \cos \alpha \cdot T$$. Пiдставляючи час польоту $$T$$ iз попереднього пункту, отримуємо</p>
+Як вже зазначалося у попередньому пунктi $$L = x(t) = \upsilon_0 \cos \alpha \cdot T$$. Пiдставляючи час польоту $$T$$ iз попереднього пункту, отримуємо:</p>
 <br>
 <div align="center">$$L = \dfrac{2 v_0^2 \sin \alpha \cos \alpha}{g}$$</div>
 <br>
-Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha$$</p>
+Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -77,7 +77,7 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha$$</p>
 <br>
 <div align="center">$$H = y(t^\prime) = \upsilon_0 \sin \alpha \cdot t^\prime - \dfrac{gt'^2}{2}$$</div>
 <br>
-Пiдставляємо $$t^\prime = \dfrac{\upsilon_0 \sin \alpha}{g}$$ iз попереднього пункту</p>
+Пiдставляємо $$t^\prime = \dfrac{\upsilon_0 \sin \alpha}{g}$$ iз попереднього пункту:</p>
 <br>
 <div align="center">$$H - \dfrac{\upsilon_0^2 \sin^2 \alpha}{g} - \dfrac{\upsilon_0^2 \sin^2 \alpha}{2g}$$</div>
 <br>
@@ -112,10 +112,10 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha$$</p>
 <br>
 <b>Дальностi польоту</b>
 <br>
-<p style="margin-left:1cm;">Дальнiсть польоту обраховуємо по формулi</p>
+<p style="margin-left:1cm;">Дальнiсть польоту обраховуємо по формулi:</p>
 <br>
 <div align="center">$$L = \dfrac{\upsilon_0^2\sin 2\alpha}{g}$$</div><div align="right">$$(1)$$</div>
-<p style="margin-left:1cm;">Для кутiв $$30^\circ, 45^\circ, 60^\circ$$ вiдповiдно</p>
+<p style="margin-left:1cm;">Для кутiв $$30^\circ, 45^\circ, 60^\circ$$ вiдповiдно.</p>
 <div align="center">$$L_1 \approx 5000 \thinspace \text{м} = 5 \thinspace \text{км}; \ L_2 \approx 5800 \thinspace \text{м} = 5.8 \thinspace \text{км}; \ L_3 \approx 5000 \thinspace \text{м} = 5 \thinspace \text{км}$$</div>
 <br>
 <p style="margin-left:1cm;">Порiвнявши, бачимо, що при $$45^\circ$$ дальнiсть польоту найбiльша. Але це була вибiрка з трьох кутiв. У загальному випадку легко показати, що саме при кутi $$45^\circ$$ дальнiсть польоту максимальна. $$L$$ у формулi $$(1)$$ буде максимальним, якщо $$\sin 2 \alpha = 1 \Rightarrow \alpha = 45^\circ.$$</p>
@@ -136,7 +136,7 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha$$</p>
 <answer correct>$$40^\circ$$</answer>
 <answer>$$60^\circ$$</answer>
 <explanation>
-Користуючись тригонометричною формулою зведення $$\sin 2 \cdot 50^\circ = \sin 100^\circ = \cos 10^\circ = \sin 80^\circ \Rightarrow \sin 2 \alpha = 80^\circ \Rightarrow \sin \alpha = 40^\circ .$$
+Користуючись тригонометричною формулою зведення: $$\sin 2 \cdot 50^\circ = \sin 100^\circ = \cos 10^\circ = \sin 80^\circ \Rightarrow \sin 2 \alpha = 80^\circ \Rightarrow \sin \alpha = 40^\circ .$$
 </explanation>
 </question>
 </quiz>
