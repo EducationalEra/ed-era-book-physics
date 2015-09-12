@@ -17,7 +17,6 @@
 * [Двовимірна кінематика](book/chapter_3/1teorya_dvovimrnogo_ruhu.md)
    * Теорiя двовимiрного руху
        * Характер двовимiрного руху
-   * Характер двовимiрного руху
    * Проекцiї швидкостi
    * [Практична частина](book/chapter_3/4praktichna_chastina.md)
        * [Дальність польоту, максимальна висота, час падіння](book/chapter_3/5dalnst_polotu,_maksimalna_visota,_chas_padnnya.md)
