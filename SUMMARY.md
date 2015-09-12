@@ -1,13 +1,9 @@
 # Summary
 
 * [Зміст](README.md)
-1. [Вступне слово](book/vstupne_slovo.md)
+* [Вступне слово](book/vstupne_slovo.md)
 * [Одновимірна кінематика](book/chapter_1/1vstup.md)
-   * [Вступ до кінематики](book/chapter_1/1vstup.md)
-       * [Механічний рух](book/chapter_1/2mehanichnii_ruh.md)
-       * [Основні поняття](book/chapter_1/3osnovni_ponyattya.md)
    * [Рівномірний прямолінійний рух](book/chapter_1/4shlyah_ta_shv.md)
-       * [Шлях та швидкість](book/chapter_1/4shlyah_ta_shv.md)
        * [Вiдноснiсть швидкостей та перемiщень](book/chapter_1/5vidnosnist.md)
        * [Проекцiя вектора](book/chapter_1/6proektsiya_vektora.md)
        * [Рiвняння руху](book/chapter_1/7rivnyannya_ruhu.md)
@@ -19,7 +15,7 @@
        * [Рiвняння рiвноприскореного прямолiнiйного руху](book/chapter_2/4rivnyannya.md)
    * [Вертикальний рух пiд дiєю сили тяжiння](book/chapter_2/5vertikalnii.md)
 * Двовимірна кінематика
-   * Теорія двовимірного руху
+   * [Теорія двовимірного руху](book/chapter_3/teorya_dvovimrnogo_ruhu.md)
        * Характер двовимірного руху
        * Проекції швидкості
    * Практична частина
@@ -89,15 +85,8 @@
    * Закон Архiмеда
    * Закон Бернуллi
 * [Додаток](book/Add/trigonometry/trigonometry.md)
-   * [Тригонометричні функції](book/Add/trigonometry/trigonometry.md)
    * [Вектори](book/Add/vector/vector1.md)
-       * [Поняття вектора](book/Add/vector/vector1.md)
        * [Рівність векторів](book/Add/vector/vector2.md)
        * [Координати векторів](book/Add/vector/vector3.md)
        * [Операції над векторами](book/Add/vector/vector4.md)
-           * [Модуль вектора](book/Add/vector/vector4.md)
-           * [Додавання векторів](book/Add/vector/vector4.md)
-           * [Множення вектора на скаляр](book/Add/vector/vector4.md)
-           * [Скалярний добуток векторів](book/Add/vector/vector4.md)
-           * [Проекція та розкладання вектора на компоненти](book/Add/vector/vector4.md)
 
