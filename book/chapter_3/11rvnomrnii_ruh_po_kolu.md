@@ -15,7 +15,7 @@
 
 <br>
 <div class="space"><div class="fluidMedia">
-<iframe width="560" height="315" src="https://youtu.be/8VVSbvaZkn4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8VVSbvaZkn4" frameborder="0" allowfullscreen></iframe>
 </div></div>
 
 <div class="space">На рисунку зображено рiвномiрний рух тiла по колу та   положення точки у два моменти часу $$t_1$$ та $$t_2$$.</div>
