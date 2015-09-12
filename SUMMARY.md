@@ -25,7 +25,7 @@
    * [Криволінійний рух](book/chapter_3/n/krivolninii_ruh.md)
        * [Тангенціальне та доцентрове прискорення](book/chapter_3/n/tangentsalne_ta_dotsentrove_priskorennya.md)
        * [Загальна характеристика криволінійного руху](book/chapter_3/n/zagalna_harakteristika_krivolninogo_ruhu.md)
-       * Рівномірний рух по колу
+       * [Рівномірний рух по колу](book/chapter_3/n/rvnomrnii_ruh_po_kolu.md)
        * Виведення. Доцентрове прискорення (додатково)
        * Важливі приклади
 * Концепція сили
