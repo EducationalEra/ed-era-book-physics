@@ -25,6 +25,7 @@
        * [Рівномірний рух по колу](book/chapter_3/11rvnomrnii_ruh_po_kolu.md)
        * [Виведення. Доцентрове прискорення (додатково)](book/chapter_3/12vivedennya_dotsentrove_priskorennya_dodatkovo.md)
        * [Важливі приклади](book/chapter_3/13vazhliv_prikladi.md)
+   * Практична частина
 * Концепція сили
    * Вступ у динаміку
    * Інертність та маса
