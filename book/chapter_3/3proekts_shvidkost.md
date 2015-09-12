@@ -4,6 +4,8 @@
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <div class="space"><b>Миттєва швидкiсть</b> напрямлена по дотичнiй до траєкторiї в точцi, яку ми розглядаємо.<br></div>
+</div>
+</div>
 <p></p>
 
 <div class="fluidMedia">
