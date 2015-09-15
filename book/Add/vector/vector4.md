@@ -125,7 +125,7 @@ $$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Знайдіть косину кута між векторами $$\vec{a}(4;9)$$ і $$\vec{b}(-2;5)$$</p>
+<p>Знайдіть косинус кута між векторами $$\vec{a}(4;9)$$ і $$\vec{b}(-2;5)$$</p>
 <answer>-0.7</answer>
 <answer>-0.5</answer>
 <answer>0</answer>
