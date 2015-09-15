@@ -58,7 +58,7 @@
 <div class="space"><img class="image" width="375" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/18.png" /></div>
 
 
-<div class="space">Швидкостi обертального та поступального руху напрямленi вправо. Також ми тепер знаємо з попереднього пункту, що швидкiсть обератання дорiвнює швидкостi поступального руху</div>
+<div class="space">Швидкостi обертального та поступального руху напрямленi вправо. Також ми тепер знаємо з попереднього пункту, що швидкiсть обертання дорiвнює швидкостi поступального руху</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -74,7 +74,7 @@
 <div class="space"><img class="image" width="220"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/19.png" /></div>
 
 
-<div class="space">Швидкiсть обертального руху напрямлена вертикально вгору. швидкiсть поступального руху, як завжди, вправо. Векторну суму можна здiйснити за правилом паралелограма. Модуль результуючого вектора можна знайти за допомогою теореми Пiфагора.</div>
+<div class="space">Швидкiсть обертального руху напрямлена вертикально вгору. Швидкiсть поступального руху, як завжди, вправо. Векторну суму можна здiйснити за правилом паралелограма. Модуль результуючого вектора можна знайти за допомогою теореми Пiфагора.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
