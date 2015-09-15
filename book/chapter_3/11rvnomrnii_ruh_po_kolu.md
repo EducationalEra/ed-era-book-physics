@@ -36,7 +36,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\upsilon = \dfrac{N}{t} = \dfrac{1}{T}$$</p1>
+<p1>$$\nu = \dfrac{N}{t} = \dfrac{1}{T}$$</p1>
 </td>
 </tr>
 </table></div></div></li>
