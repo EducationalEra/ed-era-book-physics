@@ -72,7 +72,7 @@ $$\upsilon_x(t'')=0-gt''=-g \cdot \dfrac{\upsilon_{0x}}{g}= -\upsilon_{0x}$$
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Петро жбурляє мяч угору. Початкова швидкiсть \(\upsilon_0\) = 17,64 м/с. Прискорення вiльного падiння \(g\) = 9,8 \(\frac{м}{с^2}\). Визначити максимальну висоту пiдняття м'яча над рiвнем, з якого Петро його кинув.</p>
+<p>Петро жбурляє мяч угору. Початкова швидкiсть \(\upsilon_0\) = 17,64 м/с. Прискорення вiльного падiння \(g\) = 9,8 \(\frac{м}{с^2}\). (a) Визначити максимальну висоту пiдняття м'яча над рiвнем, з якого Петро його кинув.</p>
 <answer>13,7 м</answer>
 <answer correct>15,9 м</answer>
 <answer>18,1 м</answer>
@@ -83,7 +83,7 @@ $$H_{max}=\dfrac{\upsilon^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15
 </question>
 
 <question>
-<pВизначити весь час руху м’яча до моменту, коли Петро його знову зловить.</p>
+<p>(b) Визначити весь час руху м’яча до моменту, коли Петро його знову зловить.</p>
 <answer correct>3,6 c</answer>
 <answer>3,2 c</answer>
 <answer>2,5 c</answer>
