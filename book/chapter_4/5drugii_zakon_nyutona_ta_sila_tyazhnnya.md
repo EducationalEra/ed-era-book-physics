@@ -5,15 +5,15 @@
 <div class="space"><font size="4"><i>« В iнерцiальнiй системi вiдлiку прискорення, що отримує матерiальна точка незмiнної маси, прямопропорцiйне рiвнодiйнiй сил, що дiють на неї та оберенено пропорцiйне масi цiєї точки. »</i></font></div>
 
 <ul>
-<div class="space"><li><span class="p1"><b>$$\vec{a} = \dfrac{\vec{F}}{m}$$ – прискорення, що надане тiлу</b></span></div>
+<div class="space"><li><span class="p1"><b>$$\vec{a} = \dfrac{\vec{F_{}}}{m}$$ – прискорення, що надане тiлу</b></span></div>
 </li>
-<div class="space"><li><span class="p1"><b>$$\vec{F_{\Sigma}} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$ – рiвнодiйна сил, що надає тiлу прискорення</b></span></div>
+<div class="space"><li><span class="p1"><b>$$\vec{F_{}} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$ – рiвнодiйна сил, що надає тiлу прискорення</b></span></div>
 </li>
 <div class="space"><li><span class="p1"><b>$$m$$ – маса тiла</b></span></div>
 </li>
 </ul>
 
-<div class="space">Розглянемо такий приклад. Абстрагуйтеся вiд притягання землi, вiд сили тертя тощо. Ви штовхаєте з однаковою силою $$\vec{F}$$ по черзi два ящика. Один з них має бiльшу масу $$M$$, другий – меншу $$m$$. Очевидно, що першому ящику ви зможете надати  бiльше прискорення, нiж другому.</div>
+<div class="space">Розглянемо такий приклад. Абстрагуйтеся вiд притягання землi, вiд сили тертя тощо. Ви штовхаєте з однаковою силою $$\vec{F_{}}$$ по черзi два ящика. Один з них має бiльшу масу $$M$$, другий – меншу $$m$$. Очевидно, що першому ящику ви зможете надати  бiльше прискорення, нiж другому.</div>
 
 <div class="space"><img class="image" width="460" height="70" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/7.png"></div>
 
@@ -21,7 +21,7 @@
 
 <div class="p3"><font color="red">$${\Large!}$$</font> Ми розглядали, що прискорення вiльного падiння $$\vec{g}$$ дiє на тiла поблизу поверхнi Землi. Воно напрямлене вертикально вниз i виникає внаслiдок закону всесвiтнього тяжiння (ми ще будемо його розбирати пiзнiше у курсi).</div>
 
-<div align="center" class="space"><span class="p1">Сила тяжiння = $$\vec{F} = m \vec{g}$$</span></div>
+<div align="center" class="space"><span class="p1">Сила тяжiння = $$\vec{F_{}} = m \vec{g}$$</span></div>
 
 <div class="task-wrap">
 <span class="task">Задача 2</span> <b>РОМАНТИЧНА</b>
