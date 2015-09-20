@@ -13,11 +13,11 @@
 
 <ol>
 <li>
-<div class="space">Другий закон Ньютона: $$m_1 \vec{g} + \vec{T} = m_1 \vec{a} \Rightarrow -m_1 g + T = m_1 a$$</div>
+<div class="space">Другий закон Ньютона: $$m_1 \vec{g} + \vec{T_{}} = m_1 \vec{a} \Rightarrow -m_1 g + T = m_1 a$$</div>
 <div class="space" align="center">$$T = m_1(a+g)$$</div>
 </li>
 <li>
-<div class="space">Другий закон Ньютона: $$m_2 \vec{g} + \vec{T} = m_2 \vec{a} \Rightarrow -m_2 g + T = - m_2 a$$</div>
+<div class="space">Другий закон Ньютона: $$m_2 \vec{g} + \vec{T_{}} = m_2 \vec{a} \Rightarrow -m_2 g + T = - m_2 a$$</div>
 <div class="space" align="center">$$T = m_2(g - a)$$</div>
 </li>
 </ol>
