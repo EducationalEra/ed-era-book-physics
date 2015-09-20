@@ -19,7 +19,7 @@
 </div>
 </div>
 
-<div class="space"><p class="p3">На рисунку зображено тверде тiло, яке розтягують з силою $$\vec{F}$$. Виникає сила пружностi $$\vec{F_П}$$, яка противиться деформацiї тiла i намагається повернути його в "звичний" стан.</p></div>
+<div class="space"><p class="p3">На рисунку зображено тверде тiло, яке розтягують з силою $$\vec{F_{}}$$. Виникає сила пружностi $$\vec{F_П}$$, яка противиться деформацiї тiла i намагається повернути його в "звичний" стан.</p></div>
 
 <div class="space" align="center"><span class="p1"><b>Iнтуiтивно зрозумiлi наступнi моменти</b></span></div>
 <ol>
@@ -28,7 +28,7 @@
 <div class="space" align="center">$$\Delta l \sim l_0$$</div>
 </li>
 <li>
-<div class="space">Чим бiльше прикладена сила $$\vec{F}$$, тим бiльше видовження тiла $$\Delta l$$.</div>
+<div class="space">Чим бiльше прикладена сила $$\vec{F_{}}$$, тим бiльше видовження тiла $$\Delta l$$.</div>
 <div class="space" align="center">$$\Delta l \sim F$$</div>
 </li>
 <li>
@@ -48,7 +48,7 @@
 
 <div class="space"><p class="p3">Перетворивши отриману пропорцiйнiсть отримаємо $$\dfrac{F}{S} \sim \dfrac{\Delta l}{l_0}$$</p></div>
 
-<div class="space"><p class="p3">Ми використали усi параметри, що пов’язанi з формою об’єкта. Залишилось для повної рiвностi використати параметр, який характеризує фiзичну властивiсть матерiала створювати супротив деформацiї – модуль Юнга $$E$$ [ $$\dfrac{Н}{м^2}$$ = Паскаль (Па) ].</p></div>
+<div class="space"><p class="p3">Ми використали усi параметри, що пов’язанi з формою об’єкта. Залишилось для повної рiвностi використати параметр, який характеризує фiзичну властивiсть матерiала створювати супротив деформацiї – модуль Юнга $$E \thinspace [ \thinspace \dfrac{Н}{м^2}$$ = Паскаль (Па) $$].$$</p></div>
 
 <div class="space"><img class="image" width="489" height="45" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/19.png"></div>
 
