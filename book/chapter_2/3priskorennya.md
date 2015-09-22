@@ -80,6 +80,7 @@ $$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon_x^\
 Проекція швидкості через три секунди руху:
 
 $$\upsilon_{2x}(2)=4 \thinspace \text{м/c}$$
+<br>
 
 <p><b>Третя</b> ($$t_1 = 5 \thinspace \text{c}, t_2 = 9 \thinspace \text{c}$$).
 
@@ -90,10 +91,6 @@ $$\upsilon_{2x}(2)=4 \thinspace \text{м/c}$$
 Тоді рівняння швидкості 
 
 \[\upsilon_{3x}=\upsilon_{2x}+a_{3x}t=4+t\]
-
-Проекція швидкості через три секунди руху:
-
-\[\upsilon_{3x}(4)=8 \thinspace \text{м/c}\]
 
 Проекція швидкості через чотири секунди руху:
 
