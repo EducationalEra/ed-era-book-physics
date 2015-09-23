@@ -21,7 +21,7 @@
 
 
 <b><i>Розв'язок.</i></b> Для початку знайдемо, скiльки часу витратив Петро.
-\[t=\dfrac{|\thinspace \vec{S}_{п/р} \thinspace|}{|\thinspace \vec{\upsilon}_{п/р} \thinspace|} = \dfrac{l}{\upsilon_{п/з}} = 0.05/4 = 0.0125 \thinspace (\text{год}) \]
+\[t=\dfrac{|\thinspace \vec{S_{}}_{п/р} \thinspace|}{|\thinspace \vec{\upsilon}_{п/р} \thinspace|} = \dfrac{l}{\upsilon_{п/з}} = 0.05/4 = 0.0125 \thinspace (\text{год}) \]
 
 <i>Зауважимо, що незалежно вiд швидкостi течiї, час, який витратив би Петро не змiнився. Це вiдбувається тому, що швидкiсть течiї в даному випадку не має нiякого впливу на швидкiсть з якою пливе Петро у перпендикулярному напрямi. Змiнюється шлях, напрям тiла, швидкiсть тiла, але не величина перпендикулярної складової.</i></br>
 <p></p>
@@ -61,7 +61,7 @@ $$ L = \upsilon_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5
 
 Нехай швидкість першого човна $$\vec{\upsilon}_1 = 3 \thinspace  м/с$$, другого – $$\vec{\upsilon}_2 = 4 \thinspace м/с$$. Відносну швидкість човнів $$\vec{\upsilon}$$ можна знайти за правилом паралелограма для суми векторів  $$\vec{\upsilon} = \vec{\upsilon}_1 + \vec{\upsilon}_2$$. Модуль (величину) цієї швидкості у випадку даної задачі можна знайти за теоремою Піфагора, оскільки човни рухаються перпендикулярно один одному:
 
-\[|\thinspace \vec{\upsilon} \thinspace| = \sqrt{(\vec{\upsilon_1})^2 + (\vec{\upsilon_2})^2}\] 
+\[|\thinspace \vec{\upsilon} \thinspace| = \sqrt{(\vec{\upsilon}_1})^2 + (\vec{\upsilon}_2})^2}\] 
 
 \[|\thinspace \vec{\upsilon} \thinspace| = \sqrt{3^2 + 4^2} = 5\thinspace м/с\]
 
