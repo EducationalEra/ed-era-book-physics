@@ -17,33 +17,36 @@
 • <b>Проекцiя на вертикальну вiсь</b><br>
 Як вже зазначалося, вздовж вертикальної вiсi маємо <b>рiвноприскорений рух</b>.
 У випадку, коли вiсь напрямлена вгору (у протилежному до напрямку прискорення вiльного падiння):
-<div class="space"><div class="centered-table-wrapper">
+<br>
+<div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\upsilon_y = \upsilon_{0y} - gt$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table></div>
+<br>
 
 • <b>Проекцiя на горизонтальну вiсь</b>
 <br>
 У горизонтальному напрямку маємо <b>рiвномiрний рух</b>. Проекцiя швидкостi не змiнюється протягом всього руху.
-<div class="space"><div class="centered-table-wrapper">
+<br>
+<div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\upsilon_x = \upsilon_{0x}$$</p1>
 </td>
 </tr>
-</table></div></div>
-<p></p>
+</table></div>
+<br>
 
 З вищезазначеного стає зрозумiлим, що проекцiя швидкостi на вiсь $$y$$ змiнюється протягом всього руху. Наприклад, на рисунку вище у першiй точцi $$\upsilon_y > 0$$, адже кут
 мiж дотичною та вiссю $$x$$ – гострий. У другiй точцi (верхня точка траєкторiї) $$\upsilon_y=0$$, кут дорiвнює нулю. У третiй точцi $$\upsilon_y < 0$$, кут – тупий.
 <br>
-<div class="space">Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швидкостi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon$$.</div>
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" /></div>
+<div class="space">Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швидкостi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon.$$</div>
+<div class="space"><img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" /></div>
 <p></p>
 Iз тригонометричних спiввiдношень у прямокутному трикутнику:
 <div class="space"><div class="centered-table-wrapper">
