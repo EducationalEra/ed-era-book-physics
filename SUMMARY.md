@@ -18,7 +18,7 @@
        * [Рiвняння рiвноприскореного прямолiнiйного руху](book/chapter_2/4rivnyannya.md)
    * [Вертикальний рух пiд дiєю сили тяжiння](book/chapter_2/5vertikalnii.md)
 * [Двовимірна кінематика](book/chapter_3/1teorya_dvovimrnogo_ruhu.md)
-   * Теорія двовимірного руху
+   * [Теорія двовимірного руху](book/first_chapters/chapter_3/1teorya_dvovimrnogo_ruhu.md)
        * Характер двовимірного руху
        * Проекції швидкості
    * [Практична частина](book/chapter_3/4praktichna_chastina.md)
