@@ -3,7 +3,7 @@
 * [Зміст](README.md)
 * [Вступне слово](book/vstupne_slovo.md)
 * [Одновимірна кінематика](book/chapter_1/1vstup.md)
-   * Вступ до кінематики
+   * [Вступ до кінематики](book/first_chapters/1vstup.md)
        * Механічний рух
        * Основні поняття
    * [Рівномірний прямолінійний рух](book/chapter_1/4shlyah_ta_shv.md)
