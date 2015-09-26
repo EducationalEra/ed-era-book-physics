@@ -14,9 +14,9 @@
 
 <div class="popup"> </div>
 <br>
-<div class="space">• <b>Проекцiя на вертикальну вiсь</b><br>
+• <b>Проекцiя на вертикальну вiсь</b><br>
 Як вже зазначалося, вздовж вертикальної вiсi маємо <b>рiвноприскорений рух</b>.
-У випадку, коли вiсь напрямлена вгору (у протилежному до напрямку прискорення вiльного падiння):</div>
+У випадку, коли вiсь напрямлена вгору (у протилежному до напрямку прискорення вiльного падiння):
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -26,9 +26,9 @@
 </tr>
 </table></div></div>
 
-<div class="space">• <b>Проекцiя на горизонтальну вiсь</b>
+• <b>Проекцiя на горизонтальну вiсь</b>
 <br>
-У горизонтальному напрямку маємо <b>рiвномiрний рух</b>. Проекцiя швидкостi не змiнюється протягом всього руху.</div>
+У горизонтальному напрямку маємо <b>рiвномiрний рух</b>. Проекцiя швидкостi не змiнюється протягом всього руху.
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -41,11 +41,11 @@
 
 З вищезазначеного стає зрозумiлим, що проекцiя швидкостi на вiсь $$y$$ змiнюється протягом всього руху. Наприклад, на рисунку вище у першiй точцi $$\upsilon_y > 0$$, адже кут
 мiж дотичною та вiссю $$x$$ – гострий. У другiй точцi (верхня точка траєкторiї) $$\upsilon_y=0$$, кут дорiвнює нулю. У третiй точцi $$\upsilon_y < 0$$, кут – тупий.
-<p></p>
+<br>
 <div class="space">Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швидкостi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon$$.</div>
 <div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" /></div>
 <p></p>
-<div class="space">Iз тригонометричних спiввiдношень у прямокутному трикутнику:</div>
+Iз тригонометричних спiввiдношень у прямокутному трикутнику:
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -55,7 +55,7 @@
 </tr>
 </table></div></div>
 
-<div class="space">Iз теореми Пiфагора, знаючи проекцiї швидкостi, можемо знайти її модуль:</div>
+Iз теореми Пiфагора, знаючи проекцiї швидкостi, можемо знайти її модуль:
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -65,7 +65,7 @@
 </tr>
 </table></div></div>
 
-<div class="space">Кут мiж напрямом швидкостi та вiссю $$x$$ можна визначити також iз тригонометричних спiввiдношень.</div>
+Кут мiж напрямом швидкостi та вiссю $$x$$ можна визначити також iз тригонометричних спiввiдношень.
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
