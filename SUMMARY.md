@@ -3,6 +3,7 @@
 * [Зміст](README.md)
 * [Вступне слово](book/vstupne_slovo.md)
 * [Одновимірна кінематика](book/chapter_1/1vstup.md)
+   * Вступ до кінематики
    * [Рівномірний прямолінійний рух](book/chapter_1/4shlyah_ta_shv.md)
        * [Вiдноснiсть швидкостей та перемiщень](book/chapter_1/5vidnosnist.md)
        * [Проекцiя вектора](book/chapter_1/6proektsiya_vektora.md)
@@ -14,7 +15,6 @@
        * [Прискорення та гальмування](book/chapter_2/3priskorennya.md)
        * [Рiвняння рiвноприскореного прямолiнiйного руху](book/chapter_2/4rivnyannya.md)
    * [Вертикальний рух пiд дiєю сили тяжiння](book/chapter_2/5vertikalnii.md)
-   * Вступ до кінематики
 * [Двовимірна кінематика](book/chapter_3/1teorya_dvovimrnogo_ruhu.md)
    * [Практична частина](book/chapter_3/4praktichna_chastina.md)
        * [Дальнiсть польоту, максимальна висота, час пiдняття](book/chapter_3/5dalnst_polotu,_maksimalna_visota,_chas_padnnya.md)
