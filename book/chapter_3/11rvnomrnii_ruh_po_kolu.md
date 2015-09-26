@@ -9,7 +9,7 @@
 При даному русi ми маємо лише <b>доцентрове прискорення,</b> адже модуль швидкостi – незмiнний протягом всього руху.
 <br>
 <br>
-<b>Тангенцiальне прискорення</b> $$a_T = 0$$
+<b>Тангенцiальне прискорення</b> $$a_T = 0.$$
 </div>
 </div>
 
@@ -18,11 +18,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VVSbvaZkn4" frameborder="0" allowfullscreen></iframe>
 </div></div>
 
-<div class="space">На рисунку зображено рiвномiрний рух тiла по колу та   положення точки у два моменти часу $$t_1$$ та $$t_2$$.</div>
+На рисунку зображено рiвномiрний рух тiла по колу та   положення точки у два моменти часу $$t_1$$ та $$t_2$$.
 
-<p class="p3"><div class="space"><b><span class="p1">Основнi характеристики та величини:</span></b></div></p>
+<p class="p3"><b><span class="p1">Основнi характеристики та величини:</span></b></p>
 <ol>
-<li><div class="space"><b>Перiод обертання</b> $$T \thinspace (c)$$ – час, за який тiло здiйснює повний оберт. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то перiод</div>
+<li><div class="space"><b>Перiод обертання</b> $$T \thinspace (c)$$ – час, за який тiло здiйснює повний оберт. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то перiод:</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -31,7 +31,7 @@
 </td>
 </tr>
 </table></div></div></li>
-<div class="space"><li><b>Частота обертання</b> $$\nu \thinspace (c^{-1}, \thinspace Гц)$$ – кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота</div>
+<div class="space"><li><b>Частота обертання</b> $$\nu \thinspace (c^{-1}, \thinspace Гц)$$ – кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота:</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -75,7 +75,7 @@
 </li>
 </ol>
 <ul>
-<div class="space"><b><li>Зв’язок мiж лiнiйною та кутовою швидкiстю.</b> Якщо порiвняти отриманi вирази для лiнiйної $$(\upsilon = 2 \pi \nu R)$$ та кутової швидкості $$(\omega = 2 \pi \nu)$$, видно, що зв’язок мiж цими швидкостями:</div>
+<div class="space"><b><li>Зв’язок мiж лiнiйною та кутовою швидкiстю</b> Якщо порiвняти отриманi вирази для лiнiйної $$(\upsilon = 2 \pi \nu R)$$ та кутової швидкості $$(\omega = 2 \pi \nu)$$, видно, що зв’язок мiж цими швидкостями:</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -87,13 +87,21 @@
 </table></div></div>
 
 <div class="space">Цей вираз також випливає зі зв’язку кута повороту з довжиною дуги i радiусом:</div>
-<div class="space" align="center">$$l = R \varphi \Rightarrow |: t \ | \Rightarrow \dfrac{l}{t} = R \dfrac{\varphi}{t} \Rightarrow | \thinspace \upsilon = \dfrac{l}{t}, \omega = \dfrac{\varphi}{t} \thinspace | \Rightarrow \upsilon = \omega R$$</div></li>
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$l = R \varphi \Rightarrow |: t \ | \Rightarrow \dfrac{l}{t} = R \dfrac{\varphi}{t} \Rightarrow | \thinspace \upsilon = \dfrac{l}{t}, \thinspace \omega = \dfrac{\varphi}{t} \thinspace | \Rightarrow \upsilon = \omega R$$</p1>
+</td>
+</tr>
+</table></div></div>
+</li>
 </ul>
 <ol start="6">
-<div class="space"><li><b>Доцентрове прискорення</b> $$a_Д \thinspace (\text{м/c}^2)$$ - прискорення, що у будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$\upsilon$$</div>
+<div class="space"><li><b>Доцентрове прискорення</b> $$a_Д \thinspace (\text{м/c}^2)$$ - прискорення, що у будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$\upsilon.$$</div>
 <div class="space" align="center">$$a_Д = \dfrac{\upsilon^2}{R}$$</div>
 
-<div class="space">Якщо цiкавитесь детальним виведенням цiєї формули, розберiть наступний пiдпункт.</div></li>
+Якщо цiкавитесь детальним виведенням цiєї формули, розберiть наступний пiдпункт.</li>
 </ol>
 
 <div class="task-wrap">
