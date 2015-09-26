@@ -1,7 +1,7 @@
 #Зміст
 
 1. [Вступне слово](book/vstupne_slovo.md)
-* [Одновимірна кінематика](book/chapter_1/1vstup.md)
+* [Одновимірна кінематика](book/first_chapters/1vstup.md)
    1. [Вступ до кінематики](book/first_chapters/1vstup.md)
        * [Механічний рух](book/first_chapters/2mehanichnii_ruh.md)
        * [Основні поняття](book/first_chapters/3osnovni_ponyattya.md)
@@ -17,7 +17,7 @@
        * [Прискорення та гальмування](book/chapter_2/3priskorennya.md)
        * [Рiвняння рiвноприскореного прямолiнiйного руху](book/chapter_2/4rivnyannya.md)
    * [Вертикальний рух пiд дiєю сили тяжiння](book/chapter_2/5vertikalnii.md)
-* [Двовимірна кінематика](book/chapter_3/1teorya_dvovimrnogo_ruhu.md)
+* [Двовимірна кінематика](book/first_chapters/chapter_3/1teorya_dvovimrnogo_ruhu.md)
   1. [Теорія двовимірного руху](book/first_chapters/chapter_3/1teorya_dvovimrnogo_ruhu.md)
     * [Характер двовимірного руху](book/first_chapters/chapter_3/2harakter_dvovimrnogo_ruhu.md)
     * [Проекції швидкості](book/first_chapters/chapter_3/3proekts_shvidkost.md)
