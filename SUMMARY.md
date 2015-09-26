@@ -20,7 +20,7 @@
 * [Двовимірна кінематика](book/chapter_3/1teorya_dvovimrnogo_ruhu.md)
    * [Теорія двовимірного руху](book/first_chapters/chapter_3/1teorya_dvovimrnogo_ruhu.md)
        * [Характер двовимірного руху](book/first_chapters/chapter_3/2harakter_dvovimrnogo_ruhu.md)
-       * Проекції швидкості
+       * [Проекції швидкості](book/first_chapters/chapter_3/3proekts_shvidkost.md)
    * [Практична частина](book/chapter_3/4praktichna_chastina.md)
        * [Дальнiсть польоту, максимальна висота, час пiдняття](book/chapter_3/5dalnst_polotu,_maksimalna_visota,_chas_padnnya.md)
        * [Тіло, що кинуте горизонтально](book/chapter_3/6tilo,_scho_kinute_gorizontalno.md)
