@@ -14,73 +14,66 @@
 
 <div class="popup"> </div>
 <br>
-• <b>Проекцiя на вертикальну вiсь</b><br>
+<div class="space">• <b>Проекцiя на вертикальну вiсь</b><br>
 Як вже зазначалося, вздовж вертикальної вiсi маємо <b>рiвноприскорений рух</b>.
-У випадку, коли вiсь напрямлена вгору (у протилежному до напрямку прискорення вiльного падiння):
-<br>
-<div class="centered-table-wrapper">
+У випадку, коли вiсь напрямлена вгору (у протилежному до напрямку прискорення вiльного падiння):</div>
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\upsilon_y = \upsilon_{0y} - gt$$</p1>
 </td>
 </tr>
-</table></div>
-<br>
+</table></div></div>
 
-• <b>Проекцiя на горизонтальну вiсь</b>
+<div class="space">• <b>Проекцiя на горизонтальну вiсь</b>
 <br>
-У горизонтальному напрямку маємо <b>рiвномiрний рух</b>. Проекцiя швидкостi не змiнюється протягом всього руху.
-<br>
-<div class="centered-table-wrapper">
+У горизонтальному напрямку маємо <b>рiвномiрний рух</b>. Проекцiя швидкостi не змiнюється протягом всього руху.</div>
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\upsilon_x = \upsilon_{0x}$$</p1>
 </td>
 </tr>
-</table></div>
-<br>
+</table></div></div>
+<p></p>
 
 З вищезазначеного стає зрозумiлим, що проекцiя швидкостi на вiсь $$y$$ змiнюється протягом всього руху. Наприклад, на рисунку вище у першiй точцi $$\upsilon_y > 0$$, адже кут
 мiж дотичною та вiссю $$x$$ – гострий. У другiй точцi (верхня точка траєкторiї) $$\upsilon_y=0$$, кут дорiвнює нулю. У третiй точцi $$\upsilon_y < 0$$, кут – тупий.
-<br>
-<div class="space">Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швидкостi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon.$$</div>
-<img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" />
-<br>
-Iз тригонометричних спiввiдношень у прямокутному трикутнику:
-<br><div class="centered-table-wrapper">
+<p></p>
+<div class="space">Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швидкостi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon$$.</div>
+<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" /></div>
+<p></p>
+<div class="space">Iз тригонометричних спiввiдношень у прямокутному трикутнику:</div>
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\upsilon_x = \upsilon \cos \alpha; \ \upsilon_y = \upsilon \sin \alpha$$</p1>
 </td>
 </tr>
-</table></div>
-<br>
+</table></div></div>
 
-Iз теореми Пiфагора, знаючи проекцiї швидкостi, можемо знайти її модуль:
-<br><div class="centered-table-wrapper">
+<div class="space">Iз теореми Пiфагора, знаючи проекцiї швидкостi, можемо знайти її модуль:</div>
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\upsilon = \sqrt{\upsilon_x^2 + \upsilon_y^2}$$</p1>
 </td>
 </tr>
-</table></div>
-<br>
+</table></div></div>
 
-Кут мiж напрямом швидкостi та вiссю $$x$$ можна визначити також iз тригонометричних спiввiдношень.
-<br>
-<div class="centered-table-wrapper">
+<div class="space">Кут мiж напрямом швидкостi та вiссю $$x$$ можна визначити також iз тригонометричних спiввiдношень.</div>
+<div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$tg \alpha = \dfrac{\upsilon_y}{\upsilon_x}$$</p1>
 </td>
 </tr>
-</table></div>
-<br>
+</table></div></div>
 
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>РОБОТА З ГРАФIКАМИ</b>
