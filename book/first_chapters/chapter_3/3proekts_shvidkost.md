@@ -46,37 +46,41 @@
 мiж дотичною та вiссю $$x$$ – гострий. У другiй точцi (верхня точка траєкторiї) $$\upsilon_y=0$$, кут дорiвнює нулю. У третiй точцi $$\upsilon_y < 0$$, кут – тупий.
 <br>
 <div class="space">Вiднайти кожну з проекцiй у данiй точцi можна знаючи модуль миттєвої швидкостi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon.$$</div>
-<div class="space"><img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" /></div>
-<p></p>
+<img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" />
+<br>
 Iз тригонометричних спiввiдношень у прямокутному трикутнику:
-<div class="space"><div class="centered-table-wrapper">
+<br><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\upsilon_x = \upsilon \cos \alpha; \ \upsilon_y = \upsilon \sin \alpha$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table></div>
+<br>
 
 Iз теореми Пiфагора, знаючи проекцiї швидкостi, можемо знайти її модуль:
-<div class="space"><div class="centered-table-wrapper">
+<br><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\upsilon = \sqrt{\upsilon_x^2 + \upsilon_y^2}$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table></div>
+<br>
 
 Кут мiж напрямом швидкостi та вiссю $$x$$ можна визначити також iз тригонометричних спiввiдношень.
-<div class="space"><div class="centered-table-wrapper">
+<br>
+<div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$tg \alpha = \dfrac{\upsilon_y}{\upsilon_x}$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table></div>
+<br>
 
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>РОБОТА З ГРАФIКАМИ</b>
