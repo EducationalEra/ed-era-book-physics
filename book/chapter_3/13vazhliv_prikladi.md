@@ -119,7 +119,7 @@
 </li>
 <li>
 Частини (наприклад, рiзного радiуса) одного i того самого тiла мають <b>однаковi кутовi швидкостi,</b> адже кут повороту за промiжок часу однаковий для всiх точок на тiлi.
-<div align="center" class="space">$$\omega_3 = \omega_4 \Rightarrow T_3 = T_4$$</div>
+<div align="center">$$\omega_3 = \omega_4 \Rightarrow T_3 = T_4$$</div>
 <div align="center">$$\omega_1 = \omega_2 \Rightarrow T_1 = T_2$$</div>
 </li>
 </ul>
