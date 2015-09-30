@@ -8,9 +8,9 @@
 
 <span class="p1">Проекція переміщення:</span> $$S_x = S_{\text{трикутника}} + S_{\text{прямокутника}}$$
 
-$$S_{\text{трикутника}} = \dfrac{h\cdot a}{2} = \dfrac{(\upsilon_x-\upsilon_{0x})(t_2-t_1)}{2}=\dfrac{(\upsilon_x-\upsilon_{0x})\Delta t}{2} = \dfrac{(\upsilon_x-\upsilon_{0x})\Delta t\cdot\Delta t}{2\Delta t}=\dfrac{a\Delta t^2}{2}$$
+$$S_{\text{трикутника}} = \dfrac{h\cdot a}{2}$$ $$= \dfrac{(\upsilon_x-\upsilon_{0x})(t_2-t_1)}{2}$$  $$=\dfrac{(\upsilon_x-\upsilon_{0x})\Delta t}{2}$$ $$= \dfrac{(\upsilon_x-\upsilon_{0x})\Delta t\cdot\Delta t}{2\Delta t}$$ $$=\dfrac{a\Delta t^2}{2}$$
 
-$$S_{\text{прямокутника}} = (\upsilon_x-\upsilon_{0x})(t_2-t_1)=\upsilon_{0x}(t_2-t_1) = \upsilon_{0x}\Delta t \Rightarrow \boxed{S_x=\upsilon_{0x}\Delta t + \dfrac{a \Delta t^2}{2}}$$
+$$S_{\text{прямокутника}} = (\upsilon_x-\upsilon_{0x})(t_2-t_1)$$ $$=\upsilon_{0x}(t_2-t_1) $$$$= \upsilon_{0x}\Delta t \Rightarrow $$$$ \boxed{S_x=\upsilon_{0x}\Delta t + \dfrac{a \Delta t^2}{2}}$$
 
 Проекція переміщення дорівнює різниці між координатою початку руху і кінця руху $$\rightarrow S_x=x - x_0$$, підставляючи цей вираз у вираз для переміщення, отримуємо рівняння рівноприскореного прямолінійного руху.
 
