@@ -33,14 +33,14 @@
 <li>Знайти результуючу швидкiсть Петра i помножити на час $$t$$:</li></br>
 
 
-<center> $$ \vec{\upsilon}_{п/з} = \vec{\upsilon}_{п/р} + \vec{\upsilon}_{р/з} \Rightarrow $$
- $$\upsilon_{п/з} = \sqrt{(\vec{\upsilon}_{п/р})^2 + (\vec{\upsilon}_{р/з})^2} = \sqrt{3^2 +4^2} = 5 \thinspace (м/с) $$ </br>
+<center> $$ \vec{\upsilon}_{п/з} = \vec{\upsilon}_{п/р} + \vec{\upsilon}_{р/з}  \Rightarrow $$
+ $$\upsilon_{п/з} = \sqrt{(\vec{\upsilon}_{п/р})^2 + (\vec{\upsilon}_{р/з})^2} =$$ $$ \sqrt{3^2 +4^2} = 5 \thinspace (м/с) $$ </br>
 <p> </p>
 $$ L = \upsilon_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thinspace \text{м}$$</center></br>
 
 <li>Через вiдомi модулi перемiщень (формула аналогiчна):</li>
 <p> </p>
-<center>$$L = \sqrt{l^2 + d^2} = \sqrt{50^2 +37.5^2} = \sqrt{3906.25} = 62.5 \thinspace \text{м}$$</center>
+<center>$$L = \sqrt{l^2 + d^2} = \sqrt{50^2 +37.5^2}$$$$ = \sqrt{3906.25} = 62.5 \thinspace \text{м}$$</center>
 </ol>
 
 </div>
@@ -61,9 +61,9 @@ $$ L = \upsilon_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5
 
 Нехай швидкість першого човна $$\vec{\upsilon}_1 = 3 \thinspace  м/с$$, другого – $$\vec{\upsilon}_2 = 4 \thinspace м/с$$. Відносну швидкість човнів $$\vec{\upsilon}$$ можна знайти за правилом паралелограма для суми векторів  $$\vec{\upsilon} = \vec{\upsilon}_1 + \vec{\upsilon}_2$$. Модуль (величину) цієї швидкості у випадку даної задачі можна знайти за теоремою Піфагора, оскільки човни рухаються перпендикулярно один одному:
 
-\[|\thinspace \vec{\upsilon} \thinspace| = \sqrt{(\vec{\upsilon}_1})^2 + (\vec{\upsilon}_2})^2}\] 
-
-\[|\thinspace \vec{\upsilon} \thinspace| = \sqrt{3^2 + 4^2} = 5\thinspace м/с\]
+$$|\thinspace \vec{\upsilon} \thinspace| = \sqrt{(\vec{\upsilon}_1)^2 + (\vec{\upsilon}_2)^2}$$
+<br>
+$$|\thinspace \vec{\upsilon} \thinspace| = \sqrt{3^2 + 4^2} = 5\thinspace м/с$$
 
 </explanation>
 </question>
