@@ -24,7 +24,7 @@
 
 <div class="space" align="center">$$-mg \cos \alpha + N = 0 \Rightarrow N = mg \cos \alpha$$</div>
 
-<div class="space"><p class="p3">Нагадую, що в момент зрушення тiла $$F_T = \mu N$$. Пiдставимо у вираз для сили тертя:</p></div>
+<div class="space"><p class="p3">Згадаємо, що в момент зрушення тiла $$F_T = \mu N$$. Пiдставимо у вираз для сили тертя:</p></div>
 
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -39,7 +39,7 @@
 
 <div class="space"><p class="p3"><font color="red"><b>Важливо $${\Large!}$$</b></font> Коефiцiєнт тертя <b>не залежить</b> вiд маси тiла та площi стику поверхонь.</p></div>
 
-<div class="space" align="center"><span class="p1"><b>Коефiцiєнт тертя залежить лише вiд матерiалiв стичних поверхонь.</b></span></div>
+<div class="space" align="center"><span class="p1"><b>Коефiцiєнт тертя залежить лише вiд матерiалiв стикових поверхонь.</b></span></div>
 
 <div align="center"><b><span class="p1">Експеримент 2:</span> в який бiк рухається система?</b></div>
 
@@ -89,7 +89,7 @@
 
 <div class="space">Знову-таки сила натягу однакова для першого i другого тiла.</div>
 
-<div class="space"><span class="p1"><b>Умова руху другого тiла вниз:</b></span></div>
+<div class="space"><span class="p1"><b>Умова руху другого тiла вгору:</b></span></div>
 
 <div class="centered-table-wrapper">
 <table class="centered-table">
