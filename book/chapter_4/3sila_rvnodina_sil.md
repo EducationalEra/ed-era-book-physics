@@ -35,7 +35,7 @@
 
 <div class="space" align="center">$$\vec{F_{ }} = \vec{F_1} + \vec{F_2} + \vec{F_3} + \vec{F_4}$$</div>
 
-<div class="space">Зручно спочатку просумувати вектори, що напрямленi вертикально та горизонтально, а потiм виконати суму отриманих векторiв.</div>
+<div class="space">Зручно спочатку просумувати вектори, що напрямленi вертикально та горизонтально, а потiм знайти суму отриманих векторiв.</div>
 
 <div class="space"><img class="image" width="290" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/4.png"></div>
 
