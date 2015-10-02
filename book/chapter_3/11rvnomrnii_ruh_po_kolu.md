@@ -91,7 +91,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$l = R \varphi \Rightarrow |: t \ | \Rightarrow \dfrac{l}{t} = R \dfrac{\varphi}{t} \Rightarrow | \thinspace \upsilon = \dfrac{l}{t}, \thinspace \omega = \dfrac{\varphi}{t} \thinspace | \Rightarrow \upsilon = \omega R$$</p1>
+<p1>$$l = R \varphi \Rightarrow |: t \ | $$$$\Rightarrow \dfrac{l}{t}$$$$ = R \dfrac{\varphi}{t} \Rightarrow | \thinspace \upsilon $$$$= \dfrac{l}{t}, \thinspace \omega $$$$= \dfrac{\varphi}{t} \thinspace | $$$$\Rightarrow \upsilon$$$$ = \omega R$$</p1>
 </td>
 </tr>
 </table></div></div>
