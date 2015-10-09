@@ -1,5 +1,9 @@
 # Iнертнiсть та маса
 
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S8t7St9F8UE" frameborder="0" allowfullscreen></iframe>
+</div></div>
+
 <div class="space">Напевно, усi з вас їздили у громадському транспортi. Страшна рiч, коли ви не маєте можливостi триматись за поручень, а водiй гальмує занадто швидко i вас «кидає» у сторону руху транспорту. Можлива i протилежна ситуацiя, транспорт iз стану спокою починає набирати швидкiсть великими темпами, тодi вас «кидає» у сторону протилежну до руху транспорту.</div>
 
 <div class="space"><img class="image" width="450" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/2.png"></div>
