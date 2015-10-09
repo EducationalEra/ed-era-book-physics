@@ -24,3 +24,9 @@
 <span class="p1"><b>SI:</b></span> кг
 </div>
 </div>
+
+<div class="space" align="center"><span class="p1"><b>Демонстрація інерції</b></span></div>
+
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWZuvcR2R40" frameborder="0" allowfullscreen></iframe>
+</div></div>
