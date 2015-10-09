@@ -2,6 +2,10 @@
 
 <div align="center"><span class="p1"><b><font size="5">Сучасне формулювання</font></b></span></div>
 
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6WCxmgLJ5TI" frameborder="0" allowfullscreen></iframe>
+</div></div>
+
 <div class="space"><font size="4"><i>« В iнерцiйній системi вiдлiку прискорення, що отримує матерiальна точка незмiнної маси, прямопропорцiйне рiвнодiйнiй сил, що дiють на неї та оберенено пропорцiйне масi цiєї точки. »</i></font></div>
 
 <ul>
