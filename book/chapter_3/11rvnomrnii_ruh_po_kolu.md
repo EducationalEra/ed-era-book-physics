@@ -18,7 +18,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VVSbvaZkn4" frameborder="0" allowfullscreen></iframe>
 </div></div>
 
-На рисунку зображено рiвномiрний рух тiла по колу та   положення точки у два моменти часу $$t_1$$ та $$t_2$$.
+На рисунку зображено рiвномiрний рух тiла по колу та положення точки у два моменти часу $$t_1$$ та $$t_2$$.
 
 <p class="p3"><b><span class="p1">Основнi характеристики та величини:</span></b></p>
 <ol>
