@@ -1,5 +1,9 @@
 # Реакцiя опори та пiдвiсу
 
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7wavl0Xq0eQ" frameborder="0" allowfullscreen></iframe>
+</div></div>
+
 <div class="space"><span class="p1"><b>Перед вами двi ситуацiї $$\rightarrow$$</b></span></div>
 
 <div class="space"><img class="image" width="483" height="258" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/11.png"></div>
