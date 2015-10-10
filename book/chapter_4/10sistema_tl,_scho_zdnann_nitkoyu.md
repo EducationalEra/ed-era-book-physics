@@ -45,3 +45,25 @@
 <div align="center">$$m_1 = 0 \rightarrow a = g \dfrac{m_2}{m_2} = g$$</div>
 </li>
 </ul>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Для задачі, що розглядалась, маса ліфта з людиною становить $$200$$ кг, а маса залізного блоку - $$900$$ кг. Знайдіть прискорення ліфта.</p>
+
+<answer>$$4 \thinspace \text{м/с}^2$$</answer> 
+<answer>$$5 \thinspace \text{м/с}^2$$</answer>
+<answer>$$6 \thinspace \text{м/с}^2$$</answer>
+<answer correct>$$7 \thinspace \text{м/с}^2$$</answer>
+<explanation>
+Прирівнявши сили натягу тросу, отримуємо:
+<br>
+$$m_1(g + a) = m_2(g - a)$$
+<br>
+$$200 \cdot (10 + a) = 900 \cdot (10 - a)$$
+<br>
+$$20 + a = 90 - 9a$$
+<br>
+$$a = 7 \thinspace \text{м/с}^2$$
+</explanation>
+</question>
+</quiz>
