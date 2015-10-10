@@ -44,3 +44,21 @@
 Отже, якщо пружини з’єднанi послiдовно, то їх можна замiнити однiєю пружиною, коефiцiєнт жорсткостi якої можна розрахувати за допомогою вищезазначеної формули.
 </li>
 </ol>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Пружину жорсткістю $$250$$ Н/м стискають з силою $$4$$ Н. Знайдіть зміну довжини пружини.</p>
+ 
+<answer>1,6 м</answer>
+<answer>6 м</answer>
+<answer>6 см</answer>
+<answer correct>1,6 см</answer>
+<explanation>
+Закон Гука: $$F = k \Delta x$$
+<br>
+Тобто: $$\Delta x = \dfrac{F}{k} = $$$$\dfrac{4}{250} = $$$$0,016 \thinspace \text{м}$$
+<br>
+Пружину стиснули на $$1,6$$ см.
+</explanation>
+</question>
+</quiz>
