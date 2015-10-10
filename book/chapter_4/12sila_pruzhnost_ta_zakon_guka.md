@@ -10,7 +10,9 @@
 </div>
 </div>
 
-<div class="space"><img class="image" width="440" height="166" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/18.png">
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otU1LpSd224" frameborder="0" allowfullscreen></iframe>
+</div></div>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
