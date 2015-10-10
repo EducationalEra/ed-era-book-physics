@@ -1,6 +1,6 @@
 # Сила: рiвнодiйна сила
 
-Центральне поняття динамiки – <span class="p1"><b>сила</b></span>.
+<div class="space">Центральне поняття динамiки – <span class="p1"><b>сила</b></span>.</div>
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PDM5EA7IYOY" frameborder="0" allowfullscreen></iframe>
@@ -17,7 +17,7 @@
 
 <div class="space" align="center">$$\vec{F_{ }} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$</div>
 
-<span class="p1"><b>SI:</b></span> Н <i>(Ньютон)</i>
+<span class="p1"><b>SI:</b></span><i> Н (Ньютон)</i>
 
 </div>
 </div>
