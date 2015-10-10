@@ -1,12 +1,14 @@
 # Рух у лiфтi
 
-<div class="space"><img class="image" width="436" height="156" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/14.png"></div>
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffDSJQCOd6I" frameborder="0" allowfullscreen></iframe>
+</div></div>
 
 Розглядаємо три випадки руху в лiфтi: рiвномiрний або стан спокою, рiвноприскорений (вгору), рiвноприскорений (вниз). Оцiнимо, як будуть вiдрiзнятися покази ваги.
 
 На тiло дiє всього двi сили: сила тяжiння $$\vec{F_Т} = m \vec{g}$$ та сила реакцiї опори $$\vec{N_{}}$$.
 
-Другий закон Ньютона:
+<b>Другий закон Ньютона:</b>
 
 <div class="space" align="center">$$\vec{N_{}} + m \vec{g} = m \vec{a}$$</div>
 
