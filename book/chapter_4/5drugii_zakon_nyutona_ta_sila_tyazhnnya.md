@@ -2,10 +2,6 @@
 
 <div align="center"><span class="p1"><b><font size="5">Сучасне формулювання</font></b></span></div>
 
-<div class="space"><div class="fluidMedia">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6WCxmgLJ5TI" frameborder="0" allowfullscreen></iframe>
-</div></div>
-
 <div class="space"><font size="4"><i>« В iнерцiйній системi вiдлiку прискорення, що отримує матерiальна точка незмiнної маси, прямопропорцiйне рiвнодiйнiй сил, що дiють на неї та оберенено пропорцiйне масi цiєї точки. »</i></font></div>
 
 <ul>
@@ -17,13 +13,11 @@
 </li>
 </ul>
 
-<div class="space">Розглянемо такий приклад. Абстрагуйтеся вiд притягання землi, вiд сили тертя тощо. Ви штовхаєте з однаковою силою $$\vec{F_{}}$$ по черзi два ящики. Один з них має бiльшу масу $$M$$, другий – меншу $$m$$. Очевидно, що першому ящику ви зможете надати  бiльше прискорення, нiж другому.</div>
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6WCxmgLJ5TI" frameborder="0" allowfullscreen></iframe>
+</div></div>
 
-<div class="space"><img class="image" width="460" height="70" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/7.png"></div>
-
-Обов’язковим для розумiння також є те, що прискорення, яке надане тiлу спiвпадає по напрямку з рiвнодiйною силою.
-
-<div class="p3"><font color="red">$${\Large!}$$</font> Ми розглядали, що прискорення вiльного падiння $$\vec{g}$$ дiє на тiла поблизу поверхнi Землi. Воно напрямлене вертикально вниз i виникає внаслiдок закону всесвiтнього тяжiння (ми ще будемо його розбирати пiзнiше у курсi).</div>
+<p class="p3"><font color="red">$${\Large!}$$</font> Ми розглядали, що прискорення вiльного падiння $$\vec{g}$$ дiє на тiла поблизу поверхнi Землi. Воно напрямлене вертикально вниз i виникає внаслiдок закону всесвiтнього тяжiння (ми ще будемо його розбирати пiзнiше у курсi).</div>
 
 <div align="center" class="space"><span class="p1">Сила тяжiння = $$\vec{F_{}} = m \vec{g}$$</span></div>
 
