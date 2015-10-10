@@ -55,3 +55,17 @@
 </div>
 </div>
 
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>На тіло діють дві сили. Перша - напрямлена вгору і дорівнює $$4 \thinspace H$$, друга - напрямлена вправо і дорівнює $$3 \thinspace H$$. Чому дорівнює рівнодійна сила?</p>
+ 
+<answer>7 H</answer>
+<answer correct>5 H</answer>
+<answer>4.5 H</answer>
+<answer>6 H</answer>
+<explanation>
+З теореми Піфагора:
+$$|\vec{F_{}}| = \sqrt{F_1^2 + F_2^2} = \sqrt{4^2 + 3^2} = \sqrt{25} = 5$$ (Н).
+</explanation>
+</question>
+</quiz>
