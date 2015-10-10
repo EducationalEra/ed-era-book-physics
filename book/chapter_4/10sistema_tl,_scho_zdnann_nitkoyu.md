@@ -1,7 +1,7 @@
 # Система тiл, що з’єднанi ниткою
-<div class="space">Уявiть блок, що обертається. Через нього перекинута нерозтяжна нитка, на якiй з двох сторiн закрiпленi тіла рiзної маси $$m_2 > m_1$$. Завдяки різниці мас тіл виникає прискорення.</div>
-
-<div class="space"><img class="image" width="250" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/16.png"></div>
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7wavl0Xq0eQ" frameborder="0" allowfullscreen></iframe>
+</div></div>
 
 <div class="space">Перше, що важливо. Якщо сказано, що <b>нитка</b> нерозтяжна, сила натягу $$T$$ у будь-якiй її точцi <b>однакова.</b> За третiм законом Ньютона вага дорiвнює силi натягу нитки. Виходить, що для даного випадку <span class="p1"><b>вага у двох тiл рiзної маси однакова.</b></span> Це дуже важливий концептуальний момент. <span class="p1"><b>Не плутайте масу з вагою!</b></span></div>
 
