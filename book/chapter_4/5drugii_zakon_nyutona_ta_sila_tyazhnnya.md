@@ -41,3 +41,15 @@
 </div>
 </div>
 
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>На два тіла масами $$m_1 = 3 \thinspace$$кг та $$m_2 = 12 \thinspace$$кг діє однакова сила $$F = 4 \thinspace$$Н. Як відрізнятимуться прискорення набуті тілами в результаті дії сили?</p>
+ 
+<answer>Прискорення тіла $m_2$ у 4 рази більше, ніж тіла $m_1$</answer>
+<answer>Прискорення тіл рівні між собою</answer>
+<answer correct>Прискорення тіла $m_2$ у 4 рази менше, ніж тіла $m_1$</answer>
+<explanation>
+Прискорення обернено пропорційне масі та прямо пропорційне силі: $a=Fm$. Оскільки сили рівні, то прискорення тіла $m_2$ буде у 4 рази менше, ніж у тіла $m_1$.
+</explanation>
+</question>
+</quiz>
