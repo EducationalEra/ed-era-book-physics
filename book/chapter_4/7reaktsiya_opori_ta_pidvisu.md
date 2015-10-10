@@ -1,4 +1,8 @@
 # Реакцiя опори та пiдвiсу
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7wavl0Xq0eQ" frameborder="0" allowfullscreen></iframe>
+</div></div>
+
 <div class="space"><span class="p1"><b>Перед вами двi ситуацiї $$\rightarrow$$</b></span></div>
 
 <div class="space"><img class="image" width="483" height="258" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/11.png"></div>
@@ -23,3 +27,16 @@
 <div class="space"><p class="p3">Зображувати дiю усiх сил на центр тiла можна у випадку розгляду тiл, як матерiальних точок. В цьому курсi виключення будуть вказанi.</p></div>
 
 <div class="space"><img class="image" width="484" height="283" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/12.png"></div>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>М'яч кидають у горизонтальну стелю. Куди буде напрямлена сила реакції опори в момент удару?</p>
+ 
+<answer>Вертикально вверх</answer>
+<answer>Залежіть від кута під яким м'яч вдаряє стелю</answer>
+<answer correct>Вертикально вниз</answer>
+<explanation>
+Оскільки м'яч діє на стелю вертикально вверх, то сила реакції опори буде напрямлена вертикально вниз.
+</explanation>
+</question>
+</quiz>
