@@ -18,7 +18,7 @@
 
 <p class="p3">Другий закон Ньютона в проекцiї на вісь $$y$$:</p>
 
-<div class="space" align="center">$$N - mg = 0 \Rightarrow N = mg$$</div>
+<div class="space" align="center">$$N - mg = 0 \Rightarrow$$$$ N = mg$$</div>
 
 Третiй закон Ньютона:
 
@@ -29,7 +29,7 @@
 
 <p class="p3">Другий закон Ньютона в проекцiї на вісь $$y$$:</p>
 
-<div class="center" align="center">$$N - mg = -ma \Rightarrow N = m(g - a)$$</div>
+<div class="center" align="center">$$N - mg = -ma \Rightarrow$$$$ N = m(g - a)$$</div>
 
 Третiй закон Ньютона:
 
@@ -41,7 +41,7 @@
 
 <p class="p3">Другий закон Ньютона в проекцiї на вісь $$y$$:</p>
 
-<div class="space" align="center">$$N - mg = ma \Rightarrow N = m(g + a)$$</div>
+<div class="space" align="center">$$N - mg = ma \Rightarrow$$$$ N = m(g + a)$$</div>
 
 Третiй закон Ньютона:
 
@@ -63,10 +63,38 @@
 </div>
 
 В нашому прикладi з лiфтом тiло перебувало би у станi невагомостi, якщо б вiн рухався вниз з прискорення $$\vec{g}$$.
-<div class="space" align="center">$$P = N = m(g - a) = | \thinspace a = g \thinspace| = 0$$</div>
+<div class="space" align="center">$$P = N = m(g - a) $$$$= | \thinspace a = g \thinspace| $$$$= 0$$</div>
 
 <div class="space"><img class="image" width="258" height="201" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/15.png"></div>
 
 <div class="space">Полум’я свiчки при звичайних умовах та при невагомостi <i>(знiмок з сайту [NASA](https://www.nasa.gov/)).</i></div>
 
 <p class="p3">З iншого боку збiльшення ваги внаслiдок прискорення називають <span class="p1"><b>перевантаженням.</b></span> Часто, наприклад, при виконаннi трюкiв на лiтаках перевантаження вимiрюють в кiлькостi $$g$$, наприклад, при польотi на спортивних лiтаках досягається перевантаження $$10g$$. Це означає, що вага при цьому $$10mg$$.</p>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Знайдіть величину перевантаження, що відчуває космонавт під час зльоту ракети масою $2,2$ мільйони кілограмів. Тяга - сила, що виробляється двигунами і штовхає ракету - становить $37,5$ мільйони ньютонів.</p>
+ 
+<answer>0,7 g</answer>
+<answer>1,3 g</answer>
+<answer>1,5 g</answer>
+<answer correct>1,7 g</answer>
+<explanation>
+Результуюча сила, що діє на ракету дорівнюватиме різниці тяги і сили тяжіння: $$ma = F_{тяг} - mg$$
+<br>
+Звідки отримуємо прискорення ракети і усіх космонавтів у ній:
+<br>
+$$a = \dfrac{F_{тяг}-mg}{m} =$$$$\dfrac{37.5 \cdot 10^6 - 22 \cdot 10^6}{2,2} \approx$$$$ 7 \thinspace \text{м/с}^2 $$
+<br>
+Це прискорення становитиме $0,7$ прискорення вільного падіння. Вага космонавтів під час зльоту буде ставновити:
+<br>
+$$P = m_{к}g + m_{к}a= m_{к}(g + a)$$
+<br>
+А вага у стані спокою на Землі: $$P_c = m_{к}g$$
+<br>
+Їх відношення і дасть нам величину певантаження, що відчувають космонавти під час зльоту ракети:
+<br>
+$$\dfrac{P}{P_c} =$$$$ \dfrac{m_{к}(g+a)}{m_{к}g} =$$$$ \dfrac{g+a}{g} \approx$$$$ 1,7$$
+</explanation>
+</question>
+</quiz>
