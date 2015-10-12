@@ -36,3 +36,16 @@
 <div align="center">$$0 \le F_T^c \le \mu_c N$$</div>
 </div>
 </div>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Брусок масою $$15$$ кг лежить на поверхні з коефіцієнтом тертя спокою $$\mu_c=0,5$$ і коефіцієнтом тертя ковзання $$\mu_к=0,3$$.</p>
+ 
+<answer>Прискорення тіла $m_2$ у 5 раз більше, ніж тіла $m_1$</answer>
+<answer>Прискорення тіл рівні між собою</answer>
+<answer correct>Прискорення тіла $m_2$ у 5 раз менше, ніж тіла $m_1$</answer>
+<explanation>
+Прискорення обернено пропорційне масі та прямо пропорційне силі: $a=Fm$. Оскільки сили рівні, то прискорення тіла $m_2$ буде у 5 раз менше, ніж у тіла $m_1$.
+</explanation>
+</question>
+</quiz>
