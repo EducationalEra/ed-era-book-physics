@@ -55,6 +55,10 @@
 <div class="task-text">
 <div class="space">Уявiть ситуацiю: вам потрiбно покатати на санках маленького Петра (iм’я не впливає на розв’язок задачi). У якому випадку вам потрiбно прикласти меншу силу, щоб з постiйною швидкiстю везти санки?</div>
 
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rp2R0e6M51Y" frameborder="0" allowfullscreen></iframe>
+</div></div>
+
 <div class="space"><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></div>
 
 <div class="space">Давайте зобразимо всi дiючi сили на санки у двох випадках.</div>
