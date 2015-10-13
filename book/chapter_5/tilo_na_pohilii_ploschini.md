@@ -103,3 +103,8 @@
 </ul>
 
 <div align="center"><span class="p1"><b>Рекомендуємо подивитися наш експеримент, який покаже цікаве застосування сили тертя на практиці ;)</b></span></div>
+
+<div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aple_qWVgA0" frameborder="0" allowfullscreen></iframe>
+</div>
+
