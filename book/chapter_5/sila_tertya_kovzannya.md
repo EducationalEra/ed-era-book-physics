@@ -109,3 +109,19 @@
 <b>Вiдповiдь: тягти.</b>
 </div>
 </div>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Брусок масою $$15$$ кг лежить на поверхні з коефіцієнтом тертя спокою $$\mu_c=0,5$$ і коефіцієнтом тертя ковзання $$\mu_к=0,3$$. Чи вистачить сили 55 Н, щоб рухати брусок?</p>
+ 
+<answer>Ні</answer>
+<answer correct>Так</answer>
+<explanation>
+Вага бруска: $$N = mg = 150 \thinspace H$$
+<br>
+Сила тертя ковзання: $$F_{к} = \mu_к N = 0,3 \cdot 150 = 45 \thinspace H$$
+<br>
+Отже сила тертя ковзання менша за прикладені 55 Н, і брусок може рухатись під дією цієї сили.
+</explanation>
+</question>
+</quiz>
