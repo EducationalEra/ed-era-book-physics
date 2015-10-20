@@ -15,7 +15,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$F_Н = m a_Д = m \dfrac{\upsilon^2}{R}$$</p1>
+<p1>$$F_H = m a_Д = m \dfrac{\upsilon^2}{R}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -26,16 +26,16 @@
 
 За другим законом Ньютона:
 
-<div class="space" align="center">$$m \vec{g} + \vec{F_н} = m \vec{a}$$</div>
+<div class="space" align="center">$$m \vec{g} + \vec{F_H} = m \vec{a}$$</div>
 
-<div class="space">$$Ox \ : \ F_Н \sin \alpha = ma = m \dfrac{\upsilon^2}{R}$$ – горизонтальна складова $$F_Н$$ визначає $$a_Д$$.</div>
+<div class="space">$$Ox \ : \ F_H\sin \alpha = ma = m \dfrac{\upsilon^2}{R}$$ – горизонтальна складова $$F_H$$ визначає $$a_Д$$.</div>
 
 <div class="space">$$Oy \ : \ T \cos \alpha - mg = 0$$ – чим бiльше маса тiла, тим гострiше кут $$\alpha$$.</div>
 
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ШВИДКIСТЬ ТА ПЕРIОД ОБЕРТАННЯ</b>
 <div class="task-text">
-<div class="space">Кулька масою 1 кiлограм обертається у горизонтальнiй площинi на нитцi довжиною 2 метри. Кут, який утворює нитка з вертикаллю – 30º.</div>
+<div class="space">Кулька масою $$1$$ кiлограм обертається у горизонтальнiй площинi на нитцi довжиною $$2$$ метри. Кут, який утворює нитка з вертикаллю – $$30^\circ$$.</div>
 
 <div class="space"><img class="image" width="238" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/7.png"></div>
 
@@ -43,15 +43,15 @@
 
 <b><i>Розв’язок.</i></b> Запишемо 2 закон Ньютона:
 
-<div class="space" align="center">$$m \vec{g} + \vec{F_Н} = m \vec{a_Д}$$</div>
+<div class="space" align="center">$$m \vec{g} + \vec{F_H} = m \vec{a_Д}$$</div>
 
 <div class="space">Сила натягу нитки має вертикальну i горизонтальну складову. Пам’ятайте, що саме горизонтальна складова створює доцентрове прискорення i задає характер руху по колу.</div>
 
-<div class="space"><b>Проекцiя на x:</b> $$F_Н \sin \alpha = m a_Д \Rightarrow a_Д = \dfrac{F_н \sin \alpha}{m}$$</div>
+<div class="space"><b>Проекцiя на x:</b> $$F_H \sin \alpha = m a_Д \Rightarrow a_Д = \dfrac{F_H \sin \alpha}{m}$$</div>
 
-<div class="space"><b>Проекцiя на y:</b> $$F_Н \cos \alpha - mg = 0 \Rightarrow F_н = \dfrac{mg}{\cos \alpha}$$</div>
+<div class="space"><b>Проекцiя на y:</b> $$F_H \cos \alpha - mg = 0 \Rightarrow F_H = \dfrac{mg}{\cos \alpha}$$</div>
 
-<div class="space">Пiдставивши $$F_Н$$ з другого рiвняння у перше, отримаємо вираз для <b>доцентрового прискорення:</b></div>
+<div class="space">Пiдставивши $$F_H$$ з другого рiвняння у перше, отримаємо вираз для <b>доцентрового прискорення:</b></div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -75,7 +75,7 @@
 </tr>
 </table></div></div>
 
-<div class="space"><b>Перiод коливань $$T$$</b> – це час, за який кулька здiйснює повний оберт, iншими словами тiло проходить все коло ($$2 \pi R$$) зі швидкістю $$\upsilon$$ за час $$T$$.</div>
+<div class="space"><b>Перiод коливань $$T$$</b> – це час, за який кулька здiйснює повний оберт, iншими словами тiло проходить все коло $$(2 \pi R)$$ зі швидкістю $$\upsilon$$ за час $$T$$.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -108,15 +108,15 @@
 
 <div class="space"><img class="image" width="404" height="177" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/9.png"></div>
 
-<div class="space" align="center">$$m \vec{g} + \vec{F_{н1}} = m \vec{a}$$</div>
+<div class="space" align="center">$$m \vec{g} + \vec{F_{H1}} = m \vec{a}$$</div>
 </li>
 <div class="space"><li>Обераємо вiсi та проектуємо (в даному випадку на $$y$$):</div>
 
-<div class="space" align="center">$$mg + F_{н1} = m \dfrac{\upsilon^2}{R}$$</div>
+<div class="space" align="center">$$mg + F_{H1} = m \dfrac{\upsilon^2}{R}$$</div>
 </li>
 <div class="space"><li>Наступнi кроки залежать вiд того, що дано в умовi. Наприклад, в умовi дано швидкiсть, масу, радiус кола (чи довжину нитки), а треба знайти силу натягу нитки.</div>
 
-<div class="space" align="center">$$F_{н1} = m (g + \dfrac{\upsilon^2}{R})$$</div>
+<div class="space" align="center">$$F_{H1} = m (g + \dfrac{\upsilon^2}{R})$$</div>
 
 <div class="space"><b>P.S.</b> Якщо крутити кульку зображеним вище чином, то можлива ситуацiя виходу кульки iз колової траєкторiї. Це можливо, якщо ви не надали кульцi достатньої швидкостi. У випадку точки 1, кулька може не пройти коло i почати летiти вниз. Коли ми маємо справу з ниткою, це означає, що сила натягу нитки дорiвнює нулю. Можна отримати <b>мiнiмальну швидкiсть</b>, з якою потрiбно обертати кульку, щоб вона <b>«пройшла» коло певного радiусу</b>. Для цього в рiвняннi iз п.2 силу натягу нитки прирiвнюємо до нуля.</div>
 
