@@ -7,7 +7,9 @@
 Обертання тiла на нитцi в горизонтальнiй площинi</b></span>
 <div class="space">При обертаннi тiла, прикрiпленого до нитки, на нього діє сила натягу. Вона напрямлена до центра кола та створює доцентрове прискорення.</div>
 
-<div class="space"><img class="image" width="412" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/5.png"></div>
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mx0mMXbyi-w" frameborder="0" allowfullscreen></iframe>
+</div></div>
 
 <div class="space">За другим законом Ньютона:</div>
 
@@ -94,7 +96,9 @@
 Обертання тiла на нитцi у вертикальнiй площинi</b></span>
 <div class="space">Рух тiла у вертикальнiй площинi <b>не є рiвномiрним</b>. Справа в тому, що не дивлячись на те, що радiус кола у будь-якiй точцi однаковий, швидкiсть змiнюється внаслiдок дiї сили тяжiння. Прискорення у кожнiй точцi можна обчислити по вже знайомiй формулi $$a = \dfrac{\upsilon^2}{R}$$.</div>
 
-<div class="space"><img class="image" width="231" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/8.png"></div>
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uFByXnRWBt4" frameborder="0" allowfullscreen></iframe>
+</div></div>
 
 <div class="space">У ЗНО часто зустрiчаються питання на визначення швидкостi у тiй чи iншiй точцi при русi тiла по колу у вертикальнiй площинi.</div>
 
