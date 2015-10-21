@@ -4,6 +4,10 @@
 
 <div class="space">При розглядi руху тiла, яке має певнi розмiри, ми часто вводили деякi спрощення. По-перше, вважали, що рух є поступальним (всi точки тiла проходять однаковий шлях). По-друге, динамiка тiла та кiнематичнi рiвняння розглядались з використанням концепцiї <b>матерiальної точки</b> (уся маса тiла зусереджена в нiй, також на неї дiють усi сили, що прикладенi до тiла у рiзних точках).</div>
 
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X5F0bxxReU0" frameborder="0" allowfullscreen></iframe>
+</div></div>
+
 <div class="space"><p class="p3">Приклади використання цих концепцiй:</p></div>
 
 <ol>
