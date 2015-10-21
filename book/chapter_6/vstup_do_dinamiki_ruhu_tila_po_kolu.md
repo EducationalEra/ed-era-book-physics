@@ -2,7 +2,9 @@
 
 <div class="space">У темi «рiвномiрний рух по колу» ми розглядали рух по колу зi сталою по модулю швидкiстю з точки зору <b>кiнематики.</b> Щоб матерiальна точка рухалась по колу з рiвномiрною швидкiстю, в нього має бути прискорення, напрямлене до центра кола (перпендикулярно до швидкостi).</div>
 
-<div class="space"><img class="image" width="231"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/1.png"></div>
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KoeLZN7tk2s" frameborder="0" allowfullscreen></iframe>
+</div></div>
 
 <div class="space">Ми також отримали формулу для <span class="p1"><b>доцентрового прискорення:</b></span></div>
 
