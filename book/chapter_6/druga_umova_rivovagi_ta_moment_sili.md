@@ -1,5 +1,9 @@
 # Друга умова рiвноваги та момент сили
 
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yI_JfSbrs2w" frameborder="0" allowfullscreen></iframe>
+</div></div>
+
 <div class="space">У попередньому пунктi було розглянуто умову рiвноваги, де головним чином важливо, щоб рiвнодiйна сил дорiвнювала нулю. Зараз ви зрозумiєте, що це лише одна з умов i вона зовсiм не завжди є достатньою.</div>
 
 <div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/18.png"></div>
