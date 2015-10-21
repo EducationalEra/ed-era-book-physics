@@ -1,6 +1,12 @@
 # Стiйкiсть рiвноваги
 
-<div class="space">Тепер, коли ви добре розумiєте, яким чином досягається рiвновага i якi умови необхiднi для цього, залишилось розглянути ще один важливий момент – стiйкiсть рiвноваги. Нехай тiло знаходиться у рiвновазi. Якщо ж змiстити тiло з положення рiвноваги, можливi три варiанти того, що вiдбудеться далi:</div>
+<div class="space">Тепер, коли ви добре розумiєте, яким чином досягається рiвновага i якi умови необхiднi для цього, залишилось розглянути ще один важливий момент – <b>стiйкiсть рiвноваги</b>.</div>
+
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9lH6vnSDQPU" frameborder="0" allowfullscreen></iframe>
+</div></div>
+
+<div class="space">Нехай тiло знаходиться у рiвновазi. Якщо ж змiстити тiло з положення рiвноваги, можливi три варiанти того, що вiдбудеться далi:</div>
 
 <ol>
 <div class="space"><li>
@@ -14,4 +20,6 @@
 </li>
 </ol>
 
-<div class="space"><img class="image" width="500"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/37.png"></div>
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sM4jHpn_Rvw" frameborder="0" allowfullscreen></iframe>
+</div></div>
