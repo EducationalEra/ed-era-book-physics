@@ -34,4 +34,15 @@
 
 <div class="space">Наприклад, на рисунку, який зображено вище, кулька масою $$m$$ прикрiплена до нитки. Нитка дiє на кульку з силою $$\vec{F_{}}$$ i створює доцентрове прискорення.</div>
 
-<img class="image" width="333"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/3.png">
+<div class="space"><img class="image" width="333"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/3.png"></div>
+
+<quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
+<question>
+<p>Що станеться з тілом, що рівномірно рухаеться по колу, якщо прибрату доцентрову силу?</p>
+ 
+<answer>Воно продовжить рух по колу</answer>
+<answer>Зупиниться</answer>
+<answer correct>Почне рухатись прямолінійно, починаючи з точки де зникла сила</answer>
+<answer>Неможливо визначити</answer>
+</question>
+</quiz>
