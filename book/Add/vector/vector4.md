@@ -98,7 +98,8 @@ $$|\thinspace \lambda\vec{a} \thinspace|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2
 
 $$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
 
-<div class="space"><div class="eoz-wrap">
+<div class="space">
+<div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Скалярний добуток</b> також можна виразити як добуток довжин векторів та косинусу кута між цими векторами:
@@ -106,11 +107,12 @@ $$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
 <div class="space">$$(\vec{a},\vec{b})=|\thinspace \vec{a} \thinspace| \cdot |\thinspace \vec{b} \thinspace| \cdot \cos{\varphi}$$</div>
 
 
-<div class="space"><p align="center"><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/9.svg" /></p></div>
+<div class="space" align="center"><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/9.svg" /></div>
 
-<p1>Зауваження</p1>: якщо вектори $$\vec{a}$$ та $$\vec{b}$$ не є нульовими і перпендикулярні, кут між ними $$\varphi = \dfrac{\pi}{2}$$ і $$\cos{\varphi} = \cos{\dfrac{\pi}{2}} = 0$$, то з вищенаведеного означення випливає, що <b>скалярний добуток перпендикулярних векторів рівний нулю</b>, і навпаки.
+<b>Зауваження</b>: якщо вектори $$\vec{a}$$ та $$\vec{b}$$ не є нульовими і перпендикулярні, кут між ними $$\varphi = \dfrac{\pi}{2}$$ і $$\cos{\varphi} = \cos{\dfrac{\pi}{2}} = 0$$, то з вищенаведеного означення випливає, що <b>скалярний добуток перпендикулярних векторів рівний нулю</b>, і навпаки.
 </div>
-</div></div>
+</div>
+</div>
 
 <div class="ebio-wrap">
 <span class="ebio">Властивості скалярного добутку векторів</span>
@@ -160,7 +162,7 @@ $$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
 <answer correct>1 або -1</answer>
 <answer>Недостатньо данних</answer>
 <explanation>
-Пригадайте означення колінеарності: вектори мають лежати на паралельних прямих. Тобто кут між ними буде 0 у випадку, коли вони співнапрямленні і 180$$^\circ$$, якщо вони протилежнонапрямлені. Відповідно косинус кута між колінеарними векторами буде або 1, або -1.
+Пригадайте означення колінеарності: вектори мають лежати на паралельних прямих. Тобто кут між ними буде $$0$$ у випадку, коли вони співнапрямленні і $$180^\circ$$, якщо вони протилежнонапрямлені. Відповідно косинус кута між колінеарними векторами буде або 1, або -1.
 </explanation>
 </question>
 </quiz>
