@@ -23,9 +23,7 @@
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Миттєва швидкість</b> – швидкість тіла в даний момент часу в даній точці траєкторії.
-
-<div align="center">$$\upsilon_x=\lim\limits_{\Delta t\to 0}^{} \dfrac{\Delta x}{\Delta t}=x^\prime(t)$$</div>
-
+<center>$$\upsilon_x=\lim\limits_{\Delta t\to 0}^{} \dfrac{\Delta x}{\Delta t}=x^\prime(t)$$</center>
 </div>
 </div>
 
