@@ -12,9 +12,9 @@
 
 Для визначення тригонометричних функцій кута $$\alpha$$ потрібно взяти **прямокутний** трикутник, що містить цей кут $$\alpha$$. Сторони трикутника матимуть наступні назви:
 
-* <p1>Гіпотенуза</p1> –  сторона **прямокутного** трикутника, що лежить навпроти його прямого кута. Вона завжди є найдовшою зі сторін трикутника.
-* <p1>Прилеглий катет</p1> – сторона, що лежить між прямим кутом і кутом $$\alpha$$.
-* <div class="space"><p1>Протилеглий катет</p1> – сторона, що лежить навпроти кута $$\alpha$$.</div>
+* <b>Гіпотенуза</b> –  сторона **прямокутного** трикутника, що лежить навпроти його прямого кута. Вона завжди є найдовшою зі сторін трикутника.
+* <b>Прилеглий катет</b> – сторона, що лежить між прямим кутом і кутом $$\alpha$$.
+* <div class="space"><b>Протилеглий катет</b> – сторона, що лежить навпроти кута $$\alpha$$.</div>
 
 <div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/1.svg" /></div>
 
@@ -33,12 +33,12 @@ $$\sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\co
 
 <div class="space">Ще три основні тригонометричні функції є оберненими до попередніх:</div>
 
-* <div class="space"><p1>Котангенс кута</p1>:</div>
+* <div class="space"><b>Котангенс кута</b>:</div>
     <div class="space"><p><center>$$\text{ctg}(\alpha) = \dfrac{1}{\text{tg}(\alpha)} = \dfrac{\cos(\alpha)}{\sin(\alpha)}$$</center></p></div>
 
-* <div class="space"><p1>Секанс кута</p1>:</div>
+* <div class="space"><b>Секанс кута</b>:</div>
    <div class="space"><p> <center>$$\sec(\alpha) = \dfrac{1}{\sin(\alpha)}$$</center></p></div>
-* <div class="space"><p1>Косеканс кута</p1>:</div>
+* <div class="space"><b>Косеканс кута</b>:</div>
    <div class="space"><p><center>$$\csc(\alpha) = \dfrac{1}{\cos(\alpha)}$$</center></p></div>
 
 <div class="space"><p>Усі ці функції є періодичними, тобто повторюють свої значення при певній змінні кута. Для функцій <i>sin, cos, sec</i> і <i>csc</i> величина цієї зміни становить $$2\pi$$, для <i>tg, ctg</i> – $$\pi$$.</p></div>
