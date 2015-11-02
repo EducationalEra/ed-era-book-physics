@@ -98,7 +98,6 @@ $$|\thinspace \lambda\vec{a} \thinspace|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2
 
 $$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
 
-<div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
@@ -107,12 +106,12 @@ $$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
 <div class="space">$$(\vec{a},\vec{b})=|\thinspace \vec{a} \thinspace| \cdot |\thinspace \vec{b} \thinspace| \cdot \cos{\varphi}$$</div>
 
 
-<div class="space" align="center"><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/9.svg" /></div>
+<div align="center" align="center"><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/9.svg" /></div>
 
 <b>Зауваження</b>: якщо вектори $$\vec{a}$$ та $$\vec{b}$$ не є нульовими і перпендикулярні, кут між ними $$\varphi = \dfrac{\pi}{2}$$ і $$\cos{\varphi} = \cos{\dfrac{\pi}{2}} = 0$$, то з вищенаведеного означення випливає, що <b>скалярний добуток перпендикулярних векторів рівний нулю</b>, і навпаки.
 </div>
 </div>
-</div>
+
 
 <div class="ebio-wrap">
 <span class="ebio">Властивості скалярного добутку векторів</span>
