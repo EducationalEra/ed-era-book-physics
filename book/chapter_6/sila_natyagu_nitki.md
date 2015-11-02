@@ -5,7 +5,7 @@
 <ol>
 <span class="p1"><b><li>
 Обертання тiла на нитцi в горизонтальнiй площинi</b></span>
-<div class="space">При обертаннi тiла, прикрiпленого до нитки, на нього діє сила натягу. Вона напрямлена до центра кола та створює доцентрове прискорення.</div>
+<div class="space">При обертаннi тiла, прикрiпленого до нитки, на нього діє сила натягу. Вона напрямлена до центру кола та створює доцентрове прискорення.</div>
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mx0mMXbyi-w" frameborder="0" allowfullscreen></iframe>
@@ -22,7 +22,7 @@
 </tr>
 </table></div></div>
 
-<div class="space">Якщо нитка не знаходиться у площинi обертання (це вiдбувається за рахунок сили тяжiння), то доцентрове прискорення створює горизонтальна складова сили натягу нитки.</div>
+<div class="space">Якщо нитка не знаходиться у площинi обертання (це вiдбувається за рахунок сили тяжiння), тоді доцентрове прискорення створює горизонтальна складова сили натягу нитки.</div>
 
 <div class="space"><img class="image" width="222" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/6.png"></div>
 
@@ -32,7 +32,7 @@
 
 <div class="space">$$Ox \ : \ F_H\sin \alpha = ma = m \dfrac{\upsilon^2}{R}$$ – горизонтальна складова $$F_H$$ визначає $$a_Д$$.</div>
 
-<div class="space">$$Oy \ : \ T \cos \alpha - mg = 0$$ – чим бiльше маса тiла, тим гострiше кут $$\alpha$$.</div>
+<div class="space">$$Oy \ : \ T \cos \alpha - mg = 0$$ – чим бiльша маса тiла, тим гострiший кут $$\alpha$$.</div>
 
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ШВИДКIСТЬ ТА ПЕРIОД ОБЕРТАННЯ</b>
@@ -59,12 +59,12 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$a = \dfrac{g \sin \alpha}{\cos \alpha} \approx 5.8 \ м/c^2$$</p1>
+<p1>$$a_Д = \dfrac{g \sin \alpha}{\cos \alpha} \approx 5.8 \ м/c^2$$</p1>
 </td>
 </tr>
 </table></div></div>
 
-<div class="space">З виразу для доцентрового прискорення можна отримати вираз для лiнiйної швидкостi: $$a = \dfrac{\upsilon^2}{R} \Rightarrow \upsilon = \sqrt{aR}$$. Радiус кола можна отримати, використовуючи довжину нитки $$l \rightarrow R = l \sin \alpha$$.</div>
+<div class="space">З виразу для доцентрового прискорення можна отримати вираз для лiнiйної швидкостi: $$a_Д = \dfrac{\upsilon^2}{R} \Rightarrow \upsilon = \sqrt{a_Д R}$$. Радiус кола можна отримати, використовуючи довжину нитки $$l \rightarrow R = l \sin \alpha$$.</div>
 
 <div class="space"><b>Лiнiйна швидкiсть:</b></div>
 
@@ -90,7 +90,7 @@
 </div>
 </div>
 
-<div class="space"><p class="p3">Як бачите, кiнцевi формули для параметрiв руху не залежать вiд маси кульки. Залежать вiд кута та довжини нитки. З iншої сторони усе фiзично пов’язано. Нехай ви обертаєте нитку з кулькою. Чим бiльше маса, тим менше кут $$\alpha$$, при прикладаннi вами тих самих зусиль для обертання кульки.</p></div>
+<div class="space"><p class="p3">Як бачите, кiнцевi формули для параметрiв руху не залежать вiд маси кульки,а залежать вiд кута та довжини нитки. З iншої сторони усе фiзично пов’язано. Нехай ви обертаєте нитку з кулькою. Чим бiльша маса, тим менший кут $$\alpha$$, при прикладаннi вами тих самих зусиль для обертання кульки.</p></div>
 </li>
 <span class="p1"><b><li>
 Обертання тiла на нитцi у вертикальнiй площинi</b></span>
@@ -105,7 +105,7 @@
 </ol>
 
 <div class="alg-wrap">
-<span class="alg">Авторський алгоритм</span> Обертання у вертикальнiй площинi
+<span class="alg">Авторський алгоритм</span> Рух по колу у вертикальнiй площинi
 <div class="alg-text">
 <ol>
 <div class="space"><li>Розписуємо усi сили, що дiють на тiло у данiй точцi (пр. 1 точка у рис. вгорi):</div>
@@ -114,7 +114,7 @@
 
 <div class="space" align="center">$$m \vec{g} + \vec{F_{H1}} = m \vec{a}$$</div>
 </li>
-<div class="space"><li>Обераємо вiсi та проектуємо (в даному випадку на $$y$$):</div>
+<div class="space"><li>Обираємо вiсi та проектуємо (в даному випадку на $$y$$):</div>
 
 <div class="space" align="center">$$mg + F_{H1} = m \dfrac{\upsilon^2}{R}$$</div>
 </li>
