@@ -103,7 +103,7 @@
 
 Якщо цiкавитесь детальним виведенням цiєї формули, розберiть наступний пiдпункт.</li>
 </ol>
-
+<br>
 <div class="task-wrap">
 <span class="task">Задача 2</span> <b>КУЛЬКА НА НИТЦI</b>
 <div class="task-text">
