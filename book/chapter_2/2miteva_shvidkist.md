@@ -19,19 +19,6 @@
 Кути між дотичними до графіку $$x(t)$$ у даних точках та віссю часу визначають миттєву швидкість. Операція, яка дозволяє знайти кут нахилу дотичної до графіка
 називається <b>похідною</b> (похідна детальніше буде вивчатися у курсі математики). Не страшно, якщо ви не знаєте поки цієї термінології, головне, щоб ви розуміли фізичну суть на даному етапі.
 
-<div class="eoz-wrap">
-<span class="eoz">Означення</span>
-<div class="eoz-text">
-<b>Миттєва швидкість</b> – швидкість тіла в даний момент часу в даній точці траєкторії.
-
-<div align="center">$$\upsilon_x=\lim\limits_{\Delta t\to 0}^{} \dfrac{\Delta x}{\Delta t}=x^\prime(t)$$</div>
-
-</div>
-</div>
-
-
-<div>
-
 
 <div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kHo6SvAnbmk" frameborder="0" allowfullscreen></iframe>
