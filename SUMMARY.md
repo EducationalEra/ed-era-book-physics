@@ -88,6 +88,7 @@
    * Закон Архiмеда
    * Закон Бернуллi
 * [Додаток](book/Add/trigonometry/trigonometry.md)
+   * [Тригонометричні функції](book/Add/trigonometry/trigonometry.md)
    * [Вектори](book/Add/vector/vector1.md)
        * [Рівність векторів](book/Add/vector/vector2.md)
        * [Координати векторів](book/Add/vector/vector3.md)
