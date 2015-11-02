@@ -59,7 +59,7 @@ $$\sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\co
 <p>Варто знати також деякі тригонометричні співвідношення.</p>
 
 * <p>Наступне співвідношення випливає із теореми Піфагора:</p>
-     <center>$$\sin^2(\alpha) + \cos^2(\alpha) = 1$$</center>
+     <div align="center">$$\sin^2(\alpha) + \cos^2(\alpha) = 1$$</div>
 
 * <p>Формули для <p1>суми/різниці кутів</p1>:</p>
 <p><center>$$\sin(\alpha + \beta) = \sin(\alpha)\cos(\beta) + \sin(\beta)\cos(\alpha)$$ </center></p>
