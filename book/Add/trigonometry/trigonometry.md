@@ -1,9 +1,9 @@
 <center><h1>Додаток<h1></center>
 
-# <p1>Тригонометричні функції</p1>
+# Тригонометричні функції
 
 
-<p1>Тригонометричні функції</p1> – функції, що залежать від кута і пов'язують між собою кути трикутника та відношення довжин його сторін. Вони мають широкий спектр застосувань у математиці і, відповідно, в областях науки, де математика застосовується для опису різних явищ та процесів. 
+<b>Тригонометричні функції</b> – функції, що залежать від кута і пов'язують між собою кути трикутника та відношення довжин його сторін. Вони мають широкий спектр застосувань у математиці і, відповідно, в областях науки, де математика застосовується для опису різних явищ та процесів. 
 
 Безпосередньо у фізиці тригонометрія використовується для представлення векторів у різних системах координат і моделюванні періодичних процесів (звукових хвиль, електромагнітних коливань, зміни середньої температури протягом року тощо).
 
@@ -20,13 +20,13 @@
 
 Тепер у нас є все необхідне для означення основних тригонометричних функій. 
 
-* <div class="space"><p><p1>Синус кута</p1> – це відношення довжини протилеглого катета до гіпотенузи. У нашому випадку: </p></div>
+* <div class="space"><p><b>Синус кута</b> – це відношення довжини протилеглого катета до гіпотенузи. У нашому випадку: </p></div>
 <center>
 $$\sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\color{#D0021B}т\color{#D0021B}и\color{#D0021B}л\color{#D0021B}е\color{#D0021B}г\color{#D0021B}л\color{#D0021B}и\color{#D0021B}й} \thinspace {\color{#D0021B} к\color{#D0021B}а\color{#D0021B}т\color{#D0021B}е\color{#D0021B}т}}{\color{#4A90E2}г\color{#4A90E2}і\color{#4A90E2}п\color{#4A90E2}о\color{#4A90E2}т\color{#4A90E2}е\color{#4A90E2}н\color{#4A90E2}у\color{#4A90E2}з\color{#4A90E2}а} = \dfrac{\color{#D0021B}b}{\color{#4A90E2}h}$$ </center>
-* <div class="space"><p><p1>Косинус кута</p1> – це відношення довжини прилеглого катета до гіпотенузи:</p></div>
-    <center>$$\cos(\alpha) = \dfrac{\color{#417505}п\color{#417505}р\color{#417505}и\color{#417505}л\color{#417505}е\color{#417505}г\color{#417505}л\color{#417505}и\color{#417505}й \thinspace \color{#417505}к\color{#417505}а\color{#417505}т\color{#417505}е\color{#417505}т}{\color{#4A90E2}г\color{#4A90E2}і\color{#4A90E2}п\color{#4A90E2}о\color{#4A90E2}т\color{#4A90E2}е\color{#4A90E2}н\color{#4A90E2}у\color{#4A90E2}з\color{#4A90E2}а}=\dfrac{\color{#417505}a}{\color{#4A90E2}h}$$</center>
+* <div class="space"><p><b>Косинус кута</b> – це відношення довжини прилеглого катета до гіпотенузи:</p></div>
+    <div align="center">$$\cos(\alpha) = \dfrac{\color{#417505}п\color{#417505}р\color{#417505}и\color{#417505}л\color{#417505}е\color{#417505}г\color{#417505}л\color{#417505}и\color{#417505}й \thinspace \color{#417505}к\color{#417505}а\color{#417505}т\color{#417505}е\color{#417505}т}{\color{#4A90E2}г\color{#4A90E2}і\color{#4A90E2}п\color{#4A90E2}о\color{#4A90E2}т\color{#4A90E2}е\color{#4A90E2}н\color{#4A90E2}у\color{#4A90E2}з\color{#4A90E2}а}=\dfrac{\color{#417505}a}{\color{#4A90E2}h}$$</div>
 
-* <div class="space"><p><p1>Тангенс кута</p1> – це відношення довжини протилеглого катета до прилеглого катета:</p></div>
+* <div class="space"><p><b>Тангенс кута</b> – це відношення довжини протилеглого катета до прилеглого катета:</p></div>
     <p><center>$$\text{tg}(\alpha)=\dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\color{#D0021B}т\color{#D0021B}и\color{#D0021B}л\color{#D0021B}е\color{#D0021B}г\color{#D0021B}л\color{#D0021B}и\color{#D0021B}й} \thinspace {\color{#D0021B} к\color{#D0021B}а\color{#D0021B}т\color{#D0021B}е\color{#D0021B}т}}{\color{#417505}п\color{#417505}р\color{#417505}и\color{#417505}л\color{#417505}е\color{#417505}г\color{#417505}л\color{#417505}и\color{#417505}й \thinspace \color{#417505}к\color{#417505}а\color{#417505}т\color{#417505}е\color{#417505}т}=\dfrac{\color{#D0021B}b}{\color{#417505}a}$$</center></p>
     <div class="space">Розділивши чисельних і знаменник на довжину гіпотинузи, отримаємо:</div>
     <div class="space"><center>$$\text{tg}(\alpha)=\dfrac{\color{#D0021B}b/ \color{#4A90E2}h}{\color{#417505}a/ \color{#4A90E2}h} = \dfrac{\sin(\alpha)}{\cos(\alpha)}$$</center></div>
@@ -37,9 +37,9 @@ $$\sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\co
     <div class="space"><p><center>$$\text{ctg}(\alpha) = \dfrac{1}{\text{tg}(\alpha)} = \dfrac{\cos(\alpha)}{\sin(\alpha)}$$</center></p></div>
 
 * <div class="space"><p1>Секанс кута</p1>:</div>
-   <div class="space"><p> <center>$$\sec(\alpha) = \dfrac{1}{sin(\alpha)}$$</center></p></div>
+   <div class="space"><p> <center>$$\sec(\alpha) = \dfrac{1}{\sin(\alpha)}$$</center></p></div>
 * <div class="space"><p1>Косеканс кута</p1>:</div>
-   <div class="space"><p><center>$$\csc(\alpha) = \dfrac{1}{cos(\alpha)}$$</center></p></div>
+   <div class="space"><p><center>$$\csc(\alpha) = \dfrac{1}{\cos(\alpha)}$$</center></p></div>
 
 <div class="space"><p>Усі ці функції є періодичними, тобто повторюють свої значення при певній змінні кута. Для функцій <i>sin, cos, sec</i> і <i>csc</i> величина цієї зміни становить $$2\pi$$, для <i>tg, ctg</i> – $$\pi$$.</p></div>
 <p><center>$$\sin(\alpha) = \sin(\alpha \pm 2\pi k), \, k = \overline{1, 2, 3,...} $$</center></p>
