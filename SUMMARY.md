@@ -2,7 +2,7 @@
 
 * [Зміст](README.md)
 * Вступне слово
-* [Одновимірна кінематика](book/chapter_1/1vstup.md)
+* Одновимірна кінематика
    * [Рівномірний прямолінійний рух](book/chapter_1/4shlyah_ta_shv.md)
        * [Вiдноснiсть швидкостей та перемiщень](book/chapter_1/5vidnosnist.md)
        * [Проекцiя вектора](book/chapter_1/6proektsiya_vektora.md)
