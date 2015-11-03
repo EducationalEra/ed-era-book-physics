@@ -19,7 +19,7 @@
        * [Дальнiсть польоту, максимальна висота, час пiдняття](book/chapter_3/5dalnst_polotu,_maksimalna_visota,_chas_padnnya.md)
        * [Тіло, що кинуте горизонтально](book/chapter_3/6tilo,_scho_kinute_gorizontalno.md)
    * [Градуси та радіани](book/chapter_3/7gradusi_ta_radani.md)
-   * [Криволінійний рух](book/chapter_3/8krivolninii_ruh.md)
+   * Криволінійний рух
        * [Тангенціальне та доцентрове прискорення](book/chapter_3/9tangentsalne_ta_dotsentrove_priskorennya.md)
        * [Загальна характеристика криволінійного руху](book/chapter_3/10zagalna_harakteristika_krivolninogo_ruhu.md)
        * [Рівномірний рух по колу](book/chapter_3/11rvnomrnii_ruh_po_kolu.md)
