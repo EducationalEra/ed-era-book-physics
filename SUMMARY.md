@@ -75,8 +75,4 @@
    * Супутники
    * Перша та друга космiчнi швидкостi
 * Додаток
-   * [Вектори](book/Add/vector/vector1.md)
-       * [Рівність векторів](book/Add/vector/vector2.md)
-       * [Координати векторів](book/Add/vector/vector3.md)
-       * [Операції над векторами](book/Add/vector/vector4.md)
 
