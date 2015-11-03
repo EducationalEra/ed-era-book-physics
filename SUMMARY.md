@@ -18,7 +18,7 @@
    * [Практична частина](book/chapter_3/4praktichna_chastina.md)
        * [Дальнiсть польоту, максимальна висота, час пiдняття](book/chapter_3/5dalnst_polotu,_maksimalna_visota,_chas_padnnya.md)
        * [Тіло, що кинуте горизонтально](book/chapter_3/6tilo,_scho_kinute_gorizontalno.md)
-   * [Градуси та радіани](book/chapter_3/7gradusi_ta_radani.md)
+   * Градуси та радіани
    * Криволінійний рух
        * Тангенціальне та доцентрове прискорення
        * Загальна характеристика криволінійного руху
