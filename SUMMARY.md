@@ -5,7 +5,7 @@
 * Одновимірна кінематика
    * Рівномірний прямолінійний рух
        * Вiдноснiсть швидкостей та перемiщень
-       * [Проекцiя вектора](book/chapter_1/6proektsiya_vektora.md)
+       * Проекцiя вектора
        * [Рiвняння руху](book/chapter_1/7rivnyannya_ruhu.md)
        * [Проекцiя швидкостi та перемiщення](book/chapter_1/8proektsiya.md)
        * [Середня швидкiсть](book/chapter_1/9serednya_shvidkist.md)
