@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
+* [Зміст](README.md)
 
