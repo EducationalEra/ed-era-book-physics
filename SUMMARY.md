@@ -31,36 +31,36 @@
    * [Рівномірний рух по колу](book/chapter_3/11rvnomrnii_ruh_po_kolu.md)
    * [Виведення. Доцентрове прискорення (додатково)](book/chapter_3/12vivedennya_dotsentrove_priskorennya_dodatkovo.md)
    * [Важливі приклади](book/chapter_3/13vazhliv_prikladi.md)
-* [Концепція сили](book/chapter_4/1vstup_u_dinamku.md) 
-  * [Вступ у динаміку](book/chapter_4/1vstup_u_dinamku.md)
-  * [Інертність та маса](book/chapter_4/2nertnst_ta_masa.md)
-  * [Сила: рівнодійна сил](book/chapter_4/3sila_rvnodina_sil.md)
-  * [Перший закон Ньютона](book/chapter_4/4pershii_zakon_nyutona.md)
-  * [Другий закон Ньютона та сила тяжіння](book/chapter_4/5drugii_zakon_nyutona_ta_sila_tyazhnnya.md)
-  * [Третій закон Ньютона](book/chapter_4/6treti_zakon_nyutona.md)
-  * [Реакція опори та підвісу](book/chapter_4/7reaktsiya_opori_ta_pidvisu.md)
- * [Сила реакції опори та вага](book/chapter_4/8sila_reakts_opori_ta_vaga.md)
- * [Приклади](book/chapter_4/9prikladi.md)
-    * [Рух у ліфті](book/chapter_4/10ruh_u_lft.md)
-    * [Система тіл, що з'єднанні ниткою](book/chapter_4/11sistema_tl,_scho_zdnann_nitkoyu.md)
- * [Сила пружності та закон Гука](book/chapter_4/12sila_pruzhnost_ta_zakon_guka.md)
-  * [Послідовне та паралельне з'єднання пружин](book/chapter_4/13posldovne_ta_paralelne_zdnannya_pruzhin.md)
-* [Сила тертя](book/chapter_5/silatertya.md)
-    * [Сила тертя спокою](book/chapter_5/sila_tertya_spokoyu.md)
-    * [Сила тертя ковзання](book/chapter_5/sila_tertya_kovzannya.md)
-        * [Тiло на вертикальнiй стiнцi](book/chapter_5/tilo_na_vertikalnii_stintsi.md)
-    * [Тiло на похилiй площинi](book/chapter_5/tilo_na_pohilii_ploschini.md)
-* [Динамiка та статика](book/chapter_6/vstup_do_dinamiki_ruhu_tila_po_kolu.md)
-    * [Вступ до динамiки руху тiла по колу](book/chapter_6/vstup_do_dinamiki_ruhu_tila_po_kolu.md)
-    * [Сили, що створюють доцентрове прискорення](book/chapter_6/sili,_scho_stvoryuyut_dotsentrove_priskorennya.md)
-        * [Сила натягу нитки](book/chapter_6/sila_natyagu_nitki.md)
-        * [Сила тиску](book/chapter_6/sila_tisku.md)
-        * [Сила тертя](book/chapter_6/sila_tertya.md)
-    * [Статика та умови рiвноваги](book/chapter_6/statika_ta_umovi_rivnovagi.md)
-        * [Перша умова рiвноваги](book/chapter_6/persha_umova_rivnovagi.md)
-        * [Друга умова рiвоваги та момент сили](book/chapter_6/druga_umova_rivovagi_ta_moment_sili.md)
-    * [Центр тяжiння та центр мас](book/chapter_6/tsentr_tyazhinnya_ta_tsentr_mas.md)
-    * [Стiйкiсть рiвноваги](book/chapter_6/stiikist_rivnovagi.md)
+* Концепція сили
+  * Вступ у динаміку
+  * Інертність та маса
+  * Сила: рівнодійна сил
+  * Перший закон Ньютона
+  * Другий закон Ньютона та сила тяжіння
+  * Третій закон Ньютона
+  * Реакція опори та підвісу
+ * Сила реакції опори та вага
+ * Приклади
+    * Рух у ліфті
+    * Система тіл, що з'єднанні ниткою
+ * Сила пружності та закон Гука
+  * Послідовне та паралельне з'єднання пружин
+* Сила тертя
+    * Сила тертя спокою
+    * Сила тертя ковзання
+        * Тiло на вертикальнiй стiнцi
+    * Тiло на похилiй площинi
+* Динамiка та статика
+    * Вступ до динамiки руху тiла по колу
+    * Сили, що створюють доцентрове прискорення
+        * Сила натягу нитки
+        * Сила тиску
+        * Сила тертя
+    * Статика та умови рiвноваги
+        * Перша умова рiвноваги
+        * Друга умова рiвоваги та момент сили
+    * Центр тяжiння та центр мас
+    * Стiйкiсть рiвноваги
 * Iмпульс, робота, потужнiсть
     * Механiчна робота
         * Дiя постiйної сили
