@@ -4,7 +4,7 @@
 * Вступне слово
 * Одновимірна кінематика
    * Рівномірний прямолінійний рух
-       * [Вiдноснiсть швидкостей та перемiщень](book/chapter_1/5vidnosnist.md)
+       * Вiдноснiсть швидкостей та перемiщень
        * [Проекцiя вектора](book/chapter_1/6proektsiya_vektora.md)
        * [Рiвняння руху](book/chapter_1/7rivnyannya_ruhu.md)
        * [Проекцiя швидкостi та перемiщення](book/chapter_1/8proektsiya.md)
