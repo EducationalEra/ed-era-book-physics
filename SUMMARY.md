@@ -74,7 +74,7 @@
    * Застосування закону збереження та розгляд Закону Всесвiтнього тяжiння
    * Супутники
    * Перша та друга космiчнi швидкостi
-* [Додаток](book/Add/trigonometry/trigonometry.md)
+* Додаток
    * [Вектори](book/Add/vector/vector1.md)
        * [Рівність векторів](book/Add/vector/vector2.md)
        * [Координати векторів](book/Add/vector/vector3.md)
