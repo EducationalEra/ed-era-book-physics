@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[ed-era-book-physics]
+file_filter = book/locale/<lang>/
+source_file = book/
+source_lang = ua
+type = MD
