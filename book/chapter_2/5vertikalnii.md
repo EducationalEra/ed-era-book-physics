@@ -83,7 +83,7 @@ $$H_{max}=\dfrac{\upsilon^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15
 </question>
 
 <question>
-<p>(b) Визначити весь час руху м’яча до моменту, коли Петро його знову зловить</p>
+<p>(b) Визначити весь час руху м’яча до моменту, коли Петро його знову зловить.</p>
 <answer correct>3,6 c</answer>
 <answer>3,2 c</answer>
 <answer>2,5 c</answer>
