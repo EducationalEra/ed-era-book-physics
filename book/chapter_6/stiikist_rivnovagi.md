@@ -19,7 +19,3 @@
 Змiщення тiла взагалi не призводить до виведення тiла iз стану рiвноваги. Така ситуацiя називається <span class="p1"><b>байдужою рiвновагою</b></span>. Тут справа в тому, що при зсувi тiла, ситуацiя не мiняється. Положення рiвноваги зберiгається.</div>
 </li>
 </ol>
-
-<div class="space"><div class="fluidMedia">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sM4jHpn_Rvw" frameborder="0" allowfullscreen></iframe>
-</div></div>
