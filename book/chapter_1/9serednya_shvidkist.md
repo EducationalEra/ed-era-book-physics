@@ -6,18 +6,18 @@
 
 Очевидно, що середня швидкiсть у данiй задачi не дорiвнює середньому арифметичному трьох швидкостей:
 
-$$\upsilon_{сер} \not= \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
+$$\upsilon_{сер} \not= $$$$ \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Ceредня швидкiсть</b> 
 
-\[\vec{\upsilon}_\text{сер} = \dfrac{\vec{S}_\Sigma}{t_\Sigma} = \dfrac{\vec{S}_1 + \vec{S}_2 + \cdots + \vec{S}_n}{t_1+ t_2 + \cdots +t_n}\]
+\[\vec{\upsilon}_\text{сер} =$$$$ \dfrac{\vec{S}_\Sigma}{t_\Sigma} =$$$$ \dfrac{\vec{S}_1 + \vec{S}_2 + \cdots + \vec{S}_n}{t_1+ t_2 + \cdots +t_n}\]
 
 <b>Ceредня шляхова швидкiсть</b> 
 
-\[\upsilon_\text{сер} = \dfrac{l_\Sigma}{t_\Sigma} = \dfrac{l_1 + l_2 + \cdots + l_n}{t_1+ t_2 + \cdots +t_n}\]
+\[\upsilon_\text{сер} =$$$$ \dfrac{l_\Sigma}{t_\Sigma} =$$$$ \dfrac{l_1 + l_2 + \cdots + l_n}{t_1+ t_2 + \cdots +t_n}\]
 </div>
 </div>
 
@@ -25,13 +25,13 @@ $$\upsilon_{сер} \not= \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
 Тодi для даної задачi:
 
 
-* <b>Промiжки часу:</b> $$t_1 = 2 \thinspace c, \ t_2 = 3 \thinspace c, \ t_3 = 2 \thinspace c$$
-* <b>Промiжки шляху:</b> $$ l_1 = \upsilon_1 t_1, \ l_2 = \upsilon_2t_2, \ l_3 = \upsilon_3t_3$$
+* <b>Промiжки часу:</b> $$t_1 =$$$$ 2 \thinspace c, \ t_2 =$$$$ 3 \thinspace c, \ t_3 =$$$$ 2 \thinspace c$$
+* <b>Промiжки шляху:</b> $$ l_1 =$$$$ \upsilon_1 t_1, \ l_2 =$$$$ \upsilon_2t_2, \ l_3 = \upsilon_3t_3$$
 
 
 <span class="p1">Середня швидкiсть:</span> 
 
-$$\upsilon_\text{сер} = \dfrac{l_1 +l_2+l_3}{t_1+t_2+t_3}= \dfrac{0\cdot2+ 2\cdot 3 + 3\cdot 2}{2+3+2}=\dfrac{12}{7}=1\dfrac{5}{7}$$
+<div align="center">$$\upsilon_\text{сер} $$$$= \dfrac{l_1 +l_2+l_3}{t_1+t_2+t_3}= \dfrac{0\cdot2+ 2\cdot 3 + 3\cdot 2}{2+3+2}=\dfrac{12}{7}=1\dfrac{5}{7}$$</div>
 
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
