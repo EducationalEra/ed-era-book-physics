@@ -26,7 +26,7 @@ y = \upsilon_0 \sin \alpha \cdot t - \dfrac{gt^2}{2}\\
 <span class="p1"><b><li>Час польоту i час пiдняття тiла.</b></span></p>
 <div class="space">Дальнiсть польоту $$L$$ дорiвнює координатi $$x$$ в той момент, коли координата $$y = 0$$ (в момент приземлення тiла). Прирiвнявши $$y(t) = 0$$ можна вiднайти час польоту тiла $$T.$$</p</div>
 <div align="center">$$0 = \upsilon_0 \sin \alpha · T - \dfrac{gT^2}{2}$$</div>
-<div align="center">$$T(\dfrac{g}{2}T - \upsilon_0 \sin \alpha) = 0 \Rightarrow \dfrac{g}{2}T - v_0 \sin \alpha = 0$$</div>
+<div align="center">$$T(\dfrac{g}{2}T - \upsilon_0 \sin \alpha) =$$$$ 0 \Rightarrow \dfrac{g}{2}T - v_0 \sin \alpha $$$$= 0$$</div>
 <b>Час польоту тiла:</b></p>
 <div class="centered-table-wrapper">
 <table class="centered-table">
@@ -104,7 +104,7 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p
 <br>
 <p style="margin-left:1cm;">Кут $$\alpha = 30^\circ$$, час польоту $$T \approx 24.3 \thinspace \text{c}.$$</p>
 <br>
-<div align="center">$$T = \dfrac{2 \upsilon_0 \sin \alpha}{g} \Rightarrow \upsilon_0 = \dfrac{gT}{2\sin\alpha} = \dfrac{9.8 \cdot 24.3}{2 \cdot \sin 30^\circ} \approx 238.1 \ (\text{м/с})$$</div>
+<div align="center">$$T = \dfrac{2 \upsilon_0 \sin \alpha}{g} \Rightarrow$$$$ \upsilon_0 = \dfrac{gT}{2\sin\alpha} =$$$$ \dfrac{9.8 \cdot 24.3}{2 \cdot \sin 30^\circ} \approx$$$$ 238.1 \ (\text{м/с})$$</div>
 <br>
 <b>Дальностi польоту</b>
 <br>
@@ -112,14 +112,14 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p
 <br>
 <div align="center">$$L = \dfrac{\upsilon_0^2\sin 2\alpha}{g}$$</div><div align="right">$$(1)$$</div>
 <p style="margin-left:1cm;">Для кутiв $$30^\circ, 45^\circ, 60^\circ$$ вiдповiдно.</p>
-<div align="center">$$L_1 \approx 5000 \thinspace \text{м} = 5 \thinspace \text{км}; \ L_2 \approx 5800 \thinspace \text{м} = 5.8 \thinspace \text{км}; \ L_3 \approx 5000 \thinspace \text{м} = 5 \thinspace \text{км}$$</div>
+<div align="center">$$L_1 \approx 5000 \thinspace \text{м} = 5 \thinspace \text{км};$$$$ \ L_2 \approx 5800 \thinspace \text{м} = 5.8 \thinspace \text{км};$$$$ \ L_3 \approx 5000 \thinspace \text{м} = 5 \thinspace \text{км}$$</div>
 <br>
 <p style="margin-left:1cm;">Порiвнявши, бачимо, що при $$45^\circ$$ дальнiсть польоту найбiльша. Але це була вибiрка з трьох кутiв. У загальному випадку легко показати, що саме при кутi $$45^\circ$$ дальнiсть польоту максимальна. $$L$$ у формулi $$(1)$$ буде максимальним, якщо $$\sin 2 \alpha = 1 \Rightarrow \alpha = 45^\circ.$$</p>
 <b>Максимальна висота</b>
 <br>
 <p style="margin-left:1cm;">Маємо кут $$\alpha = 45^\circ$$ та формулу для визначення максимальної висоти:</p>
 <br>
-<div align="center">$$H = \dfrac{\upsilon_0^2\sin^2\alpha}{2g} = \dfrac{238.1^2 \sin^2 45^\circ}{2 · 9.8} \approx 1450 \ (\text{м})$$</div>
+<div align="center">$$H = \dfrac{\upsilon_0^2\sin^2\alpha}{2g} =$$$$ \dfrac{238.1^2 \sin^2 45^\circ}{2 · 9.8} \approx 1450 \ (\text{м})$$</div>
 </div>
 </div>
 
