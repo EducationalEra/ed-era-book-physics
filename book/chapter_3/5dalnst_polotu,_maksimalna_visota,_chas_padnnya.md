@@ -132,7 +132,7 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p
 <answer correct>$$40^\circ$$</answer>
 <answer>$$60^\circ$$</answer>
 <explanation>
-Користуючись тригонометричною формулою зведення: $$\sin 2 \cdot 50^\circ = \sin 100^\circ = \cos 10^\circ = \sin 80^\circ \Rightarrow \sin 2 \alpha = 80^\circ \Rightarrow \sin \alpha = 40^\circ .$$
+Користуючись тригонометричною формулою зведення: $$\sin 2 \cdot 50^\circ =$$$$ \sin 100^\circ =$$$$ \cos 10^\circ =$$$$ \sin 80^\circ \Rightarrow \sin 2 \alpha =$$$$ 80^\circ \Rightarrow$$$$ \sin \alpha = 40^\circ .$$
 </explanation>
 </question>
 </quiz>
