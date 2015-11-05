@@ -63,7 +63,7 @@ $$\upsilon_x$$ - проекцiя швидкостi на вiсь $$x$$.
 <answer>16</answer>
 <explanation>
 Знаючи рівняння руху кожного з велосипедистів, ми можемо прирівняти їх та знайти час, коли другий велосипедист наздожене першого.
-<div align="center">$$24 + 5t = 7t \Rightarrow 2t = 24 \Rightarrow t = 12 \thinspace (\text{с})$$</div>
+<div align="center">$$24 + 5t =$$$$ 7t \Rightarrow 2t =$$$$ 24 \Rightarrow t =$$$$ 12 \thinspace (\text{с})$$</div>
 </explanation>
 </question>
 </quiz>
