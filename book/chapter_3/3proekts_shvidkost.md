@@ -111,7 +111,7 @@
 <explanation>
 Із тригонометричних співвідношень у трикутнику:
 <br>
-$$\upsilon_x = \upsilon \thinspace \cos \alpha \Rightarrow \upsilon_x = 30 \cdot \dfrac{1}{2} = 15 \thinspace \text{(м/с)}$$
+$$\upsilon_x =$$$$ \upsilon \thinspace \cos \alpha \Rightarrow$$$$ \upsilon_x = 30 \cdot \dfrac{1}{2} = 15 \thinspace \text{(м/с)}$$
 </explanation>
 </question>
 </quiz>
@@ -126,7 +126,7 @@ $$\upsilon_x = \upsilon \thinspace \cos \alpha \Rightarrow \upsilon_x = 30 \cdot
 <explanation>
 Із тригонометричних співвідношень у трикутнику:
 <br>
-$$\upsilon_y = \upsilon \thinspace \sin \alpha \Rightarrow \upsilon_y = 30 \cdot \dfrac{\sqrt{3}}{2} = 30 \cdot \dfrac{1.7}{2} \approx 30 \cdot 0.85 = 25.5 \thinspace \text{(м/с)}$$
+$$\upsilon_y =$$$$ \upsilon \thinspace \sin \alpha \Rightarrow$$$$ \upsilon_y =$$$$ 30 \cdot \dfrac{\sqrt{3}}{2} =$$$$ 30 \cdot \dfrac{1.7}{2} \approx$$$$ 30 \cdot 0.85 =$$$$ 25.5 \thinspace \text{(м/с)}$$
 </explanation>
 </question>
 </quiz>
