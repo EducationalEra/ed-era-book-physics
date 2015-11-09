@@ -11,13 +11,10 @@ $$\upsilon_{сер} \not= $$$$ \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<b>Ceредня швидкiсть</b> 
-
-$$\vec{\upsilon}_\text{сер} =$$$$ \dfrac{\vec{S}_\Sigma}{t_\Sigma} =$$$$ \dfrac{\vec{S}_1 + \vec{S}_2 + \cdots + \vec{S}_n}{t_1+ t_2 + \cdots +t_n}$$
-
-<b>Ceредня шляхова швидкiсть</b> 
-
-$$\upsilon_\text{сер} =$$ $$\dfrac{l_\Sigma}{t_\Sigma} =$$ $$\dfrac{l_1 + l_2 + \cdots + l_n}{t_1+ t_2 + \cdots +t_n}$$
+<p><b>Ceредня швидкiсть</b></p>
+<p align="center">$$\vec{\upsilon}_\text{сер} = \dfrac{\vec{S}_\Sigma}{t_\Sigma} = \dfrac{\vec{S}_1 + \vec{S}_2 + \cdots + \vec{S}_n}{t_1+ t_2 + \cdots +t_n}$$</p>
+<p><b>Ceредня шляхова швидкiсть</b></p> 
+<p align="center">$$\upsilon_\text{сер} =\dfrac{l_\Sigma}{t_\Sigma} =\dfrac{l_1 + l_2 + \cdots + l_n}{t_1+ t_2 + \cdots +t_n}$$</p>
 </div>
 </div>
 
@@ -25,8 +22,8 @@ $$\upsilon_\text{сер} =$$ $$\dfrac{l_\Sigma}{t_\Sigma} =$$ $$\dfrac{l_1 + l_2
 Тодi для даної задачi:
 
 <ul>
-<li><b>Промiжки часу:</b> $$t_1 =$$ $$2 \thinspace c, t_2 =$$ $$3 \thinspace c, t_3 =$$ $$2 \thinspace c$$</li>
-<li><b>Промiжки шляху:</b> $$ l_1 =$$$$ \upsilon_1 t_1, l_2 =$$ $$\upsilon_2t_2, l_3 = \upsilon_3t_3$$</li>
+<li><b>Промiжки часу:</b> $$t_1 = 2 \thinspace c,\quad t_2 = 3 \thinspace c,\quad t_3 = 2 \thinspace c$$</li>
+<li><b>Промiжки шляху:</b> $$ l_1 = \upsilon_1 t_1,\quad l_2 = \upsilon_2t_2,\quad l_3 = \upsilon_3t_3$$</li>
 </ul>
 
 <span class="p1">Середня швидкiсть:</span> 
