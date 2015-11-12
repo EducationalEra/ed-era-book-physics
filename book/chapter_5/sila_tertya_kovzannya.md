@@ -60,7 +60,7 @@
 
 <div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rp2R0e6M51Y" frameborder="0" allowfullscreen></iframe>
-</div/>
+</div>
 
 <br>
 <br>
@@ -107,7 +107,7 @@
 <br>
 <br>
 
-<div class="space"><div class="centered-table-wrapper">
+<div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
@@ -115,9 +115,11 @@
 </td>
 </tr>
 </table>
-</div/>
-</div/>
+</div>
 </li>
+
+<br>
+<br>
 
 <li>Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.
 
@@ -152,7 +154,7 @@
 </td>
 </tr>
 </table>
-</div/>
+</div>
 </li>
 </ol>
 
