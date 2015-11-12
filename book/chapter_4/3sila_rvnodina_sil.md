@@ -18,7 +18,7 @@
 <b>Рiвнодiйна сила</b> – сила, еквiвалентна всiм силам, що дiють на тiло. Якщо до тiла приладено декiлька сил, то їх дiю можна замiнити дiєю рiвнодiйної сили, що є векторною сумою всiх прикладених сил.
 <br>
 <br>
-<div class="space" align="center">$$\vec{F_{ }} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$</div>
+<center>$$\vec{F_{ }} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$</center>
 
 <span class="p1"><b>SI:</b></span><i> Н (Ньютон)</i>
 </div>
