@@ -28,16 +28,14 @@
 
 <div class="space" align="center"><span class="p1"><b>Iнтуїтивно зрозумiлi наступнi моменти</b></span></div>
 <ol>
-<b><li><div class="space">Чим бiльша початкова довжина $$l_0$$, тим легше видовжити тiло.</div>
+<b><li>Чим бiльша початкова довжина $$l_0$$, тим легше видовжити тiло.</b>
 <div class="space" align="center">$$\Delta l \sim l_0$$</div>
 </li>
-<li>
-<div class="space">Чим бiльша прикладена сила $$\vec{F_{}}$$, тим бiльше видовження тiла $$\Delta l$$.</div>
+<b><li>Чим бiльша прикладена сила $$\vec{F_{}}$$, тим бiльше видовження тiла $$\Delta l$$.</b>
 <div class="space" align="center">$$\Delta l \sim F$$</div>
 </li>
-<li>
-<div class="space">Чим бiльша площа перерiзу $$S$$, тим складнiше видовжити тiло.</div>
-<div class="space" align="center">$$\Delta l \sim \dfrac{1}{S}$$</div></b>
+<b><li>Чим бiльша площа перерiзу $$S$$, тим складнiше видовжити тiло.</b>
+<div class="space" align="center">$$\Delta l \sim \dfrac{1}{S}$$</div>
 </li>
 </ol>
 
