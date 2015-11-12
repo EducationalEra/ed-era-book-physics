@@ -60,12 +60,15 @@
 
 <div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rp2R0e6M51Y" frameborder="0" allowfullscreen></iframe>
-</div>
+</div/>
 
 <br>
 <br>
 
 <center><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></center>
+
+<br>
+<br>
 
 Давайте зобразимо всi дiючi сили на санки у двох випадках.
 
@@ -112,8 +115,8 @@
 </td>
 </tr>
 </table>
-</div>
-</div>
+</div/>
+</div/>
 </li>
 
 <li>Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.
@@ -141,7 +144,7 @@
 <br>
 <br>
 
-<div class="space"><div class="centered-table-wrapper">
+<div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
@@ -149,8 +152,7 @@
 </td>
 </tr>
 </table>
-</div>
-</div>
+</div/>
 </li>
 </ol>
 
@@ -158,13 +160,12 @@
 <br>
 
 Як бачите, у другому випадку вертикальна складова прикладеної сили напрямлена в протилежну сторону до сили тяжiння, тим самим зменшуючи силу реакцiї опори $$N$$. В свою чергу сила тертя, що пропорцiйна $$N$$, також менше.
-
 <br>
 <br>
-
 <b>Вiдповiдь: тягти.</b>
-</div>
-</div>
+
+</div/>
+</div/>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
