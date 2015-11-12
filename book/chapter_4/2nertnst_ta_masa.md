@@ -19,11 +19,10 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<div class="space"><span class="p1"><b>Маса ($$m$$)</b></span> – мiра iнертностi тiла.</div>
-
+<span class="p1"><b>Маса ($$m$$)</b></span> – мiра iнертностi тiла.
+<br>
 <span class="p1"><b>SI:</b></span> кг
-</div>
-</div>
+
 
 <div class="space" align="center"><span class="p1"><b>Демонстрація інерції</b></span></div>
 
