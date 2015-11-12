@@ -4,6 +4,8 @@
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4MVRI6LDhg4" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
 </div></div>
 
 <p class="p3"><div class="space">Книга лежить на столi. На неї дiють двi сили: гравiтацiйна $$m \vec{g}$$ та сила реакцiї опори $$\vec{N_{}}$$. Вони компенсують одна одну i таким чином тiло знаходиться у стані спокою $$\sim$$ <b>рiвновазi.</b> Якщо ж, наприклад, книга падає зi столу, то на неї дiє сила тяжiння. У випадках, якi ми розглядали ранiше, ми нехтували силою опору повiтря та навiть, якщо не нехтувати нею, вона менша за силу тяжiння i книга падає з прискоренням близьким до $$g \Rightarrow$$ <b>тiло не в рiвновазi.</b></div></p>
