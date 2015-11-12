@@ -16,10 +16,17 @@
 
 <div class="space">Є ще один момент. У захiдних пiдручниках є лише одне поняття – iнерцiя. У вiтчизняних книжках iнодi розрiзняють поняття iнерцiї та iнертностi. <span class="p1"><b>Iнeртнiсть</b></span> вважають властивiстю тiла змiнювати свiй стан внаслiдок дiї незрiвноваженої сили поступово, а не миттєво. У будь-якому разi поняття пов’язанi. Це однаково наслiдки першого закону Ньютона.</div>
 
+<div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<div class="space"><span class="p1"><b>Маса ($$m$$)</b></span> – мiра iнертностi тiла.</div>
 
+<span class="p1"><b>SI:</b></span> кг
+</div>
+</div>
 
 <div class="space" align="center"><span class="p1"><b>Демонстрація інерції</b></span></div>
 
-<div class="space"><div class="fluidMedia">
+<div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SWZuvcR2R40" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div>
