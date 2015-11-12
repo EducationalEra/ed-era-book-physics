@@ -28,7 +28,7 @@ $$\upsilon_{сер} \not= $$$$ \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
 
 <span class="p1">Середня швидкiсть:</span> 
 
-<div align="center">$$\upsilon_\text{сер} $$$$= \dfrac{l_1 +l_2+l_3}{t_1+t_2+t_3}= \dfrac{0\cdot2+ 2\cdot 3 + 3\cdot 2}{2+3+2}=\dfrac{12}{7}=1\dfrac{5}{7}$$</div>
+<div class="space" align="center">$$\upsilon_\text{сер} $$$$= \dfrac{l_1 +l_2+l_3}{t_1+t_2+t_3}= \dfrac{0\cdot2+ 2\cdot 3 + 3\cdot 2}{2+3+2}=\dfrac{12}{7}=1\dfrac{5}{7}$$</div>
 
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
