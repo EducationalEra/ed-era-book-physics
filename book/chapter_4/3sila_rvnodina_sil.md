@@ -6,23 +6,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PDM5EA7IYOY" frameborder="0" allowfullscreen></iframe>
 </div></div>
 
-<div class="eoz-wrap">
-<span class="eoz">Означення</span>
-<div class="eoz-text">
-<span class="p1"><b>Сила ($$\vec{F_{ }}$$)</b></span> – векторна величина, що є мiрою дiї тiл або полiв на дане тiло.
-<br>
-<br>
-Вектор $$\vec{F_{ }}$$ має <b>напрям, величину, точку прикладання.</b>
-<br>
-<br>
-<b>Рiвнодiйна сила</b> – сила, еквiвалентна всiм силам, що дiють на тiло. Якщо до тiла приладено декiлька сил, то їх дiю можна замiнити дiєю рiвнодiйної сили, що є векторною сумою всiх прикладених сил.
-<br>
-<br>
-<div class="space" align="center">$$\vec{F_{ }} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$</div>
 
-<span class="p1"><b>SI:</b></span><i> Н (Ньютон)</i>
-</div>
-</div>
 
 <div class="space">При розгляді другого закону Ньютона буде детальніше розглядатись поняття сили.</div>
 
