@@ -12,8 +12,8 @@
 <div class="fluidMedia">
 <iframe align="center" src="https://www.youtube.com/embed/gqTUn9VZThw" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<div class="popup"> </div>
+<div class="popup">
+</div>
 
 <p></p>
 
