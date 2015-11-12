@@ -19,7 +19,7 @@
 <br>
 <br>
 <center>$$\vec{F_{ }} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$</center>
-
+<br>
 <span class="p1"><b>SI:</b></span><i> Н (Ньютон)</i>
 </div>
 </div>
@@ -29,29 +29,60 @@
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>РIВНОДIЙНА СИЛ</b>
 <div class="task-text">
-<div class="space">На тiло дiють чотири сили $$F_1 = 1 \thinspace H, \ F_2 = 1.5 \thinspace H, \ F_3 = 2 \thinspace H, \ F_4 = 2.5 \thinspace H.$$ Напрямки цих сил зображенi на рисунку. Визначте величину та напрям рiвнодiйної сили $$\vec{F_{ }}$$, дiєю якої можна замiнити дiю цих сил.</div>
+На тiло дiють чотири сили $$F_1 = 1 \thinspace H, \ F_2 = 1.5 \thinspace H, \ F_3 = 2 \thinspace H, \ F_4 = 2.5 \thinspace H.$$ Напрямки цих сил зображенi на рисунку. Визначте величину та напрям рiвнодiйної сили $$\vec{F_{ }}$$, дiєю якої можна замiнити дiю цих сил.
 
-<div class="space"><img class="image" width="300" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/3.png"></div>
+<br>
+<br>
 
-<div class="space"><b><i>Розв’язок.</i></b> Рiвнодiйна сил – векторна сума всiх дiючих сил.</div>
+<img class="image" width="300" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/3.png">
 
-<div class="space" align="center">$$\vec{F_{ }} = \vec{F_1} + \vec{F_2} + \vec{F_3} + \vec{F_4}$$</div>
+<br>
 
-<div class="space">Зручно спочатку просумувати вектори, що напрямленi вертикально та горизонтально, а потiм знайти суму отриманих векторiв.</div>
+<b><i>Розв’язок.</i></b> Рiвнодiйна сил – векторна сума всiх дiючих сил.
 
-<div class="space"><img class="image" width="290" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/4.png"></div>
+<br>
 
-<div class="space" align="center">$$|\vec{F_1} + \vec{F_2}| = 1.5 - 1 = 0.5   \thinspace (H)$$</div>
+<center>$$\vec{F_{ }} = \vec{F_1} + \vec{F_2} + \vec{F_3} + \vec{F_4}$$</center>
 
-<div class="space"><img class="image" width="480" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/5.png"></div>
+<br>
 
-<div class="space" align="center">$$|\vec{F_3} + \vec{F_4}| = 2.5 - 2 = 0.5 \thinspace (H)$$</div>
+Зручно спочатку просумувати вектори, що напрямленi вертикально та горизонтально, а потiм знайти суму отриманих векторiв.
 
-<div class="space">Отже, задачу з чотирма векторами ми звели до задачi з двома векторами однакової величини. За теоремою Пiфагора знаходимо величину результуючого вектора.</div>
+<br>
+<br>
 
-<div class="space"><img class="image" width="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/6.png"></div>
+<center><img class="image" width="290" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/4.png"></center>
 
-<div class="space" align="center">$$|\vec{F_{ }}| = \sqrt{0.5^2 + 0.5^2} \approx 0.71 \thinspace (H)$$</div>
+<br>
+<br>
+
+<center>$$|\vec{F_1} + \vec{F_2}| = 1.5 - 1 = 0.5 \thinspace (H)$$</center>
+
+<br>
+<br>
+
+<center><img class="image" width="480" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/5.png"></center>
+
+<br>
+<br>
+
+<center>$$|\vec{F_3} + \vec{F_4}| = 2.5 - 2 = 0.5 \thinspace (H)$$</center>
+
+<br>
+<br>
+
+Отже, задачу з чотирма векторами ми звели до задачi з двома векторами однакової величини. За теоремою Пiфагора знаходимо величину результуючого вектора.
+
+<br>
+<br>
+
+<center><img class="image" width="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/6.png"><center>
+
+<br>
+
+<center>$$|\vec{F_{ }}| = \sqrt{0.5^2 + 0.5^2} \approx 0.71 \thinspace (H)$$</center>
+
+<br>
 
 Таким чином, дiя чотирьох сил на тiло з точки зору розв’язання задач на динамiку – те саме, що розглядати дiю однiєї сили на тiло.
 </div>
