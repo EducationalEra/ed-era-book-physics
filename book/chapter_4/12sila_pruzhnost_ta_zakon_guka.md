@@ -64,7 +64,7 @@
 
 <div class="space"><img class="image" width="314" height="242" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/21.png"></div>
 
-Слiд зауважити, що закон Гука в реальному життi виконується до <b>певної межi(межі пружності)</b> механiчної напруги. Пiсля цiєї межi тiло вже стає деформованим i не повертається у початковий стан. У школi не розглядається цей випадок.
+Слiд зауважити, що закон Гука в реальному життi виконується до <b>певної межi (межі пружності)</b> механiчної напруги. Пiсля цiєї межi тiло вже стає деформованим i не повертається у початковий стан. У школi не розглядається цей випадок.
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
