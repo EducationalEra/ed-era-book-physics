@@ -45,6 +45,9 @@
 </li>
 </ol>
 
+<br>
+<br>
+
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Пружину жорсткістю $$250$$ Н/м стискають з силою $$4$$ Н. Знайдіть зміну довжини пружини.</p>
