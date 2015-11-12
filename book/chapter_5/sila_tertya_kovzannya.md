@@ -168,6 +168,7 @@
 
 </div/>
 </div/>
+</div>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
