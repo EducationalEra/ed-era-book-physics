@@ -115,7 +115,7 @@
 </td>
 </tr>
 </table>
-</div/>
+</div>
 </li>
 
 <br>
@@ -154,7 +154,7 @@
 </td>
 </tr>
 </table>
-</div/>
+</div>
 </li>
 </ol>
 
@@ -166,8 +166,8 @@
 <br>
 <b>Вiдповiдь: тягти.</b>
 
-</div/>
-</div/>
+</div>
+</div>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
