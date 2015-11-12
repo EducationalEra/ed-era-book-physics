@@ -28,7 +28,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$m_1(a+g) = m_2(g-a) \Rightarrow a (m_1 + m_2) = g (m_2 - m_1) \Rightarrow a = g \dfrac{m_2 - m_1}{m_1 + m_2}$$</p1>
+<p1>$$m_1(a+g) =$$$$ m_2(g-a) \Rightarrow$$$$ a (m_1 + m_2) =$$$$ g (m_2 - m_1) \Rightarrow$$$$ a = g \dfrac{m_2 - m_1}{m_1 + m_2}$$</p1>
 </td>
 </tr>
 </table></div>
@@ -50,10 +50,10 @@
 <question>
 <p>Для задачі, що розглядалась, маса ліфта з людиною становить $$200$$ кг, а маса залізного блоку - $$900$$ кг. Знайдіть прискорення ліфта.</p>
 
-<answer>$$4 \thinspace \text{м/с}^2$$</answer> 
-<answer>$$5 \thinspace \text{м/с}^2$$</answer>
-<answer>$$6 \thinspace \text{м/с}^2$$</answer>
-<answer correct>$$7 \thinspace \text{м/с}^2$$</answer>
+<answer>$$4 \ \text{м/с}^2$$</answer> 
+<answer>$$5 \ \text{м/с}^2$$</answer>
+<answer>$$6 \ \text{м/с}^2$$</answer>
+<answer correct>$$7 \ \text{м/с}^2$$</answer>
 <explanation>
 Прирівнявши сили натягу тросу, отримуємо:
 <br>
