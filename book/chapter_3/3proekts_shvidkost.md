@@ -11,8 +11,8 @@
 <div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CzNHaTGwuxo" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<div class="popup"> </div>
+<div class="popup">
+</div>
 <br>
 <div class="space">• <b>Проекцiя на вертикальну вiсь</b><br>
 Як вже зазначалося, вздовж вертикальної вiсi маємо <b>рiвноприскорений рух</b>.
