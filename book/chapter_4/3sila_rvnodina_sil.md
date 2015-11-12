@@ -28,7 +28,7 @@
 
 <br>
 
-<span class="p1"><b>SI: </span><i>Н (Ньютон)</i></b>
+<span class="p1"><b>SI:</span><i> Н</b> (Ньютон)</i>
 
 <br>
 </div>
