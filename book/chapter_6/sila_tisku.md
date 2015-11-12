@@ -4,6 +4,8 @@
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sM4jHpn_Rvw" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
 </div></div>
 
 <div class="space">Наприклад, якщо на автомобiль у <b>першому випадку</b> не дiяла сила тиску, це фактично би означало що рампа, по якiй вiн рухається вiдсутня. Звичайно, що рух автомобiля у вертикальнiй площинi без рампи неможливий. У <b>другому випадку</b> момент, коли сила тиску дорiвнює нулю – також означає, що автомобiль вiдiрветься вiд поверхнi. Прямо як у фiльмах. Давайте розглянемо запропонованi випадки.</div>
