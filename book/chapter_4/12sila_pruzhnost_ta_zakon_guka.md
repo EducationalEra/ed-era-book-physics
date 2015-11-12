@@ -58,7 +58,7 @@
 
 <div class="space"><img class="image" width="542" height="110" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/20.png"></div>
 
-<div class="space">Закон Гука стверджує про пропорцiйнiсть мiж силою пружностi $$F_П$$, що виникає внаслiдок деформацiї i розтягу(стиску) тiла $$\Delta l$$. Чим бiльший коефiцiєнт жорсткостi $$k$$, тим швидше зi збiльшенням видовження зростає сила пружностi, яка намагається повернути тiло у свiй "звичний" стан. На рисунку $$k = tg\ \alpha$$.</div>
+<div class="space">Закон Гука стверджує про пропорцiйнiсть мiж силою пружностi $$F_П$$, що виникає внаслiдок деформацiї i розтягу (стиску) тiла $$\Delta l$$. Чим бiльший коефiцiєнт жорсткостi $$k$$, тим швидше зi збiльшенням видовження зростає сила пружностi, яка намагається повернути тiло у свiй "звичний" стан. На рисунку $$k = tg\ \alpha$$.</div>
 
 <div class="space"><img class="image" width="314" height="242" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/21.png"></div>
 
