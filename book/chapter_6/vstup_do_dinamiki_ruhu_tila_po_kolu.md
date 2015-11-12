@@ -4,6 +4,8 @@
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KoeLZN7tk2s" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
 </div></div>
 
 <div class="space">Ми також отримали формулу для <span class="p1"><b>доцентрового прискорення:</b></span></div>
