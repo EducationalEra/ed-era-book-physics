@@ -41,6 +41,9 @@
 </div>
 </div>
 
+<br>
+<br>
+
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Брусок масою $$15$$ кг лежить на поверхні з коефіцієнтом тертя спокою $$\mu_c = 0,5$$ і коефіцієнтом тертя ковзання $$\mu_к=0,3$$. Чи вистачить сили у $$60 \thinspace Н$$ зрушити його з місця?</p>
