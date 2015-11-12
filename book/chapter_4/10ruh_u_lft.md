@@ -1,8 +1,13 @@
 # Рух у лiфтi
 
-<div class="space"><div class="fluidMedia">
+<div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ffDSJQCOd6I" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div>
+<div class="popup">
+</div>
+
+<br>
+<br>
 
 Розглядаємо три випадки руху в лiфтi: рiвномiрний або стан спокою, рiвноприскорений (вгору), рiвноприскорений (вниз). Оцiнимо, як будуть вiдрiзнятися покази ваги.
 
