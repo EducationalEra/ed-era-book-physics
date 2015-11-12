@@ -68,6 +68,9 @@
 
 <img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png" align="center">
 
+<br>
+<br>
+
 <p>Давайте зобразимо всi дiючi сили на санки у двох випадках.</p>
 
 <img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png" align="center">
