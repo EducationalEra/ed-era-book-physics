@@ -113,7 +113,7 @@
 <answer>6 H</answer>
 <explanation>
 З теореми Піфагора:
-$$|\vec{F_{}}| = \sqrt{F_1^2 + F_2^2} = \sqrt{4^2 + 3^2} = \sqrt{25} = 5$$ (Н).
+$$|\vec{F_{}}| = \sqrt{F_1^2 + F_2^2} = \sqrt{4^2 + 3^2} = \sqrt{25} = 5 \thinspace (H)$$.
 </explanation>
 </question>
 </quiz>
