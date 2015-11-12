@@ -2,6 +2,8 @@
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yI_JfSbrs2w" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
 </div></div>
 
 <div class="space">У попередньому пунктi було розглянуто умову рiвноваги, де головним чином важливо, щоб рiвнодiйна сил дорiвнювала нулю. Зараз ви зрозумiєте, що це лише одна з умов але її може бути недостатньо.</div>
@@ -74,9 +76,15 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<div class="space"><span class="p1"><b>Друга умова рiвноваги:</b></span> щоб тiло перебувало у станi рiвноваги, сума моменiв сил вiдносно будь-якої нерухомої вiсi повинна дорiвнювати нулю.</div>
+<span class="p1"><b>Друга умова рiвноваги:</b></span> щоб тiло перебувало у станi рiвноваги, сума моменiв сил вiдносно будь-якої нерухомої вiсi повинна дорiвнювати нулю.
 
-<div class="space" align="center">$$M_{\Sigma} = 0$$</div>
+<br>
+<br>
+
+<center>$$M_{\Sigma} = 0$$</center>
+
+<br>
+<br>
 
 Це якраз i є умовою вiдсутностi кутового прискорення $$\alpha$$.
 </div>
