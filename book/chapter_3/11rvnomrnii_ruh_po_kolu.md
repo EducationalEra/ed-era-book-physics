@@ -121,30 +121,30 @@
 Перiод обертання кульки дорiвнює часу спостерiгання подiленому на кiлькiсть здiйснених обертiв:
 
 
-<div align="center">$$T = \dfrac{t}{N} = \dfrac{30}{60} = 0.5 \thinspace (\text{c})$$</div>
+<div class="space" align="center">$$T = \dfrac{t}{N} = \dfrac{30}{60} = 0.5 \thinspace (\text{c})$$</div>
 </li>
 <li>
 Частота – обернена до перiоду величина
 
 
-<div align="center">$$\nu = \dfrac{1}{T} = \dfrac{1}{0.5} = 2 \thinspace (\text{c}^{-1})$$</div>
+<div class="space" align="center">$$\nu = \dfrac{1}{T} = \dfrac{1}{0.5} = 2 \thinspace (\text{c}^{-1})$$</div>
 </li>
 <li>
 Лiнiйна швидкiсть визначається як вiдношення пройденого шляху до часу, за який було подолано цей шлях. Повний оберт долається за перiод $$T$$:
 
 </li>
-<div align="center">$$\upsilon = \dfrac{2 \pi R}{T} = \dfrac{2 \cdot 3.14 \cdot 0.6}{0.5} \approx 7.5 \thinspace (\text{м/с})$$</div>
+<div class="space" align="center">$$\upsilon = \dfrac{2 \pi R}{T} = \dfrac{2 \cdot 3.14 \cdot 0.6}{0.5} \approx 7.5 \thinspace (\text{м/с})$$</div>
 </li>
 <li>
 Кутова швидкiсть дорiвнює вiдношенню кута повороту до часу, за який цей кут було подолано. Кут повороту для повного оберту $$2 \pi$$, вiдповiдний час – $$T$$.
 
 
-<div align="center">$$\omega = \dfrac{2 \pi}{T} = \dfrac{2 \cdot 3.14}{0.5} \approx 12.6 \thinspace (\text{рад/с})$$</div>
+<div class="space" align="center">$$\omega = \dfrac{2 \pi}{T} = \dfrac{2 \cdot 3.14}{0.5} \approx 12.6 \thinspace (\text{рад/с})$$</div>
 </li>
 <li>
 
 Доцентрове прискорення:
-<div align="center">$$a_Д = \dfrac{\upsilon^2}{R} = \dfrac{7.5^2}{0.6} \approx 93.8 \thinspace (\text{м/с}^2)$$</div>
+<div class="space" align="center">$$a_Д = \dfrac{\upsilon^2}{R} = \dfrac{7.5^2}{0.6} \approx 93.8 \thinspace (\text{м/с}^2)$$</div>
 </li>
 </l>
 </div>
