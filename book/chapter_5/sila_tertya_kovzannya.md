@@ -61,111 +61,54 @@
 <div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rp2R0e6M51Y" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<div class="popup">
+</div>
 <br>
 <br>
 
-<center><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></center>
+<img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png" align="center">
 
-<br>
-<br>
+<p>Давайте зобразимо всi дiючi сили на санки у двох випадках.</p>
 
-Давайте зобразимо всi дiючi сили на санки у двох випадках.
-
-<br>
-<br>
-
-<center><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png"></center>
-
-<br>
-<br>
+<img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png" align="center">
 
 <ol>
 <li>
-Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.
-
-<br>
-<br>
-
-Проекцiя на вiсь $$y: -mg + N - F \sin \alpha = 0 \Rightarrow$$$$ N = mg + F \sin \alpha $$.
-
-<br>
-<br>
-
-Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow$$$$ F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.
-
-<br>
-<br>
-
-Сила тертя ковзання: $$F_T = \mu N$$.
-
-<br>
-<br>
-
-Пiдставимо отриману силу $$N$$.
-
-<br>
-<br>
+<p>Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.</p>
+<p>Проекцiя на вiсь $$y: -mg + N - F \sin \alpha = 0 \Rightarrow$$$$ N = mg + F \sin \alpha $$.</p>
+<p>Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow$$$$ F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.</p>
+<p>Сила тертя ковзання: $$F_T = \mu N$$.</p>
+<p>Пiдставимо отриману силу $$N$$.</p>
 
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$F_T = \mu N =$$$$ \mu (mg + F \sin \alpha) \Rightarrow$$$$ F = \dfrac{\mu (mg + F \sin \alpha)}{\cos \alpha}$$</p1>
+<span class="p1">$$F_T = \mu N =$$$$ \mu (mg + F \sin \alpha) \Rightarrow$$$$ F = \dfrac{\mu (mg + F \sin \alpha)}{\cos \alpha}$$</span>
 </td>
 </tr>
 </table>
 </div>
 </li>
 
-<br>
-<br>
-
-<li>Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.
-
-<br>
-<br>
-
-Проекцiя на вiсь $$y: -mg + N + F \sin \alpha = 0 \Rightarrow$$$$ N = mg - F \sin \alpha $$.
-
-<br>
-<br>
-
-Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow$$$$ F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.
-
-<br>
-<br>
-
-Сила тертя ковзання: $$F_T = \mu N$$.
-
-<br>
-<br>
-
-Пiдставимо отриману силу $$N$$.
-
-<br>
-<br>
-
+<li><p>Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.</p>
+<p>Проекцiя на вiсь $$y: -mg + N + F \sin \alpha = 0 \Rightarrow$$$$ N = mg - F \sin \alpha $$.</p>
+<p>Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow$$$$ F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.</p>
+<p>Сила тертя ковзання: $$F_T = \mu N$$.</p>
+<p>Пiдставимо отриману силу $$N$$.</p>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$F_T = \mu N = \mu (mg - F \sin \alpha) \Rightarrow$$$$ F = \dfrac{\mu (mg- F \sin \alpha)}{\cos \alpha}$$</p1>
+<span class="p1">$$F_T = \mu N = \mu (mg - F \sin \alpha) \Rightarrow$$$$ F = \dfrac{\mu (mg- F \sin \alpha)}{\cos \alpha}$$</span>
 </td>
 </tr>
 </table>
 </div>
 </li>
 </ol>
-
-<br>
-<br>
-
-Як бачите, у другому випадку вертикальна складова прикладеної сили напрямлена в протилежну сторону до сили тяжiння, тим самим зменшуючи силу реакцiї опори $$N$$. В свою чергу сила тертя, що пропорцiйна $$N$$, також менше.
-<br>
-<br>
-<b>Вiдповiдь: тягти.</b>
-
+<p>Як бачите, у другому випадку вертикальна складова прикладеної сили напрямлена в протилежну сторону до сили тяжiння, тим самим зменшуючи силу реакцiї опори $$N$$. В свою чергу сила тертя, що пропорцiйна $$N$$, також менше.</p>
+<p><b>Вiдповiдь: тягти.</b></p>
 </div>
 </div>
 
