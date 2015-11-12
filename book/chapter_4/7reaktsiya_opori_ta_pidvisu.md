@@ -1,7 +1,12 @@
 # Реакцiя опори та пiдвiсу
-<div class="space"><div class="fluidMedia">
+<div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7wavl0Xq0eQ" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div>
+<div class="popup">
+</div>
+
+<br>
+<br>
 
 <div class="space"><span class="p1"><b>Перед вами двi ситуацiї $$\rightarrow$$</b></span></div>
 
