@@ -21,8 +21,10 @@
 <div class="eoz-text">
 <span class="p1"><b>Маса ($$m$$)</b></span> – мiра iнертностi тiла.
 <br>
+<br>
 <span class="p1"><b>SI:</b></span> кг
-
+</div>
+</div>
 
 <div class="space" align="center"><span class="p1"><b>Демонстрація інерції</b></span></div>
 
