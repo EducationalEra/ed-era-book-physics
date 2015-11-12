@@ -15,9 +15,17 @@
 
 $$\vec{F_A}$$ – дiя першого тiла на друге; $$\vec{F_R}$$ – дiя другого тiла на перше
 
-<div class="space"><div class="fluidMedia">
+<br>
+<br>
+
+<div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8O6aQBZdLQw" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div>
+<div class="popup">
+</div>
+
+<br>
+<br>
 
 <p class="p3">У розглянутих нами випадках сила тяжiння i сила реакцiї опори – сили, що дiють <b>на тіло</b>. Отже, вони не є силами з визначення третього закону Ньютона. Сила реакцiї опори за третiм законом Ньютона дорiвнює силi, з якою тiло дiє на опору або пiдвiс. Ця сила називається <span class="p1"><b>вагою.</b></span></p>
 
