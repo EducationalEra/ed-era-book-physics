@@ -53,58 +53,111 @@
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ШТОВХАТИ ЧИ ТЯГТИ?</b>
 <div class="task-text">
-<div class="space">Уявiть ситуацiю: вам потрiбно покатати на санках маленького Петра (iм’я не впливає на розв’язок задачi). У якому випадку вам потрiбно прикласти меншу силу, щоб з постiйною швидкiстю везти санки?</div>
+Уявiть ситуацiю: вам потрiбно покатати на санках маленького Петра (iм’я не впливає на розв’язок задачi). У якому випадку вам потрiбно прикласти меншу силу, щоб з постiйною швидкiстю везти санки?
 
-<div class="space"><div class="fluidMedia">
+<br>
+<br>
+
+<div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rp2R0e6M51Y" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div>
 
-<div class="space"><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></div>
+<br>
+<br>
 
-<div class="space">Давайте зобразимо всi дiючi сили на санки у двох випадках.</div>
+<center><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png"></center>
 
-<div class="space"><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png"></div>
+Давайте зобразимо всi дiючi сили на санки у двох випадках.
+
+<br>
+<br>
+
+<center><img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png"></center>
+
+<br>
+<br>
 
 <ol>
 <li>
-<div class="space">Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.</div>
-<div class="space">Проекцiя на вiсь $$y: -mg + N - F \sin \alpha = 0 \Rightarrow N = mg + F \sin \alpha $$.</div>
-<div class="space">Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.</div>
-<div class="space">Сила тертя ковзання: $$F_T = \mu N$$.</div>
+Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.
 
-<div class="space">Пiдставимо отриману силу $$N$$.</div>
+<br>
+<br>
+
+Проекцiя на вiсь $$y: -mg + N - F \sin \alpha = 0 \Rightarrow$$$$ N = mg + F \sin \alpha $$.
+
+<br>
+<br>
+
+Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow$$$$ F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.
+
+<br>
+<br>
+
+Сила тертя ковзання: $$F_T = \mu N$$.
+
+<br>
+<br>
+
+Пiдставимо отриману силу $$N$$.
+
+<br>
+<br>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$F_T = \mu N = \mu (mg + F \sin \alpha) \Rightarrow F = \dfrac{\mu (mg + F \sin \alpha)}{\cos \alpha}$$</p1>
+<p1>$$F_T = \mu N =$$$$ \mu (mg + F \sin \alpha) \Rightarrow$$$$ F = \dfrac{\mu (mg + F \sin \alpha)}{\cos \alpha}$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table>
+</div>
+</div>
 </li>
-<li>
-<div class="space">Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.</div>
-<div class="space">Проекцiя на вiсь $$y: -mg + N + F \sin \alpha = 0 \Rightarrow N = mg - F \sin \alpha $$.</div>
 
-<div class="space">Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.</div>
+<li>Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.
 
-<div class="space">Сила тертя ковзання: $$F_T = \mu N$$.</div>
+<br>
+<br>
 
-<div class="space">Пiдставимо отриману силу $$N$$.</div>
+Проекцiя на вiсь $$y: -mg + N + F \sin \alpha = 0 \Rightarrow$$$$ N = mg - F \sin \alpha $$.
+
+<br>
+<br>
+
+Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow$$$$ F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.
+
+<br>
+<br>
+
+Сила тертя ковзання: $$F_T = \mu N$$.
+
+<br>
+<br>
+
+Пiдставимо отриману силу $$N$$.
+
+<br>
+<br>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$F_T = \mu N = \mu (mg - F \sin \alpha) \Rightarrow F = \dfrac{\mu (mg- F \sin \alpha)}{\cos \alpha}$$</p1>
+<p1>$$F_T = \mu N = \mu (mg - F \sin \alpha) \Rightarrow$$$$ F = \dfrac{\mu (mg- F \sin \alpha)}{\cos \alpha}$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table>
+</div>
+</div>
 </li>
 </ol>
 
-<div class="space">Як бачите, у другому випадку вертикальна складова прикладеної сили напрямлена в протилежну сторону до сили тяжiння, тим самим зменшуючи силу реакцiї опори $$N$$. В свою чергу сила тертя, що пропорцiйна $$N$$, також менше.</div>
+Як бачите, у другому випадку вертикальна складова прикладеної сили напрямлена в протилежну сторону до сили тяжiння, тим самим зменшуючи силу реакцiї опори $$N$$. В свою чергу сила тертя, що пропорцiйна $$N$$, також менше.
+
+<br>
+<br>
 
 <b>Вiдповiдь: тягти.</b>
 </div>
