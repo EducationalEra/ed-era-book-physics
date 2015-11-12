@@ -6,9 +6,12 @@
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <div class="space"><span class="p1"><b>Деформацiя</b></span> – це змiна форми твердого тiла пiд дiєю зовнiшньої сили.</div>
-<div class="space"><span class="p1"><b>Пружна деформацiя</b></span> – деформацiя, яка повнiстю зникає пiсля припинення дiї зовнiшньої сили. Форма тiла повертається у своє «звичне» положення.</div>
+<span class="p1"><b>Пружна деформацiя</b></span> – деформацiя, яка повнiстю зникає пiсля припинення дiї зовнiшньої сили. Форма тiла повертається у своє «звичне» положення.
 </div>
 </div>
+
+<br>
+<br>
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/otU1LpSd224" frameborder="0" allowfullscreen></iframe>
@@ -25,8 +28,7 @@
 
 <div class="space" align="center"><span class="p1"><b>Iнтуїтивно зрозумiлi наступнi моменти</b></span></div>
 <ol>
-<li>
-<div class="space">Чим бiльша початкова довжина $$l_0$$, тим легше видовжити тiло.</div>
+<b><li><div class="space">Чим бiльша початкова довжина $$l_0$$, тим легше видовжити тiло.</div>
 <div class="space" align="center">$$\Delta l \sim l_0$$</div>
 </li>
 <li>
@@ -35,7 +37,7 @@
 </li>
 <li>
 <div class="space">Чим бiльша площа перерiзу $$S$$, тим складнiше видовжити тiло.</div>
-<div class="space" align="center">$$\Delta l \sim \dfrac{1}{S}$$</div>
+<div class="space" align="center">$$\Delta l \sim \dfrac{1}{S}$$</div></b>
 </li>
 </ol>
 
