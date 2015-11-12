@@ -103,7 +103,7 @@
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Тіло кинули під кутом $$60^\circ$$ до горизонту. Початкова швидкість дорівнює 30 м/с. Чому дорівнює проекція початкової швидкості на вісь $x$?</p>
+<p>Тіло кинули під кутом $$60^\circ$$ до горизонту. Початкова швидкість дорівнює 30 м/с. Чому дорівнює проекція початкової швидкості на вісь $$x$$?</p>
 <answer>20 м/с</answer>
 <answer correct>15 м/с</answer>
 <answer>12 м/с</answer>
@@ -118,7 +118,7 @@ $$\upsilon_x =$$$$ \upsilon \thinspace \cos \alpha \Rightarrow$$$$ \upsilon_x = 
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Чому дорівнює проекція початкової швидкості на вісь $y$?</p>
+<p>Чому дорівнює проекція початкової швидкості на вісь $$y$$?</p>
 <answer>20 м/с</answer>
 <answer correct>25.5 м/с</answer>
 <answer>15 м/с</answer>
