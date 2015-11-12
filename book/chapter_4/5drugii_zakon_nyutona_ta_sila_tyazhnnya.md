@@ -5,11 +5,14 @@
 <div class="space"><font size="4"><i>« В iнерцiйній системi вiдлiку прискорення, що отримує матерiальна точка незмiнної маси, прямопропорцiйне рiвнодiйнiй сил, що дiють на неї та оберенено пропорцiйне масi цiєї точки. »</i></font></div>
 
 <ul>
-<div class="space"><li><span class="p1"><b>$$\vec{a} = \dfrac{\vec{F_{}}}{m}$$ – прискорення тіла</b></span></div>
+<li><span class="p1"><b>$$\vec{a} = \dfrac{\vec{F_{}}}{m}$$ – прискорення тіла</b></span>
+<br>
 </li>
-<div class="space"><li><span class="p1"><b>$$\vec{F_{}} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$ – рiвнодiйна сил, що надає тiлу прискорення</b></span></div>
+<li><span class="p1"><b>$$\vec{F_{}} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$ – рiвнодiйна сил, що надає тiлу прискорення</b></span>
+<br>
 </li>
-<div class="space"><li><span class="p1"><b>$$m$$ – маса тiла</b></span></div>
+<li><span class="p1"><b>$$m$$ – маса тiла</b></span>
+<br>
 </li>
 </ul>
 
