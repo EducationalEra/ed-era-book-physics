@@ -2,7 +2,7 @@
 
 <div class="space">Багато задач стосується тiл, якi знаходяться на похилiй площинi.</div>
 
-<div class="space"><img class="image" width="300" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/10.png"></div>
+<div class="space"><img class="image" width="300" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/10.png" align="center"></div>
 
 <div class="space">Будемо розбиратися з цим типом завдань на конкретних експериментах.</div>
 
@@ -30,10 +30,13 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\mu N = mg \sin \alpha \Rightarrow \mu mg \cos \alpha = mg \sin \alpha \Rightarrow \mu = \dfrac{\sin \alpha}{\cos \alpha} = tg\ \alpha$$</p1>
+<p1>$$\mu N = mg \sin \alpha \Rightarrow$$$$ \mu mg \cos \alpha =$$$$ mg \sin \alpha \Rightarrow$$$$ \mu = \dfrac{\sin \alpha}{\cos \alpha} =$$$$ tg\ \alpha$$</p1>
 </td>
 </tr>
 </table></div>
+
+<br>
+<br>
 
 <div class="space"><p class="p3">Ми отримали вираз для коефiцiєнта тертя. Тепер використавши лiнiйку, яку ми мали, можемо використати те, що тангенс дорiвнює протилежному катету подiленому на прилеглий.</p></div>
 
@@ -56,9 +59,14 @@
 
 Проекцiя на вiсь $$x$$ для першого тіла: 
 
+<br>
+
 <div class="space" align="center">$$T - F_T - m_1 g \sin \alpha = 0 \Rightarrow T = m_1 g \sin \alpha + F_T$$</div>
 
 Проекцiя на вiсь $$y$$ для другого тiла: $$T = m_2 g$$
+
+<br>
+<br>
 
 <div class="space">Сила натягу нитки для першого i для другого тiла – однакова, адже маємо один нерозтяжний трос, що сполучає цi тiла.</div>
 
@@ -102,9 +110,11 @@
 </li>
 </ul>
 
-<div align="center"><span class="p1"><b>Рекомендуємо подивитися наш експеримент, який покаже цікаве застосування сили тертя на практиці ;)</b></span></div>
+<div class="space" align="center"><span class="p1"><b>Рекомендуємо подивитися наш експеримент, який покаже цікаве застосування сили тертя на практиці ;)</b></span></div>
 
 <div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aple_qWVgA0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
 </div>
 
