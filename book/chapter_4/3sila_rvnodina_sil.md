@@ -28,7 +28,7 @@
 
 <br>
 
-<span class="p1"><b>SI:</b></span><i> Н (Ньютон)</i>
+<span class="p1"><b>SI:</span><i> Н (Ньютон)</i></b>
 
 <br>
 </div>
@@ -107,10 +107,10 @@
 <question>
 <p>На тіло діють дві сили. Перша - напрямлена вгору і дорівнює $$4 \thinspace H$$, друга - напрямлена вправо і дорівнює $$3 \thinspace H$$. Чому дорівнює рівнодійна сила?</p>
  
-<answer>7 H</answer>
-<answer correct>5 H</answer>
-<answer>4.5 H</answer>
-<answer>6 H</answer>
+<answer>$$7 \thinspace H$$</answer>
+<answer correct>$$5 \thinspace H$$</answer>
+<answer>$$4.5 \thinspace H$$</answer>
+<answer>$$6 \thinspace H$$</answer>
 <explanation>
 З теореми Піфагора:
 $$|\vec{F_{}}| = \sqrt{F_1^2 + F_2^2} = \sqrt{4^2 + 3^2} = \sqrt{25} = 5 \thinspace (H)$$.
