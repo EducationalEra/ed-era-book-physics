@@ -2,9 +2,14 @@
 
 <div class="space">Центральне поняття динамiки – <span class="p1"><b>сила</b></span>.</div>
 
-<div class="space"><div class="fluidMedia">
+<div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PDM5EA7IYOY" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div>
+<div class="popup">
+</div>
+
+<br>
+<br>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
