@@ -10,17 +10,27 @@
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <span class="p1"><b>Сила ($$\vec{F_{ }}$$)</b></span> – векторна величина, що є мiрою дiї тiл або полiв на дане тiло.
+
 <br>
 <br>
+
 Вектор $$\vec{F_{ }}$$ має <b>напрям, величину, точку прикладання.</b>
+
 <br>
 <br>
+
 <b>Рiвнодiйна сила</b> – сила, еквiвалентна всiм силам, що дiють на тiло. Якщо до тiла приладено декiлька сил, то їх дiю можна замiнити дiєю рiвнодiйної сили, що є векторною сумою всiх прикладених сил.
+
 <br>
 <br>
+
 <center>$$\vec{F_{ }} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$</center>
+
 <br>
+
 <span class="p1"><b>SI:</b></span><i> Н (Ньютон)</i>
+
+<br>
 </div>
 </div>
 
@@ -37,13 +47,16 @@
 <img class="image" width="300" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/3.png">
 
 <br>
+<br>
 
 <b><i>Розв’язок.</i></b> Рiвнодiйна сил – векторна сума всiх дiючих сил.
 
 <br>
+<br>
 
 <center>$$\vec{F_{ }} = \vec{F_1} + \vec{F_2} + \vec{F_3} + \vec{F_4}$$</center>
 
+<br>
 <br>
 
 Зручно спочатку просумувати вектори, що напрямленi вертикально та горизонтально, а потiм знайти суму отриманих векторiв.
@@ -76,12 +89,14 @@
 <br>
 <br>
 
-<center><img class="image" width="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/6.png"><center>
+<center><img class="image" width="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/6.png"></center>
 
+<br>
 <br>
 
 <center>$$|\vec{F_{ }}| = \sqrt{0.5^2 + 0.5^2} \approx 0.71 \thinspace (H)$$</center>
 
+<br>
 <br>
 
 Таким чином, дiя чотирьох сил на тiло з точки зору розв’язання задач на динамiку – те саме, що розглядати дiю однiєї сили на тiло.
