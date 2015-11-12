@@ -100,6 +100,8 @@
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uFByXnRWBt4" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
 </div></div>
 
 <div class="space">У ЗНО часто зустрiчаються питання на визначення швидкостi у тiй чи iншiй точцi при русi тiла по колу у вертикальнiй площинi.</div>
