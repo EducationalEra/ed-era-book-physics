@@ -13,9 +13,14 @@
 <br>
 <br>
 
-<div class="space"><div class="fluidMedia">
+<div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/otU1LpSd224" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div>
+<div class="popup">
+</div>
+
+<br>
+<br>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
