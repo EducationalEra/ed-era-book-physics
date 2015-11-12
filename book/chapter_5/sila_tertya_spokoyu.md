@@ -1,8 +1,13 @@
 # Сила тертя спокою
 
-<div class="space"><div class="fluidMedia">
+<div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FBW8ejnRhwU" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div>
+<div class="popup">
+</div>
+
+<br>
+<br>
 
 <div class="space">Нехай на поверхнi лежить тіло. До нього прикладено двi сили: сила тяжiння $$m \vec{g}$$ та сила реакцiї опори $$\vec{N_{}}$$. Другий закон Ньютона справджується. Двi сили урiвноважують одна одну i маємо нульове прискорення.</div>
 
