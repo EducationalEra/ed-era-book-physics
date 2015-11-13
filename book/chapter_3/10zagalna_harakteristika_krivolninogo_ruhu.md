@@ -4,7 +4,10 @@
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EgUHljq7U7I" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div>
+<div class="popup">
+</div>
+</div>
 
 <div class="space">Радiус кола (кривизна у точцi) визначається наявною складовою доцентрового прискорення. Яка саме залежнiсть, ви дiзнаєтесь незабаром. Рух по колу є прикладом криволiнiйного руху.</div>
 
