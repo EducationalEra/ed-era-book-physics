@@ -6,6 +6,8 @@
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X5F0bxxReU0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
 </div></div>
 
 <div class="space"><p class="p3">Приклади використання цих концепцiй:</p></div>
