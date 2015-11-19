@@ -4,6 +4,8 @@
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9lH6vnSDQPU" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
 </div></div>
 
 <div class="space">Нехай тiло знаходиться у рiвновазi. Якщо ж змiстити тiло з положення рiвноваги, можливi три варiанти того, що вiдбудеться далi:</div>
