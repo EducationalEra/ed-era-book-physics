@@ -567,3 +567,6 @@ default – "White"
 .p3 {
  text-indent: 20px;
 }
+.book .book-body .page-wrapper .page-inner section.normal a[href*=biggggidea] {
+    color: rgb(250,175,0);
+}
