@@ -8,7 +8,7 @@
 
 <div class="space"><img class="image" width="150"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/6.png"></div>
 
-<div class="space">Якщо ж тiло пiднiмають вгору, то сила тяжiння виконує негативну роботу, адже напрям вектора перемiщення $$\vec{h}$$ протилежний до напряму дiї сили тяжiння $m \vec{g}$.</div>
+<div class="space">Якщо ж тiло пiднiмають вгору, то сила тяжiння виконує негативну роботу, адже напрям вектора перемiщення $$\vec{h}$$ протилежний до напряму дiї сили тяжiння $$m \vec{g}$$.</div>
 
 <div class="space" align="center">$$A = -mgh$$</div>
 
