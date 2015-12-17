@@ -4,9 +4,9 @@
 
 <div class="space"><img class="image" width="200"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/15.png"></div>
 
-<div class="space">Робота сили тяжiння по перемiщенню тiла iз точки з координатою $y_1$ у точку з координатою $y_2$ додатня, адже вектор сили спiвнапрямлений з вектором перемiщення:</div>
+<div class="space">Робота сили тяжiння по перемiщенню тiла iз точки з координатою $$y_1$$ у точку з координатою $$y_2$$ додатня, адже вектор сили спiвнапрямлений з вектором перемiщення:</div>
 
-<div class="space" align="center">$A = mg(y_1 - y_2)$</div>
+<div class="space" align="center">$$A = mg(y_1 - y_2)$$</div>
 
 <div class="space"><p class="p3">Отриману роботу можна розписати:</p></div>
 
@@ -21,7 +21,7 @@
 </tr>
 </table></div></div>
 
-<div class="space"><b>Потенцiальна енергiя</b> тiла у координатi $y_1: \thinspace E_П = mgh_1$, у координатi $y_2: \thinspace E_П = mgh_2$.</div>
+<div class="space"><b>Потенцiальна енергiя</b> тiла у координатi $$y_1: \thinspace E_П = mgh_1$$, у координатi $$y_2: \thinspace E_П = mgh_2$$.</div>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
@@ -30,18 +30,18 @@
 
 <div class="space">Робота <b>консервативних</b> сил дорiвнює рiзницi потенцiальних енергiй у початковiй та у кiнцевiй точках:</div>
 
-<div class="space" align="center">$A = E_{П1} - E_{П2} = - \Delta E_П$</div>
+<div class="space" align="center">$$A = E_{П1} - E_{П2} = - \Delta E_П$$</div>
 </div>
 </div>
 
-<div class="space">Виходячи iз вищезазначеного та користуючись пунктами 7.1.3 та 7.1.4:</div>
+<div class="space">Виходячи iз вищезазначеного та користуючись пунктами $$7.1.3$$ та $$7.1.4$$:</div>
 
 <ol>
 <div class="space"><li>
 Потенцiальна енергiя пружини у координатi  $$x - \dfrac{kx^2}{2}$$.</div>
 </li>
 <div class="space"><li>
-Потенцiальна енергiя сили тяжiння на висотi $h - mgh$.</div>
+Потенцiальна енергiя сили тяжiння на висотi $$h - mgh$$.</div>
 </li>
 </ol>
 
