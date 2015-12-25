@@ -4,6 +4,12 @@
 
 <div class="space"><img class="image" width="200"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/15.png"></div>
 
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JTfkHJXLOE8" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div></div>
+
 <div class="space">Робота сили тяжiння по перемiщенню тiла iз точки з координатою $$y_1$$ у точку з координатою $$y_2$$ додатня, адже вектор сили спiвнапрямлений з вектором перемiщення:</div>
 
 <div class="space" align="center">$$A = mg(y_1 - y_2)$$</div>
