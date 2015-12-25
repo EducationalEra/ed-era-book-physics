@@ -1,6 +1,14 @@
 # Кiнетична енергiя
 
-<div class="space">Для того, щоб детальнiше зрозумiти концепцiю енергiї, розглянемо приклад. Нехай машина масою $$m$$ розганяється зi швидкостi $$\upsilon_1$$ до $$\upsilon_2$$ протягом відстані $$d$$ пiд дiєю постiйної результуючої сили $$d$$:</div>
+<div class="space">Для того, щоб детальнiше зрозумiти концепцiю енергiї, розглянемо приклад.</div>
+
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UxaTK_g3zPA" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div></div>
+
+<div class="space">Нехай машина масою $$m$$ розганяється зi швидкостi $$\upsilon_1$$ до $$\upsilon_2$$ протягом відстані $$d$$ пiд дiєю постiйної результуючої сили $$d$$:</div>
 
 <div class="space"><img class="image" width="500"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/20.png"></div>
 
