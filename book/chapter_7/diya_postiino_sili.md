@@ -9,9 +9,14 @@
 
 <div class="space"><span class="p1"><b>SI:</b></span> Н $$\cdot$$ м $$=$$ Дж</div>
 
-<div class="space"><img class="image" width="350" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/1.png"></div>
 </div>
 </div>
+
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xWyuZsKhjw" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div></div>
 
 <p class="p3"><div class="space">Робота по перемiщенню тiла залежить вiд кута мiж вектором перемiщення та прикладеною силою. Таким чином, якщо проекцiя сили на вiсь, яка напрямлена вздовж перемiщення – додатня $$(0^\circ < \alpha < 90^\circ, \thinspace \cos \alpha > 0)$$, то i робота, яка виконана, має знак «+». Якщо проекцiя прикладеної сили на вiсь вiд’ємна $$(90^\circ < \alpha < 180^\circ, \ \cos \alpha < 0)$$, то i робота – вiд’ємна. Робота по перемiщенню тiла може бути i нульовою, у тому випадку, коли кут мiж вектором перемiщення та прикладеною силою складає 90º.</div></p>
 
