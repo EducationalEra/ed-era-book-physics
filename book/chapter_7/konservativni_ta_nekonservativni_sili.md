@@ -2,6 +2,12 @@
 
 <div class="space">Перед початком розгляду iнших видiв енергiї та законiв збереження, потрiбно оволодiти концепцiєю <span class="p1"><b>консервативних та неконсервативних</b></span> сил.</div>
 
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qjWS8hsPWLk" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div></div>
+
 <div class="space"><span class="p1"><b><u>Розглядаємо приклад</u></b></span></div>
 
 <p class="p3">Бiля поверхнi Землi на тiло дiє сила тяжiння $$m \vec{g}$$.</p>
