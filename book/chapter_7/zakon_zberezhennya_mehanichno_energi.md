@@ -2,7 +2,11 @@
 
 <div class="space">Тепер, комбiнуючи отриманi знання про роботу та види енергiй, ми з легкiстю отримаємо поняття повної механiчної енергiї. Знову звернемося до прикладу з силою тяжiння:</div>
 
-<div class="space"><img class="image" width="200"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/16.png"></div>
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r05CiNvan78" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div></div>
 
 <div class="space">Тiло рухається пiд дiєю сили тяжiння. На висотi $$h_1$$ має швидкiсть $$\upsilon_1$$, на висотi $$h_2$$ – $$\upsilon_2$$.</div>
 
