@@ -1,5 +1,11 @@
 # Робота сили пружностi
 
+<div class="space"><div class="fluidMedia">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B8kaf5lZWAM" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div></div>
+
 <div class="space">Нехай ми утримуємо пружину у розтягнутому станi. Для цього, згiдно з другим законом Ньютона:</div> 
 
 <div class="space" align="center">$$F_П = F$$</div>
