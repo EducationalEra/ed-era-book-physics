@@ -72,7 +72,8 @@
 <br>
 <br>
 
-<img class="image" width="150"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/13.png"></div>
+<img class="image" width="150"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/13.png">
+<br>
 </div>
 </div>
 
