@@ -90,7 +90,7 @@
 
 <div class="space" align="center">$$F - mg = 0$$$$ \thinspace (v = const; \thinspace a = 0) \Rightarrow$$$$ F = mg$$</div>
 
-<div class="space">Робота, яку виконуєте ви, прикладаючи силу $F$, додатня i дорiвнює:</div>
+<div class="space">Робота, яку виконуєте ви, прикладаючи силу $$F$$, додатня i дорiвнює:</div>
 
 <div class="space" align="center">$$A_1 = Fh = mgh$$</div>
 
