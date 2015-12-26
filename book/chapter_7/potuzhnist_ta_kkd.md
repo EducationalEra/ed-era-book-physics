@@ -5,15 +5,28 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<div class="space"><span class="p1"><b>Потужнiсть</b></span> – робота, що виконана за одиницю часу. Отже, потужнiсть характеризує швидкiсть виконання роботи.</div>
+<span class="p1"><b>Потужнiсть</b></span> – робота, що виконана за одиницю часу. Отже, потужнiсть характеризує швидкiсть виконання роботи.
 
-<div class="space"><span class="p1"><b>Середня потужнiсть</b></span> за промiжок часу $$t$$:</div>
+<br>
+<br>
 
-<div class="space" align="center">$$P = \dfrac{A}{t} = \dfrac{F S \cos \alpha}{t} = F \upsilon_{сер} \cos \alpha$$</div>
+<span class="p1"><b>Середня потужнiсть</b></span> за промiжок часу $$t$$:
 
-<div class="space"><span class="p1"><b>Миттєва потужнiсть:</b></span></div>
+<br>
+<br>
 
-<div class="space" align="center">$$P = F \upsilon \cos \alpha$$</div>
+<center>$$P = \dfrac{A}{t} = \dfrac{F S \cos \alpha}{t} = F \upsilon_{сер} \cos \alpha$$</center>
+
+<br>
+
+<span class="p1"><b>Миттєва потужнiсть:</b></span>
+
+<br>
+<br>
+
+<center>$$P = F \upsilon \cos \alpha$$</center>
+
+<br>
 
 <span class="p1"><b>SI:</b></span> $$\dfrac{\text{Дж}}{\text{с}} =$$ Вт
 </div>
