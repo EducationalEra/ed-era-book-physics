@@ -3,12 +3,17 @@
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<div class="space"><span class="p1"><b>Механiчна робота $$A$$</b></span> – це скалярна величина, що визначається, як добуток модуля перемiщення $$S$$ на компоненту сили $$F_{\parallel}$$, яка паралельна до перемiщення.</div>
+<span class="p1"><b>Механiчна робота $$A$$</b></span> – це скалярна величина, що визначається, як добуток модуля перемiщення $$S$$ на компоненту сили $$F_{\parallel}$$, яка паралельна до перемiщення.
 
-<div class="space" align="center">$$A = F_{\parallel} S = F S \cos \alpha$$</div>
+<br>
+<br>
 
-<div class="space"><span class="p1"><b>SI:</b></span> Н $$\cdot$$ м $$=$$ Дж</div>
+<center>$$A = F_{\parallel} S = F S \cos \alpha$$</center>
 
+<br>
+<br>
+
+<span class="p1"><b>SI:</b></span> Н $$\cdot$$ м $$=$$ Дж
 </div>
 </div>
 
