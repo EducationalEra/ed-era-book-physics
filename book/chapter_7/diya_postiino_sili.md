@@ -11,7 +11,6 @@
 <center>$$A = F_{\parallel} S = F S \cos \alpha$$</center>
 
 <br>
-<br>
 
 <span class="p1"><b>SI:</b></span> Н $$\cdot$$ м $$=$$ Дж
 </div>
