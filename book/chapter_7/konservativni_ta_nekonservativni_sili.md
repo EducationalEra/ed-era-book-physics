@@ -20,7 +20,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$A = mgh = mg(y_1 - y_2)$$</p1>
+<p1>$$A =$$$$ mgh =$$$$ mg(y_1 - y_2)$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -32,20 +32,20 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$A = mg S \cos \alpha$$</p1>
+<p1>$$A =$$$$ mg S \cos \alpha$$</p1>
 </td>
 </tr>
 </table></div></div>
 </li>
 </ol>
 
-<div class="space">У прямокутному трикутнику гiпотенуза помножена на косинус кута дорiвнює прилеглому катету. Отже, $$S \cos \alpha = h = (y_1 - y_2)$$, а робота:</div>
+<div class="space">У прямокутному трикутнику гiпотенуза помножена на косинус кута дорiвнює прилеглому катету. Отже, $$S \cos \alpha =$$$$ h =$$$$ (y_1 - y_2)$$, а робота:</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$A = mgh = mg(y_1 - y_2)$$</p1>
+<p1>$$A =$$$$ mgh =$$$$ mg(y_1 - y_2)$$</p1>
 </td>
 </tr>
 </table></div></div>
