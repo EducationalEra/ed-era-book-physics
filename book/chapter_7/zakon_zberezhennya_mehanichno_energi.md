@@ -14,12 +14,12 @@
 <div class="space"><li>
 Згiдно з теоремою про кiнетичну енергiю (пункт $$7.2.1$$), робота, яку виконує сила тяжiння дорiвнює рiзницi кiнетичної енергiї тiла у кiнцевому та початковому станi:</div>
 
-<div class="space" align="center">$$A = E_{К2} - E_{К1} = \dfrac{m \upsilon_2^2}{2} - \dfrac{m \upsilon_1^2}{2}$$</div>
+<div class="space" align="center">$$A =$$$$ E_{К2} - E_{К1} =$$$$ \dfrac{m \upsilon_2^2}{2}$$$$ - \dfrac{m \upsilon_1^2}{2}$$</div>
 </li>
 <div class="space"><li>
 З iншого боку роботу сили тяжiння можна отримати i за допомогою потенцiальної енергiї (попереднiй пункт). Тут навпаки: початковий стан - кiнцевий:</div>
 
-<div class="space" align="center">$$A = E_{П2} - E_{П1} = mgh_1 - mgh_2$$</div>
+<div class="space" align="center">$$A =$$$$ E_{П2} - E_{П1} =$$$$ mgh_1 - mgh_2$$</div>
 </li>
 </ul>
 
@@ -29,7 +29,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\dfrac{m \upsilon_2^2}{2} - \dfrac{m \upsilon_1^2}{2} = mgh_1 - mgh_2 \Rightarrow \dfrac{m \upsilon_1^2}{2} + mgh_1 = \dfrac{m \upsilon_2^2}{2} + mgh_2$$</p1>
+<p1>$$\dfrac{m \upsilon_2^2}{2} - \dfrac{m \upsilon_1^2}{2} =$$$$ mgh_1 - mgh_2 \Rightarrow $$$$ \dfrac{m \upsilon_1^2}{2} + mgh_1 =$$$$ \dfrac{m \upsilon_2^2}{2} + mgh_2$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -39,13 +39,13 @@
 <div class="eoz-text">
 <div class="space"><span class="p1"><b>Повна механiчна енергiя</b></span> – сума потенцiальної енергiї та кiнетичної енергiї тiла.</div>
 
-<div class="space" align="center">$$E = \dfrac{m \upsilon^2}{2} + mgh$$</div>
+<div class="space" align="center">$$E =$$$$ \dfrac{m \upsilon^2}{2} + mgh$$</div>
 
 <div class="space"><span class="p1"><b>Повна механiчна енергiя системи тiл</b></span> – це сума повних енергiй усiх тiл, що входять у систему.</div>
 
 <div class="space"><span class="p1"><b>Закон збереження повної механiчної енергiї</b></span>: У полi консервативних сил сума кiнетичної та потенцiальної енергiї залишається постiйною.</div>
 
-<div class="space" align="center">$$E_1 = E_2 = E = const$$</div>
+<div class="space" align="center">$$E_1 =$$$$ E_2 =$$$$ E =$$$$ const$$</div>
 </div>
 </div>
 
@@ -60,29 +60,29 @@
 
 <ol>
 <div class="space"><li>
-В умовi сказано, що початкова швидкiсть нульова $$\rightarrow E_{К1} = 0$$. Натомiсть вiзок знаходиться на висотi $$H$$ вiд нульового рiвня, який вiдповiдає найнижчiй точцi (наш вибiр). Отже, потенцiальна енергiя: $$E_П = mgH$$, а повна енергiя:</div>
+В умовi сказано, що початкова швидкiсть нульова $$\rightarrow E_{К1} =$$$$ 0$$. Натомiсть вiзок знаходиться на висотi $$H$$ вiд нульового рiвня, який вiдповiдає найнижчiй точцi (наш вибiр). Отже, потенцiальна енергiя: $$E_П =$$$$ mgH$$, а повна енергiя:</div>
 
-<div class="space" align="center">$$E_1 = E_П = mgH$$</div>
+<div class="space" align="center">$$E_1 =$$$$ E_П =$$$$ mgH$$</div>
 </li>
 <div class="space"><li>
-У найнижчiй точцi (нульовий рiвень) потенцiальна енергiя дорiвнює нулю: $$E_П = 0$$. З iншого боку саме у цiй точцi вiзок набуває максимальної швидкостi, адже уся потенцiальна енергiя перейшла у кiнетичну. Повна енергiя:</div>
+У найнижчiй точцi (нульовий рiвень) потенцiальна енергiя дорiвнює нулю: $$E_П =$$$$ 0$$. З iншого боку саме у цiй точцi вiзок набуває максимальної швидкостi, адже уся потенцiальна енергiя перейшла у кiнетичну. Повна енергiя:</div>
 
-<div class="space" align="center">$$E_2 = \dfrac{m \upsilon_2^2}{2}$$</div>
+<div class="space" align="center">$$E_2 =$$$$ \dfrac{m \upsilon_2^2}{2}$$</div>
 </li>
 <div class="space"><li>
 У третiй точцi вiзок має i кiнетичну, i потенцiальну енергiю. Повна енергiя:</div>
 
-<div class="space" align="center">$$E_3 = mgh + \dfrac{m \upsilon_3^2}{2}$$</div>
+<div class="space" align="center">$$E_3 =$$$$ mgh + \dfrac{m \upsilon_3^2}{2}$$</div>
 </li>
 </ol>
 
 <div class="space">Визначимо швидкiсть вiзка у другiй точцi, використовуючи закон збереження повної механiчної енергiї:</div>
 
-<div class="space" align="center">$$E_1 = E_2 \Rightarrow mgH = \dfrac{m \upsilon_2^2}{2} \Rightarrow \upsilon_2 = \sqrt{2gH}$$</div>
+<div class="space" align="center">$$E_1 =$$$$ E_2 \Rightarrow $$$$ mgH = $$$$ \dfrac{m \upsilon_2^2}{2} \Rightarrow $$$$ \upsilon_2 = $$$$ \sqrt{2gH}$$</div>
 
-<div class="space">З умови у третiй точцi швидкiсть в три рази менша за швидкiсть у другiй точцi: $$\upsilon_3 = \dfrac{\upsilon_2}{3} = \dfrac{\sqrt{2gH}}{3}$$. Скористаємось законом збереження енергiї для першого та третього випадку (могли i для другого та третього):</div>
+<div class="space">З умови у третiй точцi швидкiсть в три рази менша за швидкiсть у другiй точцi: $$\upsilon_3 =$$$$ \dfrac{\upsilon_2}{3} =$$$$ \dfrac{\sqrt{2gH}}{3}$$. Скористаємось законом збереження енергiї для першого та третього випадку (могли i для другого та третього):</div>
 
-<div class="space" align="center">$$E_1 = E_3 \Rightarrow mgH = mgh + \dfrac{m \upsilon_3^2}{2} \Rightarrow h = \dfrac{gH - \dfrac{\upsilon_3^2}{2}}{g}$$</div>
+<div class="space" align="center">$$E_1 =$$$$ E_3 \Rightarrow $$$$ mgH = $$$$ mgh + \dfrac{m \upsilon_3^2}{2} \Rightarrow $$$$ h = $$$$ \dfrac{gH - \dfrac{\upsilon_3^2}{2}}{g}$$</div>
 
 <div class="space">Пiдставимо отриману вище $$\upsilon_3$$:</div>
 
@@ -90,7 +90,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$h = H - \dfrac{H}{9} = \dfrac{8H}{9}$$</p1>
+<p1>$$h = $$$$ H - \dfrac{H}{9} = $$$$ \dfrac{8H}{9}$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -106,20 +106,20 @@
 
 <div class="space">Для початку давайте порахуємо, якою повинна бути мiнiмальна лiнiйна швидкiсть у вiзка, щоб вiн не «вiдiрвався» у верхнiй точцi. Ми це робили також при розглядi динамiки руху тiла по колу, але згадаємо ще раз. У верхнiй тоцi на вiзок дiють двi сили: сила тяжiння $$mg$$ та сила реакцiї опори $$N$$ Обидвi – вертикально вниз. Вiзок вiдiрветься у той момент, коли сила реакцiї опори стане рiвною нулю, це буде означати, що вiзок нiяк не тисне на опору. Доцентрове прискорення у верхнiй точцi також напрямлене вертикально вниз. Другий закон Ньютона:</div>
 
-<div class="space" align="center">$$mg + N = m a_д \quad | \thinspace N \ge 0 \thinspace | \quad  m a_д \ge mg$$</div>
+<div class="space" align="center">$$mg + N = $$$$ m a_д \quad $$$$ | \thinspace N \ge 0 \thinspace | $$$$ \quad  m a_д \ge mg$$</div>
 
-<div class="space" align="center">$$a_д = \dfrac{\upsilon^2}{R} \Rightarrow \upsilon^2 \ge gR$$</div>
+<div class="space" align="center">$$a_д = $$$$ \dfrac{\upsilon^2}{R} \Rightarrow \upsilon^2 \ge gR$$</div>
 
 <div class="space">Тепер можемо скористатися законом збереження повної механiчної енергiї. Повна енергiя на висотi $$H$$ з нульовою швидкiстю:</div>
 
-<div class="space" align="center">$$E = mgH$$</div>
+<div class="space" align="center">$$E =$$$$ mgH$$</div>
 
 <div class="space">Повна енергiя у верхнiй точцi мертвої петлi на висотi $$2R$$ зі швидкістю $$\upsilon$$:</div>
 
-<div class="space" align="center">$$E = 2mgR + \dfrac{m \upsilon^2}{2}$$</div>
+<div class="space" align="center">$$E = $$$$ 2mgR + \dfrac{m \upsilon^2}{2}$$</div>
 
 <div class="space">Пiдставимо мiнiмальну отриману мiнiмальну швидкiсть та прирiвняємо повнi енергiї:</div>
 
-<div align="center">$$mgH_{min} = 2mgR = \dfrac{mgR}{2} \Rightarrow H_{min} = \dfrac{5gR}{2}$$</div>
+<div align="center">$$mgH_{min} =$$$$ 2mgR =$$$$ \dfrac{mgR}{2} \Rightarrow H_{min} =$$$$ \dfrac{5gR}{2}$$</div>
 </div>
 </div>
