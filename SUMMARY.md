@@ -57,18 +57,18 @@
        * [Друга умова рiвноваги та момент сили](book/chapter_6/druga_umova_rivovagi_ta_moment_sili.md)
    * [Центр тяжiння та центр мас](book/chapter_6/tsentr_tyazhinnya_ta_tsentr_mas.md)
    * [Стiйкiсть рiвноваги](book/chapter_6/stiikist_rivnovagi.md)
-* Iмпульс, робота, потужнiсть
-   * Механiчна робота
-       * Дiя постiйної сили
-       * Геометричний змiст роботи
-       * Робота сили тяжiння
-       * Робота сили пружностi
-   * Робота та енергiя
-       * Кiнетична енергiя
-       * Консервативнi та неконсервативнi сили
-       * Потенцiальна енергiя
-       * Закон збереження механiчної енергiї
-   * Потужнiсть та ККД
+* [Iмпульс, робота, потужнiсть](book/chapter_7/impuls,_robota,_potuzhnist.md)
+   * [Механiчна робота](book/chapter_7/mehanichna_robota.md)
+       * [Дiя постiйної сили](book/chapter_7/diya_postiino_sili.md)
+       * [Геометричний змiст роботи](book/chapter_7/geometrichnii_zmist_roboti.md)
+       * [Робота сили тяжiння](book/chapter_7/robota_sili_tyazhinnya.md)
+       * [Робота сили пружностi](book/chapter_7/robota_sili_pruzhnosti.md)
+   * [Робота та енергiя](book/chapter_7/robota_ta_energiya.md)
+       * [Кiнетична енергiя](book/chapter_7/kinetichna_energiya.md)
+       * [Консервативнi та неконсервативнi сили](book/chapter_7/konservativni_ta_nekonservativni_sili.md)
+       * [Потенцiальна енергiя](book/chapter_7/potentsialna_energiya.md)
+       * [Закон збереження механiчної енергiї](book/chapter_7/zakon_zberezhennya_mehanichno_energi.md)
+   * [Потужнiсть та ККД](book/chapter_7/potuzhnist_ta_kkd.md)
    * Iмпульс
        * Закон збереження iмпульсу
        * Закон збереження механiчної енергiї
