@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<center>$$P = \dfrac{A}{t} = \dfrac{F S \cos \alpha}{t} = F \upsilon_{сер} \cos \alpha$$</center>
+<center>$$P =$$$$ \dfrac{A}{t} = $$$$ \dfrac{F S \cos \alpha}{t} = $$$$ F \upsilon_{сер} \cos \alpha$$</center>
 
 <br>
 
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-<center>$$P = F \upsilon \cos \alpha$$</center>
+<center>$$P = $$$$ F \upsilon \cos \alpha$$</center>
 
 <br>
 
