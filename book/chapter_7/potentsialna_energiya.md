@@ -16,18 +16,18 @@
 
 <div class="space"><p class="p3">Отриману роботу можна розписати:</p></div>
 
-<div class="space" align="center">$$A = mg(y_1 - y_2) = mgy_1 - mgy_2$$</div>
+<div class="space" align="center">$$A =$$$$ mg(y_1 - y_2) =$$$$ mgy_1 - mgy_2$$</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$A = mgh_1 - mgh_2$$</p1>
+<p1>$$A =$$$$ mgh_1 - mgh_2$$</p1>
 </td>
 </tr>
 </table></div></div>
 
-<div class="space"><b>Потенцiальна енергiя</b> тiла у координатi $$y_1: \thinspace E_П = mgh_1$$, у координатi $$y_2: \thinspace E_П = mgh_2$$.</div>
+<div class="space"><b>Потенцiальна енергiя</b> тiла у координатi $$y_1: \thinspace E_П =$$$$ mgh_1$$, у координатi $$y_2: \thinspace E_П =$$$$ mgh_2$$.</div>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
@@ -36,7 +36,7 @@
 
 <div class="space">Робота <b>консервативних</b> сил дорiвнює рiзницi потенцiальних енергiй у початковiй та у кiнцевiй точках:</div>
 
-<div class="space" align="center">$$A = E_{П1} - E_{П2} = - \Delta E_П$$</div>
+<div class="space" align="center">$$A =$$$$ E_{П1} - E_{П2} =$$$$ - \Delta E_П$$</div>
 </div>
 </div>
 
@@ -44,7 +44,7 @@
 
 <ol>
 <div class="space"><li>
-Потенцiальна енергiя пружини у координатi  $$x - \dfrac{kx^2}{2}$$.</div>
+Потенцiальна енергiя пружини у координатi  $$x -$$$$ \dfrac{kx^2}{2}$$.</div>
 </li>
 <div class="space"><li>
 Потенцiальна енергiя сили тяжiння на висотi $$h - mgh$$.</div>
