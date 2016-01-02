@@ -2,7 +2,7 @@
 
 <div align="center"><span class="p1"><b><font size="5">Оригiнальне формулювання з сучасними доповненнями</font></b></span></div>
 
-<font size="4"><i><div class="space">« Будь-яке тiло продовжує перебувати у спокою або у станi рiвномiрного прямолiнiйного руху, доки до нього не прикладенi сили, якi змiнять його стан. »</div></i></font>
+<font size="4"><i><div class="space">«Будь-яке тiло продовжує перебувати у спокою або у станi рiвномiрного прямолiнiйного руху, доки до нього не прикладенi сили, якi змiнять його стан».</div></i></font>
 
 <div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/irsta3GX1qM" frameborder="0" allowfullscreen></iframe>
