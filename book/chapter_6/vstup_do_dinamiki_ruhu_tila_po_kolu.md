@@ -1,6 +1,6 @@
 # Вступ до динамiки руху тiла по колу
 
-<div class="space">У темi «рiвномiрний рух по колу» ми розглядали рух по колу зi сталою по модулю швидкiстю з точки зору <b>кiнематики.</b> Щоб матерiальна точка рухалась по колу з рiвномiрною швидкiстю, в нього має бути прискорення, напрямлене до центру кола (перпендикулярно до швидкостi).</div>
+<div class="space">У темi «рiвномiрний рух по колу» ми розглядали рух по колу зi сталою за модулем швидкiстю з точки зору <b>кiнематики.</b> Щоб матерiальна точка рухалась по колу з рiвномiрною швидкiстю, в нього має бути прискорення, напрямлене до центру кола (перпендикулярно до швидкостi).</div>
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KoeLZN7tk2s" frameborder="0" allowfullscreen></iframe>
@@ -23,13 +23,13 @@
 
 <div class="space"><img class="image" width="283"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/2.png"></div>
 
-<div class="space">Згiдно з другим законом Ньютона, щоб у тiла з’явилося доцентрове прискорення, рiвнодiйна сил, що дiють на нього повинна також бути напрямлена до центру кола.</div>
+<div class="space">Згiдно з другим законом Ньютона, щоб у тiла з’явилося доцентрове прискорення, рiвнодiйна сил, що дiють на нього, повинна також бути напрямлена до центру кола.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\vec{F_{\Sigma}} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n} = m \vec{a_Д} = \dfrac{\upsilon^2}{R}$$</p1>
+<p1>$$\vec{F_{\Sigma}} = \thinspace$$$$ \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n} =\thinspace$$$$ m \vec{a_Д} =\thinspace$$$$ \dfrac{\upsilon^2}{R}$$</p1>
 </td>
 </tr>
 </table></div></div>
