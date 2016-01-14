@@ -28,6 +28,8 @@ $$\upsilon_x$$ - проекцiя швидкостi на вiсь $$x$$.
 <div class="popup">
 </div>
 
+<br>
+
 <div class="task-wrap">
 <span class="task">Задача 4</span> <b>ПЕТРО ТА СОБАКА</b>
 <div class="task-text">
