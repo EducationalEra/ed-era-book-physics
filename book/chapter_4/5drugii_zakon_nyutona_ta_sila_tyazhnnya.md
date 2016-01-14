@@ -2,13 +2,13 @@
 
 <div align="center"><span class="p1"><b><font size="5">Сучасне формулювання</font></b></span></div>
 
-<div class="space"><font size="4"><i>«В iнерцiйній системi вiдлiку прискорення, що отримує матерiальна точка незмiнної маси, прямопропорцiйне рiвнодiйнiй сил, що дiють на неї, та оберенено пропорцiйне масi цiєї точки»</i></font></div>
+<div class="space"><font size="4"><i>«В iнерцiйній системi вiдлiку прискорення, що отримує матерiальна точка незмiнної маси, прямопропорцiйне рiвнодiйнiй силі, що дiє на неї, та обернено пропорцiйне масi цiєї точки»</i></font></div>
 
 <ul>
 <li><span class="p1"><b>$$\vec{a} = \dfrac{\vec{F_{}}}{m}$$ – прискорення тіла</b></span>
 <br>
 </li>
-<li><span class="p1"><b>$$\vec{F_{}} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$ – рiвнодiйна сил, що надає тiлу прискорення</b></span>
+<li><span class="p1"><b>$$\vec{F_{}} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n}$$ – рiвнодiйна сила, що надає тiлу прискорення</b></span>
 <br>
 </li>
 <li><span class="p1"><b>$$m$$ – маса тiла</b></span>
