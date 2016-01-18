@@ -58,7 +58,6 @@
     * [Стiйкiсть рiвноваги](book/chapter_6/stiikist_rivnovagi.md)
 * [Iмпульс, робота, потужнiсть](book/chapter_7/impuls,_robota,_potuzhnist.md)
     1. [Механiчна робота](book/chapter_7/mehanichna_robota.md)
-        * [Дiя постiйної сили](book/chapter_7/diya_postiino_sili.md)
         * [Геометричний змiст роботи](book/chapter_7/geometrichnii_zmist_roboti.md)
         * [Робота сили тяжiння](book/chapter_7/robota_sili_tyazhinnya.md)
         * [Робота сили пружностi](book/chapter_7/robota_sili_pruzhnosti.md)
