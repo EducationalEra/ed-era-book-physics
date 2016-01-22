@@ -40,7 +40,7 @@
 <div class="space" align="center">$$x = \upsilon_0 t - \dfrac{at^2}{2}, \upsilon_0 = \upsilon - at$$</div>
 Момент зупинки: $$\upsilon = 0 \Rightarrow t' = \dfrac{\upsilon_0}{a}$$.
 
-<div class="space">Пiдставляємо у рiвняння руху, врахувавши, що зупинка вiдбудеться на вiдстанi
+<div class="space">Пiдставляємо у рiвняння рух, врахувавши, що зупинка вiдбудеться на вiдстанi
 двох метрів вiд початкової точки:</div>
 <div class="space" align="center">$$x(t') = \dfrac{\upsilon_0^2}{a} - \dfrac{\upsilon_0^2}{2a} = \dfrac{\upsilon_0^2}{2a} \Rightarrow a = \dfrac{\upsilon_0^2}{2x(t')} = \dfrac{5.6^2}{2 \cdot 2} = 7.84 \ (м/c^2)$$.</div>
 <div class="space">Для знаходження сили будемо вважати, що дiвчина хлопця має масу $$52$$ кг.</div>
