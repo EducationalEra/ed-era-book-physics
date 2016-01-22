@@ -27,7 +27,7 @@
 
 <p class="p3"><font color="red">$${\Large!}$$</font> Ми розглядали, що прискорення вiльного падiння $$\vec{g}$$ дiє на тiла поблизу поверхнi Землi. Воно напрямлене вертикально вниз i виникає внаслiдок закону всесвiтнього тяжiння (ми ще будемо його розбирати пiзнiше в курсi).</div>
 
-<div align="center" class="space"><span class="p1"><b>Сила тяжiння $$= \vec{F_{}} = m\vec{g}$$</b></span></div>
+<div align="center" class="space"><span class="p1"><b>Сила тяжiння $$\vec{F_{}} = m\vec{g}$$</b></span></div>
 
 <div class="task-wrap">
 <span class="task">Задача 2</span> <b>РОМАНТИЧНА</b>
@@ -41,7 +41,7 @@
 Момент зупинки: $$\upsilon = 0 \Rightarrow t' = \dfrac{\upsilon_0}{a}$$.
 
 <div class="space">Пiдставляємо у рiвняння руху, врахувавши, що зупинка вiдбудеться на вiдстанi
-два метри вiд початкової точки:</div>
+двох метрів вiд початкової точки:</div>
 <div class="space" align="center">$$x(t') = \dfrac{\upsilon_0^2}{a} - \dfrac{\upsilon_0^2}{2a} = \dfrac{\upsilon_0^2}{2a} \Rightarrow a = \dfrac{\upsilon_0^2}{2x(t')} = \dfrac{5.6^2}{2 \cdot 2} = 7.84 \ (м/c^2)$$.</div>
 <div class="space">Для знаходження сили будемо вважати, що дiвчина хлопця має масу $$52$$ кг.</div>
 <div class="space" align="center">$$F = ma = 52 \cdot 7.84 \approx 408 \  (H)$$</div>
