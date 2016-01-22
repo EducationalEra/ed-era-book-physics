@@ -31,7 +31,7 @@
        * [Важливі приклади](book/chapter_3/13vazhliv_prikladi.md)
 * [Концепція сили](book/chapter_4/1vstup_u_dinamku.md)
    * [Інертність та маса](book/chapter_4/2nertnst_ta_masa.md)
-   * [Сила: рівнодійна сил](book/chapter_4/3sila_rvnodina_sil.md)
+   * [Сила: рівнодійна сила](book/chapter_4/3sila_rvnodina_sil.md)
    * [Перший закон Ньютона](book/chapter_4/4pershii_zakon_nyutona.md)
    * [Другий закон Ньютона та сила тяжіння](book/chapter_4/5drugii_zakon_nyutona_ta_sila_tyazhnnya.md)
    * [Третій закон Ньютона](book/chapter_4/6treti_zakon_nyutona.md)
