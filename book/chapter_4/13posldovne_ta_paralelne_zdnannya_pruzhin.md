@@ -19,6 +19,7 @@
 <div class="space"><img class="image" width="330" height="115" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/23.png"></div>
 
 Модуль сили пружностi першої пружини: $$F_1 = k_1 x$$
+<br>
 Модуль сили пружностi другої пружини: $$F_2 = k_2 x$$
 <div class="space">За другим законом Ньютона: $$\vec{F_Т} + \vec{F_1} + \vec{F_2} = 0 \Rightarrow F_Т = F_1 + F_2$$</div>
 <div class="centered-table-wrapper">
