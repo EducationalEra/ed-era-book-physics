@@ -72,7 +72,7 @@
 </div>
 </div>
 
-В нашому прикладi з лiфтом тiло перебувало би в станi невагомостi, якби вiн рухався вниз з прискорення $$\vec{g}$$.
+У нашому прикладi з лiфтом тiло перебувало би в станi невагомостi, якби вiн рухався вниз з прискоренням $$\vec{g}$$.
 <div class="space" align="center">$$P = N = m(g - a) $$$$= | \thinspace a = g \thinspace| $$$$= 0$$</div>
 
 <div class="space"><img class="image" width="258" height="201" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/15.png"></div>
