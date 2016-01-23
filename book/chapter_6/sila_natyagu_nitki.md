@@ -43,7 +43,7 @@
 
 <div class="space"><img class="image" width="238" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/7.png"></div>
 
-<div class="space"><b>Знайти</b> доцентрове прискорення кульки, лiнiйну швидкiсть та перiод обертання</div>
+<div class="space"><i><b>Знайти</b></i> доцентрове прискорення кульки, лiнiйну швидкiсть та перiод обертання.</div>
 
 <b><i>Розв’язок.</i></b> Запишемо 2 закон Ньютона:
 
