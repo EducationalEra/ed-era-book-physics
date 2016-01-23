@@ -67,7 +67,7 @@
 
 <br>
 
-<div class="space" align="center">$$T - F_T - m_1 g \sin \alpha = 0 \Rightarrow T = m_1 g \sin \alpha + F_T$$</div>
+<div class="space" align="center">$$T - F_T - m_1 g \sin \alpha =$$$$ 0 \Rightarrow$$$$ T =$$$$ m_1 g \sin \alpha + F_T$$</div>
 
 Проекцiя на вiсь $$y$$ для другого тiла: $$T = m_2 g$$
 
@@ -97,7 +97,7 @@
 
 Проекцiя на вiсь $$x$$ для першого тiла:
 
-<div class="space" align="center">$$T + F_T - m_1 g \sin \alpha = 0 \Rightarrow T = m_1 g \sin \alpha - F_T$$</div>
+<div class="space" align="center">$$T + F_T - m_1 g \sin \alpha =$$$$ 0 \Rightarrow$$$$ T =$$$$ m_1 g \sin \alpha - F_T$$</div>
 
 Проекцiя на вiсь $$y$$ для другого тiла: $$T = m_2 g$$
 
