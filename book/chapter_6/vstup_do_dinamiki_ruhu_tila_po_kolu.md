@@ -29,7 +29,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\vec{F_{\Sigma}} = \thinspace$$$$ \vec{F_1} + \vec{F_2} + \cdots + \vec{F_n} =\thinspace$$$$ m \vec{a_Д} =\thinspace$$$$ \dfrac{\upsilon^2}{R}$$</p1>
+<p1>$$\vec{F_{\Sigma}} = \thinspace$$$$ \vec{F_1} + \vec{F_2} $$$$+ \cdots +$$$$ \vec{F_n} =\thinspace$$$$ m \vec{a_Д} =\thinspace$$$$ \dfrac{\upsilon^2}{R}$$</p1>
 </td>
 </tr>
 </table></div></div>
