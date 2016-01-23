@@ -32,7 +32,7 @@
 
 <div class="space">У <b>ЗНО</b> та шкiльнiй фiзицi часто використовують лише коефiцiєнт тертя ковзання. Отже, коли не сказано, який саме коефiцiєнт дано, то це означає, що мають на увазi коефiцiєнт тертя ковзання.</div>
 
-<div class="space">Побудуймо графiк залежностi сили тертя вiд прикладеної сили</div>
+<div class="space">Побудуймо графiк залежностi сили тертя вiд прикладеної сили.</div>
 
 <div class="space"><img class="image" width="323" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/6.png"></div>
 
@@ -95,15 +95,15 @@
 </li>
 
 <li><p>Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.</p>
-<p>Проекцiя на вiсь $$y: -mg + N + F \sin \alpha = 0 \Rightarrow$$$$ N = mg - F \sin \alpha $$.</p>
-<p>Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow$$$$ F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.</p>
-<p>Сила тертя ковзання: $$F_T = \mu N$$.</p>
+<p>Проекцiя на вiсь $$y: -mg + N + F \sin \alpha = 0 \Rightarrow$$$$ N =$$$$ mg - F \sin \alpha $$.</p>
+<p>Проекцiя на вiсь $$x: F \cos \alpha - F_T =$$$$ 0 \Rightarrow$$$$ F =$$$$ \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.</p>
+<p>Сила тертя ковзання: $$F_T =$$$$ \mu N$$.</p>
 <p>Пiдставимо отриману силу $$N$$.</p>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<span class="p1">$$F_T = \mu N = \mu (mg - F \sin \alpha) \Rightarrow$$$$ F = \dfrac{\mu (mg- F \sin \alpha)}{\cos \alpha}$$</span>
+<span class="p1">$$F_T =$$$$ \mu N =$$$$ \mu (mg - F \sin \alpha) \Rightarrow$$$$ F =$$$$ \dfrac{\mu (mg- F \sin \alpha)}{\cos \alpha}$$</span>
 </td>
 </tr>
 </table>
