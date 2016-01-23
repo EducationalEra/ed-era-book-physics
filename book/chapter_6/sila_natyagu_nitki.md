@@ -51,9 +51,9 @@
 
 <div class="space">Сила натягу нитки має вертикальну i горизонтальну складову. Пам’ятайте, що саме горизонтальна складова створює доцентрове прискорення i задає характер руху по колу.</div>
 
-<div class="space"><b>Проекцiя на x:</b> $$F_H \sin \alpha = m a_Д \Rightarrow a_Д = \dfrac{F_H \sin \alpha}{m}$$</div>
+<div class="space"><b>Проекцiя на x:</b> $$F_H \sin \alpha =$$$$ m a_Д \Rightarrow $$$$ a_Д = $$$$ \dfrac{F_H \sin \alpha}{m}$$</div>
 
-<div class="space"><b>Проекцiя на y:</b> $$F_H \cos \alpha - mg = 0 \Rightarrow F_H = \dfrac{mg}{\cos \alpha}$$</div>
+<div class="space"><b>Проекцiя на y:</b> $$F_H \cos \alpha - mg =$$$$ 0 \Rightarrow $$$$ F_H = $$$$ \dfrac{mg}{\cos \alpha}$$</div>
 
 <div class="space">Пiдставивши $$F_H$$ з другого рiвняння в перше, отримаємо вираз для <b>доцентрового прискорення:</b></div>
 
@@ -66,7 +66,7 @@
 </tr>
 </table></div></div>
 
-<div class="space">З виразу для доцентрового прискорення можна отримати вираз для лiнiйної швидкостi: $$a_Д = \dfrac{\upsilon^2}{R} \Rightarrow \upsilon = \sqrt{a_Д R}$$. Радiус кола можна отримати, використовуючи довжину нитки $$l \rightarrow R = l \sin \alpha$$.</div>
+<div class="space">З виразу для доцентрового прискорення можна отримати вираз для лiнiйної швидкостi: $$a_Д =$$$$ \dfrac{\upsilon^2}{R} \Rightarrow$$$$ \upsilon = $$$$ \sqrt{a_Д R}$$. Радiус кола можна отримати, використовуючи довжину нитки $$l \rightarrow$$$$ R = $$$$ l \sin \alpha$$.</div>
 
 <div class="space"><b>Лiнiйна швидкiсть:</b></div>
 
@@ -74,7 +74,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$\upsilon = \sqrt{\dfrac{g \thinspace l \sin^2 \alpha}{\cos \alpha}} \approx 2.4 \ м/с$$</p1>
+<p1>$$\upsilon =$$$$ \sqrt{\dfrac{g \thinspace l \sin^2 \alpha}{\cos \alpha}} \approx 2.4 \ м/с$$</p1>
 </td>
 </tr>
 </table></div></div>
@@ -85,7 +85,7 @@
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
-<p1>$$T = \dfrac{2 \pi R}{\upsilon} = \dfrac{2 \pi \thinspace l \sin \alpha}{\sqrt{\dfrac{g \thinspace l \sin^2 \alpha}{\cos \alpha}}} \Rightarrow T = 2 \pi \sqrt{\dfrac{l \cos \alpha}{g}} \approx 2.6 \ c$$</p1>
+<p1>$$T =$$$$ \dfrac{2 \pi R}{\upsilon} =$$$$ \dfrac{2 \pi \thinspace l \sin \alpha}{\sqrt{\dfrac{g \thinspace l \sin^2 \alpha}{\cos \alpha}} }$$$$ \Rightarrow T = 2 \pi \sqrt{\dfrac{l \cos \alpha}{g}} \approx 2.6 \ c$$</p1>
 </td>
 </tr>
 </table></div></div>
