@@ -158,7 +158,7 @@
 Доцентрове прискорення:
 <div class="space" align="center">$$a_Д = \dfrac{\upsilon^2}{R} = \dfrac{7.5^2}{0.6} \approx 93.8 \thinspace (\text{м/с}^2)$$</div>
 </li>
-</l>
+</ol>
 </div>
 </div>
 
