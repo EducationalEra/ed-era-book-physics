@@ -78,7 +78,7 @@
 </table></div></div>
 </li>
 <div class="space"><li>
-Миттєва потужнiсть на третiй секундi руху дорiвнює силi, помноженiй на миттєву швидкiсть у вiдповiдну секунду руху. Виходячи iз рiвняння руху в умовi: початкова швидкiсть $$\upsilon_0 = 10$$ м/c, прискорення $$a = 8$$ м/$с^2$. Рiвняння для швидкостi: $$\upsilon = \thinspace $$$$ \upsilon_0 + at \Rightarrow \thinspace $$$$ \upsilon = \thinspace $$$$ 10 + 8t$$. Швидкiсть на третiй секундi руху: $$\upsilon_3 = \thinspace $$$$ 10 + 8 \cdot 3 = \thinspace $$$$ 34$$ м/с.</div>
+Миттєва потужнiсть на третiй секундi руху дорiвнює силi, помноженiй на миттєву швидкiсть у вiдповiдну секунду руху. Виходячи iз рiвняння руху в умовi: початкова швидкiсть $$\upsilon_0 = 10$$ м/c, прискорення $$a = 8$$ м/$$с^2$$. Рiвняння для швидкостi: $$\upsilon = \thinspace $$$$ \upsilon_0 + at \Rightarrow \thinspace $$$$ \upsilon = \thinspace $$$$ 10 + 8t$$. Швидкiсть на третiй секундi руху: $$\upsilon_3 = \thinspace $$$$ 10 + 8 \cdot 3 = \thinspace $$$$ 34$$ м/с.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
