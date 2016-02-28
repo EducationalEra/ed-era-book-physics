@@ -57,7 +57,7 @@
 
 Користуючись результатами попереднього пункту, ми вже визначили час спуску. Тодi швидкiсть у точцi, з якої починався рух, пiсля спуску:
 
-$$\upsilon_x(t'')=0-gt''=-g \cdot \dfrac{\upsilon_{0x}}{g}= -\upsilon_{0x}$$
+$$\upsilon_x(t'')=0-gt''=$$$$-g \cdot \dfrac{\upsilon_{0x}}{g}=$$$$ -\upsilon_{0x}$$
 <br>
 
 Знак мiнус вказує на те, що швидкiсть напрямлена протилежно напрямку вiсi.</li>
@@ -79,7 +79,7 @@ $$\upsilon_x(t'')=0-gt''=-g \cdot \dfrac{\upsilon_{0x}}{g}= -\upsilon_{0x}$$
 <answer>18,1 м</answer>
 <answer>14,2 м</answer>
 <explanation>
-$$H_{max}=\dfrac{\upsilon^{2}_0}{2g}=\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8} = 15,876 м$$
+$$H_{max}=\dfrac{\upsilon^{2}_0}{2g}=$$$$\dfrac{17,64 \cdot 17,64}{2 \cdot 9,8}=$$$$ 15,876 м$$
 </explanation>
 </question>
 
