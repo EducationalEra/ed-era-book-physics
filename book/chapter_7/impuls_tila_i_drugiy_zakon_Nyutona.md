@@ -11,9 +11,7 @@
 
 <b>Iмпульс</b> – векторна величина, яка спiвнапрямлена з швидкiстю, оскільки визначається добутком скаляра $$m$$ на вектор $$\vec{v}$$.
 
-<div class="center">
-<img src="../images/chapter_7/S1-1.png" width="150px" class="center"/>
-</div>
+<div class="space"><img class="image" width="150"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/S1-1.png"></div>
 <span class="p1">У <b>SI</b></span> – $$\dfrac{кг \cdot м}{с}$$
 </div>
 </div>
