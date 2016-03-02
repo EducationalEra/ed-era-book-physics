@@ -36,3 +36,5 @@ iмпульсу. Сподiваюсь, що вас це заiнтригувало
 <div align="center">$$\vec{F_{21}} = -\vec{F_{21}}$$</div>
 
 Запишемо закон руху (II з-н Ньютона) для кожної з них:
+
+<div class="space"><img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/S2-1.png"></div>
