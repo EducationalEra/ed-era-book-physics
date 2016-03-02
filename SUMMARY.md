@@ -69,7 +69,7 @@
        * [Закон збереження механiчної енергiї](book/chapter_7/zakon_zberezhennya_mehanichno_energi.md)
    * [Потужнiсть та ККД](book/chapter_7/potuzhnist_ta_kkd.md)
    * [Iмпульс тiла та його зв’язок з силою](book/chapter_7/momentum/impuls_tila_ta_yogo_zvyazok_iz_siloyu.md)
-       * [Iмпульс тiла і другий закон Ньютона](book/chapter_7/momentum/impuls_tila_i_drugiy_zakon_Nyutona.md)
+       * [Iмпульс тiла і другий закон Ньютона](book/chapter_7/impuls_tila_i_drugiy_zakon_Nyutona.md)
        * Закон збереження механiчної енергiї
 * Закон Всесвітнього тяжіння
    * Застосування закону збереження та розгляд Закону Всесвiтнього тяжiння
