@@ -124,7 +124,7 @@ $$p_2 = m \upsilon_2 \rightarrow |\upsilon_2 = 150 \cdot \dfrac{\text{км}}{\te
 
 Отже, сила, з якою футболіст б’є по м’ячу:
 
-$$F = \dfrac{\Delta p}{\Delta t} = \dfrac{p_2 - p_1}{\Delta t} = \dfrac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \dfrac{18.8 - 0}{0.01} = 1880 (\text{H})$$
+$$F = \dfrac{\Delta p}{\Delta t} = \dfrac{p_2 - p_1}{\Delta t} = \dfrac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \dfrac{18.8 - 0}{0.01} = 1880 \thinspace (H)$$
 
 Це дуже велика сила. Подумайте, чи більша ця сила за силу яка потрібна, щоб підняти вгору людину масою 100 кг.
 </div>
