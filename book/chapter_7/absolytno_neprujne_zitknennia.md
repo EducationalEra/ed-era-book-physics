@@ -63,5 +63,20 @@ $$
 \dfrac{m_1^2 \upsilon_1^2}{(m_1 + m_2)^2} = 2gh \Rightarrow \upsilon_1^2 = \dfrac{2gh(m_1+m_2)^2}{m_1^2}
 $$
 Отже, швидкість снаряда перед зіткненням:
+
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$\upsilon_1 = \sqrt{2gh} \cdot \dfrac{m_1 + m_2}{m_1}$$</p1>
+</td>
+</tr>
+</table></div></div>
+
+Перевірмо формулу кількісно. Патрон для автомата Калашникова був розроблений під патрон 7,62$$\times$$39 мм. Маса кулі – 8 г. Нехай маса тіла на нитці 2 кг, а висота $$h$$, на яку піднімуть тіло – 40 см $$=$$ 0,4 м. Початкова швидкість снаряда:
+$$
+\upsilon_1 = \sqrt{2 \cdot 9.8 \cdot 0.4} \cdot \dfrac{8 \cdot 10^{-3} + 2}{8 \cdot 10^{-3}} \approx 703 \thinspace (\text{м/с})
+$$
+До речі, 700 м/с – приблизна швидкість вильоту кулі з автомата Калашникова.
 </div>
 </div>
