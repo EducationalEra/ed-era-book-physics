@@ -11,7 +11,7 @@ $$<p></p>
 
 <b>Iмпульс</b> – векторна величина, яка спiвнапрямлена з швидкiстю, оскільки визначається добутком скаляра $$m$$ на вектор $$\vec{\upsilon}$$.
 
-<div class="space"><img class="image" width="150"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/S1-1.png"></div>
+<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/21.png"></div>
 <span class="p1">У <b>SI</b></span> – $$\dfrac{\text{кг} \cdot \text{м}}{\text{с}}$$
 </div>
 </div>
@@ -30,7 +30,7 @@ iмпульсу. Сподiваюсь, що вас це заiнтригувало
 $$
 \vec{F_{}}_{12} = -\vec{F_{}}_{21}
 $$
-<div class="space"><img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/S2-1.png"></div>
+<div class="space"><img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/22.png"></div>
 
 Запишемо закон руху (II з-н Ньютона) для кожної з них:
 $$
@@ -107,6 +107,8 @@ $$
 <span class="task">Задача 1</span> <b>Удар футболіста</b>
 <div class="task-text">
 З якою силою футболіст б’є по м’ячу, який перебуває в стані спокою, якщо одразу після удару його швидкість – 150 км/год? Стандартний м’яч п’ятого розміру (розмір м’яча у великому футболі) має масу 450 грамів. Тривалість контакту м’яча з ногою приблизно 0,01 с.
+
+<div class="space"><img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/23.png"></div>
 
 <b><i>Розв’язок.</i></b> Для розв’язання задачі можемо скористатися другим законом Ньютона в імпульсній формі.
 
