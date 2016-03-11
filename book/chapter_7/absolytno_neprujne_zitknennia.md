@@ -13,7 +13,7 @@ $$
 
 <p><i>Дві кульки з масами $$m_1$$ та $$m_2$$ рухаються одна назустріч одній зі швидкостями $$\vec{\upsilon}_1$$ і $$\vec{\upsilon}_2$$. Визначити швидкість двох кульок $$\vec{\upsilon}^\prime$$ після абсолютно непружного зіткнення.</i></p>
 
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/35.png"></div>
+<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/35.png"></div>
 
 <p>До зіткнення імпульс системи дорівнює:</p>
 $$

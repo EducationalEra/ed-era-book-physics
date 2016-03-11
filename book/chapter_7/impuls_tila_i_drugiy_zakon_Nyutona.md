@@ -108,7 +108,7 @@ $$
 <div class="task-text">
 З якою силою футболіст б’є по м’ячу, який перебуває в стані спокою, якщо одразу після удару його швидкість – 150 км/год? Стандартний м’яч п’ятого розміру (розмір м’яча у великому футболі) має масу 450 грамів. Тривалість контакту м’яча з ногою приблизно 0,01 с.
 
-<div class="space"><img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/23.png"></div>
+<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/23.png"></div>
 
 <b><i>Розв’язок.</i></b> Для розв’язання задачі можемо скористатися другим законом Ньютона в імпульсній формі.
 
@@ -122,11 +122,15 @@ p_1 = m \upsilon_1 \rightarrow |\upsilon_1 = 0| \rightarrow 0
 $$
 <b>Імпульс м’яча після удару:</b>
 
-$$p_2 = m \upsilon_2 \rightarrow |\upsilon_2 = 150 \cdot \dfrac{\text{км}}{\text{год}} = 150 \cdot \dfrac{1000 \text{м}}{3600 \text{с}} \approx 41.7 \dfrac{\text{м}}{\text{с}}| \rightarrow \\ \rightarrow p_2 = 0.45 \cdot 41.7 \approx 18.8 \ (\text{кг}\cdot\text{м/с}^2) \cdot$$
+$$
+p_2 = m \upsilon_2 \rightarrow |\upsilon_2 = 150 \cdot \dfrac{\text{км}}{\text{год}} = 150 \cdot \dfrac{1000 \text{м}}{3600 \text{с}} \approx 41.7 \dfrac{\text{м}}{\text{с}}| \rightarrow p_2 = 0.45 \cdot 41.7 \approx 18.8 \ (\text{кг}\cdot\text{м/с}^2)
+$$
 
 Отже, сила, з якою футболіст б’є по м’ячу:
 
-$$F = \dfrac{\Delta p}{\Delta t} = \dfrac{p_2 - p_1}{\Delta t} = \dfrac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \dfrac{18.8 - 0}{0.01} = 1880 \thinspace (H)$$
+$$
+F = \dfrac{\Delta p}{\Delta t} = \dfrac{p_2 - p_1}{\Delta t} = \dfrac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \dfrac{18.8 - 0}{0.01} = 1880 \thinspace (H)
+$$
 
 Це дуже велика сила. Подумайте, чи більша ця сила за силу яка потрібна, щоб підняти вгору людину масою 100 кг.
 </div>
