@@ -68,7 +68,7 @@
        * [Потенцiальна енергiя](book/chapter_7/potentsialna_energiya.md)
        * [Закон збереження механiчної енергiї](book/chapter_7/zakon_zberezhennya_mehanichno_energi.md)
    * [Потужнiсть та ККД](book/chapter_7/potuzhnist_ta_kkd.md)
-    * [Iмпульс та його зв’язок з силою](book/chapter_7/impuls_tila_ta_yogo_zvyazok_iz_siloyu.md)
+   * [Iмпульс та його зв’язок з силою](book/chapter_7/impuls_tila_ta_yogo_zvyazok_iz_siloyu.md)
          * [Імпульс тіла і другий закон Ньютона](book/chapter_7/impuls_tila_i_drugiy_zakon_Nyutona.md)
          * [Закон збереження iмпульсу](book/chapter_7/zakon_zberezhennya_impulsu.md)
     * [Імпульс та кінетична енергія](book/chapter_7/impuls_ta_kinetichna_energiya.md)
