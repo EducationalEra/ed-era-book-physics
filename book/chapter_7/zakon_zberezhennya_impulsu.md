@@ -19,20 +19,21 @@ $$
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
 <span class="p1">Закон збереження імпульсу</span>
-
+<br>
+<br>
 Для системи тіл, що взаємодіють між собою (незалежно від природи взаємодії), за відсутності зовнішніх сиил сумарний імпульс тіл є величиною сталою:
-
-<div align="center"><b>імпульс системи до взаємодії $$=$$ імпульс системи після взаємодії</b></div>
-
-<div class="space"><div class="centered-table-wrapper">
+<center><b>імпульс системи до взаємодії $$=$$ імпульс системи після взаємодії</b></center>
+<br>
+<br>
+<div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
 <td class="eq">
 <p1>$$\Sigma \vec{p}_i = \Sigma m_i \vec{\upsilon}_i = const \Rightarrow \Sigma \vec{p}_i = \Sigma \vec{p}_i^{\prime}$$</p1>,
 </td>
 </tr>
-</table></div></div>
-
+</table>
+</div>
 де $$\Sigma \vec{p}_i$$ — сумарний імпульс системи після взаємодії.
 </div>
 </div>
