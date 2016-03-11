@@ -71,7 +71,7 @@
    * [Iмпульс та його зв’язок з силою](book/chapter_7/impuls_tila_ta_yogo_zvyazok_iz_siloyu.md)
          * [Імпульс тіла і другий закон Ньютона](book/chapter_7/impuls_tila_i_drugiy_zakon_Nyutona.md)
          * [Закон збереження iмпульсу](book/chapter_7/zakon_zberezhennya_impulsu.md)
-    * [Імпульс та кінетична енергія](book/chapter_7/impuls_ta_kinetichna_energiya.md)
+   * [Імпульс та кінетична енергія](book/chapter_7/impuls_ta_kinetichna_energiya.md)
       * [Закони збереження, пружні та непружні зіткнення](book/chapter_7/zakoni_zberejennia,_prujni_ta_neprujni_zitknennia.md)
       * [Абсолютно пружне зіткнення](book/chapter_7/absolytno_prujne_zitknennia.md)
       * [Абсолютно непружне зіткнення](book/chapter_7/absolytno_neprujne_zitknennia.md)
