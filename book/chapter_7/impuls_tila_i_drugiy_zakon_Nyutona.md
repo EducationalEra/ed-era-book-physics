@@ -10,7 +10,7 @@ $$
 $$<p></p>
 
 <b>Iмпульс</b> – векторна величина, яка спiвнапрямлена з швидкiстю, оскільки визначається добутком скаляра $$m$$ на вектор $$\vec{\upsilon}$$.
-
+<br>
 <div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/21.png"></div>
 <span class="p1">У <b>SI</b></span> – $$\dfrac{\text{кг} \cdot \text{м}}{\text{с}}$$
 </div>
@@ -24,9 +24,9 @@ $$<p></p>
 iмпульсу. Сподiваюсь, що вас це заiнтригувало, а ми розглядаємо наступну ситуацiю.</p>
 
 
-<i>Розглянемо двi частинки масою $$m_1$$ та $$m_2$$, якi рухаються зi швидкостями $$\vec{\upsilon}_1$$ та $$\vec{\upsilon}_2$$ вiдповiдно. На кожну з частинок дiє певна зовнiшня сила $$\vec{F_{}}_{1зовн}$$ та $$\vec{F_{}}_{2\text{зовн}}$$.
+<i><b>Розглянемо двi частинки масою $$m_1$$ та $$m_2$$, якi рухаються зi швидкостями $$\vec{\upsilon}_1$$ та $$\vec{\upsilon}_2$$ вiдповiдно. На кожну з частинок дiє певна зовнiшня сила $$\vec{F_{}}_{1зовн}$$ та $$\vec{F_{}}_{2\text{зовн}}$$.
 Нехай частинки взаємодiють мiж собою, наприклад, за допомогою гравiтацiйного тяжiння (природа взаємодiї нас не цiкавить i не має значення). Нехай перша
-частинка дiє на другу iз силою $$\vec{F_{}}_{12}$$. Вiдповiдно до третього закону Ньютона, друга частинка дiє на першу з тiєю ж самою силою за модулем, але з протилежним напрямком:</i>
+частинка дiє на другу iз силою $$\vec{F_{}}_{12}$$. Вiдповiдно до третього закону Ньютона, друга частинка дiє на першу з тiєю ж самою силою за модулем, але з протилежним напрямком:</b></i>
 $$
 \vec{F_{}}_{12} = -\vec{F_{}}_{21}
 $$
@@ -88,7 +88,7 @@ $$
 
 <i>Зміна імпульсу тіла дорівнює рівнодійній силі, яка прикладена до цього тіла.</i>
 $$
-\dfrac{\Delta \vec{p}}{\Delta t} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_i} = \vec{F_{}}_{рівнод}
+\frac{\Delta \vec{p}}{\Delta t} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_i} = \vec{F_{}}_{рівнод}
 $$
 </div>
 </div>
@@ -98,7 +98,7 @@ $$
 <p>У класичній механіці, якій присвячено цей курс лекцій, легко пересвідчитися, що такий запис еквівалентний вже звичному для нас $$\vec{F_{}}_{рівнод} = m \vec{a}$$:</p>
 
 $$
-\vec{F_{}}_{рівнод} = \dfrac{\Delta \vec{p}}{\Delta t} = \dfrac{\Delta (m \vec{\upsilon})}{\Delta t} = m \dfrac{\Delta \vec{\upsilon}}{\Delta t} = m \vec{a}
+\vec{F_{}}_{рівнод} = \frac{\Delta \vec{p}}{\Delta t} = \frac{\Delta (m \vec{\upsilon})}{\Delta t} = m \frac{\Delta \vec{\upsilon}}{\Delta t} = m \vec{a}
 $$
 
 <p>Слід зазначити, що таке перетворення справедливе, якщо маса тіла не змінюється. Саме тоді можливий перехід: $$\Delta (m \vec{\upsilon}) = m \Delta \vec{\upsilon}$$.</p>
@@ -122,11 +122,11 @@ p_1 = m \upsilon_1 \rightarrow |\upsilon_1 = 0| \rightarrow 0
 $$
 <b>Імпульс м’яча після удару:</b>
 $$
-p_2 = m \upsilon_2 \rightarrow |\upsilon_2 = 150 \cdot \dfrac{\text{км}}{\text{год}} = 150 \cdot \dfrac{1000 \text{м}}{3600 \text{с}} \approx 41.7 \dfrac{\text{м}}{\text{с}}| \rightarrow p_2 = 0.45 \cdot 41.7 \approx 18.8 \ (\text{кг}\cdot\text{м/с}^2)
+p_2 = m \upsilon_2 \rightarrow |\upsilon_2 = 150 \cdot \frac{\text{км}}{\text{год}} = 150 \cdot \frac{1000 \text{м}}{3600 \text{с}} \approx 41.7 \frac{\text{м}}{\text{с}}| \rightarrow p_2 = 0.45 \cdot 41.7 \approx 18.8 \ (\text{кг}\cdot\text{м/с}^2)
 $$
 Отже, сила, з якою футболіст б’є по м’ячу:
 $$
-F = \dfrac{\Delta p}{\Delta t} = \dfrac{p_2 - p_1}{\Delta t} = \dfrac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \dfrac{18.8 - 0}{0.01} = 1880 \thinspace (H)
+F = \frac{\Delta p}{\Delta t} = \frac{p_2 - p_1}{\Delta t} = \frac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \frac{18.8 - 0}{0.01} = 1880 \thinspace (H)
 $$
 Це дуже велика сила. Подумайте, чи більша ця сила за силу яка потрібна, щоб підняти вгору людину масою 100 кг.
 </div>
