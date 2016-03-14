@@ -1,7 +1,7 @@
 #Iмпульс тiла і другий закон Ньютона
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Iмпульс частинки або об’єкта</b>, який може бути змодельований частинкою маси $$m$$, що рухається зi швидкiстю $$\upsilon$$ – це величина, яка визначається як добуток
 маси частинки та її швидкостi:
@@ -38,10 +38,10 @@ $$
 <br>
 Запишемо закон руху (II закон Ньютона) для кожної з них:
 <br>
+<br>
 $$
 \vec{F_{}}_{1зовн} + \vec{F_{}}_{12} = m\vec{a}_1 \tag{1}
 $$
-<br>
 $$
 \vec{F_{}}_{2зовн} + \vec{F_{}}_{21} = m\vec{a}_2 \tag{2}
 $$
@@ -54,33 +54,40 @@ $$
 <br>
 Тепер додамо рівняння $$(1)$$ та $$(3)$$:
 <br>
+<br>
 $$
 \vec{F_{}}_{1зовн} + \vec{F_{}}_{12} + \vec{F_{}}_{2зовн} - \vec{F_{}}_{12} = m\vec{a}_1 + m\vec{a}_2
 $$
-<br>
 $$
 \vec{F_{}}_{1зовн} + \vec{F_{}}_{2зовн} = m\vec{a}_1 + m\vec{a}_2
 $$
 <br>
 Для подальшої зручності поміняємо місцями ліву та праву сторони виразу:
 <br>
+<br>
 $$
 m\vec{a}_1 + m \vec{a}_2 = \vec{F_{}}_{1зовн} + \vec{F_{}}_{2зовн} \tag{4}
 $$
-Пригадаємо. що миттєве прискорення тіла — <b>це зміна швидкості</b>b> $$\Delta \vec{\upsilon}$$ за нескінченно малий проміжок часу $$\Delta t: \ \vec{a} = \frac{\Delta \vec{\upsilon}}{\Delta t}$$. Підставимо це у формулу $$(4)$$:
+<br>
+<br>
+Пригадаємо. що миттєве прискорення тіла — <b>це зміна швидкості</b> $$\Delta \vec{\upsilon}$$ за нескінченно малий проміжок часу $$\Delta t: \ \vec{a} = \dfrac{\Delta \vec{\upsilon}}{\Delta t}$$. Підставимо це у формулу $$(4)$$:
+<br>
 <br>
 $$
 m_1 \frac{\Delta \vec{\upsilon}_1}{\Delta t} + m_2 \frac{\Delta \vec{\upsilon}_2}{\Delta t} = \vec{F_{}}_{1зовн} + \vec{F_{}}_{2зовн}
 $$
-<br>
 $$
 \frac{m_1 \Delta \vec{\upsilon}_1 + m_2 \Delta \vec{\upsilon}_2}{\Delta t} = \vec{F_{}}_{1зовн} + \vec{F_{}}_{2зовн}
 $$
 <br>
 Якщо імпульс $$\vec{p} = m \vec{\upsilon}$$, то зміну імпульсу $$\Delta \vec{p}$$ можна представити таким чином: $$\Delta \vec{p} = m \Delta \vec{\upsilon}$$ (за умови незмінної маси).
+<br>
+<br>
 $$
 \dfrac{\Delta \vec{p}_1 + \Delta \vec{p}_2}{\Delta t} = \vec{F_{}}_{1зовн} + \vec{F_{}}_{2зовн} \tag{5}
 $$
+<br>
+<br>
 У розглянутому випадку ми мали дві частинки з двома імпульсами та двома зовнішніми силами, які діяли на них. Якщо провести узагальнення для більшої кількості частинок, можна ввести величину, яка є сумарним імпульсом усіх частинок $$\vec{p} = \Sigma \thinspace \vec{p}_i$$ (де $$i$$ — номер частинки в розглянутій системі), а, відповідно, зміна загального імпульсу системи частинок за нескінченно малий проміжок часу $$\Delta t - \Delta \vec{p} = \Sigma \Delta \vec{p}_i$$. Сума всіх зовнішніх сил — $$\Sigma \vec{F_{}}_{i \thinspace зовн} = \vec{F_{}}_{зовн}$$. Підставимо це у формулу $$(5)$$ і отримаємо загальний вигляд формули:
 <br>
 <br>
@@ -106,11 +113,9 @@ $$
 <b>Другий закон Ньютона в імпульсному формулюванні</b>
 <br>
 <br>
-<b>Зміна імпульсу тіла дорівнює рівнодійній силі, яка прикладена до цього тіла.</b>
+<b><i>Зміна імпульсу тіла дорівнює рівнодійній силі, яка прикладена до цього тіла.</i></b>
 <br>
-$$
-\frac{\Delta \vec{p}}{\Delta t} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_i} = \vec{F_{}}_{рівнод}
-$$
+<center>$$\frac{\Delta \vec{p}}{\Delta t} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_i} = \vec{F_{}}_{рівнод}$$</center>
 <br>
 </div>
 </div>
@@ -145,13 +150,15 @@ p_1 = m \upsilon_1 \rightarrow |\upsilon_1 = 0| \rightarrow 0
 $$
 <b><i>Імпульс м’яча після удару:</i></b>
 <br>
+<br>
 <center>$$p_2 = m \upsilon_2 \rightarrow \thinspace $$$$ \upsilon_2 = 150 \cdot \frac{\text{км}}{\text{год}} = 150 \cdot \frac{1000 \text{м}}{3600 \text{с}} \approx \thinspace $$$$ 41.7 \frac{\text{м}}{\text{с}} \rightarrow \thinspace $$$$ p_2 = 0.45 \cdot 41.7 \approx \thinspace $$$$ 18.8 \ (\text{кг}\cdot\text{м/с}^2)$$</center>
+<br>
 <br>
 Отже, <b>сила</b>, з якою футболіст б’є по м’ячу:
 <br>
-$$
-F = \thinspace $$$$ \frac{\Delta p}{\Delta t} = \thinspace $$$$ \frac{p_2 - p_1}{\Delta t} = \thinspace $$$$ \frac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \thinspace $$$$ \frac{18.8 - 0}{0.01} = \thinspace $$$$ 1880 \thinspace (H)
-$$
+<br>
+<center>$$F = \thinspace $$$$ \frac{\Delta p}{\Delta t} = \thinspace $$$$ \frac{p_2 - p_1}{\Delta t} = \thinspace $$$$ \frac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \thinspace $$$$ \frac{18.8 - 0}{0.01} = \thinspace $$$$ 1880 \thinspace (H)$$</center>
+<br>
 <br>
 Це дуже велика сила. Подумайте, чи більша ця сила за силу яка потрібна, щоб підняти вгору людину масою $$100(!)$$ кг.
 </div>
