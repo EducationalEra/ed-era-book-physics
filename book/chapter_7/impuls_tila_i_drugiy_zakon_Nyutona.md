@@ -157,7 +157,7 @@ $$
 Отже, <b>сила</b>, з якою футболіст б’є по м’ячу:
 <br>
 <br>
-<center>$$F = \thinspace $$$$ \frac{\Delta p}{\Delta t} = \thinspace $$$$ \frac{p_2 - p_1}{\Delta t} = \thinspace $$$$ \frac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \thinspace $$$$ \frac{18.8 - 0}{0.01} = \thinspace $$$$ 1880 \thinspace (H)$$</center>
+<center>$$F = \thinspace $$$$ \dfrac{\Delta p}{\Delta t} = \thinspace $$$$ \dfrac{p_2 - p_1}{\Delta t} = \thinspace $$$$ \dfrac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \thinspace $$$$ \dfrac{18.8 - 0}{0.01} = \thinspace $$$$ 1880 \thinspace (H)$$</center>
 <br>
 <br>
 Це дуже велика сила. Подумайте, чи більша ця сила за силу яка потрібна, щоб підняти вгору людину масою $$100(!)$$ кг.
