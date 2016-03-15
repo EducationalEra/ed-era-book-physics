@@ -167,8 +167,9 @@ $$
 \upsilon_2^\prime = \upsilon_1 = 10 \thinspace \text{м/с}
 \end{cases}
 $$
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/34.png"></div>
-
+<br>
+<img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/34.png"></div>
+<br>
 Ми прийшли до ще одного надцікавого висновку. Рівні за масою тіла при абсолютно пружному зіткненні «обмінюються» швидкостями (звичайно, імпульсами також).
 </div>
 </div>
