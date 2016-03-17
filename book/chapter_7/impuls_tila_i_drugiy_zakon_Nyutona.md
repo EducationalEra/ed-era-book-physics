@@ -110,12 +110,13 @@ $$
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
-<b>Другий закон Ньютона в імпульсному формулюванні</b>
+<b><span class="p1">Другий закон Ньютона в імпульсному формулюванні</span></b>
 <br>
 <br>
-<b><i>Зміна імпульсу тіла дорівнює рівнодійній силі, яка прикладена до цього тіла.</i></b>
+<b>Зміна імпульсу тіла дорівнює рівнодійній силі, яка прикладена до цього тіла.</b>
 <br>
-<center>$$\frac{\Delta \vec{p}}{\Delta t} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_i} = \vec{F_{}}_{рівнод}$$</center>
+<br>
+<center>$$\dfrac{\Delta \vec{p}}{\Delta t} = \vec{F_1} + \vec{F_2} + \cdots + \vec{F_i} = \vec{F_{}}_{рівнод}$$</center>
 <br>
 </div>
 </div>
@@ -140,15 +141,15 @@ $$
 <img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/23.png">
 <br>
 <br>
-<b><i>Розв’язок.</i></b> Для розв’язання задачі можемо скористатися другим законом Ньютона в імпульсній формі.
+<b><i><span class="p1">Розв’язок.</span></i></b> Для розв’язання задачі можемо скористатися другим законом Ньютона в імпульсній формі.
 $$
 F = \dfrac{\Delta p}{\Delta t}
 $$
-<b><i>Імпульс м’яча до удару:</i></b>
+<b>Імпульс м’яча до удару:</b>
 $$
 p_1 = m \upsilon_1 \rightarrow |\upsilon_1 = 0| \rightarrow 0
 $$
-<b><i>Імпульс м’яча після удару:</i></b>
+<b>Імпульс м’яча після удару:</b>
 <br>
 <br>
 <center>$$p_2 = m \upsilon_2 \rightarrow \thinspace $$$$ \upsilon_2 = 150 \cdot \frac{\text{км}}{\text{год}} = 150 \cdot \frac{1000 \text{м}}{3600 \text{с}} \approx \thinspace $$$$ 41.7 \frac{\text{м}}{\text{с}} \rightarrow \thinspace $$$$ p_2 = 0.45 \cdot 41.7 \approx \thinspace $$$$ 18.8 \ (\text{кг}\cdot\text{м/с}^2)$$</center>
