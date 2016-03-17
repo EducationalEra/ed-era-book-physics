@@ -95,7 +95,6 @@ $$
 $$
 <br>
 <br>
-<br>
 </li>
 <span class="p1"><b><li>Маси тіл – однакові.</b></span> Друге тіло перебуває у стані спокою, а перше рухається до нього зі швидкістю $$\upsilon_1$$.
 <br>
@@ -127,7 +126,6 @@ $$
 <div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/31.png"></div>
 
 Спостерігати таке явище можна під час гри у більярд, якщо ви поцілите однією кулею у центр другої кулі.
-<br>
 <br>
 <br>
 </li>
