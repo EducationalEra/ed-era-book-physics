@@ -49,7 +49,7 @@
 <br>
 <br>
 
-<img class="image" width="300" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/3.png">
+<img class="image" width="300" src="../../images/chapter_4/rec_fixed.png">
 
 <br>
 <br>
