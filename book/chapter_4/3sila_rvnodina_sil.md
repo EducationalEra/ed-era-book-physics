@@ -69,7 +69,7 @@
 <br>
 <br>
 
-<center><img class="image" width="290" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/4.png"></center>
+<center><img class="image" width="290" src="../../images/chapter_4/12_fixed.png"></center>
 
 <br>
 <br>
@@ -79,7 +79,7 @@
 <br>
 <br>
 
-<center><img class="image" width="480" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/5.png"></center>
+<center><img class="image" width="480" src="../../images/chapter_4/12_fixed.png"></center>
 
 <br>
 <br>
@@ -94,7 +94,7 @@
 <br>
 <br>
 
-<center><img class="image" width="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/6.png"></center>
+<center><img class="image" width="200" src="../../images/chapter_4/34_fixed.png"></center>
 
 <br>
 <br>
