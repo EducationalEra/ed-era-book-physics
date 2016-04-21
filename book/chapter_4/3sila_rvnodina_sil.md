@@ -79,7 +79,7 @@
 <br>
 <br>
 
-<center><img class="image" width="480" src="../../images/chapter_4/12_fixed.png"></center>
+<center><img class="image" width="480" src="../../images/chapter_4/34_fixed.png"></center>
 
 <br>
 <br>
@@ -94,7 +94,7 @@
 <br>
 <br>
 
-<center><img class="image" width="200" src="../../images/chapter_4/34_fixed.png"></center>
+<center><img class="image" width="200" src="../../images/chapter_4/rec2_fixed.png"></center>
 
 <br>
 <br>
