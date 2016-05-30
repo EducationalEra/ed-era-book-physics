@@ -70,7 +70,6 @@ $$\sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\co
 * Якщо кути $$\alpha$$ та $$\beta$$ рівні між собою, то формули суми/різниці спрощуються до формул <p1>подвійних кутів</p1>:
  <p><center>$$\sin(2\alpha) = 2 \sin(\alpha) \cos(\alpha)$$ </center></p>
  <p><center>$$\cos(2\alpha) = \cos^2(\alpha) - \sin^2(\alpha)= 2 \cos^2(\alpha) - 1 = 1 - 2\sin^2(\alpha)$$ </center></p>
- <p><center>$$\cos(2\alpha) = \cos^2(\alpha) - \sin^2(\alpha)= 2\cos^2(\alpha) - 1 = 1 - 2\sin^2(\alpha)$$ </center></p>
 
 * Формули <p1>функцій половинного кута</p1>:
     <p><center>$$\sin\big(\dfrac{\alpha}{2}\big) = \sqrt{\dfrac{1-\cos(\alpha)}{2}}$$ </center></p>
