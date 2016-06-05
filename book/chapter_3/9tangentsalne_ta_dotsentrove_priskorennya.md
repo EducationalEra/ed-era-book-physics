@@ -23,7 +23,7 @@
 <p class="p3">Отже, будь-яке прискорення можна розкласти на два компоненти.</p>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <ul>
 <li>

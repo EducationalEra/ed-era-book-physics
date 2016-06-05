@@ -70,7 +70,7 @@
 <br>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <span class="p1"><b>Невагомiсть (вiдсутнiсть ваги)</b></span> – стан тiла, за якого вiдсутня взаємодiя з опорою.
 </div>

@@ -3,9 +3,11 @@
 Якщо прикласти силу до якогось тiла, то воно <span class="p1"><b>деформується.</b></span>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
-<div class="space"><span class="p1"><b>Деформацiя</b></span> – це змiна форми твердого тiла пiд дiєю зовнiшньої сили.</div>
+<span class="p1"><b>Деформацiя</b></span> – це змiна форми твердого тiла пiд дiєю зовнiшньої сили.
+<br>
+<br>
 <span class="p1"><b>Пружна деформацiя</b></span> – деформацiя, яка повнiстю зникає пiсля припинення дiї зовнiшньої сили. Форма тiла повертається у своє «звичне» положення.
 </div>
 </div>
@@ -23,7 +25,7 @@
 <br>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <span class="p1"><b>Сила пружностi $$\vec{F_П}$$</b></span> – сила, що виникає внаслiдок деформацiї тiла i напрямлена в протилежну сторону до напрямку, вздовж якого вiдбувається деформацiя.
 </div>
@@ -57,11 +59,11 @@
 
 <div class="space"><p class="p3">Ми використали всi параметри, що пов’язанi з формою об’єкта. Залишилось для повної рiвностi використати параметр, який характеризує фiзичну властивiсть матерiалу створювати супротив деформацiї – модуль Юнга $$E \thinspace [ \thinspace \dfrac{Н}{м^2}$$ = Паскаль (Па) $$].$$</p></div>
 
-<div class="space"><img class="image" width="489" height="45" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/19.png"></div>
+<div class="space"><img class="image" height="100" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/19.png"></div>
 
 <div class="space"><p class="p3">Тепер ми маємо все необхідне для запису фундаментального закону, який пов’язує силу пружностi з видовженням тiла:</p></div>
 
-<div class="space"><img class="image" width="542" height="110" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/20.png"></div>
+<div class="space"><img class="image" height="150" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/20.png"></div>
 
 <div class="space">Закон Гука стверджує про пропорцiйнiсть мiж силою пружностi $$F_П$$, що виникає внаслiдок деформацiї, i розтягу (стиску) тiла $$\Delta l$$. Чим бiльший коефiцiєнт жорсткостi $$k$$, тим швидше зi збiльшенням видовження зростає сила пружностi, яка намагається повернути тiло в його «звичний» стан. На рисунку $$k = tg\ \alpha$$.</div>
 

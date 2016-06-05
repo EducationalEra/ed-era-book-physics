@@ -6,14 +6,14 @@
 
 Очевидно, що середня швидкiсть у данiй задачi не дорiвнює середньому арифметичному трьох швидкостей:
 
-$$\upsilon_{сер} \not= $$$$ \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3} $$
+<div align="center">$$\upsilon_{сер} \not= $$$$ \dfrac{0 + 2 + 3}{3} = \dfrac{5}{3}$$</div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
-<p><b>Ceредня швидкiсть</b></p>
+<p><b>Ceредня швидкiсть:</b></p>
 <p align="center">$$\vec{\upsilon}_\text{сер} = \dfrac{\vec{S}_\Sigma}{t_\Sigma} = \dfrac{\vec{S}_1 + \vec{S}_2 + \cdots + \vec{S}_n}{t_1+ t_2 + \cdots +t_n}$$</p>
-<p><b>Ceредня шляхова швидкiсть</b></p> 
+<p><b>Ceредня шляхова швидкiсть:</b></p> 
 <p align="center">$$\upsilon_\text{сер} =\dfrac{l_\Sigma}{t_\Sigma} =\dfrac{l_1 + l_2 + \cdots + l_n}{t_1+ t_2 + \cdots +t_n}$$</p>
 </div>
 </div>

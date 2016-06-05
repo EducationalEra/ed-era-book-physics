@@ -2,7 +2,7 @@
 Ця лекцiя присвячена темi «Рiвноприскорений рух по колу». Щоб гарно зрозумiти цей матерiал, необхiдно розiбратися з тим, що таке градусна та радiанна мiра кута. Невелика вступна частина для тих, хто не дуже розбирається в цьому питанні.
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Градус (позначається $$^\boldsymbol\circ$$)</b> – одиниця вимiру плоского кута.<br/>
 <br/>
@@ -14,7 +14,7 @@
 <img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/8.png">
 <br>
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Радiан (позначається «рад»)</b> вiдповiдає куту, що утворений двома радiусами та дугою, довжина $$(S)$$ якої дорiвнює радiусу кола $$(R)$$.<br>
 <br>

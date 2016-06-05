@@ -1,7 +1,7 @@
 #  Рiвномiрний рух по колу
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Рiвномiрний рух по колу</b> – рух по колу з постiйною за модулем швидкiстю.
 <br>

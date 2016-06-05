@@ -54,7 +54,7 @@
 <div class="space"><p class="p3">Таким чином ми дiйшли до визначення кiнетичної енергiї.</p></div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <div class="space"><span class="p1"><b>Кiнетична енергiя</b> (<i>kinetikos</i> – рух)</span> – енергiя руху тiла.</div>
 

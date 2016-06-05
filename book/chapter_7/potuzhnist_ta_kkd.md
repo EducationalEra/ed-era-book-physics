@@ -3,7 +3,7 @@
 <div class="space">Ви, напевно, нерiдко чули термiн «потужнiсть». Наприклад, його часто вживають стосовно роботи двигунiв: «Потужнiсть двигуна цього автомобiля – 200 кiнських сил».</div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <span class="p1"><b>Потужнiсть</b></span> – робота, що виконана за одиницю часу. Отже, потужнiсть характеризує швидкiсть виконання роботи.
 
@@ -110,7 +110,7 @@
 <div class="space">Робота будь-якого механiзма базується на перетвореннi своєї енергiї в певну потрiбну. Наприклад, робота пiдйомного крана – перетворення електричної енергiї в механiчну (пiдняття вантажу на певну висоту). Робота двигуна автомобiля – перетворення його енергiї на кiнетичну енергiю автомобiля, що, у свою чергу, є виконанням роботи з перемiщення автiвки. За рахунок рiзних чинникiв, таких як сила тертя, опору тощо, <b>жоден механiзм не може повною мiрою (без втрат) перетворити свою енергiю на здiйснення певної роботи.</b> Саме тому i виникла потреба у визначеннi <span class="p1"><b>коефiцiєнта корисної дiї (ККД)</b></span> механiзма.</div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <div class="space"><span class="p1"><b>Коефiцiєнт корисної дiї (ККД)</span></b> – вiдношення корисної роботи/потужностi до повної затраченої роботи/потужностi. <b>Втрати є в будь-якому механiзмi</b>, корисна робота завжди меньша від затраченої.</div>
 
@@ -119,7 +119,7 @@
 </div>
 </div>
 
-<div class="space"><p class="p3"><span class="p1"><b><u>Приклади</u></b></span></p></div>
+<h3><span class="p1"><u>Приклади</u></span></h3>
 
 <div class="space"><p class="p3">Для кожного з прикладiв маємо задачу – пiдняти вантаж $$m = 200$$ кг на висоту $$h = 10$$ метрів.</p></div>
 
@@ -148,11 +148,15 @@
 
 <div class="space" align="center">$$F = \thinspace $$$$  mg(\mu \cos \alpha + \sin \alpha)$$</div>
 
-<div class="space">Затрачена робота:</div>
+Затрачена робота:
+<br>
+<br>
 
-<div class="space" align="center">$$A_з = \thinspace $$$$ Fl = \thinspace $$$$ mgl(\mu \cos \alpha + \sin \alpha)$$</div>
+<div align="center">$$A_з = \thinspace $$$$ Fl = \thinspace $$$$ mgl(\mu \cos \alpha + \sin \alpha)$$</div>
 
-<div class="space">Тепер можемо отримати ККД:</div>
+Тепер можемо отримати ККД:
+<br>
+<br>
 
 <div align="center">$$\eta = \thinspace $$$$ \dfrac{A_к}{A_з} = \thinspace $$$$ \dfrac{mgl \sin \alpha}{mgl(\mu \cos \alpha + \sin \alpha)} = \thinspace $$$$ \dfrac{\sin \alpha}{\mu \cos \alpha + \sin \alpha} = \thinspace $$$$ \dfrac{\dfrac{1}{2}}{0.4 \cdot \dfrac{\sqrt{3}}{2} + \dfrac{1}{2}} \approx \thinspace $$$$ 0.6 = \thinspace $$$$ 60 \%$$</div>
 </li>

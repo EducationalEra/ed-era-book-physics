@@ -5,7 +5,7 @@
 # Дiя постiйної сили (F = const)
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <span class="p1"><b>Механiчна робота $$A$$</b></span> – це скалярна величина, що визначається як добуток модуля перемiщення $$S$$ на компоненту сили $$F_{\parallel}$$, яка паралельна до перемiщення.
 

@@ -12,7 +12,7 @@
 <br>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <span class="p1"><b>Сила ($$\vec{F_{ }}$$)</b></span> – векторна величина, що є мiрою дiї тiл або полiв на дане тiло.
 
@@ -33,7 +33,7 @@
 
 <br>
 
-<span class="p1"><b>У SI:</span><i> Н</b> (Ньютон)</i>
+<span class="p1">У SI:</span> Н (Ньютон)
 
 <br>
 </div>

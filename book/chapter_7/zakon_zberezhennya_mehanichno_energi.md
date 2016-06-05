@@ -35,7 +35,7 @@
 </table></div></div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <div class="space"><span class="p1"><b>Повна механiчна енергiя</b></span> – сума потенцiальної енергiї та кiнетичної енергiї тiла.</div>
 

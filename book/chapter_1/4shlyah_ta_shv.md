@@ -4,7 +4,7 @@
 
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Рiвномiрний прямолiнiйний рух</b> – рух, за якого тiло за будь-які однаковi промiжки часу здiйснює однаковi перемiщення<br>
 <p></p>

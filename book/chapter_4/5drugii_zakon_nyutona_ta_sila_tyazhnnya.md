@@ -16,13 +16,14 @@
 </li>
 </ul>
 
+<br>
+
 <div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6WCxmgLJ5TI" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
 </div>
 
-<br>
 <br>
 
 <p class="p3"><font color="red">$${\Large!}$$</font> Ми розглядали, що прискорення вiльного падiння $$\vec{g}$$ дiє на тiла поблизу поверхнi Землi. Воно напрямлене вертикально вниз i виникає внаслiдок закону всесвiтнього тяжiння (ми ще будемо його розбирати пiзнiше в курсi).</div>
