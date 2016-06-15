@@ -2,6 +2,18 @@
 
 <div class="space">У темi «рiвномiрний рух по колу» ми розглядали рух по колу зi сталою за модулем швидкiстю з точки зору <b>кiнематики.</b> Щоб матерiальна точка рухалась по колу з рiвномiрною швидкiстю, у неї має бути прискорення, напрямлене до центру кола (перпендикулярно до швидкостi).</div>
 
+**Зміст розділу:**
+* [Динамiка та статика](book/chapter_6/vstup_do_dinamiki_ruhu_tila_po_kolu.md)
+    1. [Сили, що створюють доцентрове прискорення](book/chapter_6/sili,_scho_stvoryuyut_dotsentrove_priskorennya.md)
+        * [Сила натягу нитки](book/chapter_6/sila_natyagu_nitki.md)
+        * [Сила тиску](book/chapter_6/sila_tisku.md)
+        * [Сила тертя](book/chapter_6/sila_tertya.md)
+    * [Статика та умови рiвноваги](book/chapter_6/statika_ta_umovi_rivnovagi.md)
+        * [Перша умова рiвноваги](book/chapter_6/persha_umova_rivnovagi.md)
+        * [Друга умова рiвоваги та момент сили](book/chapter_6/druga_umova_rivovagi_ta_moment_sili.md)
+    * [Центр тяжiння та центр мас](book/chapter_6/tsentr_tyazhinnya_ta_tsentr_mas.md)
+    * [Стiйкiсть рiвноваги](book/chapter_6/stiikist_rivnovagi.md)	
+
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KoeLZN7tk2s" frameborder="0" allowfullscreen></iframe>
 </div>

@@ -12,4 +12,4 @@
 * [Кiнетична енергiя](http://physics.ed-era.com/book/chapter_7/kinetichna_energiya.html)
 * [Консервативнi та неконсервативнi сили](http://physics.ed-era.com/book/chapter_7/konservativni_ta_nekonservativni_sili.html)
 * [Потенцiальна енергiя](http://physics.ed-era.com/book/chapter_7/potentsialna_energiya.html)
-* []()
+* [Закон збереження механiчної енергiї](book/chapter_7/zakon_zberezhennya_mehanichno_energi.md)
