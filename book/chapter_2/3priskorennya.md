@@ -104,13 +104,13 @@ $$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon_x^\
 <p>\[\upsilon_{3x}(4)=8 \thinspace \text{м/c}\]</p>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p>Визначимо проекцію швидкості на кожній з ділянок через відповідний час руху: </p>
+<p>Визначимо формулу швидкості для кожної з ділянок: </p>
 <p><b>Перша</b> ($$t_1 = 0 \thinspace \text{c}, t_2 = 3 \thinspace \text{c}$$).</p>
-<p>\[\upsilon_{1x}(3)=-4 \thinspace \dfrac{\text{м}}{\text{c}}\]</p>
+<p>\[\upsilon_{1x}=\upsilon_{0x}+a_{1x}t=2-2t\]</p>
 <p><b>Друга</b> ($$t_1 = 3 \thinspace \text{c}, t_2 = 5 \thinspace \text{c}$$).</p>
-<p>\[\upsilon_{2x}(2)=4 \thinspace \text{м/c}\]</p>
+<p>\[\upsilon_{2x}=\upsilon_{1x}+a_{2x}t=-4+4t\]</p>
 <p><b>Третя</b> ($$t_1 = 5 \thinspace \text{c}, t_2 = 9 \thinspace \text{c}$$).</p>
-<p>\[\upsilon_{3x}(4)=8 \thinspace \text{м/c}\]</p>
+<p>\[\upsilon_{3x}=\upsilon_{2x}+a_{3x}t=4+t\]</p>
 <p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/5.svg" /></p>
   </div>
   <div class="tab-pane" id="hide"></div>

@@ -33,11 +33,11 @@
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Петро пробiг 100 метрiв за 15 секунд. Потiм зупинився перепочити на 10 секунд i ще 15 секунд вiн бiг зi швидкiстю 5 м/с. Яка середня швидкiсть Петра?</p>
-<answer> 4,5 м/с</answer>
-<answer correct> 4,375 м/с</answer>
-<answer> 4,2 м/с</answer>
-<answer> 4 м/с</answer>
+<p>Петро пробiг $$100$$ метрiв за $$15$$ секунд. Потiм зупинився перепочити на $$10$$ секунд i ще $$15$$ секунд вiн бiг зi швидкiстю $$5$$ м/с. Яка середня швидкiсть Петра?</p>
+<answer> $$4,5$$ м/с</answer>
+<answer correct> $$4,375$$ м/с</answer>
+<answer> $$4,2$$ м/с</answer>
+<answer> $$4$$ м/с</answer>
 <explanation>
 <p>Проміжки пройдених шляхів</p>
 
