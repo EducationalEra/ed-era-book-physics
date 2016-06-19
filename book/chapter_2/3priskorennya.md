@@ -46,61 +46,78 @@ $$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon_x^\
 </div>
 </div>
 
-
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>РОБОТА З ГРАФІКАМИ</b>
 <div class="task-text">
-Початкова швидкість тіла $$\upsilon_{0x} = 2 м/с$$. Прямолінійний рух тіла поділений на три проміжки, протягом яких тіло рухається з різними прискореннями. Графік залежності проекції прискорення від часу $$a_x(t)$$. Побудуйте відповідний графік $$\upsilon_x(t)$$ для цього руху.
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/5.svg" />
-
-
-<p><b><i>Розв’язок.</i></b> Розглянемо кожну ділянку окремо: <br></p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="decision">
+<p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/5.svg" /></p>
+<p><b><i>Розв’язок.</i> </b> </p>
+<p> Розглянемо кожну ділянку окремо: </p>
 <p></p>
 <p><b>Перша</b> ($$t_1 = 0 \thinspace \text{c}, t_2 = 3 \thinspace \text{c}$$).</p>
-Проекція прискорення:
+<p>Проекція прискорення:</p>
 
-\[a_{1x} = -2 \thinspace \dfrac{\text{м}}{\text{c}^2}\]
+<p>\[a_{1x} = -2 \thinspace \dfrac{\text{м}}{\text{c}^2}\]</p>
 
-Тоді рівняння швидкості:
+<p>Тоді рівняння швидкості:</p>
 
-\[\upsilon_{1x}=\upsilon_{0x}+a_{1x}t=2-2t\]
+<p>\[\upsilon_{1x}=\upsilon_{0x}+a_{1x}t=2-2t\]</p>
 
-Проекція швидкості через три секунди руху:
+<p>Проекція швидкості через три секунди руху:</p>
 
-\[\upsilon_{1x}(3)=-4 \thinspace \dfrac{\text{м}}{\text{c}}\]
+<p>\[\upsilon_{1x}(3)=-4 \thinspace \dfrac{\text{м}}{\text{c}}\]</p>
 
 <p><b>Друга</b> ($$t_1 = 3 \thinspace \text{c}, t_2 = 5 \thinspace \text{c}$$).</p>
-Проекція прискорення:
+<p>Проекція прискорення:</p>
 
-\[a_{2x} = 4 \thinspace \text{м/c}^2\]
+<p>\[a_{2x} = 4 \thinspace \text{м/c}^2\]</p>
 
-Тоді рівняння швидкості:
+<p>Тоді рівняння швидкості:</p>
 
-\[\upsilon_{2x}=\upsilon_{1x}+a_{2x}t=-4+4t\]
+<p>\[\upsilon_{2x}=\upsilon_{1x}+a_{2x}t=-4+4t\]</p>
 
-Проекція швидкості через три секунди руху:
+<p>Проекція швидкості через три секунди руху:</p>
 
-$$\upsilon_{2x}(2)=4 \thinspace \text{м/c}$$
-<br>
+<p>$$\upsilon_{2x}(2)=4 \thinspace \text{м/c}$$</p>
 
 <p><b>Третя</b> ($$t_1 = 5 \thinspace \text{c}, t_2 = 9 \thinspace \text{c}$$).</p>
 
-Проекція прискорення:
+<p>Проекція прискорення:</p>
 
-\[a_{3x} = 1 \thinspace \text{м/c}^2\]
+<p>\[a_{3x} = 1 \thinspace \text{м/c}^2\]</p>
 
-Тоді рівняння швидкості:
+<p>Тоді рівняння швидкості:</p>
 
-\[\upsilon_{3x}=\upsilon_{2x}+a_{3x}t=4+t\]
+<p>\[\upsilon_{3x}=\upsilon_{2x}+a_{3x}t=4+t\]</p>
 
-Проекція швидкості через чотири секунди руху:
+<p>Проекція швидкості через чотири секунди руху:</p>
 
-\[\upsilon_{3x}(4)=8 \thinspace \text{м/c}\]
-
+<p>\[\upsilon_{3x}(4)=8 \thinspace \text{м/c}\]</p>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<p>Визначимо проекцію швидкості на кожній з ділянок через відповідний час руху: </p>
+<p><b>Перша</b> ($$t_1 = 0 \thinspace \text{c}, t_2 = 3 \thinspace \text{c}$$).</p>
+<p>\[\upsilon_{1x}(3)=-4 \thinspace \dfrac{\text{м}}{\text{c}}\]</p>
+<p><b>Друга</b> ($$t_1 = 3 \thinspace \text{c}, t_2 = 5 \thinspace \text{c}$$).</p>
+<p>$$\upsilon_{2x}(2)=4 \thinspace \text{м/c}$$</p>
+<p><b>Третя</b> ($$t_1 = 5 \thinspace \text{c}, t_2 = 9 \thinspace \text{c}$$).</p>
+<p>\[\upsilon_{3x}(4)=8 \thinspace \text{м/c}\]</p>
+<p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/5.svg" /></p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
 
-
-
-	

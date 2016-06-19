@@ -57,11 +57,10 @@ $$\upsilon_{п/з} =$$$$ \sqrt{(\vec{\upsilon}_{п/р})^2 + (\vec{\upsilon}_{р/
 <ol>
 <li>Знайти результуючу швидкiсть Петра i помножити на час $$t$$:</li> <br>
 
-<center><p> $$ \vec{\upsilon}_{п/з} =$$$$ \vec{\upsilon}_{п/р} + \vec{\upsilon}_{р/з}  \Rightarrow $$
-$$\upsilon_{п/з} =$$$$ \sqrt{(\vec{\upsilon}_{п/р})^2 + (\vec{\upsilon}_{р/з})^2} =$$$$ \sqrt{3^2 +4^2} =$$$$ 5 \thinspace (м/с) $$ </p>
+<center>
 <p>$$ L = \upsilon_{п/з}t = 5 \cdot 0.0125 = 0.0625 \thinspace \text{км} = 62.5 \thinspace \text{м}$$</p> </center> 
 
-<li>Через вiдомi модулi перемiщень (формула аналогiчна):</li> <br>
+<li>Через вiдомi модулi перемiщень:</li> <br>
 
 <center>$$L = \sqrt{l^2 + d^2} = \sqrt{50^2 +37.5^2}$$$$ = \sqrt{3906.25} = 62.5 \thinspace \text{м}$$</center>
 </ol>

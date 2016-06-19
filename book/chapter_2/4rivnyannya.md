@@ -45,6 +45,7 @@ $$a_x$$ – проекція прискорення на вісь $$x$$.
 
 Як видно, залежність $$x(t)$$ – квадратична, тобто присутній член $$t^2$$. Вид цієї функції – параболічний (з видами функцій ви можете детально ознайомитись в курсі з математики).
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 2</span> <b>ГАЛЬМУВАННЯ АВТОМОБІЛЯ</b>
 <div class="task-text">
@@ -53,40 +54,65 @@ $$a_x$$ – проекція прискорення на вісь $$x$$.
 <p><b>Дано:</b> $$\upsilon'_{0x}, \ \upsilon''_{0x}, \ a'_x=a''_x$$</p>
 <p></p>
 <p><b>Знайти:</b>  $$\dfrac{l''}{l'}$$</p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="plot">
+<p>Направимо вісь $$x$$ в сторону руху, тоді $$\upsilon_{0x}>0, \ a_x <  0$$.</p>
+<p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/7.svg" /></p>
+  </div>
+  <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Направимо вісь $$x$$ в сторону руху, тоді $$\upsilon_{0x}>0, \ a_x <  0$$.</p>
 
-<p></p>
+<p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/7.svg" /></p>
 
-<p><b><i>Розв’язок.</i></b> Направимо вісь $$x$$ в сторону руху, тоді $$\upsilon_{0x}>0, \ a_x <  0$$.<p>
+<p>Нехай модуль прискорення дорівнює $$a$$. Тоді $$a'_x=a''_x=-a$$. Помістимо початок координат у точку, з якої починаємо досліджувати гальмування $$x_0=0$$. Рівняння руху для обох випадків:</p>
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/7.svg" />
+<p>\[l'=x'=\upsilon'_{0x}t-\dfrac{at^2}{2}, \  l''=x''=\upsilon''_{0x}t-\dfrac{at^2}{2}\]</p>
 
-Нехай модуль прискорення дорівнює $$a$$. Тоді $$a'_x=a''_x=-a$$. Помістимо початок координат у точку, з якої починаємо досліджувати гальмування $$x_0=0$$. Рівняння руху для обох випадків:
+<p>Щоб знайти час зупинки автомобіля, треба розв’язати рівняння швидкості (зупинка $$\rightarrow \upsilon_x=0$$):</p>
 
-\[x'=\upsilon'_{0x}t-\dfrac{at^2}{2}, \  x''=\upsilon''_{0x}t-\dfrac{at^2}{2}\]
+<p>\[\upsilon_x=\upsilon_{0x}-at \Rightarrow 0=\upsilon_{0x}-at\Rightarrow t=\dfrac{\upsilon_{0x}}{a}\]</p>
 
-Щоб знайти час зупинки автомобіля, треба розв’язати рівняння швидкості (зупинка $$\rightarrow \upsilon_x=0$$):
+<p>Підставимо час у рівняння залежності координати від часу: </p>
 
-\[\upsilon_x=\upsilon_{0x}-at \Rightarrow 0=\upsilon_{0x}-at\Rightarrow t=\dfrac{\upsilon_{0x}}{a}\]
+<p>\[x=\upsilon_{0x}\cdot\dfrac{\upsilon_{0x}}{a}-\dfrac{a\cdot\upsilon^2_{0x}}{2a^2}=\dfrac{\upsilon^2_{0x}}{a}-\dfrac{\upsilon^2_{0x}}{2a}=\dfrac{\upsilon^2_{0x}}{2a}\]</p>
 
-Підставимо час у рівняння залежності координати від часу: 
+<p>Отже, відношення гальмівних шляхів дорівнює відношенню квадратів швидкостей:</p>
 
-\[x=\upsilon_{0x}\cdot\dfrac{\upsilon_{0x}}{a}-\dfrac{a\cdot \upsilon^2_{0x}}{2a^2}=\dfrac{\upsilon^2_{0x}}{a}-\dfrac{\upsilon^2_{0x}}{2a}=\dfrac{\upsilon^2_{0x}}{2a}\]
+<p>\[\dfrac{x''}{x'}=\dfrac{\upsilon''^2_{0x}}{\upsilon'^2_{0x}}\]</p>
 
-Отже, відношення гальмівних шляхів дорівнює відношенню квадратів швидкостей:
+<p>Наприклад, гальмівний шлях для швидкості $$80$$ км/год приблизно в $$1.7$$ разів більший ніж для $$60$$ км/год.</p>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<p>Bідношення гальмівних шляхів дорівнює відношенню квадратів швидкостей:</p>
 
-\[\dfrac{x''}{x'}=\dfrac{\upsilon''^2_{0x}}{\upsilon'^2_{0x}}\]
+<p>\[\dfrac{x''}{x'}=\dfrac{\upsilon''^2_{0x}}{\upsilon'^2_{0x}}\]</p>
 
-Наприклад, гальмівний шлях для швидкості $$80$$ км/год приблизно в $$1.7$$ разів більший ніж для $$60$$ км/год.
+<p>Наприклад, гальмівний шлях для швидкості $$80$$ км/год приблизно в $$1.7$$ разів більший ніж для $$60$$ км/год.</p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
+
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Рух тіла описано рівнянням $$x = 4 - 3t + 2t^2$$, де всі величини виражено в одиницях SI. Визначте проекцію швидкості тіла на вісь $$Ox$$ через 2 секунди після початку руху.</p>
-<answer>-6 м/с</answer>
-<answer correct>5 м/с</answer>
-<answer>6 м/с</answer>
-<answer>8 м/с</answer>
+<answer> -6 м/с</answer>
+<answer correct> 5 м/с</answer>
+<answer> 6 м/с</answer>
+<answer> 8 м/с</answer>
 <explanation>
 <p>Порівняємо рівняння з умови з рівнянням одновимірного руху $$x = x_0 + \upsilon_{0}t + \dfrac{at^2}{2}$$. Отже, маємо $$\upsilon_0 = -3 \thinspace \text{м/с}, \, a = 4 \thinspace  \text{м/с}^2$$, а формула для швидкості  $$\upsilon = \upsilon_0 + at$$ матиме вигляд $$\upsilon = -3 + 4t$$ . Підставивши час 2 секунди знайдемо правильну відповідь $$\upsilon = 5 \thinspace \text{м/с}$$.</p>
 
