@@ -19,35 +19,60 @@
 * <span class="p1">Шлях $$(l)$$</span> – довжина траєкторiї.
 * <span class="p1">Вектор перемiщення тiла $$(\vec{S_{}})$$</span>  – [вектор](../Add/vector/vector1.md), що сполучає точку початку та кiнця руху. Модуль вектора перемiщення $$(|\vec{S_{}}|)$$ (вiдстань вiд початкової до кiнцевої точки) є також найкоротшим шляхом. <b>Перемiщення тiла по замкнутiй траєкторiї дорiвнює нулю.</b>
 
-
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ПЕТРО ТА КОМАХА</b>
 <div class="task-text">
-Усi ми бачили, як дивно рухаються комахи, а вже вiдомий нам Петро присвятив цьому цілих 10 секунд свого життя. Ще й замалював траєкторiю руху дослiджуваної мурахи $$(A \rightarrow B \rightarrow C \rightarrow D \rightarrow E \rightarrow F)$$. Допоможiть йому визначити шлях (довжину траєкторії) та модуль перемiщення за час спостереження, якщо розмiр клiтинки у сiтцi, яку вiн використовував, становить 1 см x 1 см.</br>
+<p>Усi ми бачили, як дивно рухаються комахи, а вже вiдомий нам Петро присвятив цьому цілих 10 секунд свого життя. Ще й замалював траєкторiю руху дослiджуваної мурахи $$(A \rightarrow B \rightarrow C \rightarrow D \rightarrow E \rightarrow F)$$. Допоможiть йому визначити шлях (довжину траєкторії) та модуль перемiщення за час спостереження, якщо розмiр клiтинки у сiтцi, яку вiн використовував, становить 1 см x 1 см.</p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="plot">
+<p> <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/4.svg" class="image"/>  </p>
+  </div>
+  <div class="tab-pane" id="decision">
+<p> <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/4.svg" class="image"/>  </p>
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Траєкторія складається з відрізків $$AB, BC, CD, DE$$ та $$EF$$. Переміщення – вектор $$\vec{AF}$$. Довжини цих відрізків ми знайдемо з простих геометричних мiркувань за допомогою теореми Пiфагора. Вiдрiзок AB є гiпотенузою прямокутного трикутника, в якого, як видно з малюнку, один із катетiв рiвний $$1$$ см, а другий – $$2$$ см. Отже, за теоремою Пiфагора:<p>
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/4.svg" class="image"/>
+<p>\[AB = \sqrt{1^2 + 2^2} = \sqrt{5} = 2.24 \thinspace \text{см}\] 
+Аналогiчно для iнших вiдрiзкiв шляху: $$BC = 5.10$$ см, $$CD = 2$$ см, $$DE = 3.16$$ см, $$EF = 4.24$$ см.</p>
 
+<p><b>Отже</b>, повний шлях, що подолала комаха за 10 секунд спостереження, складатиме:</p>
 
-<b><i>Розв’язок</i></b>. Траєкторія складається з відрізків $$AB, BC, CD, DE$$ та $$EF$$. Переміщення – вектор $$\vec{AF}$$. Довжини цих відрізків ми знайдемо з простих геометричних мiркувань за допомогою теореми Пiфагора. Вiдрiзок AB є гiпотенузою прямокутного трикутника, в якого, як видно з малюнку, один із катетiв рiвний $$1$$ см, а другий – $$2$$ см. Отже, за теоремою Пiфагора:</br>
+<p>$$l = AB + BC$$$$ + CD + DE$$$$ + EF =$$$$ 16.74 \thinspace \text{см}$$<br>
+За час спостереження мураха перемiстився з точки $$A$$ в точку $$F$$, вибравши при цьому<br>
+не найкоротший шлях:</p>
 
-\[AB = \sqrt{1^2 + 2^2} = \sqrt{5} = 2.24 \thinspace \text{см}\] 
-Аналогiчно для iнших вiдрiзкiв шляху: $$BC = 5.10$$ см, $$CD = 2$$ см, $$DE = 3.16$$ см, $$EF = 4.24$$ см.</br>
-<p> </p>
-<b>Отже</b>, повний шлях, що подолала комаха за 10 секунд спостереження, складатиме:</br>
-
-$$l = AB + BC$$$$ + CD + DE$$$$ + EF =$$$$ 16.74 \thinspace \text{см}$$
-За час спостереження мураха перемiстився з точки $$A$$ в точку $$F$$, вибравши при цьому
-не найкоротший шлях:</br>
-
-\[|\vec{S_{ }}| = |\vec{AF}| = \sqrt{2^2 + 1^2} = 2.24 \thinspace \text{см}\]
+<p>\[|\vec{S_{ }}| = |\vec{AF}| = \sqrt{2^2 + 1^2} = 2.24 \thinspace \text{см}\]</p>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<p> <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/4.svg" class="image"/>  </p>
+<p>Повний шлях, що подолала комаха за 10 секунд спостереження, складатиме:</p>
+<p>$$l = AB + BC$$$$ + CD + DE$$$$ + EF =$$$$ 16.74 \thinspace \text{см}$$<br>
+За час спостереження мураха перемiстився з точки $$A$$ в точку $$F$$, вибравши при цьому<br>
+не найкоротший шлях:</p>
+<p>\[|\vec{S_{ }}| = |\vec{AF}| = \sqrt{2^2 + 1^2} = 2.24 \thinspace \text{см}\]</p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
+
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>У якому випадку можна вважати тiло матерiальною точкою?</p>
-<answer>Двi шестернi обертаються у механiзмi годинника.</answer>
-<answer correct>Автомобiль їде з Києва у Харкiв</answer>
+<answer> Двi шестернi обертаються у механiзмi годинника.</answer>
+<answer correct> Автомобiль їде з Києва у Харкiв</answer>
 <explanation>
 Шестерні у годиннику схожі за розмірами з самим годинником, а розміри автомобіля на трасі Київ-Харків є нехтовно малими.
 </explanation>

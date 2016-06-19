@@ -39,8 +39,8 @@
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Який рух є поступальним?</p>
-<answer>Рух бумерангу</answer>
-<answer correct>Рух скейтера, який їде прямо</answer>
+<answer> Рух бумерангу</answer>
+<answer correct> Рух скейтера, який їде прямо</answer>
 <explanation>
 Бумеранг під час свого руху обертається, що не підходить під визначення поступального руху.
 </explanation>

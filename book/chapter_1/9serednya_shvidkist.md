@@ -34,14 +34,14 @@
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Петро пробiг 100 метрiв за 15 секунд. Потiм зупинився перепочити на 10 секунд i ще 15 секунд вiн бiг зi швидкiстю 5 м/с. Яка середня швидкiсть Петра?</p>
-<answer>4,5 м/с</answer>
-<answer correct>4,375 м/с</answer>
-<answer>4,2 м/с</answer>
-<answer>4 м/с</answer>
+<answer> 4,5 м/с</answer>
+<answer correct> 4,375 м/с</answer>
+<answer> 4,2 м/с</answer>
+<answer> 4 м/с</answer>
 <explanation>
 <p>Проміжки пройдених шляхів</p>
 
-$$l_1 = 100\,\text{м},\,\,\,, l_2 = 0\,\text{м},\,\,\, l_3 = \upsilon_3t_3 = 5\cdot15 = 75\,\text{м}$$
+$$l_1 = 100\,\text{м},\,\,\, l_2 = 0\,\text{м},\,\,\, l_3 = \upsilon_3t_3 = 5\cdot15 = 75\,\text{м}$$
 
 <p>Cередня швидкість</p>
 

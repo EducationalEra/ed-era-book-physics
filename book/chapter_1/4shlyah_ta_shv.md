@@ -74,56 +74,80 @@
 
 Швидкiсть при рiвномiрному прямолiнiйному русi не змiнюється з часом. Отже, це просто пряма лiнiя, паралельна осi часу.
 
+
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 2</span> <b>СКЕЙТЕР ТА ВЕЛОСИПЕДИСТ</b>
 <div class="task-text">
-Микола i Петро посварилися у школi. Петро тихо вийшов на перервi на вулицю, взяв свiй скейт i поїхав по прямiй дорозi до себе додому зi сталою швидкiстю. За пiвгодини Микола дiзнався, що Петро поїхав додому, i, сiвши на свiй велосипед, поїхав наздоганяти його зi швидкiстю в два рази бiльшою за швидкiсть Петра. У результатi, Микола наздогнав Петра якраз бiля домiвки. Вiдстань вiд школи до дому $$15$$ км. Визначити швидкостi обох хлопцiв.</br>
-<b>Дано:</b> $$ S = 15 \thinspace \text{км}, \ t_1 =0.5 \thinspace \text{год}, \ \upsilon_2 = 2\upsilon_1. $$ </br>
-<b>Знайти:</b> $$ \upsilon_1, \ \upsilon_2$$
+<p>Микола i Петро посварилися у школi. Петро тихо вийшов на перервi на вулицю, взяв свiй скейт i поїхав по прямiй дорозi до себе додому зi сталою швидкiстю. За пiвгодини Микола дiзнався, що Петро поїхав додому, i, сiвши на свiй велосипед, поїхав наздоганяти його зi швидкiстю в два рази бiльшою за швидкiсть Петра. У результатi, Микола наздогнав Петра якраз бiля домiвки. Вiдстань вiд школи до дому $$15$$ км. Визначити швидкостi обох хлопцiв.</p>
+<p><b>Дано:</b> $$ S = 15 \thinspace \text{км}, \ t_1 =0.5 \thinspace \text{год}, \ \upsilon_2 = 2\upsilon_1. $$ </p>
+<p><b>Знайти:</b> $$ \upsilon_1, \ \upsilon_2$$</p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="plot">
+<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/8.svg" class="image"/></p>
+  </div>
+  <div class="tab-pane" id="decision">
+<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/8.svg" class="image"/></p>
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Нехай $$S_2$$ - вiдстань, яку пройшов Петро за пiвгодини. </p>
+<p>\[	S_2 = \upsilon_1 t_1 \]</p>
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/8.svg" class="image"/>
+<p>Час руху скейтера на дiлянцi $$S - S_2: \ t=\dfrac{S-S_2}{\upsilon_1}$$.</p>
+<p>Замінивши $$S_2$$, маємо:</p>
 
-<b><i>Розв'язок.</b></i> Нехай $$S_2$$ - вiдстань, яку пройшов Петро за пiвгодини. </br>
-\[	S_2 = \upsilon_1 t_1
-\]
-
-Час руху скейтера на дiлянцi $$S - S_2: \ t=\dfrac{S-S_2}{\upsilon_1}$$.</br> 
-Замінивши $$S_2$$, маємо:
-
-\[
+<p>\[
 t = \dfrac{S - \upsilon_1 t_1}{\upsilon_1}
-\]
+\]</p>
 
-Час руху велосипедиста:
+<p>Час руху велосипедиста:</p>
 
-\[
+<p>\[
 	t = \dfrac{S}{\upsilon_2}
-\]
+\]</p>
 
-З умови $$\upsilon_2 = 2\upsilon_1$$:
+<p>З умови $$\upsilon_2 = 2\upsilon_1$$:</p>
 
-\[
+<p>\[
 	t = \dfrac{S}{2\upsilon_1}
-\]
+\]</p>
 
-За умовою, Микола наздогнав Петра бiля дому $$\rightarrow$$ можна прирiвняти час руху велосипедиста і скейтера:</br>
-\[ \dfrac{S-\upsilon_1 t_1}{\upsilon_1} = \dfrac{S}{2\upsilon_1} \Rightarrow S - \upsilon_1 t_1 = \dfrac{S}{2}\]
-А звiдси вже легко отримати швидкiсть:</br>
-\[\upsilon_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15\thinspace (\text{км/год}) \]
+<p>За умовою, Микола наздогнав Петра бiля дому $$\rightarrow$$ можна прирiвняти час руху велосипедиста і скейтера:</p>
+<p>\[ \dfrac{S-\upsilon_1 t_1}{\upsilon_1} = \dfrac{S}{2\upsilon_1} \Rightarrow S - \upsilon_1 t_1 = \dfrac{S}{2}\]
+А звiдси вже легко отримати швидкiсть:</p>
+<p>\[\upsilon_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15\thinspace (\text{км/год}) \]</p>
 
-\[\upsilon_2 = 2\upsilon_1 = 30 \thinspace (\text{км/год})\]
+<p>\[\upsilon_2 = 2\upsilon_1 = 30 \thinspace (\text{км/год})\]</p>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/8.svg" class="image"/></p>
+<p>\[\upsilon_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15\thinspace (\text{км/год}) \]</p>
+<p>\[\upsilon_2 = 2\upsilon_1 = 30 \thinspace (\text{км/год})\]</p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
+
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Петро дуже полюбляє плавати в басейні, зазвичай, він пропливає 3 рази туди і назад по всій довжині басейну. Чому дорівнює переміщення та шлях Петра, якщо довжина басейну 50 м?</p>
-<answer>300 і 300</answer>
-<answer>0 і 50</answer>
-<answer correct>0 і 300</answer>
-<answer>300 і 0</answer>
+<answer> 300 і 300</answer>
+<answer> 0 і 50</answer>
+<answer correct> 0 і 300</answer>
+<answer> 300 і 0</answer>
 <explanation>
-Переміщення визначається початковою і кінцевою точками руху. Якщо тіло повертається в те ж місце, звідки починало свій рух, то його переміщення рівне 0. Пройдений шлях – це відстань, яку проплив Петро за весь час $$\rightarrow$$ 300 м.
+Переміщення визначається початковою і кінцевою точками руху.<br>Якщо тіло повертається в те ж місце, звідки починало свій рух, то його переміщення рівне 0.<br>Пройдений шлях – це відстань, яку проплив Петро за весь час $$\rightarrow$$ 300 м.
 </explanation>
 </question>
 </quiz>
