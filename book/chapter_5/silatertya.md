@@ -6,10 +6,12 @@
 </div>
 <div class="popup">
 </div>
-<br>
+
+<hr>
+
 **Зміст розділу:**
-* [Сила тертя](book/chapter_5/silatertya.md)
-    1. [Сила тертя спокою](book/chapter_5/sila_tertya_spokoyu.md)
-    * [Сила тертя ковзання](book/chapter_5/sila_tertya_kovzannya.md)
-        * [Тiло на вертикальнiй стiнцi](book/chapter_5/tilo_na_vertikalnii_stintsi.md)
-    * [Тiло на похилiй площинi](book/chapter_5/tilo_na_pohilii_ploschini.md)
+* [Сила тертя](silatertya.md)
+    1. [Сила тертя спокою](sila_tertya_spokoyu.md)
+    * [Сила тертя ковзання](sila_tertya_kovzannya.md)
+        * [Тiло на вертикальнiй стiнцi](tilo_na_vertikalnii_stintsi.md)
+    * [Тiло на похилiй площинi](tilo_na_pohilii_ploschini.md)
