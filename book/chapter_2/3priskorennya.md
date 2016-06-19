@@ -87,7 +87,7 @@ $$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon_x^\
 
 <p>Проекція швидкості через три секунди руху:</p>
 
-<p>$$\upsilon_{2x}(2)=4 \thinspace \text{м/c}$$</p>
+<p>\[\upsilon_{2x}(2)=4 \thinspace \text{м/c}\]</p>
 
 <p><b>Третя</b> ($$t_1 = 5 \thinspace \text{c}, t_2 = 9 \thinspace \text{c}$$).</p>
 
@@ -108,7 +108,7 @@ $$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon_x^\
 <p><b>Перша</b> ($$t_1 = 0 \thinspace \text{c}, t_2 = 3 \thinspace \text{c}$$).</p>
 <p>\[\upsilon_{1x}(3)=-4 \thinspace \dfrac{\text{м}}{\text{c}}\]</p>
 <p><b>Друга</b> ($$t_1 = 3 \thinspace \text{c}, t_2 = 5 \thinspace \text{c}$$).</p>
-<p>$$\upsilon_{2x}(2)=4 \thinspace \text{м/c}$$</p>
+<p>\[\upsilon_{2x}(2)=4 \thinspace \text{м/c}\]</p>
 <p><b>Третя</b> ($$t_1 = 5 \thinspace \text{c}, t_2 = 9 \thinspace \text{c}$$).</p>
 <p>\[\upsilon_{3x}(4)=8 \thinspace \text{м/c}\]</p>
 <p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/5.svg" /></p>

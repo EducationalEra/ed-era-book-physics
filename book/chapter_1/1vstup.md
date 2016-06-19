@@ -24,19 +24,17 @@ _Перед початком розгляду кінематики радимо 
 
 <hr>
 **Зміст розділу:**
-* [Одновимірна кінематика](book/chapter_1/1vstup.md)
-   * [Механічний рух](book/chapter_1/2mehanichnii_ruh.md)
-   * [Основні поняття](book/chapter_1/3osnovni_ponyattya.md)
-   * [Рівномірний прямолінійний рух](book/chapter_1/4shlyah_ta_shv.md)
-       * [Вiдноснiсть швидкостей та перемiщень](book/chapter_1/5vidnosnist.md)
-       * [Проекцiя вектора](book/chapter_1/6proektsiya_vektora.md)
-       * [Рiвняння руху](book/chapter_1/7rivnyannya_ruhu.md) 
-       * [Проекцiя швидкостi та перемiщення](book/chapter_1/8proektsiya.md)
-       * [Середня швидкiсть](book/chapter_1/9serednya_shvidkist.md)
-   1. [Рiвноприскорений прямолiнiйний рух](book/chapter_2/1rivnopriskorenii_ruh.md)
-       * [Миттєва швидкiсть](book/chapter_2/2miteva_shvidkist.md)
-       * [Прискорення та гальмування](book/chapter_2/3priskorennya.md)
-       * [Рiвняння рiвноприскореного прямолiнiйного руху](book/chapter_2/4rivnyannya.md)
-   * [Вертикальний рух пiд дiєю сили тяжiння](book/chapter_2/5vertikalnii.md)
-
-    
+* [Одновимірна кінематика](1vstup.md)
+   * [Механічний рух](2mehanichnii_ruh.md)
+   * [Основні поняття](3osnovni_ponyattya.md)
+   * [Рівномірний прямолінійний рух](4shlyah_ta_shv.md)
+       * [Вiдноснiсть швидкостей та перемiщень](5vidnosnist.md)
+       * [Проекцiя вектора](6proektsiya_vektora.md)
+       * [Рiвняння руху](7rivnyannya_ruhu.md) 
+       * [Проекцiя швидкостi та перемiщення](8proektsiya.md)
+       * [Середня швидкiсть](9serednya_shvidkist.md)
+   1. [Рiвноприскорений прямолiнiйний рух](../chapter_2/1rivnopriskorenii_ruh.md)
+       * [Миттєва швидкiсть](../chapter_2/2miteva_shvidkist.md)
+       * [Прискорення та гальмування](../chapter_2/3priskorennya.md)
+       * [Рiвняння рiвноприскореного прямолiнiйного руху](../chapter_2/4rivnyannya.md)
+   * [Вертикальний рух пiд дiєю сили тяжiння](../chapter_2/5vertikalnii.md)
