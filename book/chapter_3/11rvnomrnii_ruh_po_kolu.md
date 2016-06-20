@@ -16,7 +16,7 @@
 <br>
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VVSbvaZkn4" frameborder="0" allowfullscreen></iframe>
-</div></div>
+</div> </div>
 
 На рисунку зображено рiвномiрний рух тiла по колу та положення точки у два моменти часу $$t_1$$ та $$t_2$$.
 
@@ -30,8 +30,8 @@
 <p1>$$T = \dfrac{t}{N}$$</p1>
 </td>
 </tr>
-</table></div></div>
-<div class="space"><li><b>Частота обертання</b> $$\nu \thinspace (c^{-1}, \thinspace Гц)$$ – кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота:</div>
+</table> </div> </div> </li>
+<li><div class="space"><b>Частота обертання</b> $$\nu \thinspace (c^{-1}, \thinspace Гц)$$ – кiлькiсть повних обертiв, якi здiйснить тiло за одиницю часу. Якщо за деякий час $$t$$ було здiйснено $$N$$ обертiв, то частота:</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -39,8 +39,8 @@
 <p1>$$\nu = \dfrac{N}{t} = \dfrac{1}{T}$$</p1>
 </td>
 </tr>
-</table></div></div></li>
-<div class="space"><li><b>Кут повороту</b> $$\Delta \varphi$$ (рад) – кут, на який повертається радiус кола, напрямлений з центра до дослiджуваної точки за час руху тiла $$\Delta t$$. У секцiї $$1$$ ми розглядали зв’язок кута в радiанах з довжиною дуги та радiусом кола.</div>
+</table> </div> </div> </li>
+<li><div class="space"><b>Кут повороту</b> $$\Delta \varphi$$ (рад) – кут, на який повертається радiус кола, напрямлений з центра до дослiджуваної точки за час руху тiла $$\Delta t$$. У секцiї $$1$$ ми розглядали зв’язок кута в радiанах з довжиною дуги та радiусом кола.</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -49,9 +49,9 @@
 <p1>$$\varphi = \dfrac{l}{R} \Rightarrow l = R \varphi$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 </li>
-<div class="space"><li><b>Лiнiйна швидкiсть</b> $$\upsilon$$ (м/с) – дорiвнює довжинi дуги, яку проходить тiло за одиницю часу $$t$$. Лiнiйна швидкiсть завжди напрямлена по дотичнiй до траєкторiї, а у випадку рiвномiрного руху по колу рiвна за модулем у кожнiй точцi.
+<li><div class="space"><b>Лiнiйна швидкiсть</b> $$\upsilon$$ (м/с) – дорiвнює довжинi дуги, яку проходить тiло за одиницю часу $$t$$. Лiнiйна швидкiсть завжди напрямлена по дотичнiй до траєкторiї, а у випадку рiвномiрного руху по колу рiвна за модулем у кожнiй точцi.
 <br>
 Тiло здiйснює повний оберт, тобто проходить довжину дуги, що дорiвнює довжинi кола, за час $$T$$ (перiод). Довжина кола $$L = 2 \pi R$$.</div>
 <div class="space"><div class="centered-table-wrapper">
@@ -61,9 +61,9 @@
 <p1>$$\upsilon = \dfrac{L}{T} = \dfrac{2 \pi R}{T} = 2 \pi \nu R$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 </li>
-<div class="space"><li><b>Кутова швидкiсть</b> $$\omega \thinspace \text{(рад/с)}$$ – дорiвнює вiдношенню кута повороту до часу $$\Delta t$$, за який цей поворот було здiйснено. Повний оберт вiдповiдає куту поворота $$2 \pi$$. Час, за який здiйснюється повний оберт, – перiод $$T$$.</div>
+<li><div class="space"><b>Кутова швидкiсть</b> $$\omega \thinspace \text{(рад/с)}$$ – дорiвнює вiдношенню кута повороту до часу $$\Delta t$$, за який цей поворот було здiйснено. Повний оберт вiдповiдає куту поворота $$2 \pi$$. Час, за який здiйснюється повний оберт, – перiод $$T$$.</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -71,11 +71,11 @@
 <p1>$$\omega = \dfrac{\Delta \varphi}{\Delta t} = \dfrac{2 \pi}{T} = 2 \pi \nu$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 </li>
 </ol>
 <ul>
-<div class="space"><b><li>Зв’язок мiж лiнiйною та кутовою швидкiстю</b> Якщо порiвняти отриманi вирази для лiнiйної $$(\upsilon = 2 \pi \nu R)$$ та кутової швидкості $$(\omega = 2 \pi \nu)$$, видно, що зв’язок мiж цими швидкостями:</div>
+<li><div class="space"><b>Зв’язок мiж лiнiйною та кутовою швидкiстю</b> Якщо порiвняти отриманi вирази для лiнiйної $$(\upsilon = 2 \pi \nu R)$$ та кутової швидкості $$(\omega = 2 \pi \nu)$$, видно, що зв’язок мiж цими швидкостями:</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -84,7 +84,7 @@
 <p1>$$\upsilon = \omega R$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 
 <div class="space">Цей вираз також випливає зі зв’язку кута повороту з довжиною дуги i радiусом:</div>
 <div class="space"><div class="centered-table-wrapper">
@@ -94,10 +94,10 @@
 <p1>$$l = R \varphi \Rightarrow |: t \ | $$$$\Rightarrow \dfrac{l}{t}$$$$ = R \dfrac{\varphi}{t} \Rightarrow | \thinspace \upsilon $$$$= \dfrac{l}{t}, \thinspace \omega $$$$= \dfrac{\varphi}{t} \thinspace | $$$$\Rightarrow \upsilon$$$$ = \omega R$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 </li>
 </ul>
-<ul><div class="space"><li><b>Доцентрове прискорення $$a_Д \thinspace (\text{м/c}^2)$$</b> – прискорення, що в будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$\upsilon.$$</div>
+<ul><li><div class="space"><b>Доцентрове прискорення $$a_Д \thinspace (\text{м/c}^2)$$</b> – прискорення, що в будь-якiй точцi напрямлене перпендикулярно до швидкостi. При рiвномiрному русi по колу радiуса $$R$$ зi швидкiстю $$\upsilon.$$</div>
 <div class="space" align="center">$$a_Д = \dfrac{\upsilon^2}{R}$$</div>
 
 Якщо цiкавитесь детальним виведенням цiєї формули, розберiть наступний пiдпункт.</li>
@@ -208,3 +208,4 @@
 </div>
 </div>
 <div class="space"></div>
+
