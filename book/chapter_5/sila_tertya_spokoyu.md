@@ -55,8 +55,8 @@
 <question>
 <p>Брусок масою $$15$$ кг лежить на поверхні з коефіцієнтом тертя спокою $$\mu_c = 0,5$$ і коефіцієнтом тертя ковзання $$\mu_к=0,3$$. Чи вистачить сили у $$60 \thinspace Н$$ зрушити його з місця?</p>
  
-<answer correct>Ні</answer>
-<answer>Так</answer>
+<answer correct> Ні</answer>
+<answer> Так</answer>
 <explanation>
 Вага бруска: $$N = mg = 150 \thinspace H$$
 <br>

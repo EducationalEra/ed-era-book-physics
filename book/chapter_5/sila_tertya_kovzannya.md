@@ -28,7 +28,71 @@
 </tr>
 </table></div></div>
 
-<div class="space"><img class="image" width="650" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/5.png"></div>
+<table style="width: 60%;" align="center">
+    <body>
+        <tr>  
+            <td align="center" valign="top">
+                <b>Поверхні</b>
+            </td>  
+            <td align="center" valign="top">
+                <b>Коефіцієнт тертя спокою</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Коефіцієнт тертя ковзання</b>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td align="center" valign="top">
+                <b>Дерево/дерево</b>
+            </td>  
+            <td align="center" valign="top">
+                $$0.4$$
+            </td>
+            <td align="center" valign="top">
+                $$0.2$$
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td align="center" valign="top">
+                <b>Лід/лід</b>
+            </td>  
+            <td align="center" valign="top">
+                $$0.1$$
+            </td>
+            <td align="center" valign="top">
+                $$0.03$$
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td align="center" valign="top">
+                <b>Метал/метал (з лубрикантом)</b>
+            </td>  
+            <td align="center" valign="top">
+                $$0.15$$
+            </td>
+            <td align="center" valign="top">
+                $$0.07$$
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td align="center" valign="top">
+                <b>Метал/метал (без лубриканта)</b>
+            </td>  
+            <td align="center" valign="top">
+                $$0.7$$
+            </td>
+            <td align="center" valign="top">
+                $$0.6$$
+            </td>                    
+        </tr>
+
+    </body>
+</table>
+
 
 <div class="space">У <b>ЗНО</b> та шкiльнiй фiзицi часто використовують лише коефiцiєнт тертя ковзання. Отже, коли не сказано, який саме коефiцiєнт дано, то це означає, що мають на увазi коефiцiєнт тертя ковзання.</div>
 
@@ -50,12 +114,20 @@
 
 <div class="space">Шкала графiка зображена для випадку з коефiцiєнтом тертя спокою $$\mu_c = 0.39$$, коефiцiєнтом тертя ковзання $$\mu_k = 0.3$$ та масою тiла $$10$$ кг на горизонтальнiй площинi.</div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ШТОВХАТИ ЧИ ТЯГТИ?</b>
 <div class="task-text">
-Уявiть ситуацiю: вам потрiбно покатати на санчатах маленького Петра (iм’я не впливає на розв’язок задачi). У якому випадку вам потрiбно прикласти меншу силу, щоб з постiйною швидкiстю везти санчата?
-
-<br>
+<p>Уявiть ситуацiю: вам потрiбно покатати на санчатах маленького Петра (iм’я не впливає на розв’язок задачi).<br>У якому випадку вам потрiбно прикласти меншу силу, щоб з постiйною швидкiстю везти санчата?</p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
 <br>
 
 <div class="fluidMedia">
@@ -111,16 +183,26 @@
 </li>
 </ol>
 <p>Як бачите, у другому випадку вертикальна складова прикладеної сили напрямлена в протилежну сторону до сили тяжiння, тим самим зменшуючи силу реакцiї опори $$N$$. У свою чергу сила тертя, що пропорцiйна $$N$$, також менша.</p>
-<p><b>Вiдповiдь: тягти.</b></p>
+<p><b>Вiдповiдь: тягти.</b> </p>
+
+</div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> тягти.</p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
+
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Брусок масою $$15$$ кг лежить на поверхні з коефіцієнтом тертя спокою $$\mu_c=0,5$$ і коефіцієнтом тертя ковзання $$\mu_к=0,3$$. Чи вистачить сили $$55$$ Н, щоб рухати брусок?</p>
  
-<answer>Ні</answer>
-<answer correct>Так</answer>
+<answer> Ні</answer>
+<answer correct> Так</answer>
 <explanation>
 Вага бруска: $$N = mg = 150 \thinspace H$$
 <br>

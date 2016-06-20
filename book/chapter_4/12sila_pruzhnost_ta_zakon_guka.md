@@ -60,7 +60,7 @@
 <div class="space"><p class="p3">Ми використали всi параметри, що пов’язанi з формою об’єкта. Залишилось для повної рiвностi використати параметр, який характеризує фiзичну властивiсть матерiалу створювати супротив деформацiї – модуль Юнга $$E \thinspace [ \thinspace \dfrac{Н}{м^2}$$ = Паскаль (Па) $$].$$</p></div>
 
 
-<table style="width: 100%;" align="center">
+<table style="width: 90%;" align="center">
     <body>
         <tr>  
             <td align="center" valign="top">

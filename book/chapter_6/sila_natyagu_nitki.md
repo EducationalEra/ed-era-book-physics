@@ -36,16 +36,27 @@
 
 <div class="space">$$Oy \ : \ T \cos \alpha - mg = 0$$ – чим бiльша маса тiла, тим гострiший кут $$\alpha$$.</div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ШВИДКIСТЬ ТА ПЕРIОД ОБЕРТАННЯ</b>
 <div class="task-text">
 <div class="space">Кулька масою $$1$$ кiлограм обертається в горизонтальнiй площинi на нитцi завдовжки $$2$$ метри. Кут, який утворює нитка з вертикаллю – $$30^\circ$$.</div>
-
+<div class="space"><b>Знайти</b> доцентрове прискорення кульки, лiнiйну швидкiсть та перiод обертання.</div>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="plot">
 <div class="space"><img class="image" width="238" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/7.png"></div>
-
-<div class="space"><i><b>Знайти</b></i> доцентрове прискорення кульки, лiнiйну швидкiсть та перiод обертання.</div>
-
-<b><i>Розв’язок.</i></b> Запишемо 2 закон Ньютона:
+  </div>
+  <div class="tab-pane" id="decision">
+<div class="space"><img class="image" width="238" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/7.png"></div>
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Запишемо 2 закон Ньютона:</p>
 
 <div class="space" align="center">$$m \vec{g} + \vec{F_H} = m \vec{a_Д}$$</div>
 
@@ -64,7 +75,7 @@
 <p1>$$a_Д = \dfrac{g \sin \alpha}{\cos \alpha} \approx 5.8 \ м/c^2$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 
 <div class="space">З виразу для доцентрового прискорення можна отримати вираз для лiнiйної швидкостi: $$a_Д =$$$$ \dfrac{\upsilon^2}{R} \Rightarrow$$$$ \upsilon = $$$$ \sqrt{a_Д R}$$. Радiус кола можна отримати, використовуючи довжину нитки $$l \rightarrow$$$$ R = $$$$ l \sin \alpha$$.</div>
 
@@ -77,7 +88,7 @@
 <p1>$$\upsilon =$$$$ \sqrt{\dfrac{g \thinspace l \sin^2 \alpha}{\cos \alpha}} \approx 2.4 \ м/с$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 
 <div class="space"><b>Перiод коливань $$T$$</b> – це час, за який кулька здiйснює повний оберт, інакши кажучи, тiло проходить все коло $$(2 \pi R)$$ зі швидкістю $$\upsilon$$ за час $$T$$.</div>
 
@@ -88,9 +99,54 @@
 <p1>$$T =$$$$ \dfrac{2 \pi R}{\upsilon} =$$$$ \dfrac{2 \pi \thinspace l \sin \alpha}{\sqrt{\dfrac{g \thinspace l \sin^2 \alpha}{\cos \alpha}} }$$$$ \Rightarrow T = 2 \pi \sqrt{\dfrac{l \cos \alpha}{g}} \approx 2.6 \ c$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<div class="space"><img class="image" width="238" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/7.png"></div>
+<div class="space"><b>Доцентрове прискорення:</b></div>
+
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$a_Д = \dfrac{g \sin \alpha}{\cos \alpha} \approx 5.8 \ м/c^2$$</p1>
+</td>
+</tr>
+</table> </div> </div>
+
+<div class="space">З виразу для доцентрового прискорення можна отримати вираз для лiнiйної швидкостi: $$a_Д =$$$$ \dfrac{\upsilon^2}{R} \Rightarrow$$$$ \upsilon = $$$$ \sqrt{a_Д R}$$. Радiус кола можна отримати, використовуючи довжину нитки $$l \rightarrow$$$$ R = $$$$ l \sin \alpha$$.</div>
+
+<div class="space"><b>Лiнiйна швидкiсть:</b> </div>
+
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$\upsilon =$$$$ \sqrt{\dfrac{g \thinspace l \sin^2 \alpha}{\cos \alpha}} \approx 2.4 \ м/с$$</p1>
+</td>
+</tr>
+</table> </div> </div>
+
+<div class="space"><b>Перiод коливань:</b> </div> 
+
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$T =$$$$ \dfrac{2 \pi R}{\upsilon} =$$$$ \dfrac{2 \pi \thinspace l \sin \alpha}{\sqrt{\dfrac{g \thinspace l \sin^2 \alpha}{\cos \alpha}} }$$$$ \Rightarrow T = 2 \pi \sqrt{\dfrac{l \cos \alpha}{g}} \approx 2.6 \ c$$</p1>
+</td>
+</tr>
+</table> </div> </div>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
+
+
 
 <div class="space"><p class="p3">Як бачите, кiнцевi формули для параметрiв руху не залежать вiд маси кульки, а залежать вiд кута та довжини нитки. З iншого боку, усе фiзично пов’язано. Нехай ви обертаєте нитку з кулькою. Чим бiльша маса, тим менший кут $$\alpha$$, при прикладаннi вами тих самих зусиль для обертання кульки.</p></div>
 </li>

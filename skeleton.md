@@ -1,6 +1,6 @@
 <div class="space">
 <div class="task-wrap">
-<span class="task">Задача 1</span> <b>ПЕТРО ТА КОМАХА</b>
+<span class="task">Задача 1</span> <b> </b>
 <div class="task-text">
 
 <p>
