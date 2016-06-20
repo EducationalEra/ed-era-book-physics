@@ -59,7 +59,58 @@
 
 <div class="space"><p class="p3">Ми використали всi параметри, що пов’язанi з формою об’єкта. Залишилось для повної рiвностi використати параметр, який характеризує фiзичну властивiсть матерiалу створювати супротив деформацiї – модуль Юнга $$E \thinspace [ \thinspace \dfrac{Н}{м^2}$$ = Паскаль (Па) $$].$$</p></div>
 
-<div class="space"><img class="image" height="100" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/19.png"></div>
+
+<table style="width: 100%;" align="center">
+    <body>
+        <tr>  
+            <td align="center" valign="top">
+                <b>Матеріал</b>
+            </td>  
+            <td align="center" valign="top">
+                <b>Алмаз</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Скло</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Гума</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Лід</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Фарфор</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Нейлон</b>
+            </td>                     
+        </tr>
+
+        <tr>  
+            <td align="center" valign="top">
+                <b>Модуль Юнга, ГПа</b>
+            </td>  
+            <td align="center" valign="top">
+                $$1220$$
+            </td>
+            <td align="center" valign="top">
+                $$50$$ - $$90$$
+            </td>
+            <td align="center" valign="top">
+                $$0.01$$ - $$0.1$$
+            </td>
+            <td align="center" valign="top">
+                $$3$$
+            </td>
+            <td align="center" valign="top">
+                $$59$$
+            </td>
+            <td align="center" valign="top">
+                $$1.2$$ - $$1.5$$ КПа
+            </td>                     
+        </tr>
+    </body>
+</table>
 
 <div class="space"><p class="p3">Тепер ми маємо все необхідне для запису фундаментального закону, який пов’язує силу пружностi з видовженням тiла:</p></div>
 

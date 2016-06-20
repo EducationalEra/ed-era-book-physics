@@ -49,7 +49,16 @@
   <div class="tab-pane" id="decision">
 <p><div class="space"><img class="image" width="295" height="237" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/8.png"></div> </p>
 <p><b><i>Розв’язок.</i> </b> </p>
-
+<p>Нам потрiбно записати рiвняння руху для дiвчини. За початкову координату оберемо координату зустрiчi цiєї пари. Вiсь напрямляємо влiво. Тодi початкова швидкiсть дiвчини буде дорiвнювати $$20$$ км/год $$\approx$$ $$5.6$$ м/с. А гальмування описується прискоренням, напрямленим у зворотному напрямку. Це прискорення з’являється внаслiдок сили, прикладеної хлопцем.</p>
+ <div class="space" align="center">$$x = \upsilon_0 t - \dfrac{at^2}{2}, \upsilon_0 = \upsilon - at$$</div>
+ <p>Момент зупинки: $$\upsilon = 0 \Rightarrow t' = \dfrac{\upsilon_0}{a}$$.</p>
+ 
+ <div class="space">Пiдставляємо у рiвняння рух, врахувавши, що зупинка вiдбудеться на вiдстанi
+ двох метрів вiд початкової точки:</div>
+ <div class="space" align="center">$$x(t') = \dfrac{\upsilon_0^2}{a} - \dfrac{\upsilon_0^2}{2a} = \dfrac{\upsilon_0^2}{2a} \Rightarrow a = \dfrac{\upsilon_0^2}{2x(t')} = \dfrac{5.6^2}{2 \cdot 2} = 7.84 \ (м/c^2)$$.</div>
+ <div class="space">Для знаходження сили будемо вважати, що дiвчина хлопця має масу $$52$$ кг.</div>
+ <div class="space" align="center">$$F = ma = 52 \cdot 7.84 \approx 408 \  (H)$$</div>
+ <p>Як бачите, треба бути доволi сильним, щоб зупинити свою кохану. Якщо порiвняти наш результат із силою тяжiння $$mg$$ то стає зрозумiлим, що приблизно така ж сила знадобиться вам, щоб тримати 40-кiлограмове тiло. Недарма існують дiвчата, якi кажуть: «Мене легко зустрiти, але важко втримати».</p>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
 <p><div class="space"><img class="image" width="295" height="237" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/8.png"></div> </p>
