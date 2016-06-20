@@ -42,19 +42,26 @@ $$1 \thinspace \text{рад} \approx 57.3^\circ$$. Один повний обе�
 </table></div>
 <br>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ПЕРЕВЕДЕННЯ ОДИНИЦЬ</b>
 <div class="task-text">
-1. Перевести градуси: $$30^\circ, 60^\circ, 90^\circ, 270^\circ$$ у радiани.<br>
-2. Перевести радiани: $$\dfrac{\pi}{4}, \dfrac{2\pi}{3}, \dfrac{\pi}{2}, \dfrac{5\pi}{6}$$ у градуси.
-
-<br>
-<br>
-<i><b>Розв’язок.</b></i>  Оскільки $$2\pi \thinspace \text{рад} = 360^\circ$$, помноживши будь-який вираз на $$360^\circ$$ та подiливши на $$2\pi$$, ми не отримаємо ніяких змін. Так само i навпаки. Використовуючи цей факт, ми i будемо отримувати необхiднi для переведення формули.
+<p>1. Перевести градуси: $$30^\circ, 60^\circ, 90^\circ, 270^\circ$$ у радiани.</p>
+<p>2. Перевести радiани: $$\dfrac{\pi}{4}, \dfrac{2\pi}{3}, \dfrac{\pi}{2}, \dfrac{5\pi}{6}$$ у градуси.</p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Оскільки $$2\pi \thinspace \text{рад} = 360^\circ$$, помноживши будь-який вираз на $$360^\circ$$ та подiливши на $$2\pi$$, ми не отримаємо ніяких змін. Так само i навпаки. Використовуючи цей факт, ми i будемо отримувати необхiднi для переведення формули.</p>
 <br>
 <br>
 <ol>
-<b><li></b>
+<li>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -62,13 +69,13 @@ $$1 \thinspace \text{рад} \approx 57.3^\circ$$. Один повний обе�
 <p1>Кут у радiанах $$=$$ Кут у градусах $$\cdot \thinspace \dfrac{2\pi}{360^\circ}$$</p1>
 </td>
 </tr>
-</table></div>
+</table> </div>
 <div align="center">$$30^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{\pi}{6}$$</div><br>
 <div align="center">$$60^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{\pi}{3}$$</div><br>
 <div align="center">$$90^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{\pi}{2}$$</div><br>
 <div align="center">$$270^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{3\pi}{2}$$</div><br>
 </li>
-<b><li></b>
+<li>
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -76,11 +83,48 @@ $$1 \thinspace \text{рад} \approx 57.3^\circ$$. Один повний обе�
 <p1>Кут у градусах $$=$$ Кут у радiанах $$\cdot \thinspace \dfrac{360^\circ}{2\pi}$$</p1>
 </td>
 </tr>
-</table></div>
+</table> </div>
 <div align="center">$$\dfrac{\pi}{4} · \dfrac{360^\circ}{2\pi} = 45^\circ$$</div><br>
 <div align="center">$$\dfrac{2\pi}{3} · \dfrac{360^\circ}{2\pi} = 120^\circ$$</div><br>
 <div align="center">$$\dfrac{\pi}{2} · \dfrac{360^\circ}{2\pi} = 90^\circ$$</div><br>
 <div align="center">$$\dfrac{5\pi}{6} · \dfrac{360^\circ}{2\pi} = 150^\circ$$</div><br>
+</li> 
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<ol>
+<li>
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>Кут у радiанах $$=$$ Кут у градусах $$\cdot \thinspace \dfrac{2\pi}{360^\circ}$$</p1>
+</td>
+</tr>
+</table> </div>
+<div align="center">$$30^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{\pi}{6}$$</div><br>
+<div align="center">$$60^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{\pi}{3}$$</div><br>
+<div align="center">$$90^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{\pi}{2}$$</div><br>
+<div align="center">$$270^\circ · \dfrac{2\pi}{360^\circ} = \dfrac{3\pi}{2}$$</div><br>
 </li>
+<li>
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>Кут у градусах $$=$$ Кут у радiанах $$\cdot \thinspace \dfrac{360^\circ}{2\pi}$$</p1>
+</td>
+</tr>
+</table> </div>
+<div align="center">$$\dfrac{\pi}{4} · \dfrac{360^\circ}{2\pi} = 45^\circ$$</div><br>
+<div align="center">$$\dfrac{2\pi}{3} · \dfrac{360^\circ}{2\pi} = 120^\circ$$</div><br>
+<div align="center">$$\dfrac{\pi}{2} · \dfrac{360^\circ}{2\pi} = 90^\circ$$</div><br>
+<div align="center">$$\dfrac{5\pi}{6} · \dfrac{360^\circ}{2\pi} = 150^\circ$$</div><br>
+</li> 
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>

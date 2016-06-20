@@ -17,7 +17,7 @@
   <div class="tab-pane" id="decision">
 
 <p><b><i>Розв’язок.</i> </b> </p>
-
+ 
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
 

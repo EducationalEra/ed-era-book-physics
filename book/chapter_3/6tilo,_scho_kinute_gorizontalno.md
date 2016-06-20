@@ -4,7 +4,7 @@
 
 <img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/7.png" />
 
-<div class="p3">У такому випадку початкова швидкiсть напрямлена вздовж осi $$x$$. Це абсолютно те ж саме, що розглядати рух тiла, кинутого пiд кутом до горизонту, з моменту, коли тiло перебуває на максимальнiй висотi. На максимальнiй висотi також швидкiсть напрямлена вздовж вiсi $$x$$. Тобто виходить, що всi формули вже отриманi. Лише нуль вiдлiку зсунутий для зручностi. Рух починається з $$x_0 = 0, y_0 = H.$$</div>
+<div class="p3">У такому випадку початкова швидкiсть напрямлена вздовж осi $$x$$. Це абсолютно те ж саме, що розглядати рух тiла, кинутого пiд кутом до горизонту, з моменту, коли тiло перебуває на максимальнiй висотi. На максимальнiй висотi також швидкiсть напрямлена вздовж вiсi $$x$$. Тобто виходить, що всi формули вже отриманi.<br>Лише нуль вiдлiку зсунутий для зручностi. Рух починається з $$x_0 = 0, y_0 = H.$$</div>
 <br>
 <b>Рiвняння для даного випадку:</b>
 <br>
@@ -33,10 +33,10 @@ v_y = -gt
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Петро горизонтально кинув камінь зі схилу. Через секунду після того як він випустив його, камінь перемістився вздовж вертикальної вісі на ...</p>
-<answer correct>5 м</answer>
-<answer>7.5 м</answer>
-<answer>10 м</answer>
-<answer>12 м</answer>
+<answer correct> 5 м</answer>
+<answer> 7.5 м</answer>
+<answer> 10 м</answer>
+<answer> 12 м</answer>
 <explanation>
 $$y = \dfrac{gt^2}{2} = \dfrac{9.8 \cdot 1^2}{2} \approx 5 \thinspace \text{м}$$
 </explanation>
@@ -46,10 +46,10 @@ $$y = \dfrac{gt^2}{2} = \dfrac{9.8 \cdot 1^2}{2} \approx 5 \thinspace \text{м}$
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Кулю вистрілюють горизонтально і вона падає на землю через $$0.5$$ с. Якщо збільшити швидкість кулі вдвічі, то вона впаде на землю через:</p>
-<answer>1 с</answer>
-<answer>0.25 с</answer>
-<answer correct>0.5 с</answer>
-<answer>1.5 с</answer>
+<answer> 1 с</answer>
+<answer> 0.25 с</answer>
+<answer correct> 0.5 с</answer>
+<answer> 1.5 с</answer>
 <explanation>
 Якщо ми збільшимо швидкість кулі вдвічі, то проекція $$\upsilon_y$$ не зміниться, як зазначено вище $$\upsilon_y = -gt \thinspace .$$
 </explanation>

@@ -103,22 +103,29 @@
 Якщо цiкавитесь детальним виведенням цiєї формули, розберiть наступний пiдпункт.</li>
 </ul>
 <br>
+
+<div class="space">
 <div class="task-wrap">
-<span class="task">Задача 2</span> <b>КУЛЬКА НА НИТЦI</b>
+<span class="task">Задача 1</span> <b>ПЕТРО ТА КОМАХА</b>
 <div class="task-text">
-Кулька на краю нитки з довжиною $$1.2$$ метра здiйснює рiвномiрний рух по колу. Кут мiж ниткою та вертикаллю дорiвнює $$30^\circ$$. Петро за допомогою годинника визначив, що кулька робить $$60$$ обертiв за пiвхвилини. Знайти: перiод обертання кульки, частоту, лiнiйну та кутову швидкiсть, доцентрове прискорення.
+<p>Кулька на краю нитки з довжиною $$1.2$$ метра здiйснює рiвномiрний рух по колу. Кут мiж ниткою та вертикаллю дорiвнює $$30^\circ$$. Петро за допомогою годинника визначив, що кулька робить $$60$$ обертiв за пiвхвилини.<br><b>Знайти:</b> перiод обертання кульки, частоту, лiнiйну та кутову швидкiсть, доцентрове прискорення.</p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="plot">
+<p><img class="image" width="225"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png"></p>
+  </div>
+  <div class="tab-pane" id="decision">
+<p><img class="image" width="225"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png"></p>
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Перш за все, час спостерiгання $$0.5$$ хв потрiбно перевести у СI: $$0.5$$ хв $$= 30$$ с.</p>
 
-<br>
-<br>
-
-<img class="image" width="225"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png">
-
-<br>
-<br>
-
-<b><i>Розв’язок.</i></b> Перш за все, час спостерiгання $$0.5$$ хв потрiбно перевести у СI: $$0.5$$ хв $$= 30$$ с.
-<Br>
-По-друге, для подальших дiй нам потрiбно знати радiус кола.
+<p>По-друге, для подальших дiй нам потрiбно знати радiус кола.</p>
 
 <br>
 <br>
@@ -159,6 +166,45 @@
 <div class="space" align="center">$$a_Д = \dfrac{\upsilon^2}{R} = \dfrac{7.5^2}{0.6} \approx 93.8 \thinspace (\text{м/с}^2)$$</div>
 </li>
 </ul>
-</div>
-</div>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<p><img class="image" width="225"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png"></p>
+<ul>
+<li>
+Перiод обертання кульки:
 
+
+<div class="space" align="center">$$T = \dfrac{t}{N} = \dfrac{30}{60} = 0.5 \thinspace (\text{c})$$</div>
+</li>
+<li>
+Частота:
+
+
+<div class="space" align="center">$$\nu = \dfrac{1}{T} = \dfrac{1}{0.5} = 2 \thinspace (\text{c}^{-1})$$</div>
+</li>
+<li>
+Лiнiйна швидкiсть:
+
+</li>
+<div class="space" align="center">$$\upsilon = \dfrac{2 \pi R}{T} = \dfrac{2 \cdot 3.14 \cdot 0.6}{0.5} \approx 7.5 \thinspace (\text{м/с})$$</div>
+</li>
+<li>
+Кутова швидкiсть:
+
+
+<div class="space" align="center">$$\omega = \dfrac{2 \pi}{T} = \dfrac{2 \cdot 3.14}{0.5} \approx 12.6 \thinspace (\text{рад/с})$$</div>
+</li>
+<li>
+
+Доцентрове прискорення:
+<div class="space" align="center">$$a_Д = \dfrac{\upsilon^2}{R} = \dfrac{7.5^2}{0.6} \approx 93.8 \thinspace (\text{м/с}^2)$$</div>
+</li>
+</ul>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
+</div>
+</div>
+</div>
+<div class="space"></div>

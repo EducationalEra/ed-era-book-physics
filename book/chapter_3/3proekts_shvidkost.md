@@ -75,14 +75,22 @@
 </tr>
 </table></div></div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>РОБОТА З ГРАФIКАМИ</b>
 <div class="task-text">
-<div class"space">Тiло кидають праворуч зi швидкiстю $$\upsilon$$ пiд кутом $$\alpha$$ до горизонту. Напрям вертикальної осi обрано вгору, горизонтальної – вправо. Намалюйте схематично графiки траєкторiї $$y(x)$$, проекцiй швидкостi $$\upsilon_x(t)$$ та $$\upsilon_y(t)$$.</div>
-
-<div class="space"><img class="image" width="700" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/4.png" /></div>
-
-<b><i>Розв'язок.</i></b> Розглянемо кожен графiк:
+<p><div class"space">Тiло кидають праворуч зi швидкiстю $$\upsilon$$ пiд кутом $$\alpha$$ до горизонту. Напрям вертикальної осi обрано вгору, горизонтальної – вправо. Намалюйте схематично графiки траєкторiї $$y(x)$$, проекцiй швидкостi $$\upsilon_x(t)$$ та $$\upsilon_y(t)$$.</div>  </p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
+<p><div class="space"><img class="image" width="700" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/4.png" /></div> </p>
+<p>Розглянемо кожен графiк:</p>
 
 <b>Траєкторiя</b> $$y(x)$$
 <br>
@@ -98,16 +106,26 @@
 <div align ="center">$$\upsilon_y = \upsilon_{0y}-gt$$</div>
 <br>
 <p style="margin-left:1cm;">Під час вибору осей в такий спосіб, як зазначено в умовi, $$\upsilon_{0y} \gt 0$$. З плином часу ця проекцiя стає рiвною нулеві (верхня точка траєкторiї), а потiм проекцiя стає вiд’ємною (рух донизу).</p>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<p><div class="space"><img class="image" width="700" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/4.png" /></div> </p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
+
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Тіло кинули під кутом $$60^\circ$$ до горизонту. Початкова швидкість дорівнює 30 м/с. Чому дорівнює проекція початкової швидкості на вісь $$x$$?</p>
-<answer>20 м/с</answer>
-<answer correct>15 м/с</answer>
-<answer>12 м/с</answer>
-<answer>30 м/с</answer>
+<answer> 20 м/с</answer>
+<answer correct> 15 м/с</answer>
+<answer> 12 м/с</answer>
+<answer> 30 м/с</answer>
 <explanation>
 Із тригонометричних співвідношень у трикутнику:
 <br>
@@ -119,10 +137,10 @@ $$\upsilon_x =$$$$ \upsilon \thinspace \cos \alpha \Rightarrow$$$$ \upsilon_x = 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Чому дорівнює проекція початкової швидкості на вісь $$y$$?</p>
-<answer>20 м/с</answer>
-<answer correct>25.5 м/с</answer>
-<answer>15 м/с</answer>
-<answer>30 м/с</answer>
+<answer> 20 м/с</answer>
+<answer correct> 25.5 м/с</answer>
+<answer> 15 м/с</answer>
+<answer> 30 м/с</answer>
 <explanation>
 Із тригонометричних співвідношень у трикутнику:
 <br>

@@ -14,7 +14,7 @@
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>Чим менше доцентрове прискорення:</p>
-<answer correct>Тим «плавніше» поворот траєкторії</answer>
-<answer>Тим «крутiше» поворот траєкторiї</answer>
+<answer correct> Тим «плавніше» поворот траєкторії</answer>
+<answer> Тим «крутiше» поворот траєкторiї</answer>
 </question>
 </quiz>
