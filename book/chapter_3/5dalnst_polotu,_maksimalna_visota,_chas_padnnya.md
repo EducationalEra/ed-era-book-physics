@@ -111,7 +111,6 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p
   <div class="tab-pane" id="decision">
 <p><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/6.png" /></p>
 <p><b><i>Розв’язок.</i> </b> </p>
-<p><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/6.png" /></p>
 <p>Для вiдтворення експериментiв будемо використовувати формули, виведення яких здiйснили вище. </p>
 
 <p><b>Швидкiсть снаряда</b> </p>
