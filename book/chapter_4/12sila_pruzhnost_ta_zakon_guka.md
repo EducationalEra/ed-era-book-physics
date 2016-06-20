@@ -75,10 +75,10 @@
 <question>
 <p>Як зміниться відносне видовження гумового шнурка, якщо його площу поперечного перерізу збільшити втричі?</p>
  
-<answer correct>Зменшиться у 3 рази</answer>
-<answer>Збільшиться у 9 раз</answer>
-<answer>Зменшиться у 9 раз</answer>
-<answer>Збільшиться у 3 рази</answer>
+<answer correct> Зменшиться у 3 рази</answer>
+<answer> Збільшиться у 9 раз</answer>
+<answer> Зменшиться у 9 раз</answer>
+<answer> Збільшиться у 3 рази</answer>
 <explanation>
 Сила пружності що виникає у шнурку: $$F = SE\dfrac{\Delta l}{l_0}$$
 <br>

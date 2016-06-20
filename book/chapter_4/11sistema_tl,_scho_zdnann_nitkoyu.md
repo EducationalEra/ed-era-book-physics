@@ -55,10 +55,10 @@
 <question>
 <p>Для задачі, що розглядалась, маса ліфту з людиною становить $$200$$ кг, а маса залізного блоку - $$900$$ кг. Знайдіть прискорення ліфта.</p>
 
-<answer>$$4 \ \text{м/с}^2$$</answer> 
-<answer>$$5 \ \text{м/с}^2$$</answer>
-<answer>$$6 \ \text{м/с}^2$$</answer>
-<answer correct>$$7 \ \text{м/с}^2$$</answer>
+<answer> $$4 \ \text{м/с}^2$$</answer> 
+<answer> $$5 \ \text{м/с}^2$$</answer>
+<answer> $$6 \ \text{м/с}^2$$</answer>
+<answer correct> $$7 \ \text{м/с}^2$$</answer>
 <explanation>
 Прирівнявши сили натягу тросу, отримуємо:
 <br>

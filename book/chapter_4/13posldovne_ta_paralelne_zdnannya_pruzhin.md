@@ -58,10 +58,10 @@
 <question>
 <p>Пружину жорсткістю $$250$$ Н/м стискають з силою $$4$$ Н. Знайдіть зміну довжини пружини.</p>
  
-<answer>1,6 м</answer>
-<answer>6 м</answer>
-<answer>6 см</answer>
-<answer correct>1,6 см</answer>
+<answer> 1,6 м</answer>
+<answer> 6 м</answer>
+<answer> 6 см</answer>
+<answer correct> 1,6 см</answer>
 <explanation>
 Закон Гука: $$F = k \Delta x$$
 <br>

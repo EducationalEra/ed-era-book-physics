@@ -41,20 +41,26 @@
 
 <div class="space">Під час розгляду другого закону Ньютона буде детальніше розглядатись поняття сили.</div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>РIВНОДIЙНА СИЛА</b>
 <div class="task-text">
-На тiло дiють чотири сили $$F_1 = 1 \thinspace H, \ F_2 = 1.5 \thinspace H, \ F_3 = 2 \thinspace H, \ F_4 = 2.5 \thinspace H.$$ Напрямки цих сил зображенi на рисунку. Визначте величину та напрям рiвнодiйної сили $$\vec{F_{ }}$$, дiєю якої можна замiнити дiю цих сил.
-
-<br>
-<br>
-
-<img class="image" width="300" src="../../images/chapter_4/rec_fixed.png">
-
-<br>
-<br>
-
-<b><i>Розв’язок.</i></b> Рiвнодiйна сила – векторна сума всiх дiючих сил.
+<p>На тiло дiють чотири сили $$F_1 = 1 \thinspace H, \ F_2 = 1.5 \thinspace H, \ F_3 = 2 \thinspace H, \ F_4 = 2.5 \thinspace H.$$ Напрямки цих сил зображенi на рисунку. Визначте величину та напрям рiвнодiйної сили $$\vec{F_{ }}$$, дiєю якої можна замiнити дiю цих сил.</p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="plot">
+<p><img class="image" width="300" src="../../images/chapter_4/rec_fixed.png"></p>
+  </div>
+  <div class="tab-pane" id="decision">
+<p><img class="image" width="300" src="../../images/chapter_4/rec_fixed.png"></p>
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Рiвнодiйна сила – векторна сума всiх дiючих сил.</p>
 
 <br>
 <br>
@@ -104,20 +110,33 @@
 <br>
 <br>
 
-Таким чином, дiя чотирьох сил на тiло з точки зору розв’язання задач на динамiку – те саме, що розглядати дiю однiєї сили на тiло.
+Таким чином, дiя чотирьох сил на тiло з точки зору розв’язання задач на динамiку – те саме, що розглядати дiю однiєї сили на тiло. 
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<p><center><img class="image" width="300" src="../../images/chapter_4/rec_fixed.png"></center> </p>
+<p><center><img class="image" width="200" src="../../images/chapter_4/rec2_fixed.png"></center> </p>
+<p><center>$$|\vec{F_{ }}| = \sqrt{0.5^2 + 0.5^2} \approx 0.71 \thinspace (H)$$</center> </p>
+<p>Дiя чотирьох сил на тiло з точки зору розв’язання задач на динамiку – те саме, що розглядати дiю однiєї сили на тiло. </p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
+
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 <p>На тіло діють дві сили. Перша - напрямлена вгору і дорівнює $$4 \thinspace H$$, друга - напрямлена вправо і дорівнює $$3 \thinspace H$$. Чому дорівнює рівнодійна сила?</p>
  
-<answer>$$7 \thinspace H$$</answer>
-<answer correct>$$5 \thinspace H$$</answer>
-<answer>$$4.5 \thinspace H$$</answer>
-<answer>$$6 \thinspace H$$</answer>
+<answer> $$7 \thinspace H$$</answer>
+<answer correct> $$5 \thinspace H$$</answer>
+<answer> $$4.5 \thinspace H$$</answer>
+<answer> $$6 \thinspace H$$</answer>
 <explanation>
-З теореми Піфагора:
+З теореми Піфагора:<br>
 $$|\vec{F_{}}| = \sqrt{F_1^2 + F_2^2} = \sqrt{4^2 + 3^2} = \sqrt{25} = 5 \thinspace (H)$$
 </explanation>
 </question>
