@@ -77,7 +77,7 @@
 
 <div class="space" align="center">$$A + A_т = 765 - 600 = 165 \thinspace \text{(Дж)}$$</div>
 
-<b>4.</b>Cила повинна бути прикладена пiд прямим кутом до горизонту.
+<p><b>4.</b>Cила повинна бути прикладена пiд прямим кутом до горизонту.</p>
   </div>
   <div class="tab-pane" id="hide"></div>
 </div>
