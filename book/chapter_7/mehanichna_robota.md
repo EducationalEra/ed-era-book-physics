@@ -43,49 +43,38 @@
 <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
 </ul>
 <div id="mytab" class="tab-content">
+
   <div class="tab-pane" id="plot">
-<div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div>
+<p><div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"> </div> </p>
   </div>
+
   <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок.</i> </b> </p>
 <p><div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div>
 <div class="space"><b>1.</b> Сила $$\vec{F_{}}$$ напрямлена пiд кутом $$30^\circ$$ до вектора перемiщення $$\vec{S_{}}$$. Робота:</div>
-
 <div class="space" align="center">$$A = F \cdot \cos \alpha = 30 \cdot 30 \dfrac{\sqrt{3}}{2} \approx 765 \thinspace \text{(Дж)}$$</div>
-
 <div class="space"><b>2.</b> Сила тертя напрямлена в протилежну сторону до вектора перемiщення. Отже, вона виконує вiд’ємну роботу. Математично це випливає з того, що кут $$\alpha = 180^\circ \Rightarrow \cos \alpha = 0$$. Робота:</div>
-
 <div class="space" align="center">$$A_т = -F S = -20 \cdot 30 = -600 \thinspace \text{(Дж)}$$</div>
-
 <div class="space"><b>3.</b> Сумарна робота з перемiщення тiла:</div>
-
 <div class="space" align="center">$$A + A_т = 765 - 600 = 165 \thinspace \text{(Дж)}$$</div>
-
 <div class="space"><b>4.</b> Подумайте, яким чином вам би потрiбно було прикласти силу до ящика, щоб вiн не рухався вздовж горизонтальної поверхнi. Очевидно, що сила повинна бути прикладена пiд прямим кутом до горизонту.
 </div> </p>
 
 </div>
 <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div>
-<div class="space"><b>1.</b>Робота:</div>
-
+<p><div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div> </p>
+<div class="space"><b>1.</b>Робота: </div>
 <div class="space" align="center">$$A = F \cdot \cos \alpha = 30 \cdot 30 \dfrac{\sqrt{3}}{2} \approx 765 \thinspace \text{(Дж)}$$</div>
-
 <div class="space"><b>2.</b>Робота:</div>
-
 <div class="space" align="center">$$A_т = -F S = -20 \cdot 30 = -600 \thinspace \text{(Дж)}$$</div>
-
 <div class="space"><b>3.</b> Сумарна робота з перемiщення тiла:</div>
-
 <div class="space" align="center">$$A + A_т = 765 - 600 = 165 \thinspace \text{(Дж)}$$</div>
-
 <p><b>4.</b>Cила повинна бути прикладена пiд прямим кутом до горизонту.</p>
 </div>
+
 <div class="tab-pane" id="hide"></div>
 </div>
-</p>
-
-</div>
+</p> </div>
 </div>
 </div>
 <div class="space"></div>
