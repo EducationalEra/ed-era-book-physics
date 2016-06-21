@@ -34,7 +34,7 @@
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>ЯЩИК I РОБОТА</b>
 <div class="task-text">
-<div class="space">Ящик масою $$m = 30 \thinspace$$кг протягнули на вiдстань $$30 \thinspace$$м, прикладаючи силу $$F = 30 \thinspace$$Н пiд кутом $$30^\circ$$ до горизонту. Сила тертя $$F_т = 20 \thinspace$$Н.<br><b>1.</b> Яку роботу з перемiщення ящика виконує сила $$F$$?<br><b>2.</b> Яку роботу з перемiщення ящика виконує сила тертя $$F_т$$?<br><b>3.</b> Яка сумарна робота виконується?<br><b>4.</b> Яким чином потрiбно прикласти силу $$F$$, щоб її робота дорiвнювала нулеві?</div>
+<p><div class="space">Ящик масою $$m = 30 \thinspace$$кг протягнули на вiдстань $$30 \thinspace$$м, прикладаючи силу $$F = 30 \thinspace$$Н пiд кутом $$30^\circ$$ до горизонту. Сила тертя $$F_т = 20 \thinspace$$Н.<br><b>1.</b> Яку роботу з перемiщення ящика виконує сила $$F$$?<br><b>2.</b> Яку роботу з перемiщення ящика виконує сила тертя $$F_т$$?<br><b>3.</b> Яка сумарна робота виконується?<br><b>4.</b> Яким чином потрiбно прикласти силу $$F$$, щоб її робота дорiвнювала нулеві?</div> </p>
 <p>
 <ul class="nav-tab" id="mytab">
 <button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
@@ -48,7 +48,7 @@
   </div>
   <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок.</i> </b> </p>
-<div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div>
+<p><div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div>
 <div class="space"><b>1.</b> Сила $$\vec{F_{}}$$ напрямлена пiд кутом $$30^\circ$$ до вектора перемiщення $$\vec{S_{}}$$. Робота:</div>
 
 <div class="space" align="center">$$A = F \cdot \cos \alpha = 30 \cdot 30 \dfrac{\sqrt{3}}{2} \approx 765 \thinspace \text{(Дж)}$$</div>
@@ -61,9 +61,11 @@
 
 <div class="space" align="center">$$A + A_т = 765 - 600 = 165 \thinspace \text{(Дж)}$$</div>
 
-<div class="space"><b>4.</b> Подумайте, яким чином вам би потрiбно було прикласти силу до ящика, щоб вiн не рухався вздовж горизонтальної поверхнi. Очевидно, що сила повинна бути прикладена пiд прямим кутом до горизонту.</div>
-  </div>
-  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<div class="space"><b>4.</b> Подумайте, яким чином вам би потрiбно було прикласти силу до ящика, щоб вiн не рухався вздовж горизонтальної поверхнi. Очевидно, що сила повинна бути прикладена пiд прямим кутом до горизонту.
+</div> </p>
+
+</div>
+<div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
 <div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div>
 <div class="space"><b>1.</b>Робота:</div>
 
@@ -78,10 +80,11 @@
 <div class="space" align="center">$$A + A_т = 765 - 600 = 165 \thinspace \text{(Дж)}$$</div>
 
 <p><b>4.</b>Cила повинна бути прикладена пiд прямим кутом до горизонту.</p>
-  </div>
-  <div class="tab-pane" id="hide"></div>
+</div>
+<div class="tab-pane" id="hide"></div>
 </div>
 </p>
+
 </div>
 </div>
 </div>
