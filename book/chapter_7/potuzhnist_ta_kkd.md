@@ -47,7 +47,7 @@
 <span class="task">Задача 4</span> <b>РIВНЯННЯ РУХУ ТА ПОТУЖНIСТЬ</b>
 <div class="task-text">
 <p>Нехай тiло масою $$5$$ кг рухається пiд дiєю сили вздовж осi $$Ox$$. Рiвняння руху: $$x = -2 + 10t + 4t^2$$.</p>
-<div class="space"><br><b>1.</b> Яка сила дiє на тiло?<br><b>2.</b> Яку роботу виконано над тілом протягом $$3$$ секунд?<br><b>3.</b> Чому дорiвнює миттєва потужнiсть на третiй секундi руху?<br><b>4.</b> Чому дорiвнює середня потужнiсть протягом $$3$$ секунд руху?</div>
+<p><div class="space"><br><b>1.</b> Яка сила дiє на тiло?<br><b>2.</b> Яку роботу виконано над тілом протягом $$3$$ секунд?<br><b>3.</b> Чому дорiвнює миттєва потужнiсть на третiй секундi руху?<br><b>4.</b> Чому дорiвнює середня потужнiсть протягом $$3$$ секунд руху?</div> </p>
 <p>
 <ul class="nav-tab" id="mytab">
 <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
@@ -57,7 +57,7 @@
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="decision">
 <p><b><i>Розв’язок.</i> </b> </p>
-<ol>
+<p><ol>
 <li><div class="space">
 Сила $$F = ma$$. Для визначення прискорення $$a$$ порiвняємо шаблон рiвняння руху з тим, яке в умовi:</div>
 
@@ -107,11 +107,12 @@
 </tr>
 </table> </div> </div>
 </li>
-</ol>
+</ol> </p>
   </div>
-  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<ol>
-<li><div class="space">
+  <div class="tab-pane" id="answer">
+ <p><b>Вiдповiдь.</b></p>
+<p> <ol>
+<li>
 <div class="space" align="center">
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -122,7 +123,7 @@
 </tr>
 </table> </div> </div>
 </li>
-<li><div class="space">
+<li>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -150,15 +151,14 @@
 <p1>$$P_{3сер} = \thinspace $$$$ F \upsilon_3 = \thinspace $$$$ F \cdot \dfrac{\upsilon_0 + \upsilon (3)}{2} = \thinspace $$$$ 40 \cdot \dfrac{10 + 34}{2} = \thinspace $$$$ 40 \cdot 22 = \thinspace $$$$ 880 \thinspace \text{Вт}$$</p1>
 </td>
 </tr>
-</table> </div> </div>
+</table> </div> </div> 
 </li>
-</ol>
-  </div>
-  <div class="tab-pane" id="hide"></div>
-
+</ol> </p>
+</div>
+<div class="tab-pane" id="hide"></div>
 </div>
 </p>
- </div>
+</div>
 </div>
 </div>
 <div class="space"></div>
