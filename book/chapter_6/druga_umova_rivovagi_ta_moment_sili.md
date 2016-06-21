@@ -185,13 +185,13 @@
 <div class="task-text">
 <p><div class="space">Нещаснi випадки можуть трапить будь-де i будь з ким. Не є винятком i будiвництво єгипетських пiрамiд. Уявiмо ситуацiю, що одному з робiтникiв притисло ногу одним з найлегших блокiв, з яких цi пiрамiди споруджувалися масою $$2750$$ кг. Чи зможуть вiсiм його товаришiв масою по $$95$$ кг врятувати його, якщо Iмхотеп саме для таких випадкiв вiддав на будiвництво невагому $$5$$-метрову балку, яку неможливо зламати чи навiть зiгнути? Точку опори робiтники встановили на вiдстанi $$1$$ метра вiд блока. Взятись за балку вони можуть попарно на вiдстанi $$20$$ см один вiд одного, щоб не заважати самим собi. Уся маса блоку зосереджена в точцi де пiд нього пiдклали балку (такого не буває, але це задача з фiзики).</div> </p>
 <p>
-<ul class="nav-tab" id="mytab1">
-<button class="btn" data-target="#plot1" data-toggle="pill">Схема</button>
-<button class="btn" data-target="#decision1" data-toggle="pill">Розв’язок</button>
-<button class="btn" data-target="#answer1" data-toggle="pill">Вiдповiдь</button>
-<button class="btn" data-target="#hide1" data-toggle="pill">Приховати</button>
+<ul class="nav-tab" id="pr1">
+<button class="btn" data-target="#plot1" data-toggle="tab">Схема</button>
+<button class="btn" data-target="#decision1" data-toggle="tab">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="tab">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="tab">Приховати</button>
 </ul>
-<div id="mytab1" class="tab-content">
+<div id="pr1" class="tab-content">
   <div class="tab-pane" id="plot1">
 <p><div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/28.png"></div> </p>
   </div>
@@ -200,18 +200,18 @@
 <p><b><i>Розв’язок.</i> </b> </p>
 <p>Момент сили, що створює блок своєю вагою вiдносно точки опори:</p>
 
-<div class="space" align="center1">$$M_б =$$$$ m_б \cdot g \cdot l_б =$$$$ 2750 \cdot 10 \cdot 1 =$$$$ 27500 \ (Н \cdot м)$$</div>
+<p><div class="space" align="center1">$$M_б =$$$$ m_б \cdot g \cdot l_б =$$$$ 2750 \cdot 10 \cdot 1 =$$$$ 27500 \ (Н \cdot м)$$</div> </p>
 
-<div class="space">Сумарний момент сил усiх робiтникiв, котрі намагаються пiдняти блок:</div>
+<p><div class="space">Сумарний момент сил усiх робiтникiв, котрі намагаються пiдняти блок:</div> </p>
 
-<div class="space" align="center">$$M_р = 2m_р \cdot g \cdot (r_1 + r_2 + r_3 + r_4) =$$$$ 2 \cdot 95 \cdot 10 \cdot (4 + 3.8 + 3.6 + 3.4) =$$$$ 28120 \ (Н \cdot м)$$</div>
+<p><div class="space" align="center">$$M_р = 2m_р \cdot g \cdot (r_1 + r_2 + r_3 + r_4) =$$$$ 2 \cdot 95 \cdot 10 \cdot (4 + 3.8 + 3.6 + 3.4) =$$$$ 28120 \ (Н \cdot м)$$</div> </p>
 
 <p>Масу i прискорення вiльного падiння ми винесли за дужки, оскiльки вони однаковi для всiх робiтникiв. Двiйка належить до фактора маси, оскiльки робiтники прикладають силу по двоє в однiй точцi.</p>
 
 <p>Як бачимо, невдаху врятовано, оскiльки сумарний момент сил робiтникiв бiльший, нiж момент сили, що створює блок вiдносно точки опори!</p>
   </div>
   <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b></p>
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/28.png"></div>
+<p><div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/28.png"></div> </p>
 <p>Hевдаху врятовано, оскiльки сумарний момент сил робiтникiв бiльший, нiж момент сили, що створює блок вiдносно точки опори.</p>
   </div>
   <div class="tab-pane" id="hide1"></div>
