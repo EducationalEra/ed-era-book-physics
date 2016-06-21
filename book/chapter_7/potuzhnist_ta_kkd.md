@@ -113,7 +113,6 @@
  <p><b>Вiдповiдь.</b></p>
 <p> <ol>
 <li>
-<div class="space" align="center">
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
