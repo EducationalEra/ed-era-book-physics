@@ -49,27 +49,39 @@
 </div>
 </div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 2</span> <b>АМЕРИКАНСЬКI ГIРКИ</b>
 <div class="task-text">
 <div class="space">Вiзок американських гiрок починає зiсковзувати з висоти $$H$$ з нульовою початковою швидкiстю. На якiй висотi $$h$$ візок матиме швидкiсть рiвно в три рази меньшу, нiж у найнижчiй точцi? Для розрахункiв силою тертя мiж вiзком та гiркою можна знехтувати.</div>
-
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="plot">
 <div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/17.png"></div>
-
+  </div>
+  <div class="tab-pane" id="decision">
+<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/17.png"></div>
+<p><b><i>Розв’язок.</i> </b> </p>
 <div class="space">Для початку розпишемо повну механiчну енергiю для кожної з точок.</div>
 
 <ol>
-<div class="space"><li>
+<li><div class="space">
 В умовi сказано, що початкова швидкiсть нульова $$\rightarrow E_{К1} =$$$$ 0$$. Натомiсть вiзок розташований на висотi $$H$$ вiд нульового рiвня, який вiдповiдає найнижчiй точцi (наш вибiр). Отже, потенцiальна енергiя: $$E_П =$$$$ mgH$$, а повна енергiя:</div>
 
 <div class="space" align="center">$$E_1 =$$$$ E_П =$$$$ mgH$$</div>
 </li>
-<div class="space"><li>
+<li><div class="space">
 У найнижчiй точцi (нульовий рiвень) потенцiальна енергiя дорiвнює нулю: $$E_П =$$$$ 0$$. З iншого боку, саме в цiй точцi вiзок набуває максимальної швидкостi, адже уся потенцiальна енергiя перейшла в кiнетичну. Повна енергiя:</div>
 
 <div class="space" align="center">$$E_2 =$$$$ \dfrac{m \upsilon_2^2}{2}$$</div>
 </li>
-<div class="space"><li>
+<li><div class="space">
 У третiй точцi вiзок має i кiнетичну, i потенцiальну енергiю. Повна енергiя:</div>
 
 <div class="space" align="center">$$E_3 =$$$$ mgh + \dfrac{m \upsilon_3^2}{2}$$</div>
@@ -93,18 +105,47 @@
 <p1>$$h = $$$$ H - \dfrac{H}{9} = $$$$ \dfrac{8H}{9}$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div> 
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/17.png"></div>
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$h = $$$$ H - \dfrac{H}{9} = $$$$ \dfrac{8H}{9}$$</p1>
+</td>
+</tr>
+</table></div></div> 
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 3</span> <b>МЕРТВА ПЕТЛЯ</b>
 <div class="task-text">
 <div class="space">Вiзок на американських гiрках починає зiсковзувати вниз з нульовою початковою швидкiстю. Попереду його чекає мертва петля. З якої мiнiмальної висоти $$H_{min}$$ можна вiдпустити вiзок, щоб вiн все ж таки здiйснив повний оберт у петлi?</div>
-
+<p>
+<ul class="nav-tab" id="mytab1">
+<button class="btn" data-target="#plot1" data-toggle="pill">Схема</button>
+<button class="btn" data-target="#decision1" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer1" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide1" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab1" class="tab-content">
+  <div class="tab-pane" id="plot1">
 <div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/18.png"></div>
-
-<div class="space">Для початку порахуємо, якою повинна бути мiнiмальна лiнiйна швидкiсть вiзка, щоб вiн не «вiдiрвався» у верхнiй точцi. Ми це робили також під час розгляду динамiки руху тiла по колу, але згадаємо ще раз. У верхнiй тоцi на вiзок дiють двi сили: сила тяжiння $$mg$$ та сила реакцiї опори $$N$$ Обидвi – вертикально вниз. Вiзок вiдiрветься в той момент, коли сила реакцiї опори стане рiвною нулеві, це буде означати, що вiзок нiяк не тисне на опору. Доцентрове прискорення у верхнiй точцi також напрямлене вертикально вниз. Другий закон Ньютона:</div>
+  </div>
+  <div class="tab-pane" id="decision1">
+<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/18.png"></div>
+<p><b><i>Розв’язок.</i> </b> </p>
+ <div class="space">Для початку порахуємо, якою повинна бути мiнiмальна лiнiйна швидкiсть вiзка, щоб вiн не «вiдiрвався» у верхнiй точцi. Ми це робили також під час розгляду динамiки руху тiла по колу, але згадаємо ще раз. У верхнiй тоцi на вiзок дiють двi сили: сила тяжiння $$mg$$ та сила реакцiї опори $$N$$ Обидвi – вертикально вниз. Вiзок вiдiрветься в той момент, коли сила реакцiї опори стане рiвною нулеві, це буде означати, що вiзок нiяк не тисне на опору. Доцентрове прискорення у верхнiй точцi також напрямлене вертикально вниз. Другий закон Ньютона:</div>
 
 <div class="space" align="center">$$mg + N = $$$$ m a_д \quad $$$$ | \thinspace N \ge 0 \thinspace | $$$$ \quad  m a_д \ge mg$$</div>
 
@@ -121,5 +162,16 @@
 <div class="space">Пiдставимо мiнiмальну отриману мiнiмальну швидкiсть та прирiвняємо повнi енергiї:</div>
 
 <div align="center">$$mgH_{min} =$$$$ 2mgR =$$$$ \dfrac{mgR}{2} \Rightarrow H_{min} =$$$$ \dfrac{5gR}{2}$$</div>
+  </div>
+  <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b></p>
+<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/18.png"></div>
+<div align="center">$$mgH_{min} =$$$$ 2mgR =$$$$ \dfrac{mgR}{2} \Rightarrow H_{min} =$$$$ \dfrac{5gR}{2}$$</div>
+  </div>
+  <div class="tab-pane" id="hide1"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
+

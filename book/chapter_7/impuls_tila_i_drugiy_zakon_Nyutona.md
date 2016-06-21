@@ -132,36 +132,46 @@ $$
 <p>Слід зазначити, що таке перетворення справедливе, якщо маса тіла не змінюється. Саме тоді можливий перехід: $$\Delta (m \vec{\upsilon}) = m \Delta \vec{\upsilon}$$.</p>
 <br>
 <br>
+
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>Удар футболіста</b>
 <div class="task-text">
-З якою силою футболіст б’є по м’ячу, який перебуває в стані спокою, якщо одразу після удару його швидкість – 150 км/год? Стандартний м’яч п’ятого розміру (розмір м’яча у великому футболі) має масу 450 грамів. Тривалість контакту м’яча з ногою приблизно 0,01 с.
+<p>З якою силою футболіст б’є по м’ячу, який перебуває в стані спокою, якщо одразу після удару його швидкість – 150 км/год? Стандартний м’яч п’ятого розміру (розмір м’яча у великому футболі) має масу 450 грамів. Тривалість контакту м’яча з ногою приблизно 0,01 с.</p>
 <br>
+<p><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/23.png"> </p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Для розв’язання задачі можемо скористатися другим законом Ньютона в імпульсній формі. </p>
+$$F = \dfrac{\Delta p}{\Delta t}$$
+<p><b>Імпульс м’яча до удару:</b> </p>
+$$p_1 = m \upsilon_1 \rightarrow |\upsilon_1 = 0| \rightarrow 0$$
+<p><b>Імпульс м’яча після удару:</b> </p>
 <br>
-<img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/23.png">
+<p><center>$$p_2 = m \upsilon_2 \rightarrow \thinspace $$$$ \upsilon_2 = 150 \cdot \frac{\text{км}}{\text{год}} = 150 \cdot \frac{1000 \text{м}}{3600 \text{с}} \approx \thinspace $$$$ 41.7 \frac{\text{м}}{\text{с}} \rightarrow \thinspace $$$$ p_2 = 0.45 \cdot 41.7 \approx \thinspace $$$$ 18.8 \ (\text{кг}\cdot\text{м/с}^2)$$</center> </p>
 <br>
+<p>Отже, <b>сила</b>, з якою футболіст б’є по м’ячу: </p>
 <br>
-<b><i><span class="p1">Розв’язок.</span></i></b> Для розв’язання задачі можемо скористатися другим законом Ньютона в імпульсній формі.
-$$
-F = \dfrac{\Delta p}{\Delta t}
-$$
-<b>Імпульс м’яча до удару:</b>
-$$
-p_1 = m \upsilon_1 \rightarrow |\upsilon_1 = 0| \rightarrow 0
-$$
-<b>Імпульс м’яча після удару:</b>
+<p><center>$$F = \thinspace $$$$ \dfrac{\Delta p}{\Delta t} = \thinspace $$$$ \dfrac{p_2 - p_1}{\Delta t} = \thinspace $$$$ \dfrac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \thinspace $$$$ \dfrac{18.8 - 0}{0.01} = \thinspace $$$$ 1880 \thinspace (H)$$</center> </p>
 <br>
-<br>
-<center>$$p_2 = m \upsilon_2 \rightarrow \thinspace $$$$ \upsilon_2 = 150 \cdot \frac{\text{км}}{\text{год}} = 150 \cdot \frac{1000 \text{м}}{3600 \text{с}} \approx \thinspace $$$$ 41.7 \frac{\text{м}}{\text{с}} \rightarrow \thinspace $$$$ p_2 = 0.45 \cdot 41.7 \approx \thinspace $$$$ 18.8 \ (\text{кг}\cdot\text{м/с}^2)$$</center>
-<br>
-<br>
-Отже, <b>сила</b>, з якою футболіст б’є по м’ячу:
-<br>
-<br>
-<center>$$F = \thinspace $$$$ \dfrac{\Delta p}{\Delta t} = \thinspace $$$$ \dfrac{p_2 - p_1}{\Delta t} = \thinspace $$$$ \dfrac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \thinspace $$$$ \dfrac{18.8 - 0}{0.01} = \thinspace $$$$ 1880 \thinspace (H)$$</center>
-<br>
-<br>
-Це дуже велика сила. Подумайте, чи більша ця сила за силу яка потрібна, щоб підняти вгору людину масою $$100(!)$$ кг.
+<p>Це дуже велика сила. Подумайте, чи більша ця сила за силу яка потрібна, щоб підняти вгору людину масою $$100(!)$$ кг.  </p>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<p><center>$$F = \thinspace $$$$ \dfrac{\Delta p}{\Delta t} = \thinspace $$$$ \dfrac{p_2 - p_1}{\Delta t} = \thinspace $$$$ \dfrac{m \upsilon_2 - m \upsilon_1}{\Delta t} = \thinspace $$$$ \dfrac{18.8 - 0}{0.01} = \thinspace $$$$ 1880 \thinspace (H)$$</center> </p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
+
 

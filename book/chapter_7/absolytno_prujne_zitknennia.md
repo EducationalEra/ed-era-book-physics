@@ -177,65 +177,92 @@ $$
 
 <br>
 <br>
+
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 2</span> <b>Абсолютно пружне зіткнення двох кульок</b>
 <div class="task-text">
-Нехай дві кульки однакової маси рухаються назустріч одна одній. Швидкість першої кульки до зіткнення 10 м/с, а швидкість другої – 15 м/с. Розрахувати швидкості та визначити напрямки руху кульок після зіткнення. Вважати, що удар – центральний.
-<br>
-<br>
+<p>Нехай дві кульки однакової маси рухаються назустріч одна одній. Швидкість першої кульки до зіткнення 10 м/с, а швидкість другої – 15 м/с. Розрахувати швидкості та визначити напрямки руху кульок після зіткнення. Вважати, що удар – центральний.</p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="plot">
 <center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/33.png"></center>
-<br>
-<br>
-
-<b><i><span class="p1">Розв’язок.</span></i></b> Оскільки удар центральний, задача одновимірна. Нехай позитивний напрямок осі – вправо. Тоді проекція швидкості $$\upsilon \gt 0$$, якщо швидкість напрямлена вправо і $$\upsilon \lt 0$$ при напрямку вліво. Зіткнення абсолютно пружне, отже, ми можемо записати закон збереження імпульсу та закон збереження механічної енергії.
-$$
+  </div>
+  <div class="tab-pane" id="decision">
+<center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/33.png"></center>
+<p><b><i>Розв’язок.</i> </b> </p>
+<p>Оскільки удар центральний, задача одновимірна. Нехай позитивний напрямок осі – вправо. Тоді проекція швидкості $$\upsilon \gt 0$$, якщо швидкість напрямлена вправо і $$\upsilon \lt 0$$ при напрямку вліво. Зіткнення абсолютно пружне, отже, ми можемо записати закон збереження імпульсу та закон збереження механічної енергії.</p>
+<p>$$
 m \upsilon_1 + m \upsilon_2 = m \upsilon_1^\prime + m \upsilon_2^\prime
-$$
-$$
+$$</p>
+<p>$$
 \dfrac{m \upsilon_1^2}{2} + \dfrac{m \upsilon_2^2}{2} = \dfrac{m {\upsilon_1^\prime}^2}{2} + \dfrac{m {\upsilon_2^\prime}^2}{2}
-$$
-<br>
-Поділимо перше рівняння на $$m$$, а друге – на $$m/2$$:
-$$
+$$</p>
+<p>Поділимо перше рівняння на $$m$$, а друге – на $$m/2$$:</p>
+<p>$$
 \upsilon_1 + \upsilon_2 = \upsilon_1^\prime + \upsilon_2^\prime
-$$
-$$
+$$</p>
+<p>$$
 \upsilon_1^2 + \upsilon_2^2 = {\upsilon_1^\prime}^2 + {\upsilon_2^\prime}^2
-$$
-Перетворимо перше і друге рівняння, перенісши швидкості першого тіла до і після зіткнення вліво, а швидкості другого тіла – вправо:
-$$
+$$</p>
+<p>Перетворимо перше і друге рівняння, перенісши швидкості першого тіла до і після зіткнення вліво, а швидкості другого тіла – вправо:</p>
+<p>$$
 \upsilon_1 - {\upsilon_1^\prime} = {\upsilon_2^\prime} - \upsilon_2
-$$
-$$
+$$</p>
+<p>$$
 \upsilon_1^2 - {\upsilon_1^\prime}^2 = {\upsilon_2^\prime}^2 - \upsilon_2^2
-$$
-Використаємо формули різниці квадратів у другому рівнянні:
-$$
+$$</p>
+<p>Використаємо формули різниці квадратів у другому рівнянні:</p>
+<p>$$
 (\upsilon_1 - \upsilon_1^\prime)(\upsilon_1 + \upsilon_1^\prime) = (\upsilon_2^\prime - \upsilon_2)(\upsilon_2^\prime + \upsilon_2)
-$$
-Поділивши це рівняння на перше, отримаємо:
-$$
+$$</p>
+<p>Поділивши це рівняння на перше, отримаємо:</p>
+<p>$$
 \upsilon_1 + \upsilon_1^\prime = \upsilon_2^\prime + \upsilon_2
-$$
-Отже, маємо просту систему з двох рівнянь з двома невідомими:
-$$
+$$</p>
+<p>Отже, маємо просту систему з двох рівнянь з двома невідомими:</p>
+<p>$$
 \begin{cases}
 \upsilon_1 - \upsilon_1^\prime = \upsilon_2^\prime - \upsilon_2 \\
 \upsilon_1 + \upsilon_1^\prime = \upsilon_2^\prime + \upsilon_2
 \end{cases}
-$$
-Розв’язавши її відносно $$\upsilon_1^\prime$$ та $$\upsilon_2^\prime$$, маємо:
-$$
+$$</p>
+<p>Розв’язавши її відносно $$\upsilon_1^\prime$$ та $$\upsilon_2^\prime$$, маємо:</p>
+<p>$$
 \begin{cases}
 \upsilon_1^\prime = \upsilon_2 = -15 \thinspace \text{м/с} \\
 \upsilon_2^\prime = \upsilon_1 = 10 \thinspace \text{м/с}
 \end{cases}
-$$
+$$</p>
+<br>
+<p><center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/34.png"></center> </p>
+<br>
+<p>Ми прийшли до ще одного надцікавого висновку. Рівні за масою тіла при абсолютно пружному зіткненні «обмінюються» швидкостями (звичайно, імпульсами також).</p>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<p><center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/33.png"></center> </p>
+<p>$$
+\begin{cases}
+\upsilon_1^\prime = \upsilon_2 = -15 \thinspace \text{м/с} \\
+\upsilon_2^\prime = \upsilon_1 = 10 \thinspace \text{м/с}
+\end{cases}
+$$</p>
+<br>
+<p><center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/34.png"></center> </p>
 <br>
 <br>
-<center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/34.png"></center>
-<br>
-<br>
-Ми прийшли до ще одного надцікавого висновку. Рівні за масою тіла при абсолютно пружному зіткненні «обмінюються» швидкостями (звичайно, імпульсами також).
+<p>Ми прийшли до ще одного надцікавого висновку. Рівні за масою тіла при абсолютно пружному зіткненні «обмінюються» швидкостями (звичайно, імпульсами також).</p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>

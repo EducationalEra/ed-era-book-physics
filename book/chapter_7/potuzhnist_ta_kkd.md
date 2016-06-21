@@ -42,17 +42,25 @@
 <div class="popup">
 </div></div>
 
+<div class="space">
 <div class="task-wrap">
 <span class="task">Задача 4</span> <b>РIВНЯННЯ РУХУ ТА ПОТУЖНIСТЬ</b>
 <div class="task-text">
+<div class="task-text">
 Нехай тiло масою $$5$$ кг рухається пiд дiєю сили вздовж осi $$Ox$$. Рiвняння руху: $$x = -2 + 10t + 4t^2$$.
 <br>
-<div class="space"><b>1.</b> Яка сила дiє на тiло? <b>2.</b> Яку роботу виконано над тілом протягом $$3$$ секунд? <b>3.</b> Чому дорiвнює миттєва потужнiсть на третiй секундi руху? <b>4.</b> Чому дорiвнює середня потужнiсть протягом $$3$$ секунд руху?</div>
-
-<div class="space"><b><i>Розв’язок.</i></b></div>
-
+<div class="space"><br><b>1.</b> Яка сила дiє на тiло?<br><b>2.</b> Яку роботу виконано над тілом протягом $$3$$ секунд?<br><b>3.</b> Чому дорiвнює миттєва потужнiсть на третiй секундi руху?<br><b>4.</b> Чому дорiвнює середня потужнiсть протягом $$3$$ секунд руху?</div>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
 <ol>
-<div class="space"><li>
+<li><div class="space">
 Сила $$F = ma$$. Для визначення прискорення $$a$$ порiвняємо шаблон рiвняння руху з тим, яке в умовi:</div>
 
 <div class="space" align="center">$$x = \thinspace $$$$ x_0 + \upsilon t + \dfrac{at^2}{2}$$ та $$x = -2 + 10t + 4t^2 \Rightarrow \thinspace $$$$ a = \thinspace $$$$ 8 \dfrac{\text{м}}{\text{с}^2}$$</div>
@@ -64,9 +72,9 @@
 <p1>$$F = \thinspace $$$$ ma = \thinspace $$$$ 5 \cdot 8 = \thinspace $$$$ 40 \thinspace \text{Н}$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 </li>
-<div class="space"><li>Робота, що дiє протягом $$3$$ секунд, дорiвнює силi, прикладенiй до тiла, помноженiй на модуль перемiщення. Силу ми визначили в попередньому пунктi $$F = \thinspace $$$$ 40 \thinspace \text{Н}$$. Перемiщення – це рiзниця мiж кiнцевою координатою $$x(3) = \thinspace $$$$ -2 + 10 \cdot 3 + 4 \cdot 3^2 = \thinspace $$$$ 64 \thinspace \text{м}$$ та початковою координатою $$x_0 = \thinspace $$$$ -2 \thinspace \text{м}$$:</div>
+<li><div class="space">Робота, що дiє протягом $$3$$ секунд, дорiвнює силi, прикладенiй до тiла, помноженiй на модуль перемiщення. Силу ми визначили в попередньому пунктi $$F = \thinspace $$$$ 40 \thinspace \text{Н}$$. Перемiщення – це рiзниця мiж кiнцевою координатою $$x(3) = \thinspace $$$$ -2 + 10 \cdot 3 + 4 \cdot 3^2 = \thinspace $$$$ 64 \thinspace \text{м}$$ та початковою координатою $$x_0 = \thinspace $$$$ -2 \thinspace \text{м}$$:</div>
 
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
@@ -75,9 +83,9 @@
 <p1>$$A = \thinspace $$$$ F S = \thinspace $$$$ 40 \cdot (64 - (-2)) = \thinspace $$$$ 40 \cdot 66 = \thinspace $$$$ 2640 \thinspace \text{Дж}$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 </li>
-<div class="space"><li>
+<li><div class="space">
 Миттєва потужнiсть на третiй секундi руху дорiвнює силi, помноженiй на миттєву швидкiсть у вiдповiдну секунду руху. Виходячи iз рiвняння руху в умовi: початкова швидкiсть $$\upsilon_0 = 10$$ м/c, прискорення $$a = 8$$ м/$$с^2$$. Рiвняння для швидкостi: $$\upsilon = \thinspace $$$$ \upsilon_0 + at \Rightarrow \thinspace $$$$ \upsilon = \thinspace $$$$ 10 + 8t$$. Швидкiсть на третiй секундi руху: $$\upsilon_3 = \thinspace $$$$ 10 + 8 \cdot 3 = \thinspace $$$$ 34$$ м/с.</div>
 
 <div class="space"><div class="centered-table-wrapper">
@@ -87,9 +95,9 @@
 <p1>$$P_3 = \thinspace $$$$ F \upsilon (3) = \thinspace $$$$ 40 \cdot 34 = \thinspace $$$$ 1360 \thinspace \text{Вт}$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 </li>
-<div class="space"><li>
+<li><div class="space">
 Середню потужнiсть можна отримати, перемноживши силу на середню швидкiсть протягом вiдповiдного часу. Оскільки ми маємо рiвноприскоренний рух, швидкiсть змiнюється лiнiйно. Отже, середня швидкiсть протягом трьох секунд можна розрахувати як середнє арифметичне початкової швидкостi та швидкостi на третiй секундi руху.</div>
 
 <div class="space"><div class="centered-table-wrapper">
@@ -99,11 +107,63 @@
 <p1>$$P_{3сер} = \thinspace $$$$ F \upsilon_3 = \thinspace $$$$ F \cdot \dfrac{\upsilon_0 + \upsilon (3)}{2} = \thinspace $$$$ 40 \cdot \dfrac{10 + 34}{2} = \thinspace $$$$ 40 \cdot 22 = \thinspace $$$$ 880 \thinspace \text{Вт}$$</p1>
 </td>
 </tr>
-</table></div></div>
+</table> </div> </div>
 </li>
 </ol>
+  </div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
+<ol>
+<li><div class="space">
+<div class="space" align="center">
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$F = \thinspace $$$$ ma = \thinspace $$$$ 5 \cdot 8 = \thinspace $$$$ 40 \thinspace \text{Н}$$</p1>
+</td>
+</tr>
+</table> </div> </div>
+</li>
+<li><div class="space">
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$A = \thinspace $$$$ F S = \thinspace $$$$ 40 \cdot (64 - (-2)) = \thinspace $$$$ 40 \cdot 66 = \thinspace $$$$ 2640 \thinspace \text{Дж}$$</p1>
+</td>
+</tr>
+</table> </div> </div>
+</li>
+<li><div class="space">
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$P_3 = \thinspace $$$$ F \upsilon (3) = \thinspace $$$$ 40 \cdot 34 = \thinspace $$$$ 1360 \thinspace \text{Вт}$$</p1>
+</td>
+</tr>
+</table> </div> </div>
+</li>
+<li>
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$P_{3сер} = \thinspace $$$$ F \upsilon_3 = \thinspace $$$$ F \cdot \dfrac{\upsilon_0 + \upsilon (3)}{2} = \thinspace $$$$ 40 \cdot \dfrac{10 + 34}{2} = \thinspace $$$$ 40 \cdot 22 = \thinspace $$$$ 880 \thinspace \text{Вт}$$</p1>
+</td>
+</tr>
+</table> </div> </div>
+</li>
+</ol>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
+
 
 <div class="space"><p class="p3"><span class="p1"><b><u>Коефiцiєнт корисної дiї</u></b></span></p></div>
 
