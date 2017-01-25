@@ -3,7 +3,7 @@
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
-<b>Миттєва швидкiсть</b> напрямлена по дотичнiй до траєкторiї в точцi, яку ми розглядаємо.
+<b>Миттєва швидкiсть</b> спрямована по дотичнiй до траєкторiї в точцi, яку ми розглядаємо.
 </div>
 </div>
 <p></p>
@@ -15,8 +15,8 @@
 </div>
 <br>
 <div class="space">• <b>Проекцiя на вертикальну вiсь</b><br>
-Як вже зазначалося, вздовж вертикальної вiсi маємо <b>рiвноприскорений рух</b>.
-У випадку, коли вiсь напрямлена вгору (у протилежному до напрямку прискорення вiльного падiння):</div>
+Як вже зазначалося, вздовж вертикальної осі маємо <b>рiвноприскорений рух</b>.
+У випадку, коли вiсь спрямована вгору (протилежно до напрямку прискорення вiльного падiння):</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -39,10 +39,10 @@
 </table></div></div>
 <p></p>
 
-З вищезазначеного стає зрозумiлим, що проекцiя швидкостi на вiсь $$y$$ змiнюється протягом усього руху. Наприклад, на рисунку вище у першiй точцi $$\upsilon_y > 0$$, адже кут
-мiж дотичною та вiссю $$x$$ – гострий. У другiй точцi (верхня точка траєкторiї) $$\upsilon_y=0$$, кут дорiвнює нулю. У третiй точцi $$\upsilon_y < 0$$, кут – тупий.
+Із зазначеного вище зрозуміло, що проекцiя швидкостi на вiсь $$y$$ змiнюється протягом усього руху. Наприклад, на рисунку вище у першiй точцi $$\upsilon_y > 0$$, адже кут
+мiж дотичною та вiссю $$x$$ – гострий. У другiй точцi (верхня точка траєкторiї) $$\upsilon_y=0$$, кут дорiвнює нулеві. У третiй точцi $$\upsilon_y < 0$$, кут – тупий.
 <p></p>
-<div class="space">Вiднайти кожну з проекцiй у данiй точцi можна, знаючи модуль миттєвої швидкостi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon$$.</div>
+<div class="space">Знайти кожну з проекцiй у певній точцi можна, знаючи модуль миттєвої швидкостi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon$$.</div>
 <div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" /></div>
 <p></p>
 <div class="space">Iз тригонометричних спiввiдношень у прямокутному трикутнику:</div>
@@ -65,7 +65,7 @@
 </tr>
 </table></div></div>
 
-<div class="space">Кут мiж напрямом швидкостi та вiссю $$x$$ можна визначити також iз тригонометричних спiввiдношень:</div>
+<div class="space">Кут мiж напрямком швидкостi та вiссю $$x$$ можна визначити також iз тригонометричних спiввiдношень:</div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -82,13 +82,13 @@
 <p><div class"space">Тiло кидають праворуч зi швидкiстю $$\upsilon$$ пiд кутом $$\alpha$$ до горизонту. Напрям вертикальної осi обрано вгору, горизонтальної – вправо. Намалюйте схематично графiки траєкторiї $$y(x)$$, проекцiй швидкостi $$\upsilon_x(t)$$ та $$\upsilon_y(t)$$.</div>  </p>
 <p>
 <ul class="nav-tab" id="mytab">
-<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язання</button>
 <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
 <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="decision">
-<p><b><i>Розв’язок.</i> </b> </p>
+<p><b><i>Розв’язання.</i> </b> </p>
 <p><div class="space"><img class="image" width="700" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/4.png" /></div> </p>
 <p>Розглянемо кожен графiк:</p>
 
@@ -102,7 +102,7 @@
 <br>
 <b>Вертикальна проекцiя швидкостi</b> $$\upsilon_y(t)$$
 <br>
-<p style="margin-left:1cm;">Вертикальна складова швидкостi весь час змiнюється пiд дiєю прискорення вiльного падiння $$\vec{g}$$. Маємо рiвноприскорений рух.</p>
+<p style="margin-left:1cm;">Вертикальна складова швидкостi безперервно змiнюється пiд дiєю прискорення вiльного падiння $$\vec{g}$$. Маємо рiвноприскорений рух.</p>
 <div align ="center">$$\upsilon_y = \upsilon_{0y}-gt$$</div>
 <br>
 <p style="margin-left:1cm;">Під час вибору осей в такий спосіб, як зазначено в умовi, $$\upsilon_{0y} \gt 0$$. З плином часу ця проекцiя стає рiвною нулеві (верхня точка траєкторiї), а потiм проекцiя стає вiд’ємною (рух донизу).</p>
