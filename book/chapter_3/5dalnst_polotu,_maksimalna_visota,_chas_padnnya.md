@@ -100,7 +100,7 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p
 <p>
 <ul class="nav-tab" id="mytab">
 <button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
-<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язання</button>
 <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
 <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
 </ul>
@@ -110,8 +110,8 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p
   </div>
   <div class="tab-pane" id="decision">
 <p><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/6.png" /></p>
-<p><b><i>Розв’язок.</i> </b> </p>
-<p>Для вiдтворення експериментiв будемо використовувати формули, виведення яких здiйснили вище. </p>
+<p><b><i>Розв’язання.</i> </b> </p>
+<p>Щоб відтворити експерименти, будемо використовувати формули, я. </p>
 
 <p><b>Швидкiсть снаряда</b> </p>
 
@@ -124,10 +124,10 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p
 <p style="margin-left:1cm;">Дальнiсть польоту обраховуємо за формулою:</p>
 
 <p><div align="center">$$L = \dfrac{\upsilon_0^2\sin 2\alpha}{g}$$</div><div align="right">$$(1)$$</div> </p>
-<p style="margin-left:1cm;">Для кутiв $$30^\circ, 45^\circ, 60^\circ$$ вiдповiдно.</p>
+<p style="margin-left:1cm;">Для кутiв $$30^\circ, 45^\circ, 60^\circ$$ вiдповiдно:</p>
 <p><div align="center">$$L_1 \approx 5000 \thinspace \text{м} = 5 \thinspace \text{км};$$$$ \ L_2 \approx 5800 \thinspace \text{м} = 5.8 \thinspace \text{км};$$$$ \ L_3 \approx 5000 \thinspace \text{м} = 5 \thinspace \text{км}$$</div> </p>
 
-<p style="margin-left:1cm;">Порiвнявши, бачимо, що при $$45^\circ$$ дальнiсть польоту найбiльша. Але це була вибiрка з трьох кутiв. У загальному випадку легко показати, що саме при кутi $$45^\circ$$ дальнiсть польоту максимальна. $$L$$ у формулi $$(1)$$ буде максимальним, якщо $$\sin 2 \alpha = 1 \Rightarrow \alpha = 45^\circ.$$</p>
+<p style="margin-left:1cm;">Порiвнявши, бачимо, що за $$45^\circ$$ дальнiсть польоту найбiльша. Але це була вибiрка з трьох кутiв. У загальному випадку легко показати, що саме за умови, що кут дорівнює $$45^\circ$$, дальнiсть польоту максимальна. $$L$$ у формулi $$(1)$$ буде максимальна, якщо $$\sin 2 \alpha = 1 \Rightarrow \alpha = 45^\circ.$$</p>
 <p><b>Максимальна висота</b> </p>
 
 <p style="margin-left:1cm;">Маємо кут $$\alpha = 45^\circ$$ та формулу для визначення максимальної висоти:</p>
@@ -155,7 +155,7 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Тіло кинули під кутом $$50^\circ$$ та воно пролетіло певну відстань. При якому куті тіло пролетить таку ж саму відстань?</p>
+<p>Тіло кинули під кутом $$50^\circ$$ та воно пролетіло певну відстань. Під яким ще кутом можна кинути тіло, щоб воно пролетіло таку саму відстань?</p>
 <answer> $$30^\circ$$</answer>
 <answer> $$35^\circ$$</answer>
 <answer correct> $$40^\circ$$</answer>
