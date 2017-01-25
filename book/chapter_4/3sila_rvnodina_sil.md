@@ -14,12 +14,12 @@
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
-<span class="p1"><b>Сила ($$\vec{F_{ }}$$)</b></span> – векторна величина, що є мiрою дiї тiл або полiв на дане тiло.
+<span class="p1"><b>Сила ($$\vec{F_{ }}$$)</b></span> – векторна величина, що є мiрою дiї тiл або полiв на це тiло.
 
 <br>
 <br>
 
-Вектор $$\vec{F_{ }}$$ має <b>напрям, величину, точку прикладання.</b>
+Вектор $$\vec{F_{ }}$$ має <b>напрямок, величину, точку прикладання.</b>
 
 <br>
 <br>
@@ -45,11 +45,11 @@
 <div class="task-wrap">
 <span class="task">Задача 1</span> <b>РIВНОДIЙНА СИЛА</b>
 <div class="task-text">
-<p>На тiло дiють чотири сили $$F_1 = 1 \thinspace H, \ F_2 = 1.5 \thinspace H, \ F_3 = 2 \thinspace H, \ F_4 = 2.5 \thinspace H.$$ Напрямки цих сил зображенi на рисунку. Визначте величину та напрям рiвнодiйної сили $$\vec{F_{ }}$$, дiєю якої можна замiнити дiю цих сил.</p>
+<p>На тiло дiють чотири сили $$F_1 = 1 \thinspace H, \ F_2 = 1.5 \thinspace H, \ F_3 = 2 \thinspace H, \ F_4 = 2.5 \thinspace H.$$ Напрямки цих сил зображенi на рисунку. Визначте величину та напрямок рiвнодiйної сили $$\vec{F_{ }}$$, дiєю якої можна замiнити дiю цих сил.</p>
 <p>
 <ul class="nav-tab" id="mytab">
 <button class="btn" data-target="#plot" data-toggle="pill">Схема</button>
-<button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язання</button>
 <button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
 <button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
 </ul>
