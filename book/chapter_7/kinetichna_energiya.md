@@ -84,9 +84,9 @@
 
 <div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/11.png"></div>
 
-<div class="space">Чому дорiвнює сумарна робота, яку виконано над тiлом при пiдняттi на висоту $$h$$? З теореми, що маємо вище, виходить, що сумарна робота дорiвнює нулю, адже $$\upsilon_2 =$$$$ \upsilon_1 =$$$$ \upsilon = const$$. Не вiриться? Давайте перевiремо.</div>
+<div class="space">Чому дорiвнює сумарна робота, яку було виконано над тiлом протягом піднімання на висоту $$h$$? З теореми, що маємо вище, виходить, що сумарна робота дорiвнює нулеві, адже $$\upsilon_2 =$$$$ \upsilon_1 =$$$$ \upsilon = const$$. Не вiриться? Перевiрмо.</div>
 
-<div class="space"><p class="p3">З другого закону Ньютона:</p></div>
+<div class="space"><p class="p3">Із другого закону Ньютона:</p></div>
 
 <div class="space" align="center">$$F - mg = 0$$$$ \thinspace (v = const; \thinspace a = 0) \Rightarrow$$$$ F = mg$$</div>
 
@@ -94,10 +94,10 @@
 
 <div class="space" align="center">$$A_1 =$$$$ Fh =$$$$ mgh$$</div>
 
-<div class="space">Робота, яку виконує сила тяжiння, вiд’ємна, адже сила тяжiння дiє в протилежну сторону вiд вектора перемiщення:</div>
+<div class="space">Робота, яку виконує сила тяжiння, вiд’ємна, адже сила тяжiння дiє в протилежному напрямку від вектора перемiщення:</div>
 
 <div class="space" align="center">$$A_2 =$$$$ -mgh$$</div>
 
-<div class="space"><p class="p3">Ось i виходить, що сумарна робота дорiвнює нулю:</p></div>
+<div class="space"><p class="p3">Ось i виходить, що сумарна робота дорiвнює нулеві:</p></div>
 
 <div align="center">$$A_{\Sigma} =$$$$ A_1 + A_2 =$$$$ 0$$</div>
