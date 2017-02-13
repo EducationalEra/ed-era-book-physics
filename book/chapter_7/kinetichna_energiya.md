@@ -1,6 +1,6 @@
 # Кiнетична енергiя
 
-<div class="space">Для того, щоб детальнiше зрозумiти концепцiю енергiї, розглянемо приклад.</div>
+<div class="space">Щоб детальнiше зрозумiти концепцiю енергiї, розглянемо приклад.</div>
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UxaTK_g3zPA" frameborder="0" allowfullscreen></iframe>
