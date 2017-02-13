@@ -159,7 +159,7 @@
 
 <div class="space" align="center">$$E = $$$$ 2mgR + \dfrac{m \upsilon^2}{2}$$</div>
 
-<div class="space">Пiдставимо мiнiмальну отриману мiнiмальну швидкiсть та прирiвняємо повнi енергiї:</div>
+<div class="space">Пiдставмо мiнiмальну отриману мiнiмальну швидкiсть, яку одержали, та прирiвняємо повнi енергiї:</div>
 
 <div align="center">$$mgH_{min} =$$$$ 2mgR =$$$$ \dfrac{mgR}{2} \Rightarrow H_{min} =$$$$ \dfrac{5gR}{2}$$</div>
   </div>
