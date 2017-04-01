@@ -61,7 +61,7 @@
 <div class="space">Отже, при русi лiфту з прискоренням, спрямованим вниз, вага тiла зменшується. Коли ж прискорення спрямованим вверх – вага збiльшується. Ви можете вiдчути цi ефекти, рухаючись у лiфтi. На початку руху вниз вiдчувається «легкiсть», а під час руху вгору – навпаки, вас нiби притискає до пiдлоги.</div>
 
 <div class="fluidMedia">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SWZuvcR2R40" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHaODoxJn_I" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
 </div>
