@@ -1,5 +1,4 @@
 {
-    "gitbook": ">=3.0.0-pre.11",
     "title": "EdEra Фізика: Класична механіка",
     "plugins": ["mathjax", "-search", "fontsettings", "-sharing", "addcssjs", "quiz", "disqus", "gtm", "-comments"],
     "pluginsConfig": {
