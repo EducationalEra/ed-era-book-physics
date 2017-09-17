@@ -20,9 +20,6 @@
         "gtm": {
             "token": "GTM-N86M5F"
         },
-        "mathjax":{
-            "forceSVG": true
-        },
         "quiz": {
             "labels": {
                 "showCorrect" : "Показати правильну відповідь",
