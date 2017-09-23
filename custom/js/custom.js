@@ -1,15 +1,5 @@
 $(document).ready(function () {
-  function startMathJax () {
-    MathJax.Hub.Config({
-      tex2jax: {}
-    });
-
-    gitbook.events.bind("page.change", function() {
-      MathJax.Hub.Typeset()
-    });
-  }
-
-  function init () {
+  function init() {
     var href, $lastLink;
 
     $("a.toggle-search").remove();
@@ -19,17 +9,25 @@ $(document).ready(function () {
     href = "https://ed-era.com/books/" + _.last(href.split("-"));
     $lastLink.prop("href", href);
   }
+
   init();
   require(["gitbook"], function (gitbook) {
+    function startMathJax() {
+      MathJax.Hub.Config({
+        tex2jax: {}
+      });
+
+      gitbook.events.bind("page.change", function () {
+        MathJax.Hub.Typeset();
+      });
+    }
     gitbook.events.bind("page.change", init);
-    gitbook.events.bind("start", function () {
     var interval = null
     interval = setInterval(function () {
-    if (typeof MathJax === "object") {
-    startMathJax()
-    clearInterval(interval)
-    }
-    }, 1000)
-    })    
+      if (typeof MathJax === "object") {
+        startMathJax()
+        clearInterval(interval);
+      }
+    }, 1000);
   });
 });
