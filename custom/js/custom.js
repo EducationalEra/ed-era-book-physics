@@ -8,15 +8,6 @@ $(document).ready(function () {
       MathJax.Hub.Typeset()
     });
   }
-  gitbook.events.bind("start", function () {
-    var interval = null
-    interval = setInterval(function () {
-      if (typeof MathJax === "object") {
-        startMathJax()
-        clearInterval(interval)
-      }
-    }, 1000)
-  })
 
   function init () {
     var href, $lastLink;
@@ -31,5 +22,14 @@ $(document).ready(function () {
   init();
   require(["gitbook"], function (gitbook) {
     gitbook.events.bind("page.change", init);
+    gitbook.events.bind("start", function () {
+    var interval = null
+    interval = setInterval(function () {
+    if (typeof MathJax === "object") {
+    startMathJax()
+    clearInterval(interval)
+    }
+    }, 1000)
+    })    
   });
 });
