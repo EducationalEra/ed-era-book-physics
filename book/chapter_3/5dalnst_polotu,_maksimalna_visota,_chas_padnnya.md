@@ -107,10 +107,10 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<p><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/6.png" /></p>
+<p><img class="image" width="300"  src="/images/chapter_3/6.png" /></p>
   </div>
   <div class="tab-pane" id="decision">
-<p><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/6.png" /></p>
+<p><img class="image" width="300"  src="/images/chapter_3/6.png" /></p>
 <p><b><i>Розв’язання.</i> </b> </p>
 <p>Щоб відтворити експерименти, будемо використовувати формули, я. </p>
 
@@ -136,7 +136,7 @@ Iз тригонометрiї: $$2 \sin \alpha \cos \alpha = \sin 2 \alpha.$$</p
 <p><div align="center">$$H = \dfrac{\upsilon_0^2\sin^2\alpha}{2g} =$$$$ \dfrac{238.1^2 \sin^2 45^\circ}{2 · 9.8} \approx 1450 \ (\text{м})$$</div> </p>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> </p>
-<p><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/6.png" /></p>
+<p><img class="image" width="300"  src="/images/chapter_3/6.png" /></p>
 <p><b>Швидкiсть снаряда</b> </p>
 <p><div align="center">$$T = \dfrac{2 \upsilon_0 \sin \alpha}{g} \Rightarrow$$$$ \upsilon_0 = \dfrac{gT}{2\sin\alpha} =$$$$ \dfrac{9.8 \cdot 24.3}{2 \cdot \sin 30^\circ} \approx$$$$ 238.1 \ (\text{м/с})$$</div> </p>
 <p><b>Дальність польоту</b> </p>
