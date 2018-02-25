@@ -2,7 +2,8 @@
 
 <div class="space">Розглянемо наведену вище задачу. Тiло кидають праворуч зi швидкiстю $$\upsilon_0$$ пiд кутом $$\alpha$$ до горизонту. Виведімо формули для дальностi польоту $$L,$$ максимальної висоти пiдйому $$H,$$ часу пiдняття на максимальну висоту $$t^\prime$$ й запишімо рівняння руху та проекцій швидкостей.</div>
 
-<img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/5.png" />
+<img class="image" width="250"  src="/images/chapter_3/5.png" />
+
 <br>
 Запишемо рiвняння руху та проекцiй швидкостей.
 <br>
