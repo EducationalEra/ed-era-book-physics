@@ -3,7 +3,7 @@
 Як вже зазначалося, рух та все, що з ним пов’язане – поняття вiдносне. Саме тому було введено поняття «<b>система вiдлiку</b>» та «<b>тiло вiдлiку</b>». Для того, щоб легко зрозуміти перехід від однієї системи відліку до іншої, розглянемо такий приклад. Микола рухається у рухомiй системi вiдлiку – в потязi зi швидкiстю та перемiщенням <b><span class="p1">Миколи/потяга</span></b>. Потяг (рухома система вiдлiку) має швидкiсть i перемiщення вiдносно нерухомої системи вiдлiку – землi з позначеннями <span class="p1">потяга/землi</span>. Тодi встановити рух Миколи вiдносно землi можна за допомогою суми цих двох векторiв.
 
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/9.png" class="image"/>
+<img src="/images/chapter_1/9.png" class="image"/>
 
 
 Для подiбних задач рекомендуємо вам використовувати такий вид позначень, як зображено вище. Тоді ви не заплутаєтесь, розв’язуючи такі задачі.
@@ -24,10 +24,10 @@
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/10.svg" class="image"/></p>
+<p><img src="/images/chapter_1/10.svg" class="image"/></p>
   </div>
   <div class="tab-pane" id="decision">
-<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/10.svg" class="image"/></p>
+<p><img src="/images/chapter_1/10.svg" class="image"/></p>
 <p><b><i>Розв’язок.</i> </b> </p>
 <p>Для початку знайдемо, скiльки часу витратив Петро.
 \[t=\dfrac{|\thinspace \vec{S_{}}_{п/р} \thinspace|}{|\thinspace \vec{\upsilon}_{п/р} \thinspace|} = \dfrac{l}{\upsilon_{п/з}} = 0.05/4 = 0.0125 \thinspace (\text{год}) \]</p>
@@ -52,7 +52,7 @@ $$\upsilon_{п/з} =$$$$ \sqrt{(\vec{\upsilon}_{п/р})^2 + (\vec{\upsilon}_{р/
 </ol>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/10.svg" class="image"/></p>
+<p><img src="/images/chapter_1/10.svg" class="image"/></p>
 <p>Шлях, який проплив Петро можна знайти двома способами:</p>
 <ol>
 <li>Знайти результуючу швидкiсть Петра i помножити на час $$t$$:</li> <br>

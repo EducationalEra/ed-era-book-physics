@@ -12,7 +12,7 @@
 </div>
 
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/3.svg" class="image"/>
+<img src="/images/chapter_1/3.svg" class="image"/>
 
 
 * <span class="p1">Траєкторiя</span> – лiнiя, вздовж якої рухається тiло.
@@ -33,10 +33,10 @@
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<p> <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/4.svg" class="image"/>  </p>
+<p> <img src="/images/chapter_1/4.svg" class="image"/>  </p>
   </div>
   <div class="tab-pane" id="decision">
-<p> <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/4.svg" class="image"/>  </p>
+<p> <img src="/images/chapter_1/4.svg" class="image"/>  </p>
 <p><b><i>Розв’язання.</i> </b> </p>
 <p>Траєкторія складається з відрізків $$AB, BC, CD, DE$$ та $$EF$$. Переміщення – вектор $$\vec{AF}$$. Довжини цих відрізків ми знайдемо за допомогою простих теоретичних міркувань та теореми Пiфагора. Вiдрiзок AB – це гiпотенуза прямокутного трикутника, в якого, як видно з рисунка, один із катетiв дорівнює $$1$$ см, а другий – $$2$$ см. Отже, за теоремою Пiфагора:<p>
 
@@ -52,7 +52,7 @@
 <p>\[|\vec{S_{ }}| = |\vec{AF}| = \sqrt{2^2 + 1^2} = 2.24 \thinspace \text{см}\]</p>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p> <img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/4.svg" class="image"/>  </p>
+<p> <img src="/images/chapter_1/4.svg" class="image"/>  </p>
 <p>Повний шлях, що подолала комаха за 10 секунд спостереження, складатиме:</p>
 <p>$$l = AB + BC$$$$ + CD + DE$$$$ + EF =$$$$ 16.74 \thinspace \text{см}$$<br>
 За час спостереження мураха перемiстився з точки $$A$$ в точку $$F$$, вибравши при цьому<br>

@@ -10,7 +10,7 @@
 
 <div class="space"><span class="p1"><b>Перед вами двi ситуацiї $$\rightarrow$$</b></span></div>
 
-<div class="space"><img class="image" width="483" height="258" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/11.png"></div>
+<div class="space"><img class="image" width="483" height="258" src="/images/chapter_4/11.png"></div>
 
 <div class="space">В обох ситуацiях на тiло дiє сила тяжiння. З iншого боку, в обох ситуацiях прискорення $$a = 0$$. За другим законом Ньютона, нульове прискорення може бути за умови, що рiвнодiйна сили дорiвнює нулеві. Силу тяжiння урiвноважує так звана <span class="p1"><b>сила реакцiї опори або пiдвiсу.</b></span></div>
 
@@ -33,7 +33,7 @@
 
 <div class="space"><p class="p3">Зображувати дiю всiх сил на центр тiла можна у випадку розгляду тiл, як матерiальних точок (якщо розлядати тіло як матеріальну точку). Винятки будуть вказані у цьому курсі.</p></div>
 
-<div class="space"><img class="image" width="484" height="283" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/12.png"></div>
+<div class="space"><img class="image" width="484" height="283" src="/images/chapter_4/12.png"></div>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>

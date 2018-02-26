@@ -79,7 +79,7 @@
 У нашому прикладi з лiфтом тiло перебувало би в станi невагомостi, якби вiн рухався вниз з прискоренням $$\vec{g}$$.
 <div class="space" align="center">$$P = N = m(g - a) $$$$= | \thinspace a = g \thinspace| $$$$= 0$$</div>
 
-<div class="space"><img class="image" width="258" height="201" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/15.png"></div>
+<div class="space"><img class="image" width="258" height="201" src="/images/chapter_4/15.png"></div>
 
 <div class="space">Полум’я свiчки за звичайних умов та невагомостi <i>(знiмок з сайту [NASA](https://www.nasa.gov/)).</i></div>
 

@@ -22,11 +22,11 @@
 2. Проекція швидкості – пряма лінія, кут нахилу якої визначає прискорення: 
 $$\upsilon_x(t)=\upsilon_{0x}+a_xt$$
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/3.svg" />
+<img class="image"  src="/images/chapter_2/3.svg" />
 
 На рисунку зображено зміну швидкості на $$1$$ м/с кожної наступної секунди. Побудуймо відповідний графік залежності проекції швидкості від часу $$\upsilon_x(t)$$:
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/4.svg" />
+<img class="image"  src="/images/chapter_2/4.svg" />
 
 Початкова швидкість, з якої ми почали розглядати рух $$\upsilon_{0x}= 1$$ м/с $$\rightarrow$$ графік починається з точки $$(0,1)$$. Кут нахилу прямої $$\upsilon_x(t)$$ визначає прискорення (аналогічно до визначення швидкості із графіку $$x(t)$$).
 
@@ -59,7 +59,7 @@ $$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon_x^\
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="decision">
-<p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/5.svg" /></p>
+<p><img class="image"  src="/images/chapter_2/5.svg" /></p>
 <p><b><i>Розв’язання.</i> </b> </p>
 <p> Розгляньмо кожну ділянку окремо: </p>
 <p></p>
@@ -111,7 +111,7 @@ $$a_x=\lim\limits_{\Delta t\to0}\dfrac{\Delta \upsilon_x}{\Delta t}=\upsilon_x^\
 <p>\[\upsilon_{2x}=\upsilon_{1x}+a_{2x}t=-4+4t\]</p>
 <p><b>Третя</b> ($$t_1 = 5 \thinspace \text{c}, t_2 = 9 \thinspace \text{c}$$).</p>
 <p>\[\upsilon_{3x}=\upsilon_{2x}+a_{3x}t=4+t\]</p>
-<p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/5.svg" /></p>
+<p><img class="image"  src="/images/chapter_2/5.svg" /></p>
   </div>
   <div class="tab-pane" id="hide"></div>
 </div>

@@ -51,13 +51,13 @@
 <div class="space"><img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/16.png"></div>
   </div>
   <div class="tab-pane" id="decision">
-<div class="space"><img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/16.png"></div>
+<div class="space"><img class="image" width="250"  src="/images/chapter_6/16.png"></div>
 <p><b><i>Розв’язок.</i> </b> </p>
 <p>Аби вантаж не ковзав по тросу i залишався у станi спокою, сума усiх сил, що дiють на нього, має дорiвнювати нулеві. При цьому дiю сил слiд розглядати вiдносно точки пiдвiсу (а не безпосередньо вантажу), оскiльки лише так ми можемо врахувати усi сили: вагу вантажу i сили натягу, що виникають у кожнiй частинi троса. Тобто:</p>
 
 <div class="space" align="center">$$\vec{P_{ }} + \vec{T_1} + \vec{T_2} = 0$$</div>
 
-<div class="space"><img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/17.png"></div>
+<div class="space"><img class="image" width="250"  src="/images/chapter_6/17.png"></div>
 
 <div class="space">Сила натягу в усiх частинах троса буде однаковою, оскiльки вiн є нерозтяжним i має справджуватись третій закон Ньютона. Тому у станi рiвноваги вантаж зупиниться саме посеред троса, де натяг в обох його частинах компенсуватиметься вздовж осi $$0x$$. Отже, розглядаємо лише сили, що дiють вздовж $$0y:$$ $$T \cos \alpha + T \cos \alpha - P = 0$$</div>
 
@@ -71,7 +71,7 @@
   </div>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> </p>
-<div class="space"><img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/16.png"></div>
+<div class="space"><img class="image" width="250"  src="/images/chapter_6/16.png"></div>
 <p>Cила натягу троса:</p>
 <div class="space" align="center">$$T = \dfrac{P}{2 \cos \alpha} = \dfrac{mg}{2 \cos \alpha} = \dfrac{12}{2 \cdot \dfrac{5}{13}} = 15.6 \thinspace H$$</div>
   </div>

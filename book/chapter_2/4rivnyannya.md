@@ -4,7 +4,7 @@
 
 Погляньмо на площу потрібної фігури на графіку $$\upsilon_x(t)$$ для рівноприскореного прямолінійного руху.
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/6.svg" />
+<img class="image"  src="/images/chapter_2/6.svg" />
 
 <span class="p1">Проекція переміщення:</span> $$S_x = S_{\text{трикутника}} + S_{\text{прямокутника}}$$
 
@@ -64,13 +64,13 @@ $$a_x$$ – проекція прискорення на вісь $$x$$.
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
 <p>Спрямуймо вісь $$x$$ у бік руху, тоді $$\upsilon_{0x}>0, \ a_x <  0$$.</p>
-<p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/7.svg" /></p>
+<p><img class="image"  src="/images/chapter_2/7.svg" /></p>
   </div>
   <div class="tab-pane" id="decision">
 <p><b><i>Розв’язання.</i> </b> </p>
 <p>Спрямуймо вісь $$x$$ у бік руху, тоді $$\upsilon_{0x}>0, \ a_x <  0$$.</p>
 
-<p><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_2/7.svg" /></p>
+<p><img class="image"  src="/images/chapter_2/7.svg" /></p>
 
 <p>Нехай модуль прискорення дорівнює $$a$$. Тоді $$a'_x=a''_x=-a$$. Помістимо початок координат у точку, з якої починаємо досліджувати гальмування $$x_0=0$$. Рівняння руху для обох випадків:</p>
 

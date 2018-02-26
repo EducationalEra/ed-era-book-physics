@@ -10,7 +10,7 @@
 
 <div class="space"><b>Розгляньмо приклад.</b> Автомобiль рухається рiвномiрно по горизонтальнiй дорозi <b>без проковзування</b> зi швидкiстю $$\vec{\upsilon}$$. Визначити швидкостi вказаних точок.</div>
 
-<div class="space"><img class="image" width="250" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/16.png" /></div>
+<div class="space"><img class="image" width="250" src="/images/chapter_3/16.png" /></div>
 
 <ul>
 <li>
@@ -27,7 +27,7 @@
 <li>
 <div class="space">Тепер розгляньмо <b>першу точку</b></div>
 
-<div class="space"><img class="image" width="325" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/17.png" /></div>
+<div class="space"><img class="image" width="325" src="/images/chapter_3/17.png" /></div>
 
 
 <div class="space">Швидкiсть цiєї точки складається з лiнiйної швидкостi обертання колеса $$\vec{\upsilon_{о}}$$, спрямованої ліворуч та поступальної швидкостi $$\vec{\upsilon}$$, спрямованої праворуч:</div>
@@ -71,7 +71,7 @@
 <li>
 <div class="space"><b>Третя точка.</b></div>
 
-<div class="space"><img class="image" width="220"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/19.png" /></div>
+<div class="space"><img class="image" width="220"  src="/images/chapter_3/19.png" /></div>
 
 
 <div class="space">Швидкiсть обертального руху спрямована вертикально вгору. Швидкiсть поступального руху, як завжди, – праворуч. Векторну суму можна знайти? за правилом паралелограма. Модуль кінцевого/остаточного вектора можна знайти за допомогою теореми Пiфагора:</div>
@@ -88,7 +88,7 @@
 <li>
 <div class="space"><b>Четверта точка.</b></div>
 
-<div class="space"><img class="image" width="220" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/20.png" /></div>
+<div class="space"><img class="image" width="220" src="/images/chapter_3/20.png" /></div>
 
 
 <div class="space">Швидкiсть обертального руху спрямована по дотичнiй до поверхнi колеса. Швидкiсть поступального руху – вправо. Iз геометрiї кут мiж векторами $$= 45^\circ$$. За допомогою теореми косинусiв:</div>
@@ -109,7 +109,7 @@
 <p class="p3"><span class="p1"><b>2. Шкiви та шестернi рiзних радiусiв</b></span></p>
 <div class="space">Ще один поширений тип задач стосується з’єднаних механiзмiв, що обертаються. Цi механiзми мають рiзнi радiуси (або у випадку шестерень – рiзну кiлькiсть зубцiв) та, вiдповдно, рiзнi перiоди обертання.</div>
 
-<div class="space"><img class="image" width="320"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/21.png" /></div>
+<div class="space"><img class="image" width="320"  src="/images/chapter_3/21.png" /></div>
 
 <b><font color="red">$${\Large!}$$</font>  Потрiбно розумiти тільки двi речi для вирiшення таких задач:</b>
 <ul>

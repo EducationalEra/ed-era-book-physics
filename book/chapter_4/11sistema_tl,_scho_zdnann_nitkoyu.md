@@ -14,7 +14,7 @@
 
 <div class="space"><p class="p3">Напрямімо вiсь $$y$$ догори та розгляньмо кожне тiло окремо</p></div>
 
-<div class="space"><img class="image" width="400" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/17.png"></div>
+<div class="space"><img class="image" width="400" src="/images/chapter_4/17.png"></div>
 
 <ol>
 <li>

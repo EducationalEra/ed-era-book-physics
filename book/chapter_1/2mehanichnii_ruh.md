@@ -23,7 +23,7 @@
 
 **Механічний рух буває трьох типів** $$\Rightarrow$$
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/2.svg" />
+<img class="image"  src="/images/chapter_1/2.svg" />
 
 
 <div class="caption">

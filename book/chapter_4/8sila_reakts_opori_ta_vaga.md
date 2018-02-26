@@ -43,7 +43,7 @@ $$\vec{F_A}$$ – дiя першого тiла на друге; $$\vec{F_R}$$ �
 <div class="alg-text">
 <div class="space">Вага, за третiм законом Ньютона, дорiвнює за модулем силi реакцiї опори або пiдвiсу.</div>
 
-<div class="space"><img class="image" width="230" height="216" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/13.png"></div>
+<div class="space"><img class="image" width="230" height="216" src="/images/chapter_4/13.png"></div>
 
 <ol>
 <li>

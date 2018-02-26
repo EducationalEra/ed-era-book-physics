@@ -11,7 +11,7 @@
 </div>
 <br>
 
-<img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/8.png">
+<img class="image" width="600"  src="/images/chapter_3/8.png">
 <br>
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
@@ -23,7 +23,7 @@ $$1 \thinspace \text{рад} \approx 57.3^\circ$$. Один повний обе�
 </div>
 <br>
 
-<img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/9.png" />
+<img class="image" width="600"  src="/images/chapter_3/9.png" />
 <br>
 Як бачимо, <b>радiан визначають через довжину дуги $$S$$.</b>
 <br>

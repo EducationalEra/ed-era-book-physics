@@ -5,7 +5,7 @@
 <br>
 <div class="space">Щоб розглядати такий рух, необхідно ввести дві вісі. Зручно обрати вертикальну та горизонтальну.</div>
 
-<img class="image" width="250" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/1.png" />
+<img class="image" width="250" src="/images/chapter_3/1.png" />
 
 <div class="space"><b>• Проекцiя на вертикальну вiсь</b>
 <br>

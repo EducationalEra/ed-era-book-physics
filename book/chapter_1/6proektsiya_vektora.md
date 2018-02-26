@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/11.svg" class="image"/>
+<img src="/images/chapter_1/11.svg" class="image"/>
 
 <br>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/12.svg" class="image"/>
+<img src="/images/chapter_1/12.svg" class="image"/>
 
 <br>
 

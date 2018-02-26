@@ -5,7 +5,7 @@
 
 Наприклад, нам потрiбно знайти перемiщення тiла, яке тіло здійснило з другої по четверту секунду, рухаючись з $$\upsilon_x$$ = 2м/с. З формули одержуємо: $$S_x =$$$$ \upsilon_x (t_2 - t_1) =$$$$ 2 \cdot(4-2) =$$$$ 4 \thinspace \text{м}.$$
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/15.svg" class="image"/>
+<img src="/images/chapter_1/15.svg" class="image"/>
 
 Із графiка видно, що проекцiя перемiщення на вiсь $$x$$ дорiвнює площi прямокутника, обмеженого лiнiєю $$\upsilon_x=2$$ та лiнiями $$t= t_1 = 2, \ t= t_2 =4$$.
 
@@ -18,7 +18,7 @@
 </div>
 
 
-<img width="400" src="https://pp.vk.me/c624926/v624926986/e384/F03SiVl6UXg.jpg"/ class="image">
+<img width="400" src="/assets/F03SiVl6UXg.jpg"/ class="image">
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
 

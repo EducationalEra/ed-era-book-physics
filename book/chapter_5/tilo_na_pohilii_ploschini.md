@@ -2,7 +2,7 @@
 
 <div class="space">Багато задач стосуються тiл, якi розташовані на похилiй площинi.</div>
 
-<div class="space"><img class="image" width="300" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/10.png" align="center"></div>
+<div class="space"><img class="image" width="300" src="/images/chapter_5/10.png" align="center"></div>
 
 <div class="space">Розберімося з цим типом завдань на конкретних експериментах.</div>
 
@@ -62,7 +62,7 @@
 <div class="space"><b>Момент перед початком руху другого тiла вниз</b> <br>
 У цей момент сила тертя, що дiє на перше тiло, напрямлена вниз по похилiй площинi. Прискорення у цей момент ще дорiвнює нулеві. Сила тертя дорiвнює максимальнiй силi тертя спокою $$\mu N$$.</div>
 
-<div class="space"><img class="image" width="403" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/12.png"></div>
+<div class="space"><img class="image" width="403" src="/images/chapter_5/12.png"></div>
 
 Проекцiя на вiсь $$x$$ для першого тіла: 
 
@@ -94,7 +94,7 @@
 <b>Момент перед початком руху другого тiла вгору</b>
 <div class="space">Тут вiдмiннiсть у тому, що сила тертя для першого тiла тепер напрямлена в інший бік. Тобто, збігається за напрямом з силою натягу нитки. Далi проводимо аналогiчнi до першого випадку розрахунки.</div>
 
-<div class="space"><img class="image" width="400" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/13.png"></div>
+<div class="space"><img class="image" width="400" src="/images/chapter_5/13.png"></div>
 
 Проекцiя на вiсь $$x$$ для першого тiла:
 

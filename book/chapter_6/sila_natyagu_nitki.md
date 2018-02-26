@@ -26,7 +26,7 @@
 
 <div class="space">Якщо нитка не знаходиться у площинi обертання (це вiдбувається за рахунок сили тяжiння), тоді доцентрове прискорення створює горизонтальна складова сили натягу нитки.</div>
 
-<div class="space"><img class="image" width="222" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/6.png"></div>
+<div class="space"><img class="image" width="222" src="/images/chapter_6/6.png"></div>
 
 За другим законом Ньютона:
 
@@ -51,10 +51,10 @@
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<div class="space"><img class="image" width="238" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/7.png"></div>
+<div class="space"><img class="image" width="238" src="/images/chapter_6/7.png"></div>
   </div>
   <div class="tab-pane" id="decision">
-<div class="space"><img class="image" width="238" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/7.png"></div>
+<div class="space"><img class="image" width="238" src="/images/chapter_6/7.png"></div>
 <p><b><i>Розв’язок.</i> </b> </p>
 <p>Запишемо 2 закон Ньютона:</p>
 
@@ -102,7 +102,7 @@
 </table> </div> </div>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<div class="space"><img class="image" width="238" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/7.png"></div>
+<div class="space"><img class="image" width="238" src="/images/chapter_6/7.png"></div>
 <div class="space"><b>Доцентрове прискорення:</b></div>
 
 <div class="space"><div class="centered-table-wrapper">
@@ -170,7 +170,7 @@
 <ol>
 <div class="space"><li>Розписуємо усi сили, що дiють на тiло в данiй точцi (пр. 1 точка у рис. вгорi):</div>
 
-<div class="space"><img class="image" width="404" height="177" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/9.png"></div>
+<div class="space"><img class="image" width="404" height="177" src="/images/chapter_6/9.png"></div>
 
 <div class="space" align="center">$$m \vec{g} + \vec{F_{H1}} = m \vec{a}$$</div>
 </li>

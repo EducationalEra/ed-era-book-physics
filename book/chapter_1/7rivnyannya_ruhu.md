@@ -20,7 +20,7 @@ $$\upsilon_x$$ - проекцiя швидкостi на вiсь $$x$$.
 </div>
 </div>
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/13.svg" class="image"/>
+<img src="/images/chapter_1/13.svg" class="image"/>
 
 <div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8q8XbaEuHZA" frameborder="0" allowfullscreen></iframe>
@@ -45,10 +45,10 @@ $$\upsilon_x$$ - проекцiя швидкостi на вiсь $$x$$.
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/14.svg" class="image"/></p>
+<p><img src="/images/chapter_1/14.svg" class="image"/></p>
   </div>
   <div class="tab-pane" id="decision">
-<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/14.svg" class="image"/></p>
+<p><img src="/images/chapter_1/14.svg" class="image"/></p>
 <p><b><i>Розв’язок.</i> </b> </p>
 <p>Рiвняння руху має такий вигляд</p>
 <p>\[x = x_0 + \upsilon_x t \Rightarrow\]</p>
@@ -66,7 +66,7 @@ $$\upsilon_x$$ - проекцiя швидкостi на вiсь $$x$$.
 	<p>Все ж таки хлопцю сьогоднi пощастило i вiн встигне дiстатися своєї домiвки цiлим та неушкодженим.</p>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/14.svg" class="image"/></p>
+<p><img src="/images/chapter_1/14.svg" class="image"/></p>
 <p>Собака наздожене Петра за:</p> 
 <p>\[20 + 10 t = -5 + 15t \Rightarrow \boxed{t= 5\thinspace c}\]</p>
 <p>За цей час Петро може пробiгти:</p>

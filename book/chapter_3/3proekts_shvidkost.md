@@ -43,7 +43,7 @@
 мiж дотичною та вiссю $$x$$ – гострий. У другiй точцi (верхня точка траєкторiї) $$\upsilon_y=0$$, кут дорiвнює нулеві. У третiй точцi $$\upsilon_y < 0$$, кут – тупий.
 <p></p>
 <div class="space">Знайти кожну з проекцiй у певній точцi можна, знаючи модуль миттєвої швидкостi та кут мiж дотичною та вiссю $$x$$. Наприклад, якщо вiдомо, що тiло кинуто пiд кутом $$\alpha$$ до горизонту зi швидкiстю $$\upsilon$$.</div>
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/3.png" /></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_3/3.png" /></div>
 <p></p>
 <div class="space">Iз тригонометричних спiввiдношень у прямокутному трикутнику:</div>
 <div class="space"><div class="centered-table-wrapper">
@@ -89,7 +89,7 @@
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="decision">
 <p><b><i>Розв’язання.</i> </b> </p>
-<p><div class="space"><img class="image" width="700" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/4.png" /></div> </p>
+<p><div class="space"><img class="image" width="700" src="/images/chapter_3/4.png" /></div> </p>
 <p>Розглянемо кожен графiк:</p>
 
 <b>Траєкторiя</b> $$y(x)$$
@@ -108,7 +108,7 @@
 <p style="margin-left:1cm;">Під час вибору осей в такий спосіб, як зазначено в умовi, $$\upsilon_{0y} \gt 0$$. З плином часу ця проекцiя стає рiвною нулеві (верхня точка траєкторiї), а потiм проекцiя стає вiд’ємною (рух донизу).</p>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p><div class="space"><img class="image" width="700" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/4.png" /></div> </p>
+<p><div class="space"><img class="image" width="700" src="/images/chapter_3/4.png" /></div> </p>
   </div>
   <div class="tab-pane" id="hide"></div>
 </div>

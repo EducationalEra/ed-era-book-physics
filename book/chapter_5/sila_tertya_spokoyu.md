@@ -1,68 +1,214 @@
-# Сила тертя спокою
+# Сила тертя ковзання
+
+Пiсля того, як ви зрушили тiло, тобто приклали потрiбну силу $$F = \mu_c N$$, тiло починає ковзати по поверхнi. Тепер у дiю вступає <span class"p1"><b>сила тертя ковзання $$F_T^k = \mu_k N$$.</b></span>
+
+<div class="space"><img class="image" width="267" src="/images/chapter_5/4.png"></div>
+
+<div class="space">Щоб тiло ковзало з рiвномiрною швидкiстю, за другим законом Ньютона:</div>
+
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$F = F_T = \mu_k N$$</p1>
+</td>
+</tr>
+</table></div></div>
+
+<div class="space">Сила тертя ковзання на вiдмiну вiд сили тертя спокою – постiйна. Вона не залежить вiд прикладеної сили. Якщо прикладена сила буде бiльшою за силу тертя ковзання – тiло буде рухатися з прискоренням, якщо рiвною – з постiйною швидкiстю.</div>
+
+<div class="space"><p class="p3"><font color="red"><b>Важливо$$\Large!$$</b></font> Якщо самостiйно провести аналiз, не важко пересвiдчитися, що зсунути тiло важче, нiж потiм штовхати його з рiвномiрною швидкiстю. Максимальна сила тертя спокою (сила, яку треба прикласти, щоб зрушити тiло) бiльша за силу тертя ковзання. Тому є рiзниця мiж коефiцiєнтами тертя спокою $$\mu_c$$ та ковзання $$\mu_k$$.</p></div>
+
+<div class="space"><div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<p1>$$\mu_c > \mu_k$$</p1>
+</td>
+</tr>
+</table></div></div>
+
+<table style="width: 75%;" align="center">
+    <body>
+        <tr>  
+            <td align="center" valign="top">
+                <b>Поверхні</b>
+            </td>  
+            <td align="center" valign="top">
+                <b>Коефіцієнт тертя спокою</b>
+            </td>
+            <td align="center" valign="top">
+                <b>Коефіцієнт тертя ковзання</b>
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td align="center" valign="top">
+                <b>Дерево/дерево</b>
+            </td>  
+            <td align="center" valign="top">
+                $$0.4$$
+            </td>
+            <td align="center" valign="top">
+                $$0.2$$
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td align="center" valign="top">
+                <b>Лід/лід</b>
+            </td>  
+            <td align="center" valign="top">
+                $$0.1$$
+            </td>
+            <td align="center" valign="top">
+                $$0.03$$
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td align="center" valign="top">
+                <b>Метал/метал (з лубрикантом)</b>
+            </td>  
+            <td align="center" valign="top">
+                $$0.15$$
+            </td>
+            <td align="center" valign="top">
+                $$0.07$$
+            </td>                    
+        </tr>
+
+        <tr>  
+            <td align="center" valign="top">
+                <b>Метал/метал (без лубриканта)</b>
+            </td>  
+            <td align="center" valign="top">
+                $$0.7$$
+            </td>
+            <td align="center" valign="top">
+                $$0.6$$
+            </td>                    
+        </tr>
+
+    </body>
+</table>
+
+
+<div class="space">У <b>ЗНО</b> та шкiльнiй фiзицi часто використовують лише коефiцiєнт тертя ковзання. Отже, коли не сказано, який саме коефiцiєнт дано, то це означає, що мають на увазi коефiцiєнт тертя ковзання.</div>
+
+<div class="space">Побудуймо графiк залежностi сили тертя вiд прикладеної сили.</div>
+
+<div class="space"><img class="image" width="323" src="/images/chapter_5/6.png"></div>
+
+<ol>
+<li>
+<div class="space">Поки тiло у спокої, збiльшення прикладеної сили $$\vec{F}$$ викликає пропорцiйне збiльшення сили тертя спокою i при цьому $$F_T = F$$.</div>
+</li>
+<li>
+<div class="space">Коли прикладена сила стає рiвною $$F = \mu_c N$$, тiло зрушиться з мiсця.</div>
+</li>
+<li>
+<div class="space">Під час руху тіла дiє постiйна сила тертя ковзання $$F_T = \mu_k N < \mu_c N$$.</div>
+</li>
+</ol>
+
+<div class="space">Шкала графiка зображена для випадку з коефiцiєнтом тертя спокою $$\mu_c = 0.39$$, коефiцiєнтом тертя ковзання $$\mu_k = 0.3$$ та масою тiла $$10$$ кг на горизонтальнiй площинi.</div>
+
+<div class="space">
+<div class="task-wrap">
+<span class="task">Задача 1</span> <b>ШТОВХАТИ ЧИ ТЯГТИ?</b>
+<div class="task-text">
+<p>Уявiть ситуацiю: вам потрiбно покатати на санчатах маленького Петра (iм’я не впливає на розв’язок задачi).<br>У якому випадку вам потрiбно прикласти меншу силу, щоб з постiйною швидкiстю везти санчата?</p>
+<p>
+<ul class="nav-tab" id="mytab">
+<button class="btn" data-target="#decision" data-toggle="pill">Розв’язання</button>
+<button class="btn" data-target="#answer" data-toggle="pill">Вiдповiдь</button>
+<button class="btn" data-target="#hide" data-toggle="pill">Приховати</button>
+</ul>
+<div id="mytab" class="tab-content">
+  <div class="tab-pane" id="decision">
+<p><b><i>Розв’язок.</i> </b> </p>
+<br>
 
 <div class="fluidMedia">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FBW8ejnRhwU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rp2R0e6M51Y" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="popup">
 </div>
+<br>
+<br>
+
+<img class="image" width="550" src="/images/chapter_5/7.png" align="center">
 
 <br>
 <br>
 
-<div class="space">Нехай на поверхнi лежить тіло. До нього прикладено двi сили: сила тяжiння $$m \vec{g}$$ та сила реакцiї опори $$\vec{N_{}}$$. Другий закон Ньютона справджується. Двi сили врiвноважують одна одну i маємо нульове прискорення.</div>
+<p>Зобразімо всi сили, які діють на санчата у двох випадках.</p>
 
-<div class="space"><img class="image" width="334" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/2.png"></div>
+<img class="image" width="550" src="/images/chapter_5/8.png" align="center">
 
-<div class="space"><p class="p3">Тепер почнемо прикладати невелику горизонтально спрямовану силу до тiла, але воно все одно поки не рухається. Зрозумiло, що для того, щоб другий закон Ньютона далі справджувався, повинна з’явитися сила, яка врiвноважує ту, яку ми приклали до тiла, це сила тертя $$\vec{F_T}$$.</p></div>
+<ol>
+<li>
+<p>Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.</p>
+<p>Проекцiя на вiсь $$y: -mg + N - F \sin \alpha = 0 \Rightarrow$$$$ N = mg + F \sin \alpha $$.</p>
+<p>Проекцiя на вiсь $$x: F \cos \alpha - F_T = 0 \Rightarrow$$$$ F = \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.</p>
+<p>Сила тертя ковзання: $$F_T = \mu N$$.</p>
+<p>Пiдставимо отриману силу $$N$$.</p>
 
-<div class="space"><p class="p3"><em> Ми з вами домовилися, що для легкостi зображення позначатимемо всi сили, прикладенi до тiла з рiвномiрним розподiлом маси, використовуючи наближення матерiальної точки. Взагалi-то, сила тертя, наприклад, повинна йти вздовж поверхнi, а сила реакцiї опори вiд самої опори. Коли буде важливо враховувати форму тіла i точку прикладання сили, ми це обов’язково робитимемо.</em></p></div>
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<span class="p1">$$F_T = \mu N =$$$$ \mu (mg + F \sin \alpha) \Rightarrow$$$$ F = \dfrac{\mu (mg + F \sin \alpha)}{\cos \alpha}$$</span>
+</td>
+</tr>
+</table>
+</div>
+</li>
 
-<div class="space"><img class="image" width="334" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/3.png"></div>
+<li><p>Другий закон Ньютона: $$\vec{F} + \vec{F_T} +\vec{N} + m \vec{g} = 0$$.</p>
+<p>Проекцiя на вiсь $$y: -mg + N + F \sin \alpha = 0 \Rightarrow$$$$ N =$$$$ mg - F \sin \alpha $$.</p>
+<p>Проекцiя на вiсь $$x: F \cos \alpha - F_T =$$$$ 0 \Rightarrow$$$$ F =$$$$ \dfrac{F_T}{\cos \alpha}$$ – прикладена сила.</p>
+<p>Сила тертя ковзання: $$F_T =$$$$ \mu N$$.</p>
+<p>Пiдставимо отриману силу $$N$$.</p>
+<div class="centered-table-wrapper">
+<table class="centered-table">
+<tr class="eq">
+<td class="eq">
+<span class="p1">$$F_T =$$$$ \mu N =$$$$ \mu (mg - F \sin \alpha) \Rightarrow$$$$ F =$$$$ \dfrac{\mu (mg- F \sin \alpha)}{\cos \alpha}$$</span>
+</td>
+</tr>
+</table>
+</div>
+</li>
+</ol>
+<p>Як бачите, у другому випадку вертикальна складова прикладеної сили напрямлена в протилежну сторону до сили тяжiння, тим самим зменшуючи силу реакцiї опори $$N$$. У свою чергу сила тертя, що пропорцiйна $$N$$, також менша.</p>
+<p><b>Вiдповiдь: тягти.</b> </p>
 
-<div class="space">Сила тертя, яка виникає мiж поверхнею та тiлом, коли воно ще нерухоме, називається <span class="p1"><b>силою тертя спокою.</b></span> Для того, щоб прискорення тiла дорiвнювало нулю, сила тертя спокою повинна дорiвнювати прикладенiй силi.</div>
-
-<div class="space" align="center">$$F_T = F$$</div>
-
-<div class="space"><p class="p3">Тепер намагаємось все ж таки зрушити тiло, приклавши бiльшу силу, а воно знову не рухається. Таким чином, виходить що сила тертя спокою знов-таки дорiвнює прикладенiй силi.</p></div>
-
-<div class="space"><img class="image" width="334" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/14.png"></div>
-
-<div class="space">У певний момент нашої прикладеної сили достатньо, щоб зрушити тiло. У цю переломну мить сила тертя спокою набуває свого <b>максимального значення $$F_{T\max}^c$$</b>. Верхнiй iндекс «$$c$$» означає, що ми розглядаємо силу тертя спокою.</div>
-
-<div class="space"><p class="p3">Визначимо, вiд чого залежить це максимальне значення.</p></div>
-
-<div class="space"><p class="p3">По-перше, воно залежить вiд того, як сильно взаємодiють мiж собою поверхня та тiло. Сила, яка вiдповiдає за таку взаємодiю – <span class="p1"><b>сила реакцiї опори $$N$$.</b></span></p></div>
-
-<div class="space"><p class="p3">По-друге, iснує залежнiсть вiд матерiалiв дотичних поверхонь. Коефiцiєнт, який характеризує тертя мiж матерiалами у станi спокою називається <span class="p1"><b>коефiцiєнтом тертя спокою $$\mu_c$$.</b></span></p></div>
-
-<div class="eoz-wrap">
-<span class="eoz">Визначення</span>
-<div class="eoz-text">
-<b>Сила тертя спокою $$F_T^c$$</b> – сила, що виникає при спробi зрушити тiло. Спрямована вздовж лiнiї стику поверхонь та в протилежну сторону до напрямку зовнішньої сили.
-<br>
-<br>
-
-Сила тертя спокою змiнюється в межах вiд нуля (вiдсутня прикладена сила) до максимального значення $$\mu_c N$$ (момент початку руху тiла):
-
-<div align="center">$$0 \le F_T^c \le \mu_c N$$</div>
+</div>
+  <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b> тягти.</p>
+  </div>
+  <div class="tab-pane" id="hide"></div>
+</div>
+</p>
 </div>
 </div>
+</div>
+<div class="space"></div>
 
-<br>
-<br>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>
-<p>Брусок масою $$15$$ кг лежить на поверхні з коефіцієнтом тертя спокою $$\mu_c = 0,5$$ і коефіцієнтом тертя ковзання $$\mu_к=0,3$$. Чи вистачить сили у $$60 \thinspace Н$$ зрушити його з місця?</p>
+<p>Брусок масою $$15$$ кг лежить на поверхні з коефіцієнтом тертя спокою $$\mu_c=0,5$$ і коефіцієнтом тертя ковзання $$\mu_к=0,3$$. Чи вистачить сили $$55$$ Н, щоб рухати брусок?</p>
  
-<answer correct> Ні</answer>
-<answer> Так</answer>
+<answer> Ні</answer>
+<answer correct> Так</answer>
 <explanation>
 Вага бруска: $$N = mg = 150 \thinspace H$$
 <br>
-Сила тертя спокою: $$F_{к} = \mu_к N = 0,5 \cdot 150 = 75 \thinspace H$$
+Сила тертя ковзання: $$F_{к} = \mu_к N = 0,3 \cdot 150 = 45 \thinspace H$$
 <br>
-Отже, нашої сили буде недостатньо для зрушення бруска з місця, так як сила тертя спокою більша за прикладену.
+Отже сила тертя ковзання менша за прикладені $$55$$ Н, і брусок може рухатись під дією цієї сили.
 </explanation>
 </question>
 </quiz>

@@ -8,7 +8,7 @@
 
 <div class="space">У попередній частині було розглянуто умову рiвноваги, де головним чином важливо, щоб рiвнодiйна сил дорiвнювала нулеві. Зараз ви зрозумiєте, що це лише одна з умов але її може бути недостатньо.</div>
 
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/18.png"></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_6/18.png"></div>
 
 <div class="space">На рисунку вище зображено поверхню, на якiй закрiплено брусок таким чином, що вiн може обертатися (вiсь обертання на рис.). До протилежних сторiн прикладено однаковi сили.</div>
 
@@ -18,13 +18,13 @@
 
 <div class="space"><p class="p3">Справдi, незважаючи на те, що сума прикладених сил дорiвнює нулеві (маємо двi сили, спрямовані в протилежнi напрямки), рiвновага вiдсутня.</p><div>
 
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/19.png"></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_6/19.png"></div>
 
 <div class="space">Ще одне важливе спостереження. Нехай тi самi двi сили прикладенi так, як зображено на рисунку вище. Iнтуїтивно зрозумiло, що брусок не буде обертатися i залишиться у станi рiвноваги. З цього конкретного прикладу можна зробити висновок, що є якась величина, яка залежить вiд сили та вiдстанi вiд осi обертання. Ця величина називається <span class="p1"><b>моментом сил</b></span> i перед тим, як отримати другу умову рiвноваги тiла, ми повиннi розглянути це поняття.</div>
 
 <div class="space"><p class="p3">Поговорімо про простий приклад iз повсякденного життя. Маємо звичайнi дверi та два випадки. Перший, ручка крiпиться на краю дверей, подалi вiд вiсi обертання. До такої ситуацiї ми звикли, так зазвичай i роблять. У другому випадку ручка прикрiплена ближче до осі обертання.</p></div>
 
-<div class="space"><img class="image" width="550"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/20.png"></div>
+<div class="space"><img class="image" width="550"  src="/images/chapter_6/20.png"></div>
 
 <div class="space"><p class="p3">Якщо ви спробуєте перевiрити, в якому з випадкiв вiдчиняти дверi легше, то пересвiдчитесь, що це вiдбувається, коли ручку розмiщено далi вiд осi обертання. Отже, можна зробити висновок, що iснує величина, яка характеризує обертання тiла, i вона залежить вiд сили, яка прикладається до певної точки цього тiла та вiд вiдстанi до осi обертання.</p></div>
 
@@ -41,13 +41,13 @@
 
 <div class="space">Момент сили характеризує обертання тiла. Обертання може бути як за годинниковою стрiлкою, так i проти. Домовимося, що якщо маємо перший варiант, то момент сили – додатнiй, якщо проти – вiд’ємний.</div>
 
-<div class="space"><img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/21.png"></div>
+<div class="space"><img class="image" width="600"  src="/images/chapter_6/21.png"></div>
 </div>
 </div>
 
 <div class="space"><p class="p3">Слiд ще пояснити поняття <b>плече сили</b>. Це перпендикуляр, проведений вiд осі обертання до лiнiї дiї сили. Маємо три ситуацiї:</p></div>
 
-<div class="space"><img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/22.png"></div>
+<div class="space"><img class="image" width="600"  src="/images/chapter_6/22.png"></div>
 
 <div class="space">У кожнiй з них є брусок, який по центру має вiсь обертання. Вiдстань вiд осі обертання до точки прикладання сили – $$R$$. Важливо розумiти, що плече сили $$l \not= R$$. Розглянемо ситуацiї по порядку:</div>
 
@@ -92,7 +92,7 @@
 
 <p class="p3"><div class="space">Розглянемо використання другої умови рiвноваги на прикладах. Маємо стрижень, закріплений на вертикальнiй стiйцi таким чином, що вiн може обертатися. Стрижень однорiдний та має певну масу $$M$$. Довжина однiєї подiлки нехай буде умовно: $$d$$.</div></p>
 
-<div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/23.png"></div>
+<div class="space"><img class="image" width="350"  src="/images/chapter_6/23.png"></div>
 
 <div class="space"><p class="p3">Якщо закрiпити його чітко по центру, то обертатися вiн не буде. Ситуацiя вiдповiдає обом умовам рiвноваги.</p></div>
 
@@ -100,7 +100,7 @@
 
 <div class="space"><p class="p3">Тепер підвісимо два вантажi маси $$m$$ на краях стрижня.</p></div>
 
-<div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/24.png"></div>
+<div class="space"><img class="image" width="350"  src="/images/chapter_6/24.png"></div>
 
 <div class="space">Iнтуїтивно зрозумiло, що стрижень знову буде перебувати у станi рiвноваги. Розгляньмо детальнiше з точки зору умов рiвноваги.</div>
 
@@ -110,7 +110,7 @@
 
 <div class="space">Тепер перший вантаж залишемо без змiн, а от справа пiдвiсимо два вантажi на вiдстанi трьох подiлок вiд осi обертання.</div>
 
-<div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/25.png"></div>
+<div class="space"><img class="image" width="350"  src="/images/chapter_6/25.png"></div>
 
 <div class="space">Можливо, на цьому етапі ще не зрозуміло, але ми маємо знову стан рiвноваги. З першою умовою все, як завжди, зрозумiло, а от другу потрiбно розглянути детальніше.</div>
 
@@ -118,7 +118,7 @@
 
 <p class="p3"><div class="space">Тепер ще трiшки складнiше :)</div></p>
 
-<div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/26.png"></div>
+<div class="space"><img class="image" width="350"  src="/images/chapter_6/26.png"></div>
 
 <div class="space">Тут вже маємо три ненульових моменти вiдносно осi обертання i знову ж таки маємо стан рiвноваги.</div> 
 
@@ -150,10 +150,10 @@
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/27.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_6/27.png"></div>
   </div>
   <div class="tab-pane" id="decision">
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/27.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_6/27.png"></div>
 <p><b><i>Розв’язок.</i> </b> </p>
 <p>Отже, обважити на 200 г... Для цього магнiт повинен створювати той самий момент сили вiдносно осi терезів, що i 200 г товару з плечем в 20 см:</p>
 
@@ -193,10 +193,10 @@
 </ul>
 <div id="pr1" class="tab-content">
   <div class="tab-pane" id="plot1">
-<p><div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/28.png"></div> </p>
+<p><div class="space"><img class="image" width="400"  src="/images/chapter_6/28.png"></div> </p>
   </div>
   <div class="tab-pane" id="decision1">
-<p><div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/28.png"></div> </p>
+<p><div class="space"><img class="image" width="400"  src="/images/chapter_6/28.png"></div> </p>
 <p><b><i>Розв’язок.</i> </b> </p>
 <p>Момент сили, що створює блок своєю вагою вiдносно точки опори:</p>
 
@@ -211,7 +211,7 @@
 <p>Отже, невдаху врятовано, оскiльки сумарний момент сил робiтникiв бiльший, нiж момент сили, що створює блок вiдносно точки опори!</p>
   </div>
   <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b></p>
-<p><div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/28.png"></div> </p>
+<p><div class="space"><img class="image" width="400"  src="/images/chapter_6/28.png"></div> </p>
 <p>Hевдаху врятовано, оскiльки сумарний момент сил робiтникiв бiльший, нiж момент сили, що створює блок вiдносно точки опори.</p>
   </div>
   <div class="tab-pane" id="hide1"></div>

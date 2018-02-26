@@ -2,7 +2,7 @@
 
 Пiсля того, як ви зрушили тiло, тобто приклали потрiбну силу $$F = \mu_c N$$, тiло починає ковзати по поверхнi. Тепер у дiю вступає <span class"p1"><b>сила тертя ковзання $$F_T^k = \mu_k N$$.</b></span>
 
-<div class="space"><img class="image" width="267" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/4.png"></div>
+<div class="space"><img class="image" width="267" src="/images/chapter_5/4.png"></div>
 
 <div class="space">Щоб тiло ковзало з рiвномiрною швидкiстю, за другим законом Ньютона:</div>
 
@@ -138,14 +138,14 @@
 <br>
 <br>
 
-<img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/7.png" align="center">
+<img class="image" width="550" src="/images/chapter_5/7.png" align="center">
 
 <br>
 <br>
 
 <p>Зобразімо всi сили, які діють на санчата у двох випадках.</p>
 
-<img class="image" width="550" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/8.png" align="center">
+<img class="image" width="550" src="/images/chapter_5/8.png" align="center">
 
 <ol>
 <li>

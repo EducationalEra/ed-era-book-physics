@@ -4,7 +4,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hcLpJc_JgKw" frameborder="0" allowfullscreen></iframe>
 </div></div>
 
-<div class="space"><img class="image" width="600" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/10.png"></div>
+<div class="space"><img class="image" width="600" src="/images/chapter_3/10.png"></div>
 
 <p class="p3">На рисунку зображено швидкiсть $$\vec{\upsilon}$$, яка напрямлена для наочності вздовж осi $$x$$.</p>
 

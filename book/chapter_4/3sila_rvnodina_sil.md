@@ -100,7 +100,7 @@
 <br>
 <br>
 
-<center><img class="image" width="200" src="../../images/chapter_4/rec2_fixed.png"></center>
+<center><img class="image" width="200" src="/images/chapter_4/rec2_fixed.png"></center>
 
 <br>
 <br>
@@ -113,8 +113,8 @@
 Таким чином, дiя чотирьох сил на тiло з точки зору розв’язання задач на динамiку – те саме, що розглядати дiю однiєї сили на тiло. 
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p><center><img class="image" width="300" src="../../images/chapter_4/rec_fixed.png"></center> </p>
-<p><center><img class="image" width="200" src="../../images/chapter_4/rec2_fixed.png"></center> </p>
+<p><center><img class="image" width="300" src="/images/chapter_4/rec_fixed.png"></center> </p>
+<p><center><img class="image" width="200" src="/images/chapter_4/rec2_fixed.png"></center> </p>
 <p><center>$$|\vec{F_{ }}| = \sqrt{0.5^2 + 0.5^2} \approx 0.71 \thinspace (H)$$</center> </p>
 <p>Дiя чотирьох сил на тiло з точки зору розв’язання задач на динамiку – те саме, що розглядати дiю однiєї сили на тiло. </p>
   </div>

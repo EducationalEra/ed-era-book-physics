@@ -114,11 +114,11 @@
 
 <div class="space"><p class="p3">Тепер ми маємо все, щоб записати фундаментальний закон, який пов’язує силу пружностi з видовженням тiла:</p></div>
 
-<div class="space"><img class="image" height="150" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/20.png"></div>
+<div class="space"><img class="image" height="150" src="/images/chapter_4/20.png"></div>
 
 <div class="space">Закон Гука стверджує про пропорцiйнiсть мiж силою пружностi $$F_П$$, що виникає внаслiдок деформацiї, i розтягу (стиску) тiла $$\Delta l$$. Що бiльший коефiцiєнт жорсткостi $$k$$, то швидше зi збiльшенням видовження зростає сила пружностi, яка намагається повернути тiло в його «звичний» стан. На рисунку $$k = tg\ \alpha$$.</div>
 
-<div class="space"><img class="image" width="314" height="242" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_4/21.png"></div>
+<div class="space"><img class="image" width="314" height="242" src="/images/chapter_4/21.png"></div>
 
 Зауважимо, що закон Гука в реальному життi справджується до <b>певної межi (межі пружності)</b> механiчної напруги. Пiсля цiєї межi тiло вже стає деформованим i не повертається в початковий стан. У школi такого випадку не розглядають.
 

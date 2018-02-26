@@ -21,7 +21,7 @@
 * Швидкість постійна – $$\vec{\upsilon} = const$$ (лат. <i>constanta</i> – постійна). Відповідно, прискорення – $$\vec{a} = 0$$.
 * Траєкторiя руху – пряма лiнiя $$\rightarrow$$ модуль перемiщення збігається зi шляхом $$| \vec{S_{}}| = l$$
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/5.svg" class="image"/>
+<img src="/images/chapter_1/5.svg" class="image"/>
 
 На рисунку зображена залежнiсть пройденого шляху вiд часу $$l(t)$$. За рівномірного прямолінійного руху:
 
@@ -48,7 +48,7 @@
 
 Розберiмося з кутом нахилу прямої $$l(t)$$ детальніше для другого випадку.
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/6.svg" class="image"/>
+<img src="/images/chapter_1/6.svg" class="image"/>
 
 <b>Формульно</b>: тiло пройшло шлях 5 метрiв за 5 секунд $$\Rightarrow$$ </br>
 
@@ -67,7 +67,7 @@
 </div>
 </div>
 
-<img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/7.svg" class="image"/>
+<img src="/images/chapter_1/7.svg" class="image"/>
 <div class="caption">
     Графiк залежностi модуля швидкостi вiд часу $$\upsilon(t)$$ для трьох випадкiв.
 </div>
@@ -91,10 +91,10 @@
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/8.svg" class="image"/></p>
+<p><img src="/images/chapter_1/8.svg" class="image"/></p>
   </div>
   <div class="tab-pane" id="decision">
-<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/8.svg" class="image"/></p>
+<p><img src="/images/chapter_1/8.svg" class="image"/></p>
 <p><b><i>Розв’язання.</i> </b> </p>
 <p>Нехай $$S_2$$ - вiдстань, яку проїхав Петро за пiвгодини. </p>
 <p>\[	S_2 = \upsilon_1 t_1 \]</p>
@@ -126,7 +126,7 @@ t = \dfrac{S - \upsilon_1 t_1}{\upsilon_1}
 <p>\[\upsilon_2 = 2\upsilon_1 = 30 \thinspace (\text{км/год})\]</p>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_1/8.svg" class="image"/></p>
+<p><img src="/images/chapter_1/8.svg" class="image"/></p>
 <p>\[\upsilon_1 = \dfrac{S}{2t_1} = \dfrac{15}{2\cdot 0.5} = 15\thinspace (\text{км/год}) \]</p>
 <p>\[\upsilon_2 = 2\upsilon_1 = 30 \thinspace (\text{км/год})\]</p>
   </div>

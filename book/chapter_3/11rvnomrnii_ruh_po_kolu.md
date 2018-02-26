@@ -118,10 +118,10 @@
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<p><img class="image" width="225"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png"></p>
+<p><img class="image" width="225"  src="/images/chapter_3/13.png"></p>
   </div>
   <div class="tab-pane" id="decision">
-<p><img class="image" width="225"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png"></p>
+<p><img class="image" width="225"  src="/images/chapter_3/13.png"></p>
 <p><b><i>Розв’язання.</i> </b> </p>
 <p>Перш за все, час спостерiгання $$0.5$$ хв потрiбно перевести у СI: $$0.5$$ хв $$= 30$$ с.</p>
 
@@ -168,7 +168,7 @@
 </ul>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p><img class="image" width="225"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/13.png"></p>
+<p><img class="image" width="225"  src="/images/chapter_3/13.png"></p>
 <ul>
 <li>
 Перiод обертання кульки:
