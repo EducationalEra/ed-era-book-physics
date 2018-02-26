@@ -3,7 +3,7 @@
 Нехай маємо два тіла, які зіштовхнулися абсолютно пружно. Розглядаємо одновимірний загальний випадок на прикладі двох тіл. Тобто маємо довільне співвідношення мас цих тіл та довільні швидкості обох тіл.
 <br>
 <br>
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/28.png"></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_7/28.png"></div>
 <br>
 <p>У попередньому розділі ми вже встановили, що якщо ми працюємо з абсолютно пружним зіткненням, то кінетична енергія до зіткнення дорівнює кінетичній енергії після зіткнення. Отже, можемо записати два рівняння в загальному випадку: <span class="p1"><b>закон збереження імпульсу</b></span> та <span class="p1"><b>закон збереження механічної енергії</b></span>. Ще одне зауваження: оскільки наразі ми маємо одновимірну задачу, тобто тіла можуть рухатися тільки по горизонталі, працюємо одразу зі скалярними величинаами і домовимось, що швидкість $$\upsilon \gt 0$$, якщо напрямлена вправо, і $$\upsilon \lt 0$$, якщо напрямлена вліво.</p>
 <br>
@@ -76,7 +76,7 @@ $$
 <span class="p1"><b><li>Маса другого тіла набагато більша за масу першого.</b></span> Перше тіло рухається зі швидкістю $$\upsilon_1$$ на друге тіло, яке перебуває у стані спокою $$(\upsilon_2 = 0)$$.
 <br>
 <br>
-<center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/29.png"></center>
+<center><img class="image" width="300"  src="/images/chapter_7/29.png"></center>
 <br>
 <br>
 Спочатку інтуіція. Уявіть зображену вище ситуацію. Наприклад, тенісний м’ячик зіштовхується з нерухомим м’ячем для боулінгу. Інтуіція підказує, що тенісний м’ячик відлетить назад, а м’яч для боулінгу майже не поворухнеться. Перевірмо за допомогою формул $$(11)$$  і $$(12)$$. Для ситуації з другим нерухомим тілом формули виглядають так:
@@ -104,7 +104,7 @@ $$
 <li>Маси тіл – однакові.</b></span> Друге тіло перебуває у стані спокою, а перше рухається до нього зі швидкістю $$\upsilon_1$$.
 <br>
 <br>
-<center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/30.png"></center>
+<center><img class="image" width="300"  src="/images/chapter_7/30.png"></center>
 <br>
 <br>
 Знову запишемо рівняння $$(11)$$ і $$(12)$$:
@@ -128,7 +128,7 @@ $$
 Надзвичайно цікавий результат. Виходить, що <b>якщо маси тіл однакові і одне з тіл перебуває у стані спокою, а інше зіштовхується з ним (центральний удар), то перше тіло повністю зупиниться, а друге почне рухатись з тією ж швидкістю, з якою рухалося перше тіло до зіткнення.</b>
 <br>
 <br>
-<center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/31.png"></center>
+<center><img class="image" width="300"  src="/images/chapter_7/31.png"></center>
 <br>
 <br>
 Спостерігати таке явище можна під час гри у більярд, якщо ви поцілите однією кулею у центр другої кулі.
@@ -140,7 +140,7 @@ $$
 <span class="p1"><b><li>Маса першого тіла більша за масу другого тіла.</b></span> Друге тіло знову в стані спокою, а перше рухається до нього. Приготуйтесь до того, що це буде найцікавіший випадок!
 <br>
 <br>
-<center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/32.png"></center>
+<center><img class="image" width="300"  src="/images/chapter_7/32.png"></center>
 
 Знову скористаємося інтуїцією. Якщо велике тіло налітає на мале, то ймовірно, що перше тіло рухається далі в тому самому напрямку. Єдине запитання, що відбувається при цьому з малим тілом. Інтуїція підказує, що воно також буде рухатися в тому ж напрямку. Та чи швидше, ніж перше тіло? Якщо швидше, то наскільки? Пропоную знову ж таки записати рівняння $$(11)$$ і $$(12)$$ для даного випадку:
 <br>
@@ -192,10 +192,10 @@ $$
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/33.png"></center>
+<center><img class="image" width="300"  src="/images/chapter_7/33.png"></center>
   </div>
   <div class="tab-pane" id="decision">
-<center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/33.png"></center>
+<center><img class="image" width="300"  src="/images/chapter_7/33.png"></center>
 <p><b><i>Розв’язок.</i> </b> </p>
 <p>Оскільки удар центральний, задача одновимірна. Нехай позитивний напрямок осі – вправо. Тоді проекція швидкості $$\upsilon \gt 0$$, якщо швидкість напрямлена вправо і $$\upsilon \lt 0$$ при напрямку вліво. Зіткнення абсолютно пружне, отже, ми можемо записати закон збереження імпульсу та закон збереження механічної енергії.</p>
 <p>$$
@@ -241,12 +241,12 @@ $$</p>
 \end{cases}
 $$</p>
 <br>
-<p><center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/34.png"></center> </p>
+<p><center><img class="image" width="300"  src="/images/chapter_7/34.png"></center> </p>
 <br>
 <p>Ми прийшли до ще одного надцікавого висновку. Рівні за масою тіла при абсолютно пружному зіткненні «обмінюються» швидкостями (звичайно, імпульсами також).</p>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p><center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/33.png"></center> </p>
+<p><center><img class="image" width="300"  src="/images/chapter_7/33.png"></center> </p>
 <p>$$
 \begin{cases}
 \upsilon_1^\prime = \upsilon_2 = -15 \thinspace \text{м/с} \\
@@ -254,7 +254,7 @@ $$</p>
 \end{cases}
 $$</p>
 <br>
-<p><center><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/34.png"></center> </p>
+<p><center><img class="image" width="300"  src="/images/chapter_7/34.png"></center> </p>
 <br>
 <br>
 <p>Ми прийшли до ще одного надцікавого висновку. Рівні за масою тіла при абсолютно пружному зіткненні «обмінюються» швидкостями (звичайно, імпульсами також).</p>

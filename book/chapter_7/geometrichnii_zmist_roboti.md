@@ -10,4 +10,4 @@
 
 <div class="space"><p class="p3">Крім того, геометричний змiст роботи – унiверсальний. Його можна застосовувати не тiльки для постiйної сили. Робота завжди дорiвнює площi фiгури, обмеженної графiком сили, осями координат та прямою $$x = S$$.Наприклад, нехай ми маємо силу, яка лiнiйно залежить вiд $$x: \ F =$$$$ \dfrac{1}{2} \thinspace x$$, вiдстань, на яку посунули тіло, - $$8$$ метрів:</p></div>
 
-<img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/5.png">
+<img class="image" width="300"  src="/images/chapter_7/5.png">

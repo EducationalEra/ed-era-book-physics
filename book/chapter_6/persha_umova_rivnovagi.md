@@ -48,7 +48,7 @@
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<div class="space"><img class="image" width="250"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/16.png"></div>
+<div class="space"><img class="image" width="250"  src="/images/chapter_6/16.png"></div>
   </div>
   <div class="tab-pane" id="decision">
 <div class="space"><img class="image" width="250"  src="/images/chapter_6/16.png"></div>

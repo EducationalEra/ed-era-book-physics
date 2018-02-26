@@ -10,7 +10,7 @@
 
 <div class="space">Нехай машина масою $$m$$ розганяється зi швидкостi $$\upsilon_1$$ до $$\upsilon_2$$ протягом відстані $$d$$ пiд дiєю постiйної результуючої сили $$d$$:</div>
 
-<div class="space"><img class="image" width="500"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/20.png"></div>
+<div class="space"><img class="image" width="500"  src="/images/chapter_7/20.png"></div>
 
 <div class="space">Iз другого закону Ньютона:</div>
 
@@ -82,7 +82,7 @@
 
 <div class="space"><p class="p3">Нехай ви з постiйною швидкiстю $$\upsilon$$ піднімаєте тіло вгору вгору, прикладаючи силу $$\vec{F}$$.</p></div>
 
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/11.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_7/11.png"></div>
 
 <div class="space">Чому дорiвнює сумарна робота, яку було виконано над тiлом протягом піднімання на висоту $$h$$? З теореми, що маємо вище, виходить, що сумарна робота дорiвнює нулеві, адже $$\upsilon_2 =$$$$ \upsilon_1 =$$$$ \upsilon = const$$. Не вiриться? Перевiрмо.</div>
 

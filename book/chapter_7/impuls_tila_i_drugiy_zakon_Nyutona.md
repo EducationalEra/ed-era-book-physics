@@ -12,7 +12,7 @@ $$<p></p>
 <b>Iмпульс</b> – векторна величина, яка спiвнапрямлена з швидкiстю, оскільки його визначають як добуток скаляра $$m$$ на вектор $$\vec{\upsilon}$$.
 <br>
 <br>
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/21.png"></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_7/21.png"></div>
 <span class="p1">У <b>SI</b></span> – $$\dfrac{\text{кг} \cdot \text{м}}{\text{с}}$$
 <br>
 <br>
@@ -31,7 +31,7 @@ $$
 \vec{F_{}}_{12} = -\vec{F_{}}_{21}
 $$
 <br>
-<div class="space"><img class="image" width="500"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/22.png"></div>
+<div class="space"><img class="image" width="500"  src="/images/chapter_7/22.png"></div>
 <br>
 <br>
 Запишімо закон руху (другий закон Ньютона) для кожної з них:
@@ -137,7 +137,7 @@ $$
 <div class="task-text">
 <p>З якою силою футболіст б’є по м’ячу, який перебуває в стані спокою, якщо одразу після удару його швидкість – 150 км/год? Стандартний м’яч п’ятого розміру (розмір м’яча у великому футболі) має масу 450 грамів. Тривалість контакту м’яча з ногою приблизно 0,01 с.</p>
 <br>
-<p><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/23.png"> </p>
+<p><img class="image" width="300"  src="/images/chapter_7/23.png"> </p>
 <p>
 <ul class="nav-tab" id="mytab">
 <button class="btn" data-target="#decision" data-toggle="pill">Розв’язок</button>

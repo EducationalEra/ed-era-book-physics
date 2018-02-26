@@ -63,10 +63,10 @@
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/17.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_7/17.png"></div>
   </div>
   <div class="tab-pane" id="decision">
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/17.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_7/17.png"></div>
 <p><b><i>Розв’язання.</i> </b> </p>
 <div class="space">Для початку розпишімо повну механiчну енергiю для кожної з точок.</div>
 
@@ -108,7 +108,7 @@
 </table> </div> </div> 
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/17.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_7/17.png"></div>
 <div class="space"><div class="centered-table-wrapper">
 <table class="centered-table">
 <tr class="eq">
@@ -140,10 +140,10 @@
 </ul>
 <div id="mytab1" class="tab-content">
   <div class="tab-pane" id="plot1">
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/18.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_7/18.png"></div>
   </div>
   <div class="tab-pane" id="decision1">
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/18.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_7/18.png"></div>
 <p><b><i>Розв’язок.</i> </b> </p>
  <div class="space">Для початку порахуймо, має бути мiнiмальна лiнiйна швидкiсть вiзка, щоб вiн не «вiдiрвався» у верхнiй точцi. Ми це робили, розглядаючи динаміку руху тiла по колу, але згадаймо ще раз. У верхнiй точцi на вiзок дiють двi сили: сила тяжiння  $$mg$$ та сила реакцiї опори $$N$$. Обидвi – вертикально вниз. Вiзок вiдiрветься в той момент, коли сила реакцiї опори стане рiвною нулеві: це означатиме, що вiзок нiяк не тисне на опору. Доцентрове прискорення у верхнiй точцi також спрямоване вертикально вниз. Другий закон Ньютона:</div>
 
@@ -164,7 +164,7 @@
 <div align="center">$$mgH_{min} =$$$$ 2mgR =$$$$ \dfrac{mgR}{2} \Rightarrow H_{min} =$$$$ \dfrac{5gR}{2}$$</div>
   </div>
   <div class="tab-pane" id="answer1"><p><b>Вiдповiдь.</b></p>
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/18.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_7/18.png"></div>
 <div align="center">$$mgH_{min} =$$$$ 2mgR =$$$$ \dfrac{mgR}{2} \Rightarrow H_{min} =$$$$ \dfrac{5gR}{2}$$</div>
   </div>
   <div class="tab-pane" id="hide1"></div>

@@ -4,7 +4,7 @@
 
 <div class="space">Нехай вектор $$\vec{a}$$ починається в точці $$A$$ з координатами $$(x_1; y_1)$$ та закінчується в точці $$B$$ з координатами $$(x_2; y_2)$$. Тоді <b>координатами вектора</b> $$\vec{a}$$ називають числа $$a_1=x_2-x_1$$ та $$a_2=y_2-y_1$$. Координатне представлення вектора записують таким чином: $$\vec{a} \thinspace (a_1;a_2)$$.</div>
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/4.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/vector/4.svg" /></div>
 
 Виконаємо паралельне перенесення вектора $$\vec{a}$$. Новий вектор позначимо $$\vec{a}^{\prime}$$, і він матиме початок в точці $$A^{\prime} \thinspace (x_1+m;y_1+n)$$ та кінець в точці $$B^{\prime} \thinspace (x_2+m;y_2+n)$$. Координати нового вектора $$\vec{a}^{\prime} (a_1^{\prime};a_2^{\prime})$$:
 

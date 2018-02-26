@@ -50,7 +50,7 @@
 </tr>
 </table></div></div>
 
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/12.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_7/12.png"></div>
 
 <div class="space"><p class="p3"><font color="red"><b>$${\Large!}$$</b></font> Як бачимо, <b>робота сили тяжiння залежить лише вiд вертикальної вiдстанi</b> $$h$$, яку визначають початкова та кінцева координати $$y_1$$ та $$y_2$$. З iншого боку, <b>робота сили тяжiння не залежить вiд форми траєкторiї</b> руху тiла. Тож зрозуміло, що <b>робота сили тяжiння по замкненiй траєкторiї дорiвнює нулеві</b>, адже початкова i кiнцева координати збігаються. Сили, якi мають таку властивiсть, називаються <span class="p1"><b>консервативними</b></span>.</p></div>
 
@@ -72,7 +72,7 @@
 <br>
 <br>
 
-<img class="image" width="150"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/13.png">
+<img class="image" width="150"  src="/images/chapter_7/13.png">
 <br>
 </div>
 </div>
@@ -81,7 +81,7 @@
 
 <div class="space"><p class="p3">Нехай ми рухаємо тiло по столу. Спочатку iз положення $$1$$ в положення $$2$$, потiм – в протилежний бік. Вiдстань вiд точки $$1$$ до точки $$2$$ – $$S$$. Розгляньмо роботу, яку виконує сила тертя.</p></div>
 
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/14.png"></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_7/14.png"></div>
 
 <ul>
 <div class="space"><li>

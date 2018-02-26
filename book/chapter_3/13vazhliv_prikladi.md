@@ -55,7 +55,7 @@
 <li>
 <b>Друга точка.</b>
 
-<div class="space"><img class="image" width="375" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_3/18.png" /></div>
+<div class="space"><img class="image" width="375" src="/images/chapter_3/18.png" /></div>
 
 
 <div class="space">Швидкостi обертального та поступального руху спрямовані вправо. Також з попереднього пункту ми знаємо, що швидкiсть обертання дорiвнює швидкостi поступального руху:</div>

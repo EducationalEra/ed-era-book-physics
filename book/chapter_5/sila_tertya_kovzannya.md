@@ -98,7 +98,7 @@
 
 <div class="space">Побудуймо графiк залежностi сили тертя вiд прикладеної сили.</div>
 
-<div class="space"><img class="image" width="323" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/6.png"></div>
+<div class="space"><img class="image" width="323" src="/images/chapter_5/6.png"></div>
 
 <ol>
 <li>

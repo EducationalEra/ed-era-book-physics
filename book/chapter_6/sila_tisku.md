@@ -16,7 +16,7 @@
 
 <div class="space"><span class="p1"><b>Визначити:</b> з якою мiнiмальною швидкiстю автомобiль повинен проходити верхню точку рампи, щоб не впасти вниз?</span></div>
 
-<div class="space"><img class="image" width="300" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/11.png"></div>
+<div class="space"><img class="image" width="300" src="/images/chapter_6/11.png"></div>
 
 <div class="space">У верхнiй точцi на автомобiль дiють двi сили: сила тиску (реакцiї опори) вiд рампи та сила тяжiння. Рух по колу означає, що автомобiль має доцентрове прискорення.</div>
 
@@ -40,7 +40,7 @@
 
 <div class="space"><span class="p1"><b>Горизонтальна дорога:</b></span></div>
 
-<div class="space"><img class="image" width="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/12.png"></div>
+<div class="space"><img class="image" width="200" src="/images/chapter_6/12.png"></div>
 
 <div class="space">Коли автомобiль рухається по горизонтальнiй дорозi, на нього дiють двi сили у вертикальному напрямку: сила тяжiння $$m \vec{g}$$ та сила реакцiї опори (тиску) $$\vec{F_T}$$.
 <br>
@@ -49,7 +49,7 @@
 
 <div class="space"><span class="p1"><b>Опуклий мiст:</b></span></div>
 
-<div class="space"><img class="image" width="200" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/13.png"></div>
+<div class="space"><img class="image" width="200" src="/images/chapter_6/13.png"></div>
 
 <div class="space">Коли автомобiль рухається по колу, то в кожнiй точцi вiн має доцентрове прискорення $$a = \dfrac{\upsilon^2}{R}$$. У верхнiй точцi моста доцентрове прискорення напрямлене вертикально вниз.</div>
 <br>

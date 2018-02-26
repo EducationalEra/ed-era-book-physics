@@ -14,7 +14,7 @@ $$
 
 <p><i><b>Дві кульки з масами $$m_1$$ та $$m_2$$ рухаються одна назустріч одній зі швидкостями $$\vec{\upsilon}_1$$ і $$\vec{\upsilon}_2$$. Визначити швидкість двох кульок $$\vec{\upsilon}^\prime$$ після абсолютно непружного зіткнення.</b></i></p>
 <br>
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/35.png"></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_7/35.png"></div>
 <br>
 <p>До зіткнення імпульс системи дорівнює:</p>
 $$
@@ -56,10 +56,10 @@ $$
 </ul>
 <div id="mytab" class="tab-content">
   <div class="tab-pane" id="plot">
-<p><center><img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/36.png"></center> </p>
+<p><center><img class="image" width="600"  src="/images/chapter_7/36.png"></center> </p>
   </div>
   <div class="tab-pane" id="decision">
-<p><center><img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/36.png"></center> </p>
+<p><center><img class="image" width="600"  src="/images/chapter_7/36.png"></center> </p>
 <p><b><i>Розв’язок.</i> </b> </p>
 <p>Запишемо закон збереження імпульсу для абсолютно непружного зіткнення. До зіткнення ми маємо ненульовий імпульс лише в снаряда. Після зіткнення два тіла разом починають рухатися з певною швидкістю $$\upsilon^\prime$$.</p>
 <p>$$m_1 \upsilon_1 = (m_1 + m_2) \upsilon^\prime$$</p>
@@ -85,7 +85,7 @@ $$
 <p>До речі, 700 м/с – приблизна швидкість вильоту кулі з автомата Калашникова.</p>
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p><center><img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/36.png"></center> </p>
+<p><center><img class="image" width="600"  src="/images/chapter_7/36.png"></center> </p>
 <p>Швидкість снаряда перед зіткненням:</p>
 <br>
 <div class="centered-table-wrapper">

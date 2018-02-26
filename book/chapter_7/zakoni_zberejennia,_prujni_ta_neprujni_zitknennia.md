@@ -16,7 +16,7 @@ $$
 </div>
 <br>
 <br>
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/26.png"></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_7/26.png"></div>
 
 Отже, наприклад, маємо дві кульки: одна маси $$m_1$$ рухається зі швидкістю $$\vec{\upsilon}_1$$ до другої кульки маси $$m_2$$, яка перебуває в стані спокою ($$\upsilon_2 = 0$$). Після пружного зіткнення перша кулька має швидкість $$\vec{\upsilon}_1^\prime$$, а друга має швидкість $$\vec{\upsilon}_2^\prime$$. Напрями швидкостей вказано на рисунку вище.
 <br>
@@ -54,7 +54,7 @@ $$Q$$ – внутрішня енергія
 
 <br>
 <br>
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/27.png"></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_7/27.png"></div>
 <br>
 Отже, якщо нам нічого не відомо про внутрішню енергію, то для подібної задачі з двома тілами, які зіштовхнулися непружно, можемо записати лише <b>закон збереження імпульсу</b> (знову друга кулька спочатку перебуває в стані спокою, тобто $$\upsilon_2 = 0 \thinspace$$):
 

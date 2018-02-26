@@ -28,7 +28,7 @@
 
 <p class="p3"><div class="space">Робота з перемiщення тiла залежить вiд кута мiж вектором перемiщення та прикладеною силою. Таким чином, якщо проекцiя сили на вiсь, спрямовану вздовж перемiщення, додатня $$(0^\circ < \alpha < 90^\circ, \thinspace \cos \alpha > 0)$$, то i робота, яку виконано, має знак «+». Якщо проекцiя прикладеної сили на вiсь вiд’ємна $$(90^\circ < \alpha < 180^\circ, \ \cos \alpha < 0)$$, то i робота – вiд’ємна. Робота з перемiщення тiла може бути i нульова: в тому випадку, коли кут мiж вектором перемiщення та прикладеною силою становить $$90^\circ$$.</div></p>
 
-<div class="space"><img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/2.png"></div>
+<div class="space"><img class="image" width="600"  src="/images/chapter_7/2.png"></div>
 
 <div class="space">
 <div class="task-wrap">
@@ -45,12 +45,12 @@
 <div id="mytab" class="tab-content">
 
   <div class="tab-pane" id="plot">
-<p><div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"> </div> </p>
+<p><div class="space"><img class="image" width="350"  src="/images/chapter_7/3.png"> </div> </p>
   </div>
 
   <div class="tab-pane" id="decision">
 <p><b><i>Розв’язання.</i> </b> </p>
-<p><div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div>
+<p><div class="space"><img class="image" width="350"  src="/images/chapter_7/3.png"></div>
 <div class="space"><b>1.</b> Сила $$\vec{F_{}}$$ спрямовано пiд кутом $$30^\circ$$ до вектора перемiщення $$\vec{S_{}}$$. Робота:</div>
 <div class="space" align="center">$$A = F \cdot \cos \alpha = 30 \cdot 30 \dfrac{\sqrt{3}}{2} \approx 765 \thinspace \text{(Дж)}$$</div>
 <div class="space"><b>2.</b> Сила тертя спрямована в протилежному напрямку від вектора перемiщення. Отже, вона виконує вiд’ємну роботу. Математично це випливає з того, що кут $$\alpha = 180^\circ \Rightarrow \cos \alpha = 0$$. Робота:</div>
@@ -62,7 +62,7 @@
 
 </div>
 <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<p><div class="space"><img class="image" width="350"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/3.png"></div> </p>
+<p><div class="space"><img class="image" width="350"  src="/images/chapter_7/3.png"></div> </p>
 <div class="space"><b>1.</b>Робота: </div>
 <div class="space" align="center">$$A = F \cdot \cos \alpha = 30 \cdot 30 \dfrac{\sqrt{3}}{2} \approx 765 \thinspace \text{(Дж)}$$</div>
 <div class="space"><b>2.</b>Робота:</div>

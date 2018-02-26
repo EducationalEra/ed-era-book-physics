@@ -11,7 +11,7 @@
 
 <div class="space">На рисунку кінець вектора зображається стрілкою:</div>
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/1.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/vector/1.svg" /></div>
 
 Величину, що характеризується лише числовим значенням (без задання напрямку) називають <b>скалярною</b>, або просто <b>«скаляром»</b>.
 
@@ -19,7 +19,7 @@
 
 <div class="space">На малюнку всі три вектори $$\vec{a}$$, $$\vec{b}$$ та $$\vec{c}$$ є колінеарними, при цьому вектори $$\vec{a}$$ і $$\vec{b}$$ є співнапрямленими, а вектори $$\vec{a}$$ і $$\vec{c}$$ – протилежно напрямленими:</div>
 
-<div class="space"><img class="image" height="300" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/2.png" /></div>
+<div class="space"><img class="image" height="300" src="/images/Add/vector/2.png" /></div>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>

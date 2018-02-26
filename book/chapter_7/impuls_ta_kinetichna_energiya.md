@@ -7,7 +7,7 @@
 <p><b><span class="p1">По-перше, кінетична енергія</span> – скалярна величина, а <span class="p1">імпульс тіла</span> – векторна.</b> Для прикладу розглянемо два тіла однакової маси $$m_1 = m_2 = m$$, що рухаються назустріч одне одному з однаковими за модулем швидкостями $$\vec{\upsilon}_1 = - \vec{\upsilon}_2$$.</p>
 <br>
 
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/25.png"></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_7/25.png"></div>
 
 Саме завдяки векторній природі імпульсу сумарний імпульс системи в даному випадку дорівнює нулеві:
 

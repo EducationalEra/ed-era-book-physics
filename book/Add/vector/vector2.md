@@ -4,7 +4,7 @@
 
 <div class="space">Іншими словами рівні вектори можна сумістити використавши паралельне перенесення:</div>
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/3.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/vector/3.svg" /></div>
 
 Протилежні вектори мають протилежний напрямок та однакову довжину. Якщо відомий вектор $$\vec{a}$$, протилежний до нього вектор $$\vec{b}$$ виражається як $$\vec{b} = -\vec{a}$$.
 

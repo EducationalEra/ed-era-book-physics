@@ -2,7 +2,7 @@
 
 <div class="space">Якщо кiнетична енергiя вiдповiдає за рух тiла, то потенцiальна – за взаємне розмiщення тiл у просторi. У попередньому підрозділі ми вже розглядали роботу сили тяжiння. Пригадаймо:</div>
 
-<div class="space"><img class="image" width="200"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/15.png"></div>
+<div class="space"><img class="image" width="200"  src="/images/chapter_7/15.png"></div>
 
 <div class="space"><div class="fluidMedia">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JTfkHJXLOE8" frameborder="0" allowfullscreen></iframe>

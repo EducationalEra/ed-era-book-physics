@@ -16,7 +16,7 @@
 * <b>Прилеглий катет</b> – сторона, що лежить між прямим кутом і кутом $$\alpha$$.
 * <div class="space"><b>Протилеглий катет</b> – сторона, що лежить навпроти кута $$\alpha$$.</div>
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/1.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/trigonometry/1.svg" /></div>
 
 Тепер у нас є все необхідне для означення основних тригонометричних функій. 
 
@@ -47,7 +47,7 @@ $$\sin(\alpha) =  \dfrac{\color{#D0021B}п{\color{#D0021B}р\color{#D0021B}о\co
 
 <div class="space">Аналогічно й для <i>cos, ctg, sec, csc</i>.</div>
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/trigonometry/2.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/trigonometry/2.svg" /></div>
 <div class="caption">Графік залежності функцій sin та cos від кута на проміжку $$[0; 2\pi]$$ </div>
 <div class="space"><img class="image"  src="http://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif" /></div>
 <div class="caption"></div>

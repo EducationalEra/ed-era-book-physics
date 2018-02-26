@@ -166,7 +166,7 @@
 <div class="space" align="center">$$l_м = \dfrac{M_т}{m_м \cdot g} = \dfrac{0.4}{1 \cdot 10} = 4 \ см$$</div> 
   </div>
   <div class="tab-pane" id="answer"><p><b>Вiдповiдь.</b></p>
-<div class="space"><img class="image" width="400"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/27.png"></div>
+<div class="space"><img class="image" width="400"  src="/images/chapter_6/27.png"></div>
 <div class="space">Biдстань вiд осi терезів, на якiй потрiбно закрiпити магнiт:</div>
 
 <div class="space" align="center">$$l_м = \dfrac{M_т}{m_м \cdot g} = \dfrac{0.4}{1 \cdot 10} = 4 \ см$$</div>

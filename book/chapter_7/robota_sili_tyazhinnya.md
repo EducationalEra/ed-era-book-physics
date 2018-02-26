@@ -16,4 +16,4 @@
 
 <div class="space" align="center">$$A = -mgh$$</div>
 
-<img class="image" width="150"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/7.png">
+<img class="image" width="150"  src="/images/chapter_7/7.png">

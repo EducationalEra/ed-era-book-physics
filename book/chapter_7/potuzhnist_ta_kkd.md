@@ -196,7 +196,7 @@
 <div class="space"><b><li>
 Для рiвномiрного пiднімання вантажу на висоту $$h$$ використовують похилу площину. Кут нахилу – $$\alpha = 30^\circ$$. Коефiцiєнт тертя $$\mu = 0.4$$. Чому дорiвнює ККД похилої площини?</b></div>
 
-<div class="space"><img class="image" width="300"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/19.png"></div>
+<div class="space"><img class="image" width="300"  src="/images/chapter_7/19.png"></div>
 
 <div class="space">Корисна робота – робота з пiднімання вантажу на висоту $$h: \ A_к = mgh$$. Можемо виразити висоту $$h$$ через довжину похилої площини $$l$$ та синус кута $$\alpha: \ A_к = \thinspace $$$$ mgl \sin \alpha$$. Витрачена робота – робота сили $$F$$ з перемiщення тiла вздовж похилої площини: $$A_з = \thinspace $$$$ Fl$$. Щоб тiло рухалось рiвномiрно, сума всiх прикладених сил повинна дорiвнювати нулеві.</div>
 

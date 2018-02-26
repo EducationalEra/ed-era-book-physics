@@ -51,7 +51,7 @@ $$
 
 <p>Потяг масою $$m_1 = 10 \thinspace \text{т}$$ їде до нерухомого потяга масою $$m_2 = 7 \thinspace \text{т}$$ зі швидкістю $$\upsilon_1 = 20 \thinspace \text{м/с}$$. Після зіткнення потяги скріплюються і починають рухатися разом. Яка швидкість потягів після зіткнення?</p>
 
-<div class="space"><img class="image" width="600"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_7/24.png"></div>
+<div class="space"><img class="image" width="600"  src="/images/chapter_7/24.png"></div>
 
 <br>
 

@@ -45,15 +45,15 @@ $$\vec{c} = \vec{a} + \vec{b}.$$
 
 <div class="space"><b>«Правило трикутника»</b>: потрібно зробити паралельне перенесення одного з векторів так, щоб його початок співпадав з кінцем іншого. Вектор суми утворюватиме трикутник з двома векторами, він буде починатись у точці початку першого вектора і закінчуватись у точці кінця другого:</div>
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/5.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/vector/5.svg" /></div>
 
 <div class="space">За цим правилом можна додавати багато векторів, для цього їх всі потрібно послідовно з’єднати. Результатом буде вектор, що починається у точці початку першого вектора, та закінчується у точці кінця останнього вектора:</div>
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/6.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/vector/6.svg" /></div>
 
 <div class="space"><b>«Правило паралелограма»</b>: потрібно зробити паралельне перенесення одного з векторів так, щоб початки векторів співпали. На основі цих векторів будується паралелограм, а сумарний вектор буде співпадати з діагоналлю побудованого паралелограма і матиме початок в точці суміщення векторів:</div>
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/7.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/vector/7.svg" /></div>
 
 Віднімання векторів $$\vec{a} - \vec{b}$$ еквівалентне додаванню протилежного вектора: $$\vec{a} + (-\vec{b})$$.
 
@@ -83,7 +83,7 @@ $$|\thinspace \lambda\vec{a} \thinspace|=\sqrt{(\lambda a_1)^2 + (\lambda a_2)^2
 1. якщо $$\lambda > 0$$, то напрямок вектора зберігається;
 2. якщо $$\lambda < 0$$, то напрямок вектора змінюється на протилежний:
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/8.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/vector/8.svg" /></div>
 
 <h2>Скалярний добуток векторів</h2>
 
@@ -103,7 +103,7 @@ $$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
 <div class="eoz-text">
 <b>Скалярний добуток</b> також можна виразити як добуток довжин векторів та косинусу кута між цими векторами:
 <div class="space">$$(\vec{a},\vec{b})=|\thinspace \vec{a} \thinspace| \cdot |\thinspace \vec{b} \thinspace| \cdot \cos{\varphi}$$</div>
-<div align="center"><img src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/9.svg" /></div>
+<div align="center"><img src="/images/Add/vector/9.svg" /></div>
 <p><b>Зауваження</b>: якщо вектори $$\vec{a}$$ та $$\vec{b}$$ не є нульовими і перпендикулярні, кут між ними $$\varphi = \dfrac{\pi}{2}$$ і $$\cos{\varphi} = \cos{\dfrac{\pi}{2}} = 0$$, то з вищенаведеного означення випливає, що <b>скалярний добуток перпендикулярних векторів рівний нулю</b>, і навпаки.</p>
 </div>
 </div>
@@ -171,7 +171,7 @@ $$(\vec{a},\vec{a}) = \vec{a}^2 = |\thinspace \vec{a} \thinspace|^2.$$
 Зазвичай орт, що має напрямок вздовж вісі $$Ox$$ позначають $$\vec{e_1}$$ (або $$\vec{i}$$), а вздовж вісі $$Oy$$ – відповідно $$\vec{e_2}$$ (або $$\vec{j}$$).
 У координатному представленні їх можна записати: $$\vec{e_1} (1;0)$$ та $$\vec{e_2} (0;1)$$.</div>
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/10.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/vector/10.svg" /></div>
 
 Візьмемо два вектора довільної довжини: $$\vec{a_1}$$, який напрямлений вздовж вісі $$Ox$$, а інший, $$\vec{a_2}$$ – вздовж $$Oy$$.
 Запишемо сумарний вектор, який позначимо $$\vec{a}$$:
@@ -186,7 +186,7 @@ $$\vec{a_1} \thinspace (a_1;0)=a_1 \vec{e_1} \thinspace (1;0).$$
 
 <div class="space">$$\vec{a_2} \thinspace (0;a_2)=a_2 \vec{e_2} \thinspace (0;1).$$</div>
 
-<div class="space"><img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/11.svg" /></div>
+<div class="space"><img class="image"  src="/images/Add/vector/11.svg" /></div>
 
 Підставивши ці вирази до виразу для вектора $$\vec{a}$$, отримуємо:
 
@@ -198,5 +198,5 @@ $$\vec{a} = a_1\vec{e_1} + a_2\vec{e_2}.$$
 
 <div class="space">$$\vec{c} = \lambda\vec{a} + \mu\vec{b}.$$</div>
 
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/Add/vector/12.svg" />
+<img class="image"  src="/images/Add/vector/12.svg" />
 

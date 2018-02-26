@@ -21,7 +21,7 @@
 
 <div class="space">У цiй темi ми будемо розглядати рiвномiрний рух по колу з точки зору <b>динамiки.</b></div>
 
-<div class="space"><img class="image" width="283"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/2.png"></div>
+<div class="space"><img class="image" width="283"  src="/images/chapter_6/2.png"></div>
 
 <div class="space">Згiдно з другим законом Ньютона, щоб у тiла з’явилося доцентрове прискорення, рiвнодiйна сил, що дiють на нього, повинна також бути напрямлена до центру кола.</div>
 
@@ -36,7 +36,7 @@
 
 <div class="space">Наприклад, на рисунку, який зображено вище, кулька масою $$m$$ прикрiплена до нитки. Нитка дiє на кульку з силою $$\vec{F_{}}$$ i створює доцентрове прискорення.</div>
 
-<div class="space"><img class="image" width="333"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_6/3.png"></div>
+<div class="space"><img class="image" width="333"  src="/images/chapter_6/3.png"></div>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
 <question>

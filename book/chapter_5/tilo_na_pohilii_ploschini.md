@@ -55,7 +55,7 @@
 <br>
 3) прискорення другого тiла напрямлене вниз.</div>
 
-<div class="space"><img class="image" width="463" src="https://rawgit.com/chudaol/ed-era-book-physics/master/images/chapter_5/11.png"></div> 
+<div class="space"><img class="image" width="463" src="/images/chapter_5/11.png"></div> 
 
 <ul>
 <li>
